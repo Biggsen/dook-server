@@ -1,0 +1,3 @@
+When you are ready, do /rtp
+to be teleported to
+a random location

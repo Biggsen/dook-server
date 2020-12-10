@@ -1,0 +1,2 @@
+Use /sethome to set your home
+Use /home to get back to your home

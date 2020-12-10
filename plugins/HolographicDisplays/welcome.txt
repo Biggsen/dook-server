@@ -1,0 +1,3 @@
+Hello {player}
+Welcome to Dook
+Slightly tweaked vanilla survival
