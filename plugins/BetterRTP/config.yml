@@ -1,41 +1,48 @@
-# BetterRTP plugin by SuperRonanCraft! (Join my Public Server mc.RonanCraft.net) #
-# Need help? go to https://ronancraft.net/discord! #
+# BetterRTP plugin by SuperRonanCraft! (Join my Public Server mc.RonanCraft.net)
+# Need help? go to https://ronancraft.net/discord!
 
 Language-File: 'en.yml'
 
 Settings:
   Respect:
-    ## Respect WorldGuard areas (https://dev.bukkit.org/projects/worldguard)
+    # Respect WorldGuard areas (https://dev.bukkit.org/projects/worldguard)
     WorldGuard: true
-    ## Respect GriefPrevention areas (https://www.spigotmc.org/resources/griefprevention.1884/)
+    # Respect GriefPrevention areas (https://www.spigotmc.org/resources/griefprevention.1884/)
     GriefPrevention: true
-    ## Respect Towny areas (https://www.spigotmc.org/resources/towny.72694/)
+    # Respect Towny areas (https://www.spigotmc.org/resources/towny.72694/)
     Towny: false
-    ## Respect RedProtect areas (https://www.spigotmc.org/resources/redprotect.15841/)
+    # Respect RedProtect areas (https://www.spigotmc.org/resources/redprotect.15841/)
     RedProtect: false
-    ## Respect FactionsUUID areas (https://www.spigotmc.org/resources/factionsuuid.1035/)
+    # Respect FactionsUUID areas (https://www.spigotmc.org/resources/factionsuuid.1035/)
     FactionsUUID: false
-    ## Respect Lands areas (https://www.spigotmc.org/resources/lands.53313/)
+    # Respect Lands areas (https://www.spigotmc.org/resources/lands.53313/)
     Lands: false
-    ## Respect Residence areas (https://www.spigotmc.org/resources/residence.11480/)
+    # Respect Residence areas (https://www.spigotmc.org/resources/residence.11480/)
     Residence: false
-    ## Respect KingdomsX areas (https://www.spigotmc.org/resources/kingdomsx.77670/)
+    # Respect KingdomsX areas (https://www.spigotmc.org/resources/kingdomsx.77670/)
     KingdomsX: false
-  ## Output to console some debugging info
+  # Output to console some debugging info
   Debugger: false
-  ## Amount of chunks to preload around a safe location
+  # Amount of chunks to preload around a safe location
   PreloadRadius: 5
-  ## Maximum amount of tries before BetterRTP gives up and sends a NotSafeMessage #
+  # Maximum amount of tries before BetterRTP gives up and sends a NotSafeMessage
   MaxAttempts: 32
-  RtpOnFirstJoin: # Will execute as console to override delays
-    Enabled: false # Make the player rtp when joining the server for the first time
-    World: 'world' # World to first rtp in
-    SetAsRespawn: false # Save this first rtp as players new spawn point
+  # Will execute as console to override delays
+  RtpOnFirstJoin:
+    # Make the player rtp when joining the server for the first time
+    Enabled: false 
+    # World to first rtp in
+    World: 'world' 
+    # Save this first rtp as players new spawn point
+    SetAsRespawn: false
   Cooldown:
-    Enabled: true # Enabled or disabled cooldown timer
-    LockAfter: 0 # Lock the player in an infinite cooldown after # rtp's (0 to disable)
-    Time: 600 # in SECONDS
-  ## Time between command and actually rtp'ing, time is in SECONDS. Set to "0" to disable delay timer #
+    # Enabled or disabled cooldown timer
+    Enabled: true 
+    # Lock the player in an infinite cooldown after # rtp's (0 to disable)
+    LockAfter: 0 
+    # in SECONDS
+    Time: 600
+  # Time between command and actually rtp'ing, time is in SECONDS. Set to "0" to disable delay timer
   Delay:
     Enabled: true
     Time: 3
@@ -44,16 +51,16 @@ Settings:
 
 Default:
   UseWorldBorder: true
-  ## "Biomes: []" means all biomes are allowed! #
-  ## Biomes are optional, more biomes at https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/block/Biome.html #
+  # "Biomes: []" means all biomes are allowed!
+  # Biomes are optional, more biomes at https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/block/Biome.html
   Biomes: []
   MaxRadius: 1000
   MinRadius: 10
-  ## If "UseWorldBorder" is set to true above, Center X and Z will be ignored! #
+  # If "UseWorldBorder" is set to true above, Center X and Z will be ignored!
   CenterX: 0
   CenterZ: 0
 
-## Blocks BetterRTP will NOT teleport onto. More Blocks at: https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Material.html #
+# Blocks BetterRTP will NOT teleport onto. More Blocks at: https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Material.html
 BlacklistedBlocks:
   - stationary_water
   - stationary_lava
@@ -70,17 +77,17 @@ BlacklistedBlocks:
   - oak_leaves
   - jungle_leaves
 
-## Worlds to NOT allow /rtp in, unless there is an override to another enabled world #
+# Worlds to NOT allow /rtp in, unless there is an override to another enabled world
 DisabledWorlds:
   - prison
   - creative
 
-## Worlds you want to have a custom min/max and spawn center in #
-## [MaxRadius] and [MinRadius] MUST be positive! These cannot be equal to each other!
+# Worlds you want to have a custom min/max and spawn center in 
+# [MaxRadius] and [MinRadius] MUST be positive! These cannot be equal to each other!
 CustomWorlds:
   - custom_world_1:
       UseWorldBorder: false
-      ## If UseWorldBorder is true, everything will be ignored EXCEPT "MinRadius"!
+      # If UseWorldBorder is true, everything will be ignored EXCEPT "MinRadius"!
       MaxRadius: 1000
       MinRadius: 100
       CenterX: 0
@@ -91,27 +98,31 @@ CustomWorlds:
       MinRadius: 1000
       CenterX: 123
       CenterZ: -123
-      ## Biomes are optional, but useful! More biomes: https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/block/Biome.html
+      # Biomes are optional, but useful! More biomes: https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/block/Biome.html
       Biomes:
         - 'desert'
         - 'forest'
 
-## Override a world and rtp a player executing the command in one world, to another
+# Override a world and rtp a player executing the command in one world, to another
 Overrides:
-  #FORMAT - <CURRENT WORLD>:<DESIRED WORLD>
+  # FORMAT - <CURRENT WORLD>:<DESIRED WORLD>
   - master_world: 'world'
   - creative_world: 'world'
 
-WorldType: # Available types are NORMAL, NETHER
+# Available types are NORMAL, NETHER
+WorldType: 
   - world: NORMAL
   - world_nether: NETHER
   - world_the_end: NORMAL
 
-PermissionGroup: #Player requires "betterrtp.group.<world_name>" to trigger these configs
+#Player requires "betterrtp.group.<world_name>" to trigger these configs
+PermissionGroup:
   Enabled: true
+  # permission: betterrtp.config.default
   Groups:
-    - default: # permission: betterrtp.config.default
-        - world: #World named "world"
+    - default:
+        #World named "world"
+        - world:
             MaxRadius: 2000
             MinRadius: 100
             Price: 100
