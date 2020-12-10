@@ -1,0 +1,69 @@
+# Help translate this file into more languages!
+Messages:
+  Prefix: '&7[&6BetterRTP&7] '
+  Success:
+    Paid: '&aВы телепортировались на &7x=&a%x% &7y=&a%y% &7z=&a%z% &7за &c$%price%&7,
+      за &f%attempts% &7попытку(ок)!'
+    Bypass: '&aВы телепортировались на &7x=&a%x% &7y=&a%y% &7z=&a%z% &7за &f%attempts%
+      &7попытку(ок)!'
+    Loading: '&aБезопасное место найдено! &7Загрузка чанков...'
+    Teleport: '&aТелепортация... &fпожалуйста, подождите, пока мы найдем безопасное
+      место!'
+  Failed:
+    Price: '&cНе удалось выполнить rtp из-за недостатка средств! &7Вы должны иметь
+      как минимум $%price% &7для rtp!'
+    NotSafe: '&cНе удалось найти безопасное место за %attempts% попытку(ок)! &7Вы
+      не были телепортированы!'
+    Hunger: '&cНе удалось rtp, потому что ты... &7слишком голоден&c, съешь что-нибудь,
+      приятель!'
+  Other:
+    Success: '&a%player% телепортирован на &7x=&a%x% &7y=&a%y% &7z=&a%z% &7за &f%attempts%
+      &7попытку(ок)!'
+    NotSafe: '&cНе удалось найти безопасное место за %attempts% попытку(ок)! &7%player%
+      не был телепортирован!'
+    Biome: '&cПохоже биом&7 %biome%&c не существует! &7Попробуйте использовать TAB!'
+  Reload: '&eКонфиг успешно перезагружен!'
+  NoPermission:
+    Basic: '&cИзвините! &7У вас нет разрешения на использование этой команды!'
+    World: '&cИзвините! &7Вам не разрешено использовать rtp в %world% мире!'
+  DisabledWorld: '&cМир %world% исключён! &7Не удалось телепортироваться!'
+  Cooldown: '&cИзвините! &7Вы не можете использовать rtp еще &c%time% &7секунд(ы/у)!'
+  Locked: '&cИзвините! &7Вы израсходовали все свои попытки rtp!'
+  Invalid: '&cНедопустимый аргумент. Попробуйте ''/%command% help'''
+  NotOnline: '&cИгрок &7%player% &cне онлайн!'
+  Delay: '&aТелепортация через &f%time% &aсекунд(ы/у)! Не двигайтесь!'
+  Moved: '&cВы двинулись &7rtp отменено!'
+  NotExist: '&cПохоже мир &7%world% &cне существует!'
+  Already: '&cОй! &7Похоже, вы уже используете rtp, наберитесь терпения!'
+  Sign: '&7Значение команды создано! &7Команда... ''&f/rtp %command%&7'''
+  Edit:
+    Error: '&cОшибка! &7Неверный ввод!'
+    Set: '&bУспех! &7%type% установлено %value%'
+    Remove: '&cУдалено! &7Вы удалили мир %world%'
+Help:
+  Prefix: '&e&m-----&6&l BetterRTP &8| Help &e&m-----'
+  Main: ' &7- &e/%command% &7- случайный телепорт!'
+  Biome: ' &7- &e/%command% biome <biome1, biome2...> &7- рандомный телепорт в эти
+    биомы'
+  Edit: ' &7- &e/%command% edit <default/world> [args...] &7- изменение настроек плагина'
+  Help: ' &7- &e/%command% help &7- посмотреть этот список'
+  Info: ' &7- &e/%command% info [world/particles/shapes/potion_effects] &7- просмотр
+    конкретной информации о параметрах плагина'
+  Player: ' &7- &e/%command% player <player> [world] [biome1, biome2...] &7- рандомный
+    телепорт игрока'
+  Reload: ' &7- &e/%command% reload &7- перезагрузка плагина'
+  Settings: ' &7- &e/%command% settings &7- открыть gui и изменить параметры'
+  Test: ' &7- &e/%command% test &7- просмотр эффектов после телепортирования не двигаясь'
+  Version: ' &7- &e/%command% version &7- посмотреть текущую версию плагина'
+  World: ' &7- &e/%command% world <world> [biome1, biome2...] &7- рандомный телепорт
+    в другой мир'
+Usage:
+  Player: '&cИспользуйте&7: /%command% player <player> [world] [biome1, biome2]'
+  World: '&cИспользуйте&7: /%command% world <world> [biome1, biome2...]'
+  Biome: '&cИспользуйте&7: /%command% biome <biome1, biome2...>'
+  Edit:
+    Base: '&cИспользуйте&7: /%command% edit <default/world> [args...]'
+    Default: '&cИспользуйте&7: /%command% edit default <max/min/useworldborder/center>
+      <value>'
+    World: '&cИспользуйте&7: /%command% edit world <world> <max/min/useworldborder/center>
+      <value>'

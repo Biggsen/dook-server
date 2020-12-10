@@ -1,0 +1,334 @@
+[08:58:45] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[08:58:46] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[08:58:46] [Worker-Main-8/INFO]: Loaded 7 recipes
+[08:58:48] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[08:58:48] [Server thread/INFO]: Loading properties
+[08:58:48] [Server thread/INFO]: This server is running Paper version git-Paper-300 (MC: 1.16.4) (Implementing API version 1.16.4-R0.1-SNAPSHOT)
+[08:58:48] [Server thread/INFO]: Debug logging is disabled
+[08:58:48] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[08:58:48] [Server thread/INFO]: Using 4 threads for Netty based IO
+[08:58:48] [Server thread/INFO]: Default game type: SURVIVAL
+[08:58:48] [Server thread/INFO]: Generating keypair
+[08:58:48] [Server thread/INFO]: Starting Minecraft server on 137.74.93.134:23197
+[08:58:48] [Server thread/INFO]: Using epoll channel type
+[08:58:49] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.2.44
+[08:58:49] [Server thread/INFO]: [HolographicDisplays] Loading HolographicDisplays v2.4.5
+[08:58:49] [Server thread/INFO]: [Vault] Loading Vault v1.7.3-b131
+[08:58:49] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.2.0+a51fa43
+[08:58:49] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@443cef8a]
+[08:58:49] [Server thread/INFO]: [Essentials] Loading Essentials v2.19.0-dev+15-2342d53
+[08:58:49] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.19.0-dev+17-dda4d58
+[08:58:49] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v7.0.4+f7ff984
+[08:58:49] [Server thread/INFO]: [BetterRTP] Loading BetterRTP v3.0.1
+[08:58:49] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect v2.19.0-dev+17-dda4d58
+[08:58:49] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[08:58:49] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.2.44
+[08:58:50] [Server thread/INFO]:         __    
+[08:58:50] [Server thread/INFO]:   |    |__)   LuckPerms v5.2.44
+[08:58:50] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[08:58:50] [Server thread/INFO]: 
+[08:58:50] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[08:58:50] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[08:58:50] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[08:58:50] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[08:58:50] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1030ms)
+[08:58:50] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[08:58:50] [Server thread/WARN]: [Vault] Loaded class com.earth2me.essentials.api.Economy from Essentials v2.19.0-dev+15-2342d53 which is not a depend, softdepend or loadbefore of this plugin.
+[08:58:50] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[08:58:50] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[08:58:50] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[08:58:51] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[08:58:51] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.0+a51fa43
+[08:58:51] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[08:58:51] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_16_R3 as the Bukkit adapter
+[08:58:52] [Server thread/INFO]: Preparing level "world"
+[08:58:52] [Server thread/INFO]: -------- World Settings For [world] --------
+[08:58:52] [Server thread/INFO]: Experience Merge Radius: 6.0
+[08:58:52] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[08:58:52] [Server thread/INFO]: Cane Growth Modifier: 100%
+[08:58:52] [Server thread/INFO]: Melon Growth Modifier: 100%
+[08:58:52] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[08:58:52] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[08:58:52] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[08:58:52] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[08:58:52] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[08:58:52] [Server thread/INFO]: Potato Growth Modifier: 100%
+[08:58:52] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[08:58:52] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[08:58:52] [Server thread/INFO]: Vine Growth Modifier: 100%
+[08:58:52] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[08:58:52] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[08:58:52] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[08:58:52] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[08:58:52] [Server thread/INFO]: Entity Activation Range: An 16 / Mo 24 / Ra 48 / Mi 8 / Tiv false
+[08:58:52] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[08:58:52] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[08:58:52] [Server thread/INFO]: Max TNT Explosions: 100
+[08:58:52] [Server thread/INFO]: Tile Max Tick Time: 1000ms Entity max Tick Time: 1000ms
+[08:58:52] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[08:58:52] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[08:58:52] [Server thread/INFO]: Item Merge Radius: 4.0
+[08:58:52] [Server thread/INFO]: Item Despawn Rate: 5500
+[08:58:52] [Server thread/INFO]: View Distance: 8
+[08:58:52] [Server thread/INFO]: Arrow Despawn Rate: 300 Trident Respawn Rate:1200
+[08:58:52] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[08:58:52] [Server thread/INFO]: Nerfing mobs spawned from spawners: true
+[08:58:52] [Server thread/INFO]: Mob Spawn Range: 6
+[08:58:52] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[08:58:52] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[08:58:52] [Server thread/INFO]: Experience Merge Radius: 6.0
+[08:58:52] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[08:58:52] [Server thread/INFO]: Cane Growth Modifier: 100%
+[08:58:52] [Server thread/INFO]: Melon Growth Modifier: 100%
+[08:58:52] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[08:58:52] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[08:58:52] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[08:58:52] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[08:58:52] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[08:58:52] [Server thread/INFO]: Potato Growth Modifier: 100%
+[08:58:52] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[08:58:52] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[08:58:52] [Server thread/INFO]: Vine Growth Modifier: 100%
+[08:58:52] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[08:58:52] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[08:58:52] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[08:58:52] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[08:58:52] [Server thread/INFO]: Entity Activation Range: An 16 / Mo 24 / Ra 48 / Mi 8 / Tiv false
+[08:58:52] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[08:58:52] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[08:58:52] [Server thread/INFO]: Max TNT Explosions: 100
+[08:58:52] [Server thread/INFO]: Tile Max Tick Time: 1000ms Entity max Tick Time: 1000ms
+[08:58:52] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[08:58:52] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[08:58:52] [Server thread/INFO]: Item Merge Radius: 4.0
+[08:58:52] [Server thread/INFO]: Item Despawn Rate: 5500
+[08:58:52] [Server thread/INFO]: View Distance: 8
+[08:58:52] [Server thread/INFO]: Arrow Despawn Rate: 300 Trident Respawn Rate:1200
+[08:58:52] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[08:58:52] [Server thread/INFO]: Nerfing mobs spawned from spawners: true
+[08:58:52] [Server thread/INFO]: Mob Spawn Range: 6
+[08:58:53] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[08:58:53] [Server thread/INFO]: Experience Merge Radius: 6.0
+[08:58:53] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[08:58:53] [Server thread/INFO]: Cane Growth Modifier: 100%
+[08:58:53] [Server thread/INFO]: Melon Growth Modifier: 100%
+[08:58:53] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[08:58:53] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[08:58:53] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[08:58:53] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[08:58:53] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[08:58:53] [Server thread/INFO]: Potato Growth Modifier: 100%
+[08:58:53] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[08:58:53] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[08:58:53] [Server thread/INFO]: Vine Growth Modifier: 100%
+[08:58:53] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[08:58:53] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[08:58:53] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[08:58:53] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[08:58:53] [Server thread/INFO]: Entity Activation Range: An 16 / Mo 24 / Ra 48 / Mi 8 / Tiv false
+[08:58:53] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[08:58:53] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[08:58:53] [Server thread/INFO]: Max TNT Explosions: 100
+[08:58:53] [Server thread/INFO]: Tile Max Tick Time: 1000ms Entity max Tick Time: 1000ms
+[08:58:53] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[08:58:53] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[08:58:53] [Server thread/INFO]: Item Merge Radius: 4.0
+[08:58:53] [Server thread/INFO]: Item Despawn Rate: 5500
+[08:58:53] [Server thread/INFO]: View Distance: 8
+[08:58:53] [Server thread/INFO]: Arrow Despawn Rate: 300 Trident Respawn Rate:1200
+[08:58:53] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[08:58:53] [Server thread/INFO]: Nerfing mobs spawned from spawners: true
+[08:58:53] [Server thread/INFO]: Mob Spawn Range: 6
+[08:58:53] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[08:58:53] [Server thread/INFO]: Loaded 0 spawn chunks for world world
+[08:58:53] [Server thread/INFO]: Preparing spawn area: 0%
+[08:58:53] [Server thread/INFO]: Preparing spawn area: 0%
+[08:58:53] [Server thread/INFO]: Time elapsed: 655 ms
+[08:58:53] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[08:58:53] [Server thread/INFO]: Loaded 0 spawn chunks for world world_nether
+[08:58:53] [Server thread/INFO]: Preparing spawn area: 0%
+[08:58:54] [Server thread/INFO]: Time elapsed: 359 ms
+[08:58:54] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[08:58:54] [Server thread/INFO]: Loaded 0 spawn chunks for world world_the_end
+[08:58:54] [Server thread/INFO]: Time elapsed: 221 ms
+[08:58:54] [Server thread/INFO]: [HolographicDisplays] Enabling HolographicDisplays v2.4.5
+[08:58:54] [Server thread/INFO]: [Essentials] Enabling Essentials v2.19.0-dev+15-2342d53
+[08:58:54] [Server thread/WARN]: [Essentials] Version mismatch! Please update EssentialsSpawn to the same version.
+[08:58:54] [Server thread/WARN]: [Essentials] Version mismatch! Please update EssentialsProtect to the same version.
+[08:58:54] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[08:58:54] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[08:58:54] [Server thread/INFO]: [Essentials] Loaded 25599 items from items.json.
+[08:58:54] [Server thread/INFO]: [Essentials] Using locale en_US
+[08:58:54] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[08:58:54] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[08:58:54] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[08:58:54] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[08:58:54] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.19.0-dev+17-dda4d58
+[08:58:54] [Server thread/WARN]: [EssentialsSpawn] Version mismatch! Please update all Essentials jars to the same version.
+[08:58:54] [Server thread/INFO]: [EssentialsSpawn] Starting Metrics. Opt-out using the global bStats config.
+[08:58:54] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.4+f7ff984
+[08:58:54] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[08:58:54] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[08:58:54] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[08:58:54] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[08:58:54] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[08:58:54] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[08:58:54] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[08:58:54] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[08:58:54] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[08:58:54] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[08:58:54] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[08:58:54] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[08:58:54] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[08:58:54] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[08:58:54] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[08:58:54] [Server thread/INFO]: [WorldGuard] Loading region data...
+[08:58:54] [Server thread/INFO]: [BetterRTP] Enabling BetterRTP v3.0.1
+[08:58:55] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect v2.19.0-dev+17-dda4d58
+[08:58:55] [Server thread/INFO]: [EssentialsProtect] Continuing to enable Protect.
+[08:58:55] [Server thread/WARN]: [EssentialsProtect] Version mismatch! Please update all Essentials jars to the same version.
+[08:58:55] [Server thread/INFO]: [EssentialsProtect] Starting Metrics. Opt-out using the global bStats config.
+[08:58:55] [Server thread/INFO]: Running delayed init tasks
+[08:58:55] [Server thread/INFO]: Done (7.264s)! For help, type "help"
+[08:58:55] [Server thread/INFO]: Timings Reset
+[08:58:55] [Craft Scheduler Thread - 2/INFO]: [Vault] Checking for Updates ... 
+[08:58:56] [Craft Scheduler Thread - 2/INFO]: [Vault] No new version available
+[08:59:28] [Server thread/INFO]: CONSOLE issued server command: /list 
+[08:59:28] [Server thread/INFO]: There are 0 out of maximum 12 players online.
+[09:00:01] [Server thread/INFO]: CONSOLE issued server command: /list 
+[09:00:01] [Server thread/INFO]: There are 0 out of maximum 12 players online.
+[09:00:34] [Server thread/INFO]: CONSOLE issued server command: /list 
+[09:00:34] [Server thread/INFO]: There are 0 out of maximum 12 players online.
+[09:01:07] [Server thread/INFO]: CONSOLE issued server command: /list 
+[09:01:07] [Server thread/INFO]: There are 0 out of maximum 12 players online.
+[09:01:39] [Server thread/INFO]: CONSOLE issued server command: /list 
+[09:01:39] [Server thread/INFO]: There are 0 out of maximum 12 players online.
+[09:02:12] [Server thread/INFO]: CONSOLE issued server command: /list 
+[09:02:12] [Server thread/INFO]: There are 0 out of maximum 12 players online.
+[09:02:45] [Server thread/INFO]: CONSOLE issued server command: /list 
+[09:02:45] [Server thread/INFO]: There are 0 out of maximum 12 players online.
+[09:03:18] [Server thread/INFO]: CONSOLE issued server command: /list 
+[09:03:18] [Server thread/INFO]: There are 0 out of maximum 12 players online.
+[09:03:51] [Server thread/INFO]: CONSOLE issued server command: /list 
+[09:03:51] [Server thread/INFO]: There are 0 out of maximum 12 players online.
+[09:04:24] [Server thread/INFO]: CONSOLE issued server command: /list 
+[09:04:24] [Server thread/INFO]: There are 0 out of maximum 12 players online.
+[09:04:57] [Server thread/INFO]: CONSOLE issued server command: /list 
+[09:04:57] [Server thread/INFO]: There are 0 out of maximum 12 players online.
+[09:05:30] [Server thread/INFO]: CONSOLE issued server command: /list 
+[09:05:30] [Server thread/INFO]: There are 0 out of maximum 12 players online.
+[09:06:03] [Server thread/INFO]: CONSOLE issued server command: /list 
+[09:06:03] [Server thread/INFO]: There are 0 out of maximum 12 players online.
+[09:06:35] [Server thread/INFO]: CONSOLE issued server command: /list 
+[09:06:35] [Server thread/INFO]: There are 0 out of maximum 12 players online.
+[09:07:08] [Server thread/INFO]: CONSOLE issued server command: /list 
+[09:07:08] [Server thread/INFO]: There are 0 out of maximum 12 players online.
+[09:07:41] [Server thread/INFO]: CONSOLE issued server command: /list 
+[09:07:41] [Server thread/INFO]: There are 0 out of maximum 12 players online.
+[09:08:14] [Server thread/INFO]: CONSOLE issued server command: /list 
+[09:08:14] [Server thread/INFO]: There are 0 out of maximum 12 players online.
+[09:08:43] [Server thread/INFO]: Saving is already turned on
+[09:08:43] [Server thread/INFO]: Saving the game (this may take a moment!)
+[09:08:43] [Server thread/INFO]: Saved the game
+[09:08:47] [Server thread/INFO]: CONSOLE issued server command: /list 
+[09:08:47] [Server thread/INFO]: There are 0 out of maximum 12 players online.
+[09:09:20] [Server thread/INFO]: CONSOLE issued server command: /list 
+[09:09:20] [Server thread/INFO]: There are 0 out of maximum 12 players online.
+[09:09:53] [Server thread/INFO]: CONSOLE issued server command: /list 
+[09:09:53] [Server thread/INFO]: There are 0 out of maximum 12 players online.
+[09:10:26] [Server thread/INFO]: CONSOLE issued server command: /list 
+[09:10:26] [Server thread/INFO]: There are 0 out of maximum 12 players online.
+[09:10:59] [Server thread/INFO]: CONSOLE issued server command: /list 
+[09:10:59] [Server thread/INFO]: There are 0 out of maximum 12 players online.
+[09:11:32] [Server thread/INFO]: CONSOLE issued server command: /list 
+[09:11:32] [Server thread/INFO]: There are 0 out of maximum 12 players online.
+[09:12:04] [Server thread/INFO]: CONSOLE issued server command: /list 
+[09:12:04] [Server thread/INFO]: There are 0 out of maximum 12 players online.
+[09:12:37] [Server thread/INFO]: CONSOLE issued server command: /list 
+[09:12:37] [Server thread/INFO]: There are 0 out of maximum 12 players online.
+[09:13:10] [Server thread/INFO]: CONSOLE issued server command: /list 
+[09:13:10] [Server thread/INFO]: There are 0 out of maximum 12 players online.
+[09:13:43] [Server thread/INFO]: CONSOLE issued server command: /list 
+[09:13:43] [Server thread/INFO]: There are 0 out of maximum 12 players online.
+[09:14:16] [Server thread/INFO]: CONSOLE issued server command: /list 
+[09:14:16] [Server thread/INFO]: There are 0 out of maximum 12 players online.
+[09:14:49] [Server thread/INFO]: CONSOLE issued server command: /list 
+[09:14:49] [Server thread/INFO]: There are 0 out of maximum 12 players online.
+[09:15:22] [Server thread/INFO]: CONSOLE issued server command: /list 
+[09:15:22] [Server thread/INFO]: There are 0 out of maximum 12 players online.
+[09:15:55] [Server thread/INFO]: CONSOLE issued server command: /list 
+[09:15:55] [Server thread/INFO]: There are 0 out of maximum 12 players online.
+[09:16:28] [Server thread/INFO]: CONSOLE issued server command: /list 
+[09:16:28] [Server thread/INFO]: There are 0 out of maximum 12 players online.
+[09:17:01] [Server thread/INFO]: CONSOLE issued server command: /list 
+[09:17:01] [Server thread/INFO]: There are 0 out of maximum 12 players online.
+[09:17:33] [Server thread/INFO]: CONSOLE issued server command: /list 
+[09:17:33] [Server thread/INFO]: There are 0 out of maximum 12 players online.
+[09:18:06] [Server thread/INFO]: CONSOLE issued server command: /list 
+[09:18:06] [Server thread/INFO]: There are 0 out of maximum 12 players online.
+[09:18:39] [Server thread/INFO]: CONSOLE issued server command: /list 
+[09:18:39] [Server thread/INFO]: There are 0 out of maximum 12 players online.
+[09:18:46] [Server thread/INFO]: Saving is already turned on
+[09:18:46] [Server thread/INFO]: Saving the game (this may take a moment!)
+[09:18:46] [Server thread/INFO]: Saved the game
+[09:19:12] [Server thread/INFO]: CONSOLE issued server command: /list 
+[09:19:12] [Server thread/INFO]: There are 0 out of maximum 12 players online.
+[09:19:45] [Server thread/INFO]: CONSOLE issued server command: /list 
+[09:19:45] [Server thread/INFO]: There are 0 out of maximum 12 players online.
+[09:20:18] [Server thread/INFO]: CONSOLE issued server command: /list 
+[09:20:18] [Server thread/INFO]: There are 0 out of maximum 12 players online.
+[09:20:51] [Server thread/INFO]: CONSOLE issued server command: /list 
+[09:20:51] [Server thread/INFO]: There are 0 out of maximum 12 players online.
+[09:21:24] [Server thread/INFO]: CONSOLE issued server command: /list 
+[09:21:24] [Server thread/INFO]: There are 0 out of maximum 12 players online.
+[09:21:57] [Server thread/INFO]: CONSOLE issued server command: /list 
+[09:21:57] [Server thread/INFO]: There are 0 out of maximum 12 players online.
+[09:22:29] [Server thread/INFO]: CONSOLE issued server command: /list 
+[09:22:29] [Server thread/INFO]: There are 0 out of maximum 12 players online.
+[09:23:02] [Server thread/INFO]: CONSOLE issued server command: /list 
+[09:23:02] [Server thread/INFO]: There are 0 out of maximum 12 players online.
+[09:23:35] [Server thread/INFO]: CONSOLE issued server command: /list 
+[09:23:35] [Server thread/INFO]: There are 0 out of maximum 12 players online.
+[09:24:08] [Server thread/INFO]: CONSOLE issued server command: /list 
+[09:24:08] [Server thread/INFO]: There are 0 out of maximum 12 players online.
+[09:24:41] [Server thread/INFO]: CONSOLE issued server command: /list 
+[09:24:41] [Server thread/INFO]: There are 0 out of maximum 12 players online.
+[09:25:14] [Server thread/INFO]: CONSOLE issued server command: /list 
+[09:25:14] [Server thread/INFO]: There are 0 out of maximum 12 players online.
+[09:25:47] [Server thread/INFO]: CONSOLE issued server command: /list 
+[09:25:47] [Server thread/INFO]: There are 0 out of maximum 12 players online.
+[09:26:20] [Server thread/INFO]: CONSOLE issued server command: /list 
+[09:26:20] [Server thread/INFO]: There are 0 out of maximum 12 players online.
+[09:26:53] [Server thread/INFO]: CONSOLE issued server command: /list 
+[09:26:53] [Server thread/INFO]: There are 0 out of maximum 12 players online.
+[09:27:26] [Server thread/INFO]: CONSOLE issued server command: /list 
+[09:27:26] [Server thread/INFO]: There are 0 out of maximum 12 players online.
+[09:27:58] [Server thread/INFO]: CONSOLE issued server command: /list 
+[09:27:58] [Server thread/INFO]: There are 0 out of maximum 12 players online.
+[09:28:31] [Server thread/INFO]: CONSOLE issued server command: /list 
+[09:28:31] [Server thread/INFO]: There are 0 out of maximum 12 players online.
+[09:28:49] [Server thread/INFO]: Saving is already turned on
+[09:28:49] [Server thread/INFO]: Saving the game (this may take a moment!)
+[09:28:49] [Server thread/INFO]: Saved the game
+[09:29:04] [Server thread/INFO]: CONSOLE issued server command: /list 
+[09:29:04] [Server thread/INFO]: There are 0 out of maximum 12 players online.
+[09:29:37] [Server thread/INFO]: CONSOLE issued server command: /list 
+[09:29:37] [Server thread/INFO]: There are 0 out of maximum 12 players online.
+[09:30:10] [Server thread/INFO]: CONSOLE issued server command: /list 
+[09:30:10] [Server thread/INFO]: There are 0 out of maximum 12 players online.
+[09:30:43] [Server thread/INFO]: CONSOLE issued server command: /list 
+[09:30:43] [Server thread/INFO]: There are 0 out of maximum 12 players online.
+[09:31:16] [Server thread/INFO]: CONSOLE issued server command: /list 
+[09:31:16] [Server thread/INFO]: There are 0 out of maximum 12 players online.
+[09:31:49] [Server thread/INFO]: CONSOLE issued server command: /list 
+[09:31:49] [Server thread/INFO]: There are 0 out of maximum 12 players online.
+[09:32:22] [Server thread/INFO]: CONSOLE issued server command: /list 
+[09:32:22] [Server thread/INFO]: There are 0 out of maximum 12 players online.
+[09:32:55] [Server thread/INFO]: CONSOLE issued server command: /list 
+[09:32:55] [Server thread/INFO]: There are 0 out of maximum 12 players online.
+[09:33:27] [Server thread/INFO]: CONSOLE issued server command: /list 
+[09:33:27] [Server thread/INFO]: There are 0 out of maximum 12 players online.
+[09:34:00] [Server thread/INFO]: CONSOLE issued server command: /list 
+[09:34:00] [Server thread/INFO]: There are 0 out of maximum 12 players online.
+[09:34:33] [Server thread/INFO]: CONSOLE issued server command: /list 
+[09:34:33] [Server thread/INFO]: There are 0 out of maximum 12 players online.

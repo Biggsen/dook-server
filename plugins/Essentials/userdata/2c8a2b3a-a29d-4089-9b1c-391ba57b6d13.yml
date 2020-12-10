@@ -1,0 +1,28 @@
+lastAccountName: vanism
+timestamps:
+  login: 1607552504323
+  logout: 1607552753277
+  lastteleport: 1607544113823
+ipAddress: 82.15.220.198
+logoutlocation:
+  world: world
+  x: -253.7823445124974
+  y: 69.0
+  z: 92.44352261188176
+  yaw: -94.17567
+  pitch: 2.550206
+lastlocation:
+  world: world
+  x: -253.67090856541463
+  y: 69.0
+  z: 92.5712718883702
+  yaw: -272.8236
+  pitch: 46.500103
+homes:
+  home:
+    world: world
+    x: -244.74397802545246
+    y: 67.0
+    z: 89.5465443388706
+    yaw: -86.974335
+    pitch: 17.700111
