@@ -38,12 +38,12 @@ Settings:
   ## Time between command and actually rtp'ing, time is in SECONDS. Set to "0" to disable delay timer #
   Delay:
     Enabled: true
-    Time: 5
+    Time: 3
     CancelOnMove: true
   DisableUpdater: false
 
 Default:
-  UseWorldBorder: false
+  UseWorldBorder: true
   ## "Biomes: []" means all biomes are allowed! #
   ## Biomes are optional, more biomes at https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/block/Biome.html #
   Biomes: []
@@ -108,22 +108,10 @@ WorldType: # Available types are NORMAL, NETHER
   - world_the_end: NORMAL
 
 PermissionGroup: #Player requires "betterrtp.group.<world_name>" to trigger these configs
-  Enabled: false
+  Enabled: true
   Groups:
-    - vip: # permission: betterrtp.config.vip
-        - Build_World: #World named "Build_World"
-            MaxRadius: 10000
-            MinRadius: 1000
+    - default: # permission: betterrtp.config.default
+        - world: #World named "world"
+            MaxRadius: 2000
+            MinRadius: 100
             Price: 100
-        - Survival_World:
-            UseWorldBorder: false
-            MaxRadius: 5000
-            MinRadius: 1000
-            CenterX: 10
-            CenterZ: 10
-            Price: 10
-    - vip2: # permission: betterrtp.config.vip2
-        - Build_World:
-            MaxRadius: 25000
-            MinRadius: 10000
-            Price: 15
