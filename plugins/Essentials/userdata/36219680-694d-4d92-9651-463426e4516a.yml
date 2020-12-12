@@ -1,20 +1,29 @@
 lastAccountName: Zonelesi
 timestamps:
-  login: 1607671045855
-  logout: 1607653264410
+  login: 1607780201996
+  logout: 1607779854046
+  lastteleport: 1607779511300
 ipAddress: 92.22.135.147
 lastlocation:
   world: world
-  x: -263.5
-  y: 67.0
-  z: 101.5
-  yaw: 1.4226253
-  pitch: 0.0
-money: '3980.4250000000000437'
+  x: -493.69999998807907
+  y: 12.0
+  z: 916.985708176951
+  yaw: -2.3920288
+  pitch: 32.099686
+money: '18378.67499999999996478'
 logoutlocation:
   world: world
-  x: 903.6524999365587
+  x: 886.5908807724202
   y: 12.0
-  z: 318.421952231882
-  yaw: -348.60718
-  pitch: 12.000078
+  z: 484.69999998807907
+  yaw: 160.04994
+  pitch: 15.150113
+homes:
+  home:
+    world: world
+    x: 906.8504330302534
+    y: 12.0
+    z: 317.1384246474243
+    yaw: -266.8506
+    pitch: 6.000119
