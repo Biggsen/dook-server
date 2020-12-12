@@ -1,0 +1,24 @@
+perks:
+  name: "&3&lPerks (page %page%)"
+  size: 45
+  fillItem:
+    material: BLACK_STAINED_GLASS_PANE
+    name: " "
+  buttons:
+    goBack:
+      slot: 40
+    previousPage:
+      slot: 36
+    nextPage:
+      slot: 45
+  items:
+    1:
+      type: permission
+      permission: "essentials.back"
+      item:
+        material: PAPER
+        quantity: 1
+        name: "Get access to /back"
+      buyPrice: 20000
+      sellPrice: -1
+      slot: 0

@@ -1,0 +1,97 @@
+permissions:
+  # Shop item permissions
+  name: "&3&lPermissions (page %page%)"
+  fillItem:
+    material: BLACK_STAINED_GLASS_PANE
+    name: " "
+  items:
+    # blocks
+    10:
+      type: permission
+      permission: "shopguiplus.item.blocks.1"
+      item:
+        material: DIRT
+        quantity: 1
+        name: "Buy and sell dirt in the blocks shop"
+      buyPrice: 1000
+      sellPrice: -1
+      slot: 0
+    11:
+      type: permission
+      permission: "shopguiplus.item.blocks.2"
+      item:
+        material: COBBLESTONE
+        quantity: 1
+        name: "Buy and sell cobblestone in the blocks shop"
+      buyPrice: 1000
+      sellPrice: -1
+      slot: 1
+    # food
+    20:
+      type: permission
+      permission: "shopguiplus.item.food.1"
+      item:
+        material: APPLE
+        quantity: 1
+        name: "Buy and sell apples in the food shop"
+      buyPrice: 1000
+      sellPrice: -1
+      slot: 0
+      page: 2
+    21:
+      type: permission
+      permission: "shopguiplus.item.food.2"
+      item:
+        material: COOKED_BEEF
+        quantity: 1
+        name: "Buy and sell cooked beef in the food shop"
+      buyPrice: 1000
+      sellPrice: -1
+      slot: 1
+      page: 2
+    # farming
+    30:
+      type: permission
+      permission: "shopguiplus.item.farming.1"
+      item:
+        material: WHEAT_SEEDS
+        quantity: 1
+        name: "Buy and sell wheat seeds in the farming shop"
+      buyPrice: 1000
+      sellPrice: -1
+      slot: 0
+      page: 3
+    31:
+      type: permission
+      permission: "shopguiplus.item.farming.2"
+      item:
+        material: PUMPKIN_SEEDS
+        quantity: 1
+        name: "Buy and sell pumpkin seeds in the farming shop"
+      buyPrice: 1000
+      sellPrice: -1
+      slot: 1
+      page: 3
+    # drops
+    40:
+      type: permission
+      permission: "shopguiplus.item.drops.1"
+      item:
+        material: ROTTEN_FLESH
+        quantity: 1
+        name: "Buy and sell rotten flesh in the mob drops shop"
+      buyPrice: 1000
+      sellPrice: -1
+      slot: 0
+      page: 4
+    41:
+      type: permission
+      permission: "shopguiplus.item.drops.2"
+      item:
+        material: BONE
+        quantity: 1
+        name: "Buy and sell bone in the mob drops shop"
+      buyPrice: 1000
+      sellPrice: -1
+      slot: 1
+      page: 4

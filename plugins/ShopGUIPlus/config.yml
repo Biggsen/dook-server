@@ -551,68 +551,81 @@ shopMenuItems:
     # Shop ID from shops yaml
     shop: "blocks"
     # Slot in shops menu, counting from 0 to 53
-    slot: 11
+    slot: 0
   2:
     item:
-      material: COOKED_CHICKEN
+      material: APPLE
       quantity: 1
       damage: 0
       name: "&2&lFood"
-      lore:
-        - "&7Get some yummy food here!"
     shop: "food"
-    slot: 12
+    slot: 1
+  # 3:
+  #   item:
+  #     material: GOLD_INGOT
+  #     quantity: 1
+  #     damage: 0
+  #     name: "&3&lOres"
+  #   shop: "ores"
+  #   slot: 13
+  # 4:
+  #   item:
+  #     material: IRON_PICKAXE
+  #     quantity: 1
+  #     name: "&8&lTools"
+  #   shop: "tools"
+  #   slot: 14
+  # 5:
+  #   item:
+  #     material: DIAMOND_CHESTPLATE
+  #     quantity: 1
+  #     name: "&4&lArmor"
+  #   shop: "armor"
+  #   slot: 15
   3:
-    item:
-      material: GOLD_INGOT
-      quantity: 1
-      damage: 0
-      name: "&3&lOres"
-    shop: "ores"
-    slot: 13
-  4:
-    item:
-      material: IRON_PICKAXE
-      quantity: 1
-      name: "&8&lTools"
-    shop: "tools"
-    slot: 14
-  5:
-    item:
-      material: DIAMOND_CHESTPLATE
-      quantity: 1
-      name: "&4&lArmor"
-    shop: "armor"
-    slot: 15
-  6:
     item:
       material: WHEAT
       quantity: 1
       name: "&5&lFarming"
     shop: "farming"
-    slot: 21
-  7:
+    slot: 2
+  4:
     item:
-      material: SPIDER_EYE
+      material: ROTTEN_FLESH
       quantity: 1
       name: "&9&lMob drops"
     shop: "drops"
-    slot: 22
-  8:
+    slot: 3
+  # 8:
+  #   item:
+  #     material: LIGHT_BLUE_DYE
+  #     quantity: 1
+  #     name: "&2&lDyes"
+  #   shop: "dyes"
+  #   slot: 23
+  # 9:
+  #   item:
+  #     material: SADDLE
+  #     quantity: 1
+  #     name: "&3&lMiscellaneous"
+  #   shop: "miscellaneous"
+  #   slot: 31
+
+  5:
     item:
-      material: LIGHT_BLUE_DYE
+      material: CHEST
       quantity: 1
-      name: "&2&lDyes"
-    shop: "dyes"
-    slot: 23
-  9:
+      name: "&9&lShop Permissions"
+    shop: "permissions"
+    slot: 18
+  6:
     item:
-      material: SADDLE
+      material: PAPER
       quantity: 1
-      name: "&3&lMiscellaneous"
-    shop: "miscellaneous"
-    slot: 31
-  10:
+      name: "&9&lPerks"
+    shop: "perks"
+    slot: 19
+  7:
     type: special
     special: balance
     slot: 34
