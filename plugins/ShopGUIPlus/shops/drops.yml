@@ -21,30 +21,38 @@ drops:
       buyPrice: 130
       sellPrice: 32
       slot: 1
-    # 3:
-    #   type: item
-    #   item:
-    #     material: GUNPOWDER
-    #     quantity: 16
-    #   buyPrice: 30
-    #   sellPrice: 3
-    #   slot: 12
-    # 4:
-    #   type: item
-    #   item:
-    #     material: STRING
-    #     quantity: 16
-    #   buyPrice: 30
-    #   sellPrice: 3
-    #   slot: 13
-    # 5:
-    #   type: item
-    #   item:
-    #     material: SPIDER_EYE
-    #     quantity: 16
-    #   buyPrice: 50
-    #   sellPrice: 5
-    #   slot: 14
+    3:
+      type: item
+      item:
+        material: GUNPOWDER
+        quantity: 4
+      buyPrice: 120
+      sellPrice: 30
+      slot: 2
+    4:
+      type: item
+      item:
+        material: STRING
+        quantity: 8
+      buyPrice: 100
+      sellPrice: 25
+      slot: 3
+    5:
+      type: item
+      item:
+        material: SPIDER_EYE
+        quantity: 4
+      buyPrice: 100
+      sellPrice: 25
+      slot: 4
+    6:
+      type: item
+      item:
+        material: LEATHER
+        quantity: 4
+      buyPrice: 150
+      sellPrice: 38
+      slot: 5
     # 6:
     #   type: item
     #   item:
@@ -101,14 +109,6 @@ drops:
     #   buyPrice: 50
     #   sellPrice: 5
     #   slot: 23
-    # 13:
-    #   type: item
-    #   item:
-    #     material: LEATHER
-    #     quantity: 16
-    #   buyPrice: 50
-    #   sellPrice: 5
-    #   slot: 24
     # 14:
     #   type: item
     #   item:

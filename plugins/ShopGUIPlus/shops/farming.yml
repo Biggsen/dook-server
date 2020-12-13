@@ -21,14 +21,22 @@ farming:
       buyPrice: 120
       sellPrice: 30
       slot: 1
-    # 3:
-    #   type: item
-    #   item:
-    #     material: MELON_SEEDS
-    #     quantity: 16
-    #   buyPrice: 50
-    #   sellPrice: 5
-    #   slot: 12
+    3:
+      type: item
+      item:
+        material: MELON_SEEDS
+        quantity: 16
+      buyPrice: 120
+      sellPrice: 30
+      slot: 2
+    4:
+      type: item
+      item:
+        material: BEETROOT_SEEDS
+        quantity: 16
+      buyPrice: 120
+      sellPrice: 30
+      slot: 3
     # 4:
     #   type: item
     #   item:

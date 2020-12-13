@@ -5,14 +5,6 @@ blocks:
     material: BLACK_STAINED_GLASS_PANE
     name: " "
   items:
-    # 1:
-    #   type: item
-    #   item:
-    #     material: GRASS_BLOCK
-    #     quantity: 64
-    #   buyPrice: 50
-    #   sellPrice: 5
-    #   slot: 10
     1:
       type: item
       item:
@@ -21,6 +13,30 @@ blocks:
       buyPrice: 100
       sellPrice: 25
       slot: 0
+    3:
+      type: item
+      item:
+        material: GRASS_BLOCK
+        quantity: 8
+      buyPrice: 100
+      sellPrice: 25
+      slot: 1
+    2:
+      type: item
+      item:
+        material: COBBLESTONE
+        quantity: 32
+      buyPrice: 120
+      sellPrice: 30
+      slot: 2
+    4:
+      type: item
+      item:
+        material: STONE
+        quantity: 16
+      buyPrice: 100
+      sellPrice: 25
+      slot: 3
     # 3:
     #   type: item
     #   item:
@@ -29,14 +45,6 @@ blocks:
     #   buyPrice: 50
     #   sellPrice: 5
     #   slot: 12
-    2:
-      type: item
-      item:
-        material: COBBLESTONE
-        quantity: 32
-      buyPrice: 120
-      sellPrice: 30
-      slot: 1
     # 5:
     #   type: item
     #   item:
@@ -45,14 +53,6 @@ blocks:
     #   buyPrice: 50
     #   sellPrice: 5
     #   slot: 14
-    # 6:
-    #   type: item
-    #   item:
-    #     material: STONE
-    #     quantity: 64
-    #   buyPrice: 50
-    #   sellPrice: 5
-    #   slot: 15
     # 7:
     #   type: item
     #   item:
