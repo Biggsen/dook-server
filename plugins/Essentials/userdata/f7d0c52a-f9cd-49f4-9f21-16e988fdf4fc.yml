@@ -1,20 +1,21 @@
 lastAccountName: verzion
 timestamps:
-  login: 1607780394340
-  logout: 1607779855740
+  login: 1607891972555
+  logout: 1607891997958
   lastteleport: 1607779563839
 ipAddress: 82.15.220.198
 logoutlocation:
   world: world
-  x: -253.5
-  y: 69.0
-  z: 92.5
-  yaw: 269.42648
-  pitch: 0.6000742
+  x: -253.6365250340548
+  y: 68.0
+  z: 110.72197589518196
+  yaw: 103.07632
+  pitch: 17.70008
 lastlocation:
   world: world
-  x: 889.4901828160075
-  y: 129.09998139939304
-  z: 319.38935239988047
-  yaw: -173.70264
-  pitch: 21.675045
+  x: -250.62773373261052
+  y: 83.24285871594492
+  z: 70.76801657557293
+  yaw: 125.12647
+  pitch: 15.300079
+money: '0.0'

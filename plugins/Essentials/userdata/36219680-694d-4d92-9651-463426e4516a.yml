@@ -1,29 +1,36 @@
 lastAccountName: Zonelesi
 timestamps:
-  login: 1607780201996
-  logout: 1607779854046
-  lastteleport: 1607779511300
+  login: 1607902332404
+  logout: 1607902359763
+  lastteleport: 1607901097594
 ipAddress: 92.22.135.147
 lastlocation:
-  world: world
-  x: -493.69999998807907
-  y: 12.0
-  z: 916.985708176951
-  yaw: -2.3920288
-  pitch: 32.099686
-money: '18378.67499999999996478'
+  world: world_nether
+  x: -43.190599776954684
+  y: 59.0
+  z: -151.47063159543768
+  yaw: -86.09314
+  pitch: 26.699959
+money: '4664.82242500000059893'
 logoutlocation:
   world: world
-  x: 886.5908807724202
-  y: 12.0
-  z: 484.69999998807907
-  yaw: 160.04994
-  pitch: 15.150113
+  x: -383.42511725727627
+  y: 65.0
+  z: -1241.9098087308646
+  yaw: 10.49905
+  pitch: 39.44997
 homes:
   home:
     world: world
-    x: 906.8504330302534
-    y: 12.0
-    z: 317.1384246474243
-    yaw: -266.8506
-    pitch: 6.000119
+    x: -393.5
+    y: 68.0
+    z: -1250.5
+    yaw: -0.44970283
+    pitch: 14.1000185
+  nether:
+    world: world_nether
+    x: -92.74239840767903
+    y: 64.0
+    z: -290.2774541441155
+    yaw: -16.666748
+    pitch: 41.699627
