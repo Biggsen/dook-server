@@ -72,3 +72,28 @@ perks:
       buyPrice: 20000
       sellPrice: -1
       slot: 5
+    7:
+      type: permission
+      permission: "backpack.use"
+      item:
+        material: CHEST
+        quantity: 1
+        name: "Backpack"
+        lore:
+          - "Access backpack (9 slots) using /bp"
+          - "You'll keep backpack inventory on death"
+      buyPrice: 50000
+      sellPrice: -1
+      slot: 18
+    8:
+      type: permission
+      permission: "backpack.size.2"
+      item:
+        material: CHEST
+        quantity: 1
+        name: "Second backpack row"
+        lore:
+          - "Get 9 more slots in your backpack"
+      buyPrice: 20000
+      sellPrice: -1
+      slot: 19
