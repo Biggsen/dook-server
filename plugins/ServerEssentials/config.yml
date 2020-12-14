@@ -27,12 +27,12 @@ debug: false
 # +------------------------------------------------------+ #
 ############################################################
 # Changes the prefix that appears at the start of every message and command.
-prefix: "[Server Essentials]"
+prefix: "[Dook Survival]"
 # Changes the '/sereload' command text
 # Permission is 'se.reload'.
 reload-command: "&aConfig Has Been Reloaded!"
 # Enable or Disable the Website command
-enable-website-command: true
+enable-website-command: false
 # Changes the '/website' command text
 # Permission is 'se.website'.
 website-command: "Website Command"
@@ -40,7 +40,7 @@ website-command: "Website Command"
 enable-discord-command: true
 # Changes the '/discord' command text
 # Permission is 'se.discord'.
-discord-command: "Discord Command"
+discord-command: "https://discord.gg/Z5QXruHRnS"
 # Change the Join Message that is displayed before the player's name.
 join-symbol: "&6[&a+&6]"
 # Change the Leave Message that is displayed before the player's name.
@@ -48,15 +48,15 @@ leave-symbol: "&6[&c-&6]"
 # Enable or Disable the Welcome command
 enable-firstjoin-message: true
 # Change the Welcome Message
-first-join-message: "&b&lWelcome to the Server!"
+first-join-message: "&b&lWelcome to Dook Survival!"
 # Enable or Disable the Welcome Back command
 enable-welcomeback-message: true
 # Changes the Welcome Back Message
-welcome-back-message: "&a&lWelcome back to the Server!"
+welcome-back-message: "&a&lWelcome back to Dook Survival!"
 # Enable or Disable the Rules command
-enable-rules-command: true
+enable-rules-command: false
 # Enable or Disable the Playtime command
-enable-playtime-command: true
+enable-playtime-command: false
 ############################################################
 # +------------------------------------------------------+ #
 # +              Server Essentials (Broadcast)           + #
