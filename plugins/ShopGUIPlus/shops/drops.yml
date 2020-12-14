@@ -10,6 +10,8 @@ drops:
       item:
         material: ROTTEN_FLESH
         quantity: 32
+        lore:
+          - "$3.13/$0.78 each"
       buyPrice: 100
       sellPrice: 25
       slot: 0
@@ -18,6 +20,8 @@ drops:
       item:
         material: BONE
         quantity: 8
+        lore:
+          - "$16.25/$4.00 each"
       buyPrice: 130
       sellPrice: 32
       slot: 1
@@ -26,6 +30,8 @@ drops:
       item:
         material: GUNPOWDER
         quantity: 4
+        lore:
+          - "$30.00/$7.50 each"
       buyPrice: 120
       sellPrice: 30
       slot: 2
@@ -34,6 +40,8 @@ drops:
       item:
         material: STRING
         quantity: 8
+        lore:
+          - "$12.50/$3.13 each"
       buyPrice: 100
       sellPrice: 25
       slot: 3
@@ -42,6 +50,8 @@ drops:
       item:
         material: SPIDER_EYE
         quantity: 4
+        lore:
+          - "$25.00/$6.25 each"
       buyPrice: 100
       sellPrice: 25
       slot: 4
@@ -50,6 +60,8 @@ drops:
       item:
         material: LEATHER
         quantity: 4
+        lore:
+          - "$37.50/$9.50 each"
       buyPrice: 150
       sellPrice: 38
       slot: 5

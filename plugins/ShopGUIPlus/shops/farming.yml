@@ -10,6 +10,8 @@ farming:
       item:
         material: WHEAT_SEEDS
         quantity: 16
+        lore:
+          - "$6.25/$1.56 each"
       buyPrice: 100
       sellPrice: 25
       slot: 0
@@ -18,6 +20,8 @@ farming:
       item:
         material: PUMPKIN_SEEDS
         quantity: 16
+        lore:
+          - "$7.50/$1.88 each"
       buyPrice: 120
       sellPrice: 30
       slot: 1
@@ -26,6 +30,8 @@ farming:
       item:
         material: MELON_SEEDS
         quantity: 16
+        lore:
+          - "$7.50/$1.88 each"
       buyPrice: 120
       sellPrice: 30
       slot: 2
@@ -34,6 +40,8 @@ farming:
       item:
         material: BEETROOT_SEEDS
         quantity: 16
+        lore:
+          - "$7.50/$1.88 each"
       buyPrice: 120
       sellPrice: 30
       slot: 3

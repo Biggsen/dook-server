@@ -25,6 +25,8 @@ food:
       item:
         material: CARROT
         quantity: 10
+        lore:
+          - "$3.00/$0.60 each"
       buyPrice: 30
       sellPrice: 6
       slot: 1
@@ -33,6 +35,8 @@ food:
       item:
         material: COOKED_PORKCHOP
         quantity: 4
+        lore:
+          - "$30.00/$7.50 each"
       buyPrice: 120
       sellPrice: 30
       slot: 3
@@ -41,6 +45,8 @@ food:
       item:
         material: COOKED_BEEF
         quantity: 4
+        lore:
+          - "$30.00/$7.50 each"
       buyPrice: 120
       sellPrice: 30
       slot: 2
@@ -49,6 +55,8 @@ food:
       item:
         material: COOKED_MUTTON
         quantity: 4
+        lore:
+          - "$25.00/$6.25 each"
       buyPrice: 100
       sellPrice: 25
       slot: 4

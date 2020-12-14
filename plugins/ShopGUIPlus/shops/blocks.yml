@@ -10,6 +10,9 @@ blocks:
       item:
         material: DIRT
         quantity: 32
+        lore:
+          - "$3.13/$0.78 each"
+
       buyPrice: 100
       sellPrice: 25
       slot: 0
@@ -18,6 +21,8 @@ blocks:
       item:
         material: GRASS_BLOCK
         quantity: 8
+        lore:
+          - "$12.5/$3.13 each"
       buyPrice: 100
       sellPrice: 25
       slot: 1
@@ -26,6 +31,8 @@ blocks:
       item:
         material: COBBLESTONE
         quantity: 32
+        lore:
+          - "$3.75/$0.94 each"
       buyPrice: 120
       sellPrice: 30
       slot: 2
@@ -34,6 +41,8 @@ blocks:
       item:
         material: STONE
         quantity: 16
+        lore:
+          - "$6.25/$1.56 each"
       buyPrice: 100
       sellPrice: 25
       slot: 3
