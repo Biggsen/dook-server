@@ -16,7 +16,7 @@ BackpackTitleOther: "&b{OwnerName}'s Backpack"
 BackpackTitle: "&bBackpack"
 # Defines if the content of the backpack get dropped on the death of a player.
 # If enabled, it can be disabled for individual players with the "backpack.keepOnDeath" permission.
-DropOnDeath: true
+DropOnDeath: false
 # If this option is enabled the backpack will not drop if the keepInventory flag for the death event is set.
 # This should add compatibility with plugins protecting the players inventory on death (like SaveRod). But might prevent the backpack form dropping on death with some plugins.
 HonorKeepInventoryOnDeath: false
@@ -170,7 +170,7 @@ WorldSettings:
 ItemShortcut:
   # If enabled the players will be given an item they can interact with to open the backpack.
   # The item may not be removed from their inventory as long as this option is enabled.
-  Enabled: true
+  Enabled: false
   # The name of the item in the inventory
   ItemName: "&eBackpack"
   # The texture value for the head.
