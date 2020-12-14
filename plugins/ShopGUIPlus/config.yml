@@ -626,6 +626,13 @@ shopMenuItems:
     shop: "perks"
     slot: 19
   7:
+    item:
+      material: GRASS_BLOCK
+      quantity: 1
+      name: "&9&lClaimblocks"
+    shop: "claimblocks"
+    slot: 20
+  8:
     type: special
     special: balance
     slot: 34
