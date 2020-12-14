@@ -24,7 +24,7 @@
 
 # A color code between 0-9 or a-f. Set to 'none' to disable.
 # In 1.16+ you can use hex color codes here as well. (For example, #613e1d is brown).
-ops-name-color: '4'
+ops-name-color: '#ff5c5c'
 
 # The character(s) to prefix all nicknames, so that you know they are not true usernames.
 nickname-prefix: '~'
@@ -88,10 +88,10 @@ force-safe-teleport-location: false
 teleport-passenger-dismount: true
 
 # The delay, in seconds, required between /home, /tp, etc.
-teleport-cooldown: 0
+teleport-cooldown: 1
 
 # The delay, in seconds, before a user actually teleports. If the user moves or gets attacked in this timeframe, the teleport is cancelled.
-teleport-delay: 0
+teleport-delay: 1
 
 # The delay, in seconds, a player can't be attacked by other players after they have been teleported by a command.
 # This will also prevent the player attacking other players.
@@ -492,7 +492,7 @@ allow-silent-join-quit: false
 # or set this to "" to hide the message entirely.
 # You may use color codes, {USERNAME} for the player's name, and {PLAYER} for the player's displayname.
 custom-join-message: "none"
-custom-quit-message: "none"
+custom-quit-message: "&6See you soon {PLAYER}!"
 
 # You can disable join and quit messages when the player count reaches a certain limit.
 # When the player count is below this number, join/quit messages will always be shown.
@@ -796,11 +796,17 @@ chat:
   # For more information of chat formatting, check out the wiki: http://wiki.ess3.net/wiki/Chat_Formatting
   # Note: Using the {PREFIX} and {SUFFIX} placeholders along with {DISPLAYNAME} may cause double prefixes/suffixes to be shown in chat unless add-prefix-suffix is uncommented and set to false.
 
-  format: '<{DISPLAYNAME}> {MESSAGE}'
-  #format: '&7[{GROUP}]&r {DISPLAYNAME}&7:&r {MESSAGE}'
+  #format: '&l{DISPLAYNAME}: {MESSAGE}'
+  #format: '&7[{GROUP}]&r &6({PREFIX})&r {DISPLAYNAME}&7:&r {MESSAGE}'
   #format: '&7{PREFIX}&r {DISPLAYNAME}&r &7{SUFFIX}&r: {MESSAGE}'
 
   group-formats:
+    owner: '&f[&4Owner&f] {DISPLAYNAME}&7:&f {MESSAGE}'
+    admin: '&f[&4God&f] {DISPLAYNAME}&7:&f {MESSAGE}'
+    moderator: '&f[&5Mod&f] {DISPLAYNAME}&7:&f {MESSAGE}'
+    vIP: '&f[&2ViP&f] {DISPLAYNAME}&7:&f {MESSAGE}'
+    builder: '&f[&1Builder&f] {DISPLAYNAME}&7:&f {MESSAGE}'
+    default: '{DISPLAYNAME}&7:&f {MESSAGE}'
   #  default: '{WORLDNAME} {DISPLAYNAME}&7:&r {MESSAGE}'
   #  admins: '{WORLDNAME} &c[{GROUP}]&r {DISPLAYNAME}&7:&c {MESSAGE}'
 
@@ -1027,7 +1033,7 @@ newbies:
   # Do we want to give users anything on first join? Set to '' to disable
   # This kit will be given regardless of cost and permissions, and will not trigger the kit delay.
   #kit: ''
-  kit: tools
+  kit: ''
 
 # What priority should we use for handling respawns?
 # Set this to none, if you want vanilla respawning behaviour.
@@ -1042,10 +1048,10 @@ respawn-listener-priority: high
 spawn-join-listener-priority: high
 
 # When users die, should they respawn at their first home or bed, instead of the spawnpoint?
-respawn-at-home: false
+respawn-at-home: true
 
 # When users die, should EssentialsSpawn respect users' respawn anchors?
-respawn-at-anchor: false
+respawn-at-anchor: true
 
 # Teleport all joining players to the spawnpoint
 spawn-on-join: false
