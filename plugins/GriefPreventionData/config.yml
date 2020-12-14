@@ -7,7 +7,7 @@ GriefPrevention:
   Claims:
     Mode:
       world: Survival
-      world_nether: Disabled
+      world_nether: Survival
       world_the_end: Disabled
     PreventGlobalMonsterEggs: true
     PreventTheft: true
