@@ -17,8 +17,8 @@ food:
       item:
         material: APPLE
         quantity: 1
-      buyPrice: 50
-      sellPrice: 12
+      buyPrice: 30
+      sellPrice: 7.5
       slot: 0
     3:
       type: item
