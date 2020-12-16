@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "ip": "151.229.255.197",
+    "created": "2020-12-15 21:45:15 +0100",
+    "source": "verzion",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  }
+]
