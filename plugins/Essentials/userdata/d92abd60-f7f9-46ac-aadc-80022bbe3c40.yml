@@ -1,0 +1,28 @@
+lastAccountName: xMotherJessx
+timestamps:
+  login: 1608039084721
+  lastteleport: 1608039924239
+  logout: 1608040126792
+ipAddress: 92.29.150.183
+lastlocation:
+  world: world
+  x: 283.30000001192093
+  y: 17.0
+  z: 259.30000001192093
+  yaw: -60.285946
+  pitch: -5.6998253
+homes:
+  home:
+    world: world
+    x: 318.76249998807907
+    y: 68.0
+    z: 322.4980304971985
+    yaw: -84.71289
+    pitch: 25.050365
+logoutlocation:
+  world: world
+  x: 317.0172327529161
+  y: 68.0
+  z: 319.07699563821836
+  yaw: -33.27881
+  pitch: 8.250219

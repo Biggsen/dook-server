@@ -1,0 +1,19 @@
+lastAccountName: PixeledTrip
+timestamps:
+  login: 1608074540801
+  logout: 1608076251363
+ipAddress: 173.89.216.59
+lastlocation:
+  world: world
+  x: -263.5
+  y: 67.0
+  z: 101.5
+  yaw: 2.1295812
+  pitch: 0.0
+logoutlocation:
+  world: world_nether
+  x: -63.52405278063945
+  y: 58.0
+  z: -104.73973709623804
+  yaw: 118.12004
+  pitch: 21.946907

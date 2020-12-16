@@ -1,0 +1,28 @@
+lastAccountName: hellscapes
+timestamps:
+  login: 1608025977327
+  lastteleport: 1608027271029
+  logout: 1608028207537
+ipAddress: 71.115.15.154
+lastlocation:
+  world: world
+  x: -261.351907805577
+  y: 60.91574268767474
+  z: 226.68810113896794
+  yaw: -110.990295
+  pitch: 2.289487
+homes:
+  home:
+    world: world
+    x: -126.52086595489108
+    y: 61.0
+    z: 237.32579093121274
+    yaw: -212.99536
+    pitch: 4.2729855
+logoutlocation:
+  world: world
+  x: -126.80704042417197
+  y: 61.5625
+  z: 235.68532211988318
+  yaw: 72.64663
+  pitch: 9.03777

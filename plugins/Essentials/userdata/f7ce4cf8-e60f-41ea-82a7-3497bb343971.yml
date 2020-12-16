@@ -1,0 +1,36 @@
+lastAccountName: FlutteringDeath
+timestamps:
+  login: 1608082410752
+  logout: 1608094595607
+  lastteleport: 1608094395751
+ipAddress: 97.85.112.161
+lastlocation:
+  world: world_nether
+  x: -272.6207655067707
+  y: 85.0
+  z: 370.5626789165908
+  yaw: 182.01685
+  pitch: 19.500792
+money: '3386.57930000000012704'
+homes:
+  m:
+    world: world
+    x: -285.5739853184886
+    y: 28.0
+    z: 1286.961312321139
+    yaw: 192.40039
+    pitch: 33.75131
+  b:
+    world: world
+    x: -452.5208956420323
+    y: 64.0
+    z: 1166.5186264137333
+    yaw: 89.245605
+    pitch: 5.8497834
+logoutlocation:
+  world: world
+  x: -453.42977970559286
+  y: 64.0
+  z: 1166.0178129474475
+  yaw: 99.30713
+  pitch: 15.900034

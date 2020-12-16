@@ -1,0 +1,29 @@
+lastAccountName: CallMeEconomy
+timestamps:
+  login: 1608092144452
+  lastteleport: 1608088530451
+  logout: 1608092151810
+ipAddress: 69.217.132.215
+lastlocation:
+  world: world
+  x: -249.87141406273125
+  y: 67.0
+  z: 97.30000001192093
+  yaw: 162.92773
+  pitch: 17.999994
+money: '4953.77420000000016717'
+homes:
+  home:
+    world: world
+    x: 400.5784737675371
+    y: 11.0
+    z: 183.93564333145952
+    yaw: 341.9244
+    pitch: 14.549982
+logoutlocation:
+  world: world
+  x: 400.5
+  y: 11.0
+  z: 183.5
+  yaw: 273.52438
+  pitch: -5.250018

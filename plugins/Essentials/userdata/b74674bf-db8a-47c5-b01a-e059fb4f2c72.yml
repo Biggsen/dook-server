@@ -1,0 +1,35 @@
+lastAccountName: STra1z
+timestamps:
+  login: 1608065957657
+  logout: 1608067716233
+  lastteleport: 1608067510201
+ipAddress: 88.149.211.175
+lastlocation:
+  world: world
+  x: -1046.987637980536
+  y: 68.0
+  z: -933.5290266792078
+  yaw: -225.8341
+  pitch: 37.499367
+logoutlocation:
+  world: world
+  x: 532.6999999880791
+  y: 76.0
+  z: -68.11580871556635
+  yaw: -144.0101
+  pitch: 49.050358
+homes:
+  home:
+    world: world
+    x: 530.1450649270703
+    y: 76.0
+    z: -68.4356143374359
+    yaw: 258.76593
+    pitch: 44.25092
+  base1:
+    world: world
+    x: -1046.987637980536
+    y: 68.0
+    z: -933.5290266792078
+    yaw: -197.78333
+    pitch: 36.74936

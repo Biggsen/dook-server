@@ -11,8 +11,8 @@
 #
 regions:
     spawn:
-        min: {x: -289, y: 64, z: 36}
-        max: {x: -218, y: 85, z: 151}
+        min: {x: -384, y: 0, z: -38}
+        max: {x: -124, y: 197, z: 222}
         members: {}
         flags:
             mob-damage: deny
@@ -23,4 +23,10 @@ regions:
             fire-spread: deny
         owners: {}
         type: cuboid
+        priority: 0
+    __global__:
+        members: {}
+        flags: {}
+        owners: {}
+        type: global
         priority: 0

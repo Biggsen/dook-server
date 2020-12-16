@@ -1,0 +1,39 @@
+2020-12-15 15:08:57 database: could not close the database
+org.h2.message.DbException: Out of memory. [90108-199]
+	at org.h2.message.DbException.get(DbException.java:194)
+	at org.h2.engine.Database.close(Database.java:1426)
+	at org.h2.engine.OnExitDatabaseCloser.onShutdown(OnExitDatabaseCloser.java:85)
+	at org.h2.engine.OnExitDatabaseCloser.run(OnExitDatabaseCloser.java:114)
+Caused by: org.h2.jdbc.JdbcSQLNonTransientConnectionException: Out of memory. [90108-199]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:617)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:427)
+	... 4 more
+Caused by: org.h2.message.DbException: OutOfMemoryError
+	at org.h2.message.DbException.<clinit>(DbException.java:64)
+	at org.h2.message.TraceObject.<clinit>(TraceObject.java:108)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+	at me.lucko.luckperms.common.storage.implementation.sql.connection.file.H2ConnectionFactory.createConnection(H2ConnectionFactory.java:68)
+	at me.lucko.luckperms.common.storage.implementation.sql.connection.file.FlatfileConnectionFactory.getConnection(FlatfileConnectionFactory.java:71)
+	at me.lucko.luckperms.common.storage.implementation.sql.connection.file.H2ConnectionFactory.getConnection(H2ConnectionFactory.java:40)
+	at me.lucko.luckperms.common.storage.implementation.sql.SqlStorage.init(SqlStorage.java:158)
+	at me.lucko.luckperms.common.storage.Storage.init(Storage.java:116)
+	at me.lucko.luckperms.common.storage.StorageFactory.getInstance(StorageFactory.java:88)
+	at me.lucko.luckperms.common.plugin.AbstractLuckPermsPlugin.enable(AbstractLuckPermsPlugin.java:156)
+	at me.lucko.luckperms.bukkit.LPBukkitBootstrap.onEnable(LPBukkitBootstrap.java:162)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:263)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:380)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:483)
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.enablePlugin(CraftServer.java:501)
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.enablePlugins(CraftServer.java:415)
+	at net.minecraft.server.v1_16_R3.DedicatedServer.init(DedicatedServer.java:207)
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:935)
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:177)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: java.sql.SQLException: OutOfMemoryError
+	at org.h2.message.DbException.<clinit>(DbException.java:62)
+	... 22 more
+Caused by: java.lang.OutOfMemoryError
+	... 23 more

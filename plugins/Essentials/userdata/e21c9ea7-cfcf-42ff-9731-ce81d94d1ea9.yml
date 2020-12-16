@@ -1,0 +1,28 @@
+lastAccountName: sqittles132
+timestamps:
+  login: 1608080613902
+  lastteleport: 1608087574601
+  logout: 1608087716963
+ipAddress: 76.182.240.235
+lastlocation:
+  world: world
+  x: 517.6999999880791
+  y: 1.0
+  z: 620.6999999880791
+  yaw: 191.59755
+  pitch: -21.280947
+homes:
+  home:
+    world: world
+    x: -390.7315733778879
+    y: 68.0
+    z: -1207.8640333285318
+    yaw: -250.80388
+    pitch: 15.316783
+logoutlocation:
+  world: world
+  x: -390.30000001192093
+  y: 68.0
+  z: -1209.559253529407
+  yaw: -253.36313
+  pitch: 24.1126

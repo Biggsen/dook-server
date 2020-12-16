@@ -1,0 +1,21 @@
+lastAccountName: SinisterX
+timestamps:
+  login: 1608067888302
+  logout: 1608068145513
+  lastteleport: 1608068013001
+ipAddress: 107.221.92.85
+lastlocation:
+  world: world
+  x: -804.6999999880791
+  y: 66.0
+  z: -306.30000001192093
+  yaw: -132.90222
+  pitch: 25.908146
+money: '185.382000000000001'
+logoutlocation:
+  world: world
+  x: -339.42180469484646
+  y: 67.0
+  z: 307.69999998807907
+  yaw: 183.97739
+  pitch: 10.3827715

@@ -1,0 +1,29 @@
+lastAccountName: Bl4zeBoy
+timestamps:
+  login: 1608130780431
+  logout: 1608129908544
+  lastteleport: 1608045257783
+ipAddress: 62.11.2.251
+lastlocation:
+  world: world
+  x: -254.1530056034477
+  y: 68.0
+  z: -146.69380552610207
+  yaw: 354.92676
+  pitch: 31.049932
+money: '1550.2596999999999982'
+logoutlocation:
+  world: world
+  x: -161.10854324699406
+  y: 66.0
+  z: 92.40251021006438
+  yaw: -167.76456
+  pitch: 26.400059
+homes:
+  home:
+    world: world
+    x: -143.97922725632776
+    y: 66.0
+    z: 144.0322954427786
+    yaw: 353.88843
+    pitch: 42.599964

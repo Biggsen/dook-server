@@ -1,0 +1,36 @@
+lastAccountName: LethalLuck
+timestamps:
+  login: 1608128455981
+  logout: 1608128450735
+  lastteleport: 1608128879880
+ipAddress: 174.104.12.173
+lastlocation:
+  world: world
+  x: 7764.385126042064
+  y: 10.0
+  z: 1281.5202226102122
+  yaw: -356.94763
+  pitch: 14.85108
+logoutlocation:
+  world: world
+  x: 7699.396921587425
+  y: 10.0
+  z: 1292.8136921449784
+  yaw: -108.98767
+  pitch: 12.900852
+homes:
+  home:
+    world: world
+    x: 7700.437801732946
+    y: 63.0
+    z: 1273.5567850014038
+    yaw: -359.85132
+    pitch: 1.0498215
+  end:
+    world: world_the_end
+    x: 18980.98165357153
+    y: 61.0
+    z: -20784.412481725933
+    yaw: 229.03564
+    pitch: 5.399482
+money: '5518.33790000000017272'

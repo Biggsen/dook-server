@@ -1,0 +1,35 @@
+lastAccountName: pixelpile19
+timestamps:
+  login: 1608072761402
+  lastteleport: 1608073208301
+  logout: 1608073242063
+ipAddress: 47.33.18.238
+lastlocation:
+  world: world
+  x: -395.76945628561657
+  y: 68.0
+  z: -1258.1785390844911
+  yaw: 300.2484
+  pitch: 25.759647
+homes:
+  base:
+    world: world
+    x: -393.53492930966627
+    y: 68.0
+    z: -1251.626174481834
+    yaw: 39.058044
+    pitch: 9.702301
+  nether:
+    world: world_nether
+    x: 2257.300000011921
+    y: 50.875
+    z: -28.69999998807907
+    yaw: 44.303764
+    pitch: 9.942638
+logoutlocation:
+  world: world
+  x: -253.5
+  y: 69.0
+  z: 92.5
+  yaw: -3.1234741
+  pitch: 67.05007

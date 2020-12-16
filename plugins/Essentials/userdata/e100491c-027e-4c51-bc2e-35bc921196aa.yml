@@ -1,0 +1,28 @@
+lastAccountName: remzak
+timestamps:
+  login: 1608075120602
+  lastteleport: 1608076483501
+  logout: 1608076677912
+ipAddress: 75.68.104.172
+lastlocation:
+  world: world
+  x: -528.8791103199658
+  y: 13.0
+  z: 787.3000000119209
+  yaw: -193.0326
+  pitch: 20.84929
+homes:
+  home:
+    world: world
+    x: -515.6626730626508
+    y: 11.0
+    z: 709.3000000119209
+    yaw: -0.58880615
+    pitch: 22.499481
+logoutlocation:
+  world: world
+  x: -516.2702574949452
+  y: 11.0
+  z: 710.0699319529557
+  yaw: 26.411137
+  pitch: 22.649475

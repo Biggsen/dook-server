@@ -1,0 +1,29 @@
+lastAccountName: KeikoYurino
+timestamps:
+  login: 1608040095882
+  lastteleport: 1608038300079
+  logout: 1608040089738
+ipAddress: 75.91.48.96
+lastlocation:
+  world: world
+  x: -254.24674967690177
+  y: 67.0
+  z: 141.91997378953522
+  yaw: 23.726868
+  pitch: -2.3998148
+money: '229.8060000000000010'
+homes:
+  home:
+    world: world
+    x: 1552.94309598437
+    y: 71.0
+    z: 1776.4921234015378
+    yaw: 3.5863647
+    pitch: 40.050007
+logoutlocation:
+  world: world
+  x: 1531.1164824073062
+  y: 70.0
+  z: 1787.4425081005045
+  yaw: 209.68597
+  pitch: 42.90011
