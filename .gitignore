@@ -3,3 +3,7 @@ jar
 dook.sublime-project
 dook.sublime-workspace
 latest.log
+.bash_logout
+.bash_profile
+.bashrc
+hs_*.log
