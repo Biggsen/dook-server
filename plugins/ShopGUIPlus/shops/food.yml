@@ -1,65 +1,104 @@
 food:
   name: "&2&lFood (page %page%)"
+  size: 45
   enablePerItemPermissions: true
   fillItem:
     material: BLACK_STAINED_GLASS_PANE
     name: " "
   buttons:
     goBack:
-      slot: 49
-    previousPage:
-      slot: 39
-    nextPage:
-      slot: 41
+      slot: 40
   items:
     1:
       type: item
       item:
         material: APPLE
-        quantity: 1
-      buyPrice: 30
-      sellPrice: 7.5
+        quantity: 16
+        lore:
+          - "$12.00/$3.63 each"
+      buyPrice: 192
+      sellPrice: 58
       slot: 0
     3:
       type: item
       item:
         material: CARROT
-        quantity: 10
+        quantity: 32
         lore:
-          - "$3.00/$0.60 each"
-      buyPrice: 30
-      sellPrice: 6
+          - "$3.00/$0.91 each"
+      buyPrice: 96
+      sellPrice: 29
       slot: 1
     4:
       type: item
       item:
         material: COOKED_PORKCHOP
-        quantity: 4
+        quantity: 8
         lore:
-          - "$30.00/$7.50 each"
-      buyPrice: 120
-      sellPrice: 30
+          - "$20.00/$6.00 each"
+      buyPrice: 160
+      sellPrice: 48
       slot: 3
     2:
       type: item
       item:
         material: COOKED_BEEF
-        quantity: 4
+        quantity: 8
         lore:
-          - "$30.00/$7.50 each"
-      buyPrice: 120
-      sellPrice: 30
+          - "$24.00/$7.25 each"
+      buyPrice: 192
+      sellPrice: 58
       slot: 2
     5:
       type: item
       item:
         material: COOKED_MUTTON
-        quantity: 4
+        quantity: 8
         lore:
-          - "$25.00/$6.25 each"
-      buyPrice: 100
-      sellPrice: 25
+          - "$16.00/$4.75 each"
+      buyPrice: 128
+      sellPrice: 38
       slot: 4
+    6:
+      type: item
+      item:
+        material: COOKED_COD
+        quantity: 16
+        lore:
+          - "$14.00/$3.00 each"
+      buyPrice: 160
+      sellPrice: 48
+      slot: 5
+    7:
+      type: item
+      item:
+        material: COOKED_SALMON
+        quantity: 16
+        lore:
+          - "$16.00/$3.63 each"
+      buyPrice: 192
+      sellPrice: 58
+      slot: 6
+    8:
+      type: item
+      item:
+        material: BREAD
+        quantity: 8
+        lore:
+          - "$24.00/$7.25 each"
+      buyPrice: 192
+      sellPrice: 58
+      slot: 7
+    9:
+      type: item
+      item:
+        material: BAKED_POTATO
+        quantity: 16
+        lore:
+          - "$6.00/$1.81 each"
+      buyPrice: 96
+      sellPrice: 29
+      slot: 8
     # 1:
     #   type: item
     #   item:
@@ -92,14 +131,6 @@ food:
     #   buyPrice: 20
     #   sellPrice: 4
     #   slot: 15
-    # 7:
-    #   type: item
-    #   item:
-    #     material: BREAD
-    #     quantity: 1
-    #   buyPrice: 25
-    #   sellPrice: 5
-    #   slot: 16
     # 8:
     #   type: item
     #   item:
@@ -108,14 +139,6 @@ food:
     #   buyPrice: 25
     #   sellPrice: 5
     #   slot: 19
-    # 9:
-    #   type: item
-    #   item:
-    #     material: BAKED_POTATO
-    #     quantity: 10
-    #   buyPrice: 30
-    #   sellPrice: 6
-    #   slot: 20
     # 10:
     #   type: item
     #   item:
@@ -124,22 +147,6 @@ food:
     #   buyPrice: 20
     #   sellPrice: 4
     #   slot: 21
-    # 11:
-    #   type: item
-    #   item:
-    #     material: COOKED_COD
-    #     quantity: 1
-    #   buyPrice: 20
-    #   sellPrice: 4
-    #   slot: 22
-    # 12:
-    #   type: item
-    #   item:
-    #     material: COOKED_SALMON
-    #     quantity: 1
-    #   buyPrice: 25
-    #   sellPrice: 5
-    #   slot: 23
     # 13:
     #   type: item
     #   item:
@@ -172,3 +179,7 @@ food:
     #   buyPrice: 50
     #   sellPrice: 10
     #   slot: 33
+    37:
+      type: special
+      special: BALANCE
+      slot: 44

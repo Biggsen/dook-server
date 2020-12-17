@@ -1,9 +1,17 @@
 permissions:
   # Shop item permissions
   name: "&3&lPermissions (page %page%)"
+  size: 45
   fillItem:
     material: BLACK_STAINED_GLASS_PANE
     name: " "
+  buttons:
+    goBack:
+      slot: 40
+    previousPage:
+      slot: 39
+    nextPage:
+      slot: 41
   items:
     # blocks
     10:
@@ -46,6 +54,36 @@ permissions:
       buyPrice: 1000
       sellPrice: -1
       slot: 3
+    14:
+      type: permission
+      permission: "shopguiplus.item.blocks.5"
+      item:
+        material: GRANITE
+        quantity: 1
+        name: "Buy and sell granite in the blocks shop"
+      buyPrice: 1000
+      sellPrice: -1
+      slot: 4
+    15:
+      type: permission
+      permission: "shopguiplus.item.blocks.6"
+      item:
+        material: DIORITE
+        quantity: 1
+        name: "Buy and sell diorite in the blocks shop"
+      buyPrice: 1000
+      sellPrice: -1
+      slot: 5
+    16:
+      type: permission
+      permission: "shopguiplus.item.blocks.7"
+      item:
+        material: ANDESITE
+        quantity: 1
+        name: "Buy and sell andesite in the blocks shop"
+      buyPrice: 1000
+      sellPrice: -1
+      slot: 6
     # food
     20:
       type: permission
@@ -102,6 +140,50 @@ permissions:
       sellPrice: -1
       slot: 4
       page: 2
+    25:
+      type: permission
+      permission: "shopguiplus.item.food.6"
+      item:
+        material: COOKED_COD
+        quantity: 1
+        name: "Buy and sell cooked cod in the food shop"
+      buyPrice: 1000
+      sellPrice: -1
+      slot: 5
+      page: 2
+    26:
+      type: permission
+      permission: "shopguiplus.item.food.7"
+      item:
+        material: COOKED_SALMON
+        quantity: 1
+        name: "Buy and sell cooked salmon in the food shop"
+      buyPrice: 1000
+      sellPrice: -1
+      slot: 6
+      page: 2
+    27:
+      type: permission
+      permission: "shopguiplus.item.food.8"
+      item:
+        material: BREAD
+        quantity: 1
+        name: "Buy and sell bread in the food shop"
+      buyPrice: 1000
+      sellPrice: -1
+      slot: 7
+      page: 2
+    28:
+      type: permission
+      permission: "shopguiplus.item.food.9"
+      item:
+        material: BAKED_POTATO
+        quantity: 1
+        name: "Buy and sell baked potato in the food shop"
+      buyPrice: 1000
+      sellPrice: -1
+      slot: 8
+      page: 2
     # farming
     30:
       type: permission
@@ -146,6 +228,39 @@ permissions:
       buyPrice: 1000
       sellPrice: -1
       slot: 3
+      page: 3
+    34:
+      type: permission
+      permission: "shopguiplus.item.farming.5"
+      item:
+        material: WHEAT
+        quantity: 1
+        name: "Buy and sell wheat in the farming shop"
+      buyPrice: 1000
+      sellPrice: -1
+      slot: 4
+      page: 3
+    35:
+      type: permission
+      permission: "shopguiplus.item.farming.6"
+      item:
+        material: PUMPKIN
+        quantity: 1
+        name: "Buy and sell pumpkin in the farming shop"
+      buyPrice: 1000
+      sellPrice: -1
+      slot: 5
+      page: 3
+    36:
+      type: permission
+      permission: "shopguiplus.item.farming.7"
+      item:
+        material: MELON_SLICE
+        quantity: 1
+        name: "Buy and sell melon slices in the farming shop"
+      buyPrice: 1000
+      sellPrice: -1
+      slot: 6
       page: 3
     # drops
     40:
@@ -205,6 +320,28 @@ permissions:
       page: 4
     45:
       type: permission
+      permission: "shopguiplus.item.drops.7"
+      item:
+        material: INK_SAC
+        quantity: 1
+        name: "Buy and sell ink sacs in the mob drops shop"
+      buyPrice: 1000
+      sellPrice: -1
+      slot: 5
+      page: 4
+    46:
+      type: permission
+      permission: "shopguiplus.item.drops.8"
+      item:
+        material: SLIME_BALL
+        quantity: 1
+        name: "Buy and sell slimeballs in the mob drops shop"
+      buyPrice: 1000
+      sellPrice: -1
+      slot: 6
+      page: 4
+    47:
+      type: permission
       permission: "shopguiplus.item.drops.6"
       item:
         material: LEATHER
@@ -212,5 +349,27 @@ permissions:
         name: "Buy and sell leather in the mob drops shop"
       buyPrice: 1000
       sellPrice: -1
-      slot: 5
+      slot: 7
+      page: 4
+    48:
+      type: permission
+      permission: "shopguiplus.item.drops.9"
+      item:
+        material: FEATHER
+        quantity: 1
+        name: "Buy and sell feathers in the mob drops shop"
+      buyPrice: 1000
+      sellPrice: -1
+      slot: 8
+      page: 4
+    49:
+      type: permission
+      permission: "shopguiplus.item.drops.10"
+      item:
+        material: EGG
+        quantity: 1
+        name: "Buy and sell eggs in the mob drops shop"
+      buyPrice: 1000
+      sellPrice: -1
+      slot: 9
       page: 4

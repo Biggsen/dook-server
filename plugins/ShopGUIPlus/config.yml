@@ -635,7 +635,7 @@ shopMenuItems:
   8:
     type: special
     special: balance
-    slot: 34
+    slot: 44
 
 
 specialElements:
