@@ -45,7 +45,7 @@ drops:
         material: STRING
         quantity: 16
         lore:
-          - "$5.00/$1/50 each"
+          - "$5.00/$1.50 each"
       buyPrice: 80
       sellPrice: 24
       slot: 3

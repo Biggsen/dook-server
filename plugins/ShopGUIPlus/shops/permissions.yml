@@ -263,7 +263,7 @@ permissions:
       slot: 6
       page: 3
     # drops
-    40:
+    400:
       type: permission
       permission: "shopguiplus.item.drops.1"
       item:
@@ -274,7 +274,7 @@ permissions:
       sellPrice: -1
       slot: 0
       page: 4
-    41:
+    401:
       type: permission
       permission: "shopguiplus.item.drops.2"
       item:
@@ -285,7 +285,7 @@ permissions:
       sellPrice: -1
       slot: 1
       page: 4
-    42:
+    402:
       type: permission
       permission: "shopguiplus.item.drops.3"
       item:
@@ -296,7 +296,7 @@ permissions:
       sellPrice: -1
       slot: 2
       page: 4
-    43:
+    403:
       type: permission
       permission: "shopguiplus.item.drops.4"
       item:
@@ -307,7 +307,7 @@ permissions:
       sellPrice: -1
       slot: 3
       page: 4
-    44:
+    404:
       type: permission
       permission: "shopguiplus.item.drops.5"
       item:
@@ -318,7 +318,7 @@ permissions:
       sellPrice: -1
       slot: 4
       page: 4
-    45:
+    405:
       type: permission
       permission: "shopguiplus.item.drops.7"
       item:
@@ -329,7 +329,7 @@ permissions:
       sellPrice: -1
       slot: 5
       page: 4
-    46:
+    406:
       type: permission
       permission: "shopguiplus.item.drops.8"
       item:
@@ -340,7 +340,7 @@ permissions:
       sellPrice: -1
       slot: 6
       page: 4
-    47:
+    407:
       type: permission
       permission: "shopguiplus.item.drops.6"
       item:
@@ -351,7 +351,7 @@ permissions:
       sellPrice: -1
       slot: 7
       page: 4
-    48:
+    408:
       type: permission
       permission: "shopguiplus.item.drops.9"
       item:
@@ -362,7 +362,7 @@ permissions:
       sellPrice: -1
       slot: 8
       page: 4
-    49:
+    409:
       type: permission
       permission: "shopguiplus.item.drops.10"
       item:
@@ -373,3 +373,134 @@ permissions:
       sellPrice: -1
       slot: 9
       page: 4
+    # ores
+    500:
+      type: permission
+      permission: "shopguiplus.item.ores.1"
+      item:
+        material: COAL
+        quantity: 1
+        name: "Buy and sell coal in the ores shop"
+      buyPrice: 2000
+      sellPrice: -1
+      slot: 0
+      page: 5
+    501:
+      type: permission
+      permission: "shopguiplus.item.ores.2"
+      item:
+        material: REDSTONE
+        quantity: 1
+        name: "Buy and sell redstone in the ores shop"
+      buyPrice: 2000
+      sellPrice: -1
+      slot: 1
+      page: 5
+    502:
+      type: permission
+      permission: "shopguiplus.item.ores.3"
+      item:
+        material: LAPIS_LAZULI
+        quantity: 1
+        name: "Buy and sell lapis lazuli in the ores shop"
+      buyPrice: 2000
+      sellPrice: -1
+      slot: 2
+      page: 5
+    5040:
+      type: permission
+      permission: "shopguiplus.item.ores.40"
+      item:
+        material: IRON_INGOT
+        quantity: 1
+        name: "Buy iron ingots in the ores shop"
+      buyPrice: 2000
+      sellPrice: -1
+      slot: 3
+      page: 5
+    5041:
+      type: command
+      item:
+        material: IRON_INGOT
+        quantity: 1
+        name: "Sell iron ingots in the ores shop"
+        lore:
+          - "This permission will expire in 1 day"
+      commands:
+        - "lp user %PLAYER% permission settemp shopguiplus.item.ores.41 true 1d"
+      buyPrice: 2500
+      slot: 12
+      page: 5
+    5050:
+      type: permission
+      permission: "shopguiplus.item.ores.50"
+      item:
+        material: GOLD_INGOT
+        quantity: 1
+        name: "Buy gold ingots in the ores shop"
+      buyPrice: 2000
+      sellPrice: -1
+      slot: 4
+      page: 5
+    5051:
+      type: command
+      item:
+        material: GOLD_INGOT
+        quantity: 1
+        name: "Sell gold ingots in the ores shop"
+        lore:
+          - "This permission will expire in 1 day"
+      commands:
+        - "lp user %PLAYER% permission settemp shopguiplus.item.ores.51 true 1d"
+      buyPrice: 2500
+      slot: 13
+      page: 5
+    5060:
+      type: permission
+      permission: "shopguiplus.item.ores.60"
+      item:
+        material: DIAMOND
+        quantity: 1
+        name: "Buy diamonds in the ores shop"
+      buyPrice: 2000
+      sellPrice: -1
+      slot: 5
+      page: 5
+    5061:
+      type: command
+      item:
+        material: DIAMOND
+        quantity: 1
+        name: "Sell diamonds in the ores shop"
+        lore:
+          - "This permission will expire in 1 day"
+      commands:
+        - "lp user %PLAYER% permission settemp shopguiplus.item.ores.61 true 1d"
+      buyPrice: 2500
+      slot: 14
+      page: 5
+    5070:
+      type: permission
+      permission: "shopguiplus.item.ores.70"
+      item:
+        material: EMERALD
+        quantity: 1
+        name: "Buy emeralds in the ores shop"
+      buyPrice: 2000
+      sellPrice: -1
+      slot: 6
+      page: 5
+    5071:
+      type: command
+      item:
+        material: EMERALD
+        quantity: 1
+        name: "Sell emeralds in the ores shop"
+        lore:
+          - "This permission will expire in 1 day"
+      commands:
+        - "lp user %PLAYER% permission settemp shopguiplus.item.ores.71 true 1d"
+      buyPrice: 2500
+      sellPrice: -1
+      slot: 15
+      page: 5
