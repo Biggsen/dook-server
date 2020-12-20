@@ -179,7 +179,7 @@ food:
     #   buyPrice: 50
     #   sellPrice: 10
     #   slot: 33
-    37:
+    money:
       type: special
       special: BALANCE
       slot: 44

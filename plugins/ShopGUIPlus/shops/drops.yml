@@ -181,7 +181,7 @@ drops:
     #   buyPrice: 50
     #   sellPrice: 5
     #   slot: 29
-    37:
+    money:
       type: special
       special: BALANCE
       slot: 44

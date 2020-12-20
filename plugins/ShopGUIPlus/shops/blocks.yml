@@ -328,7 +328,7 @@ blocks:
     #   sellPrice: 20
     #   slot: 31
     #   page: 2
-    37:
+    money:
       type: special
       special: BALANCE
       slot: 44

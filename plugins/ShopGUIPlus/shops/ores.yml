@@ -111,3 +111,7 @@ ores:
     #   buyPrice: 20
     #   sellPrice: 4
     #   slot: 23
+    money:
+      type: special
+      special: BALANCE
+      slot: 44

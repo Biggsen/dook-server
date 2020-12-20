@@ -84,6 +84,10 @@ permissions:
       buyPrice: 1000
       sellPrice: -1
       slot: 6
+    money1:
+      type: special
+      special: BALANCE
+      slot: 44
     # food
     20:
       type: permission
@@ -184,6 +188,11 @@ permissions:
       sellPrice: -1
       slot: 8
       page: 2
+    money2:
+      type: special
+      special: BALANCE
+      slot: 44
+      page: 2
     # farming
     30:
       type: permission
@@ -261,6 +270,11 @@ permissions:
       buyPrice: 1000
       sellPrice: -1
       slot: 6
+      page: 3
+    money3:
+      type: special
+      special: BALANCE
+      slot: 44
       page: 3
     # drops
     400:
@@ -372,6 +386,11 @@ permissions:
       buyPrice: 1000
       sellPrice: -1
       slot: 9
+      page: 4
+    money4:
+      type: special
+      special: BALANCE
+      slot: 44
       page: 4
     # ores
     500:
@@ -503,4 +522,9 @@ permissions:
       buyPrice: 2500
       sellPrice: -1
       slot: 15
+      page: 5
+    money5:
+      type: special
+      special: BALANCE
+      slot: 44
       page: 5
