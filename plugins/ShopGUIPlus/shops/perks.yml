@@ -1,6 +1,7 @@
 perks:
   name: "&3&lPerks (page %page%)"
   size: 45
+  enablePerItemPermissions: true
   fillItem:
     material: BLACK_STAINED_GLASS_PANE
     name: " "
@@ -12,7 +13,7 @@ perks:
     nextPage:
       slot: 45
   items:
-    1:
+    perms_back:
       type: permission
       permission: "essentials.back.ondeath"
       item:
@@ -25,7 +26,7 @@ perks:
       buyPrice: 20000
       sellPrice: -1
       slot: 0
-    2:
+    perms_craft:
       type: permission
       permission: "essentials.workbench"
       item:
@@ -35,7 +36,7 @@ perks:
       buyPrice: 20000
       sellPrice: -1
       slot: 1
-    3:
+    perms_anvil:
       type: permission
       permission: "essentials.anvil"
       item:
@@ -45,7 +46,7 @@ perks:
       buyPrice: 20000
       sellPrice: -1
       slot: 2
-    4:
+    perms_grindstone:
       type: permission
       permission: "essentials.grindstone"
       item:
@@ -55,7 +56,7 @@ perks:
       buyPrice: 20000
       sellPrice: -1
       slot: 3
-    5:
+    perms_condense:
       type: permission
       permission: "essentials.condense"
       item:
@@ -65,7 +66,7 @@ perks:
       buyPrice: 20000
       sellPrice: -1
       slot: 4
-    6:
+    perms_disposal:
       type: permission
       permission: "essentials.disposal"
       item:
@@ -75,7 +76,7 @@ perks:
       buyPrice: 20000
       sellPrice: -1
       slot: 5
-    7:
+    perms_bp:
       type: permission
       permission: "backpack.use"
       item:
@@ -88,7 +89,7 @@ perks:
       buyPrice: 50000
       sellPrice: -1
       slot: 18
-    8:
+    perms_bp_2:
       type: permission
       permission: "backpack.size.2"
       item:
