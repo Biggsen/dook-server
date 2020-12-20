@@ -14,11 +14,14 @@ perks:
   items:
     1:
       type: permission
-      permission: "essentials.back"
+      permission: "essentials.back.ondeath"
       item:
         material: PAPER
         quantity: 1
         name: "Get access to /back"
+        lore:
+        - "Enables you to teleport back to the place you last died."
+        - "Never lose your stuff again!"
       buyPrice: 20000
       sellPrice: -1
       slot: 0
