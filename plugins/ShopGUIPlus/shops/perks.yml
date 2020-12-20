@@ -78,7 +78,9 @@ perks:
       slot: 5
     perms_bp:
       type: permission
-      permission: "backpack.use"
+      permissions:
+        - "backpack.use"
+        - "shopguiplus.item.perks.perms_bp_2"
       item:
         material: CHEST
         quantity: 1
@@ -91,7 +93,9 @@ perks:
       slot: 18
     perms_bp_2:
       type: permission
-      permission: "backpack.size.2"
+      permissions:
+        - "backpack.size.2"
+        - "shopguiplus.item.perks.perms_bp_3"
       item:
         material: CHEST
         quantity: 1
@@ -101,3 +105,45 @@ perks:
       buyPrice: 20000
       sellPrice: -1
       slot: 19
+    perms_bp_3:
+      type: permission
+      permissions:
+        - "backpack.size.3"
+        - "shopguiplus.item.perks.perms_bp_4"
+      item:
+        material: CHEST
+        quantity: 1
+        name: "Third backpack row"
+        lore:
+          - "Get 9 more slots in your backpack"
+      buyPrice: 25000
+      sellPrice: -1
+      slot: 20
+    perms_bp_4:
+      type: permission
+      permissions:
+        - "backpack.size.4"
+        - "shopguiplus.item.perks.perms_bp_5"
+      item:
+        material: CHEST
+        quantity: 1
+        name: "Fourth backpack row"
+        lore:
+          - "Get 9 more slots in your backpack"
+      buyPrice: 30000
+      sellPrice: -1
+      slot: 21
+    perms_bp_5:
+      type: permission
+      permissions:
+        - "backpack.size.5"
+        - "shopguiplus.item.perks.perms_bp_6"
+      item:
+        material: CHEST
+        quantity: 1
+        name: "Fifth backpack row"
+        lore:
+          - "Get 9 more slots in your backpack"
+      buyPrice: 35000
+      sellPrice: -1
+      slot: 22
