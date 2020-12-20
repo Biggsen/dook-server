@@ -147,3 +147,77 @@ perks:
       buyPrice: 35000
       sellPrice: -1
       slot: 22
+    perms_home_3:
+      type: permission
+      permissions:
+        - "essentials.sethome.multiple.3"
+        - "shopguiplus.item.perks.perms_home_4"
+      item:
+        material: WHITE_BED
+        quantity: 1
+        name: "Get 3 homes"
+        lore:
+          - "Get a total of 3 homes"
+      buyPrice: 30000
+      sellPrice: -1
+      slot: 27
+    perms_home_4:
+      type: permission
+      permissions:
+        - "essentials.sethome.multiple.4"
+        - "shopguiplus.item.perks.perms_home_5"
+      item:
+        material: WHITE_BED
+        quantity: 1
+        name: "Get 4 homes"
+        lore:
+          - "Get a total of 4 homes"
+      buyPrice: 35000
+      sellPrice: -1
+      slot: 28
+    perms_home_5:
+      type: permission
+      permissions:
+        - "essentials.sethome.multiple.5"
+        - "shopguiplus.item.perks.perms_home_6"
+      item:
+        material: WHITE_BED
+        quantity: 1
+        name: "Get 5 homes"
+        lore:
+          - "Get a total of 5 homes"
+      buyPrice: 40000
+      sellPrice: -1
+      slot: 29
+    perms_home_6:
+      type: permission
+      permissions:
+        - "essentials.sethome.multiple.6"
+        - "shopguiplus.item.perks.perms_home_7"
+      item:
+        material: WHITE_BED
+        quantity: 1
+        name: "Get 6 homes"
+        lore:
+          - "Get a total of 6 homes"
+      buyPrice: 45000
+      sellPrice: -1
+      slot: 30
+    perms_home_7:
+      type: permission
+      permissions:
+        - "essentials.sethome.multiple.7"
+        - "shopguiplus.item.perks.perms_home_8"
+      item:
+        material: WHITE_BED
+        quantity: 1
+        name: "Get 7 homes"
+        lore:
+          - "Get a total of 7 homes"
+      buyPrice: 50000
+      sellPrice: -1
+      slot: 31
+    money:
+      type: special
+      special: BALANCE
+      slot: 44
