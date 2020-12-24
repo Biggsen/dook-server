@@ -1,0 +1,27 @@
+voterewards:
+  name: "&2&lVote Rewards"
+  size: 45
+  fillItem:
+    material: BLACK_STAINED_GLASS_PANE
+    name: " "
+  buttons:
+    goBack:
+      slot: 40
+  items:
+    claimblocks:
+      type: command
+      commands:
+        - "lp user %PLAYER% permission clear vote=rewards"
+        - "lp user %PLAYER% permission set voterewards.claimblocks vote=rewards"
+      item:
+        material: GRASS_BLOCK
+        quantity: 1
+        name: "Set the vote reward to claimblocks"
+        lore:
+          - "Get 15 claimblocks for every vote"
+      buyPrice: 10000
+      slot: 0
+    money:
+      type: special
+      special: BALANCE
+      slot: 44

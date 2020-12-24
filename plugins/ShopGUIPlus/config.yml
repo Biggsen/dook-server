@@ -631,7 +631,14 @@ shopMenuItems:
       name: "&9&lClaimblocks"
     shop: "claimblocks"
     slot: 20
-  13:
+  # vote_rewards:
+  #   item:
+  #     material: GOLD_INGOT
+  #     quantity: 1
+  #     name: "&2&lVote Rewards"
+  #   shop: "voterewards"
+  #   slot: 21
+  money:
     type: special
     special: balance
     slot: 44
