@@ -53,10 +53,9 @@ rewards:
   - if:
       permission: suberbvote.claimblocks
       chance: 1
-      service: VoteReward
     commands:
     - adjustbonusclaimblocks %player% 15
-    player-message: "&aThanks for voting for us on %service%, you have been rewarded with 0 claimblocks."
+    player-message: "&aThanks for voting for us on %service%, you have been rewarded with 15 claimblocks."
     broadcast-message: "&a%player% has voted for us on %service% and was rewarded with 15 claimblocks!"
   # A default reward is required. Default rewards are defined by using default: true as a matcher. No other matchers can
   # be used with this matcher and only one such reward can be the default reward.
@@ -105,7 +104,8 @@ vote-command:
     &c&lVote 4 &8&l»&r https://topg.org/Minecraft/in-620360
     &c&lVote 5 &8&l»&r https://minecraft-server.net/vote/verzion/
     &c&lVote 6 &8&l»&r https://topminecraftservers.org/vote/14699
-    &c&lVote 7 &8&l»&r https://minecraft-server-list.com/server/470601/vote/
+
+# Not working: &c&lVote 6 &8&l»&r https://minecraft-server-list.com/server/470601/vote/
 
 # Vote reminder.
 vote-reminder:
