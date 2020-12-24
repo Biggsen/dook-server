@@ -567,13 +567,6 @@ shopMenuItems:
   #     name: "&8&lTools"
   #   shop: "tools"
   #   slot: 14
-  # 5:
-  #   item:
-  #     material: DIAMOND_CHESTPLATE
-  #     quantity: 1
-  #     name: "&4&lArmor"
-  #   shop: "armor"
-  #   slot: 15
   3:
     item:
       material: WHEAT
@@ -595,6 +588,13 @@ shopMenuItems:
       name: "&3&lOres"
     shop: "ores"
     slot: 4
+  6:
+    item:
+      material: IRON_CHESTPLATE
+      quantity: 1
+      name: "&4&lArmor"
+    shop: "armor"
+    slot: 5
   # 8:
   #   item:
   #     material: LIGHT_BLUE_DYE

@@ -528,3 +528,23 @@ permissions:
       special: BALANCE
       slot: 44
       page: 5
+    600:
+      type: permission
+      permissions:
+        - "shopguiplus.item.armor.leather_helmet"
+        - "shopguiplus.item.armor.leather_chestplate"
+        - "shopguiplus.item.armor.leather_leggings"
+        - "shopguiplus.item.armor.leather_boots"
+      item:
+        material: LEATHER_CHESTPLATE
+        quantity: 1
+        name: "Buy and sell leather armor in the armor shop"
+      buyPrice: 1000
+      sellPrice: -1
+      slot: 0
+      page: 6
+    money6:
+      type: special
+      special: BALANCE
+      slot: 44
+      page: 6
