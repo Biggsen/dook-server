@@ -1,0 +1,1215 @@
+#######################################################################################################
+# Version: 1.4.0                                                                                #
+# By: Xyaafol                                                                                         #
+# Commands:                                                                                           #
+# /vmreload - Reloads the plugin with settings changed in this file. Requires OP.                     #
+# /vmbook - Gives the player a book example of the book used for the book restriction. Requires OP.   #
+#######################################################################################################
+
+# begin: Time in ticks that villagers can be traded from (day starts at 1000 ticks). Set to 2000 by default.
+# end: time in ticks that villagers can be traded until (night starts at 13000 ticks). Set to 8999 by default.
+# alert: sends a message to the player if enabled to tell them that the villager is ony available during work hours.
+
+Work:
+  begin: 2000
+  end: 8999
+
+
+# alert: Sends an alert to the players when they interact with an unavailable villager.
+# on: 0 for off, 1 for on.
+# message: The alert that will be sent to the player if alert is on.
+
+AlertOn: 1
+AlertMessage: "This villager is outside of its work times"
+
+
+
+# allVillagers: sets an override for all villagers
+# restricted: Value of 0 by default means that only villagers with trades containing restricted books are bound by Work begin and Work end.
+#Set to 1 for all villagers to be restricted.
+# disablexp: Value of 0 by default, change to 1 to disable player gaining xp from all trades.
+# levelmax: Value of 0 by default, change to 1 in order to give all villagers max xp when first interacting with them. Players will then only have to trade once each time to level them up
+#Use in the case that you want all villager trades to be alot more accessable to the players.
+
+
+allVillagers:
+  restricted: 1
+  disablexp: 0
+  levelmax: 0
+
+
+# TradesOff: Set this to 1 in order to disable all villager trades. Good for completely removing the trading aspect of the game.
+#Do not set this value to anything other than 0 or 1. This will stop the plugin from changing trades at all.
+
+TradesOff: 0
+
+
+
+# CustomItem: Add the bukkit name of any item here that villagers sell to alter its trade.
+#Copy the example of clock at the bottom of the config in order to edit the changes to the trade.
+
+CustomItem:
+  - "CLOCK"
+  - "COAL_ORE"
+  - "IRON_HELMET"
+
+
+
+# enchantments: Enter any enchantments here and then their corresponding restrictions below
+#Please ensure that all enchantments are spelt correctly and have the level following a colon after them
+#Use underscores for all spaces in enchantment names
+#Enchantments with no level normally attached to them should be written as 'silk_touch:1"
+
+enchantments:
+- "aqua_affinity:1"
+- "bane_of_arthropods:1"
+- "bane_of_arthropods:2"
+- "bane_of_arthropods:3"
+- "bane_of_arthropods:4"
+- "bane_of_arthropods:5"
+- "blast_protection:1"
+- "blast_protection:2"
+- "blast_protection:3"
+- "blast_protection:4"
+- "channeling:1"
+- "curse_of_binding:1"
+- "curse_of_vanishing:1"
+- "depth_strider:1"
+- "depth_strider:2"
+- "depth_strider:3"
+- "efficiency:1"
+- "efficiency:2"
+- "efficiency:3"
+- "efficiency:4"
+- "efficiency:5"
+- "feather_falling:1"
+- "feather_falling:2"
+- "feather_falling:3"
+- "feather_falling:4"
+- "fire_aspect:1"
+- "fire_aspect:2"
+- "fire_protection:1"
+- "fire_protection:2"
+- "fire_protection:3"
+- "fire_protection:4"
+- "flame:1"
+- "fortune:1"
+- "fortune:2"
+- "fortune:3"
+- "frost_walker:1"
+- "frost_walker:2"
+- "impaling:1"
+- "impaling:2"
+- "impaling:3"
+- "impaling:4"
+- "impaling:5"
+- "infinity:1"
+- "knockback:1"
+- "knockback:2"
+- "looting:1"
+- "looting:2"
+- "looting:3"
+- "loyality:1"
+- "loyality:2"
+- "loyality:3"
+- "luck_of_the_sea:1"
+- "luck_of_the_sea:2"
+- "luck_of_the_sea:3"
+- "lure:1"
+- "lure:2"
+- "lure:3"
+- "mending:1"
+- "multishot:1"
+- "piercing:1"
+- "piercing:2"
+- "piercing:3"
+- "piercing:4"
+- "power:1"
+- "power:2"
+- "power:3"
+- "power:4"
+- "power:5"
+- "projectile_protection:1"
+- "projectile_protection:2"
+- "projectile_protection:3"
+- "projectile_protection:4"
+- "protection:1"
+- "protection:2"
+- "protection:3"
+- "protection:4"
+- "punch:1"
+- "punch:2"
+- "quick_charge:1"
+- "quick_charge:2"
+- "quick_charge:3"
+- "respiration:1"
+- "respiration:2"
+- "respiration:3"
+- "riptide:1"
+- "riptide:2"
+- "riptide:3"
+- "sharpness:1"
+- "sharpness:2"
+- "sharpness:3"
+- "sharpness:4"
+- "sharpness:5"
+- "silk_touch:1"
+- "smite:1"
+- "smite:2"
+- "smite:3"
+- "smite:4"
+- "smite:5"
+- "soul_speed:1"
+- "soul_speed:2"
+- "soul_speed:3"
+- "sweeping_edge:1"
+- "sweeping_edge:2"
+- "sweeping_edge:3"
+- "thorns:1"
+- "thorns:2"
+- "thorns:3"
+- "unbreaking:1"
+- "unbreaking:2"
+- "unbreaking:3"
+
+
+# Book-Title: Controls the title of the book in the 'book' control for trades
+# Book-Lore: Controls the lore of the book in the 'book' control for trades.
+
+Book:
+  Title: "§aVillager Trade Book"
+  Lore: "Trade Value:1"
+
+
+# mending: Copy this block of code and change the enchantment name to any that you would like to control.
+#Use the same name as under enchantments but with the colon replaced with an underscore.
+
+# restricted: Controls if villagers with this enchanted book follow the begin and end times above.
+#Value of 0 by default for work time restrictions active on mending. Set to 0 for time restrictions off.
+
+# change: Controls if villagers with this enchanted book have the trade containing said book changed to the following material, cost, book, and uses set below.
+#Value of 0 by default, set to 1 to activate changed trades.
+
+# xpvalue: Controls the amount of experience the villager gains for their profession level when this trade is used.
+#Value of 2 by default, would require 10 trades to reach the second villager level. Use the xp scale to keep the trade xp working at all levels.
+#Recommended to keep at 1 or 2 any more will make it very easy to level up using the trade.
+
+# xpscale: Toggles the setting to allow or stop the scaling of xp in relation to the villager level. If disabled trades will reward alot less villager xp after one each level up.
+#Value of 1 by default, recommended to keep at 1 unless you know more about villager trade levels.
+
+# material: Controls the item that is used in place of emeralds in the trade. Must be all caps and offical bukkit names.
+#Default EMERALD, examples; EMERALD_BLOCK, DIAMOND, DIAMOND_BLOCK
+
+# cost: Number of the material item needed for the trade.
+#Value of 64 by default. Obeys default material stack count.
+
+# book: Changes book needed for the trade to a custom book. Set to 0 for normal book trade.
+#Value of 0 by default. Used for making mending trades only possible with create or kit rewards. Use /vmbook to recieve a copy for setup.
+
+# uses:Number of times the trade can be used before the villager restocks.
+#Anywhere from 0 for cant trade at all to 9999 for infinite trades. Default 1.
+#Villagers will still restock up to 2 times per day.
+
+aqua_affinity_1:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD›
+  cost: 5
+  book: 0
+  uses: 1
+bane_of_arthropods_1:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 1
+  book: 0
+  uses: 1
+bane_of_arthropods_2:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 2
+  book: 0
+  uses: 1
+bane_of_arthropods_3:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 4
+  book: 0
+  uses: 1
+bane_of_arthropods_4:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 7
+  book: 0
+  uses: 1
+bane_of_arthropods_5:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 13
+  book: 0
+  uses: 1
+blast_protection_1:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 2
+  book: 0
+  uses: 1
+blast_protection_2:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 3
+  book: 0
+  uses: 1
+blast_protection_3:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 5
+  book: 0
+  uses: 1
+blast_protection_4:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 10
+  book: 0
+  uses: 1
+channeling_1:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 23
+  book: 0
+  uses: 1
+curse_of_binding_1:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 10
+  book: 0
+  uses: 1
+curse_of_vanishing_1:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 10
+  book: 0
+  uses: 1
+depth_strider_1:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 4
+  book: 0
+  uses: 1
+depth_strider_2:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 8
+  book: 0
+  uses: 1
+depth_strider_3:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 15
+  book: 0
+  uses: 1
+efficiency_1:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 2
+  book: 0
+  uses: 1
+efficiency_2:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 3
+  book: 0
+  uses: 1
+efficiency_3:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 5
+  book: 0
+  uses: 1
+efficiency_4:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 9
+  book: 0
+  uses: 1
+efficiency_5:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 18
+  book: 0
+  uses: 1
+feather_falling_1:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 1
+  book: 0
+  uses: 1
+feather_falling_2:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 2
+  book: 0
+  uses: 1
+feather_falling_3:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 3
+  book: 0
+  uses: 1
+feather_falling_4:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 6
+  book: 0
+  uses: 1
+fire_aspect_1:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 10
+  book: 0
+  uses: 1
+fire_aspect_2:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 19
+  book: 0
+  uses: 1
+fire_protection_1:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 2
+  book: 0
+  uses: 1
+fire_protection_2:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 3
+  book: 0
+  uses: 1
+fire_protection_3:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 5
+  book: 0
+  uses: 1
+fire_protection_4:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 10
+  book: 0
+  uses: 1
+flame_1:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 14
+  book: 0
+  uses: 1
+fortune_1:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 4
+  book: 0
+  uses: 1
+fortune_2:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 8
+  book: 0
+  uses: 1
+fortune_3:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 15
+  book: 0
+  uses: 1
+frost_walker_1:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 10
+  book: 0
+  uses: 1
+frost_walker_2:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 19
+  book: 0
+  uses: 1
+impaling_1:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 1
+  book: 0
+  uses: 1
+impaling_2:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 2
+  book: 0
+  uses: 1
+impaling_3:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 4
+  book: 0
+  uses: 1
+impaling_4:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 7
+  book: 0
+  uses: 1
+impaling_5:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 14
+  book: 0
+  uses: 1
+infinity_1:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 23
+  book: 0
+  uses: 1
+knockback_1:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 3
+  book: 0
+  uses: 1
+knockback_2:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 5
+  book: 0
+  uses: 1
+looting_1:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 3
+  book: 0
+  uses: 1
+looting_2:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 6
+  book: 0
+  uses: 1
+looting_3:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 12
+  book: 0
+  uses: 1
+loyality_1:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 2
+  book: 0
+  uses: 1
+loyality_2:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 4
+  book: 0
+  uses: 1
+loyality_3:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 10
+  book: 0
+  uses: 1
+luck_of_the_sea_1:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 2
+  book: 0
+  uses: 1
+luck_of_the_sea_2:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 4
+  book: 0
+  uses: 1
+luck_of_the_sea_3:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 10
+  book: 0
+  uses: 1
+lure_1:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 2
+  book: 0
+  uses: 1
+lure_2:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 4
+  book: 0
+  uses: 1
+lure_3:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 8
+  book: 0
+  uses: 1
+mending_1:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 23
+  book: 0
+  uses: 1
+multishot_1:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 13
+  book: 0
+  uses: 1
+piercing_1:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 2
+  book: 0
+  uses: 1
+piercing_2:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 3
+  book: 0
+  uses: 1
+piercing_3:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 5
+  book: 0
+  uses: 1
+piercing_4:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 9
+  book: 0
+  uses: 1
+power_1:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 2
+  book: 0
+  uses: 1
+power_2:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 3
+  book: 0
+  uses: 1
+power_3:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 5
+  book: 0
+  uses: 1
+power_4:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 10
+  book: 0
+  uses: 1
+power_5:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 20
+  book: 0
+  uses: 1
+projectile_protection_1:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 2
+  book: 0
+  uses: 1
+projectile_protection_2:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 3
+  book: 0
+  uses: 1
+projectile_protection_3:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 5
+  book: 0
+  uses: 1
+projectile_protection_4:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 10
+  book: 0
+  uses: 1
+protection_1:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 2
+  book: 0
+  uses: 1
+protection_2:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 4
+  book: 0
+  uses: 1
+protection_3:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 8
+  book: 0
+  uses: 1
+protection_4:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 15
+  book: 0
+  uses: 1
+punch_1:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 6
+  book: 0
+  uses: 1
+punch_2:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 12
+  book: 0
+  uses: 1
+quick_charge_1:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 2
+  book: 0
+  uses: 1
+quick_charge_2:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 4
+  book: 0
+  uses: 1
+quick_charge_3:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 10
+  book: 0
+  uses: 1
+respiration_1:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 2
+  book: 0
+  uses: 1
+respiration_2:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 3
+  book: 0
+  uses: 1
+respiration_3:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 5
+  book: 0
+  uses: 1
+riptide_1:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 2
+  book: 0
+  uses: 1
+riptide_2:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 4
+  book: 0
+  uses: 1
+riptide_3:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 10
+  book: 0
+  uses: 1
+sharpness_1:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 2
+  book: 0
+  uses: 1
+sharpness_2:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 3
+  book: 0
+  uses: 1
+sharpness_3:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 5
+  book: 0
+  uses: 1
+sharpness_4:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 10
+  book: 0
+  uses: 1
+sharpness_5:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 20
+  book: 0
+  uses: 1
+silk_touch_1:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 23
+  book: 0
+  uses: 1
+smite_1:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 1
+  book: 0
+  uses: 1
+smite_2:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 2
+  book: 0
+  uses: 1
+smite_3:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 4
+  book: 0
+  uses: 1
+smite_4:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 7
+  book: 0
+  uses: 1
+smite_5:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 13
+  book: 0
+  uses: 1
+soul_speed_1:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 5
+  book: 0
+  uses: 1
+soul_speed_2:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 10
+  book: 0
+  uses: 1
+soul_speed_3:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 23
+  book: 0
+  uses: 1
+sweeping_edge_1:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 6
+  book: 0
+  uses: 1
+sweeping_edge_2:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 12
+  book: 0
+  uses: 1
+sweeping_edge_3:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 23
+  book: 0
+  uses: 1
+thorns_1:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 8
+  book: 0
+  uses: 1
+thorns_2:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 15
+  book: 0
+  uses: 1
+thorns_3:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 30
+  book: 0
+  uses: 1
+unbreaking_1:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 2
+  book: 0
+  uses: 1
+unbreaking_2:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 4
+  book: 0
+  uses: 1
+unbreaking_3:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 8
+  book: 0
+  uses: 1
+
+
+#Example for custom item restriction. Does not have the option for 'book' as most trades are just emeralds.
+
+CLOCK:
+  restricted: 0
+  change: 1
+  xpvalue: 2
+  xpscale: 1
+  material: EMERALD
+  cost: 64
+  uses: 1
+
