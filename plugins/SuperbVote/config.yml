@@ -51,14 +51,13 @@ rewards:
   # Example of matchers. See https://github.com/minecrafter/SuperbVote/wiki/Configuration#if for a full list of available
   # matchers.
   - if:
-      permission: superbvote.test
-      chance-percentage: 5
-      service: SpecialService
+      permission: suberbvote.claimblocks
+      chance: 1
+      service: VoteReward
     commands:
-    - give %player% diamond 4
-    - eco give %player% 1000
-    player-message: "&aThanks for meeting nearly impossible conditions, you have been rewarded with 4 diamonds and $1000."
-    broadcast-message: "&a%player% got really lucky and was rewarded with 4 diamonds and $1000!"
+    - adjustbonusclaimblocks %player% 15
+    player-message: "&aThanks for voting for us on %service%, you have been rewarded with 0 claimblocks."
+    broadcast-message: "&a%player% has voted for us on %service% and was rewarded with 15 claimblocks!"
   # A default reward is required. Default rewards are defined by using default: true as a matcher. No other matchers can
   # be used with this matcher and only one such reward can be the default reward.
   - if:
