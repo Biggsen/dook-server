@@ -12,7 +12,7 @@ voterewards:
       type: command
       commands:
         - "lp user %PLAYER% permission clear vote=rewards"
-        - "lp user %PLAYER% permission set voterewards.claimblocks vote=rewards"
+        - "lp user %PLAYER% permission set suberbvote.claimblocks vote=rewards"
       item:
         material: GRASS_BLOCK
         quantity: 1
