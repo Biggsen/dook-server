@@ -84,6 +84,16 @@ permissions:
       buyPrice: 1000
       sellPrice: -1
       slot: 6
+    gravel:
+      type: permission
+      permission: "shopguiplus.item.blocks.gravel"
+      item:
+        material: GRAVEL
+        quantity: 1
+        name: "Buy and sell gravel in the blocks shop"
+      buyPrice: 1000
+      sellPrice: -1
+      slot: 7
     money1:
       type: special
       special: BALANCE
@@ -193,6 +203,7 @@ permissions:
       special: BALANCE
       slot: 44
       page: 2
+
     # farming
     30:
       type: permission
@@ -271,11 +282,23 @@ permissions:
       sellPrice: -1
       slot: 6
       page: 3
+    37:
+      type: permission
+      permission: "shopguiplus.item.farming.sugar_cane"
+      item:
+        material: SUGAR_CANE
+        quantity: 1
+        name: "Buy and sell sugar cane in the farming shop"
+      buyPrice: 1000
+      sellPrice: -1
+      slot: 7
+      page: 3
     money3:
       type: special
       special: BALANCE
       slot: 44
       page: 3
+
     # drops
     400:
       type: permission

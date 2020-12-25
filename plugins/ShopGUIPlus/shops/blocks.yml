@@ -80,14 +80,16 @@ blocks:
       buyPrice: 128
       sellPrice: 38
       slot: 6
-    # 3:
-    #   type: item
-    #   item:
-    #     material: GRAVEL
-    #     quantity: 64
-    #   buyPrice: 50
-    #   sellPrice: 5
-    #   slot: 12
+    gravel:
+      type: item
+      item:
+        material: GRAVEL
+        quantity: 32
+        lore:
+          - "$3.00/$0.91 each"
+      buyPrice: 96
+      sellPrice: 29
+      slot: 7
     # 5:
     #   type: item
     #   item:

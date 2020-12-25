@@ -79,6 +79,16 @@ farming:
       buyPrice: 80
       sellPrice: 24
       slot: 6
+    sugar_cane:
+      type: item
+      item:
+        material: SUGAR_CANE
+        quantity: 32
+        lore:
+          - "$3.00/$0.91 each"
+      buyPrice: 96
+      sellPrice: 29
+      slot: 7
     # 4:
     #   type: item
     #   item:
@@ -95,14 +105,6 @@ farming:
     #   buyPrice: 50
     #   sellPrice: 5
     #   slot: 14
-    # 6:
-    #   type: item
-    #   item:
-    #     material: SUGAR_CANE
-    #     quantity: 16
-    #   buyPrice: 50
-    #   sellPrice: 5
-    #   slot: 15
     # 10:
     #   type: item
     #   item:
