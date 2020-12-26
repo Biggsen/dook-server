@@ -1,0 +1,794 @@
+(00:00:41) Zonelesi failed Interact check | interact block through solid (through: LIME_CONCRETE, block:CHEST) (+1) | vl:1 ping:25 tps:20.0 lp:29 component: interact.through
+(00:02:41) Zonelesi failed Speed check | t: spin (+10) | vl:10 ping:37 tps:20.0 lp:13 component: speed.spin
+(00:07:07) LethalLuck failed Speed check | suspicious movement (move: 0.324, vet: 0.389, tag: d) (+8) | vl:8 ping:115 tps:20.0 lp:7 component: speed.main
+(00:07:07) LethalLuck failed Fly check | suspicious movement:0.272 predict:0.17 vel:0.165 air_t:3 tag:vt (+5) | vl:5 ping:115 tps:20.0 lp:7 component: fly.main
+(00:07:07) LethalLuck failed Fly check | suspicious movement:0.188 predict:0.088 vel:0.083 air_t:4 tag:vt (+5) | vl:10 ping:115 tps:20.0 lp:7 component: fly.main
+(00:10:22) LethalLuck failed Fly check | suspicious movement:0.362 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:5 ping:131 tps:20.0 lp:11 component: fly.main
+(00:10:22) LethalLuck failed Fly check | suspicious movement:0.362 predict:0.276 air_t:2 tag:sam (+5) | vl:10 ping:131 tps:20.0 lp:11 component: fly.main
+(00:10:22) LethalLuck failed Fly check | suspicious movement:0.362 predict:0.253 vel:0.248 air_t:2 tag:vt (+5) | vl:15 ping:131 tps:20.0 lp:11 component: fly.main
+(00:10:30) Zonelesi failed Interact check | interact block through solid (through: GRANITE, block:CHEST) (+1) | vl:1 ping:18 tps:20.0 lp:29 component: interact.through
+(00:10:32) Zonelesi failed Interact check | interact block through solid (through: LIME_CONCRETE, block:CHEST) (+1) | vl:2 ping:36 tps:20.0 lp:37 component: interact.through
+(00:11:40) LethalLuck failed Block check | break block without delay (+4) | vl:4 ping:138 tps:20.0 lp:17 component: blk.fb.dly
+(00:11:57) LethalLuck failed Fly check | suspicious movement:0.364 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:5 ping:120 tps:20.0 lp:14 component: fly.main
+(00:11:57) LethalLuck failed Fly check | suspicious movement:0.364 predict:0.278 air_t:2 tag:sam (+5) | vl:10 ping:120 tps:20.0 lp:14 component: fly.main
+(00:11:57) LethalLuck failed Fly check | suspicious movement:0.364 predict:0.253 vel:0.248 air_t:2 tag:vt (+5) | vl:15 ping:120 tps:20.0 lp:14 component: fly.main
+(00:15:48) Zonelesi failed Scaffold check | scaffold-like placement | type N (+7) | vl:7 ping:51 tps:20.0 lp:19 component: sfd.place.n
+(00:17:22) LethalLuck failed Fly check | suspicious movement:0.388 predict:0.301 air_t:1 tag:sam (+5) | vl:5 ping:116 tps:20.0 lp:5 component: fly.main
+(00:17:22) LethalLuck failed Fly check | suspicious movement:0.388 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:10 ping:116 tps:20.0 lp:5 component: fly.main
+(00:19:47) LethalLuck failed Speed check | suspicious movement (move: 0.319, vet: 0.398, tag: d) (+8) | vl:8 ping:111 tps:20.0 lp:8 component: speed.main
+(00:19:47) LethalLuck failed Fly check | suspicious movement:0.29 predict:0.17 vel:0.165 air_t:3 tag:vt (+5) | vl:5 ping:111 tps:20.0 lp:8 component: fly.main
+(00:19:47) LethalLuck failed Fly check | suspicious movement:0.206 predict:0.088 vel:0.083 air_t:4 tag:vt (+5) | vl:10 ping:111 tps:20.0 lp:8 component: fly.main
+(00:25:23) LethalLuck failed Speed check | suspicious movement (move: 0.324, vet: 0.396, tag: d) (+8) | vl:8 ping:116 tps:20.0 lp:3 component: speed.main
+(00:25:23) LethalLuck failed Fly check | suspicious movement:0.286 predict:0.17 vel:0.165 air_t:3 tag:vt (+5) | vl:5 ping:116 tps:20.0 lp:3 component: fly.main
+(00:25:23) LethalLuck failed Fly check | suspicious movement:0.202 predict:0.088 vel:0.083 air_t:4 tag:vt (+5) | vl:10 ping:116 tps:20.0 lp:3 component: fly.main
+(00:27:06) LethalLuck failed Speed check | suspicious movement (move: 0.489, vet: 0.387, tag: d) (+8) | vl:8 ping:111 tps:20.0 lp:3 component: speed.main
+(00:27:06) LethalLuck failed Speed check | suspicious movement (move: 0.485, expect: 0.3665, tag: ea) (+5) | vl:13 ping:111 tps:20.0 lp:3 component: speed.main
+(00:27:06) LethalLuck failed Speed check | suspicious movement (move: 0.492, expect: 0.3665, tag: ea) (+5) | vl:18 ping:111 tps:20.0 lp:3 component: speed.main
+(00:27:06) LethalLuck failed Speed check | suspicious movement (move: 0.492, predict: 0.467, friction: 0.6, ground:false, motY: 0.355, increase:0.026, preMove:0.441, motion: -0.004,0.355,-0.492, attribute: 0.13, cm: false, di: false, tag: pred) (+5) | vl:23 ping:111 tps:20.0 lp:3 component: move.xz
+(00:27:06) LethalLuck failed Speed check | suspicious movement (move: 0.473, expect: 0.3665, tag: ea) (+5) | vl:28 ping:111 tps:20.0 lp:3 component: speed.main
+(00:27:06) LethalLuck failed Fly check | suspicious movement:0.269 predict:0.17 vel:0.165 air_t:3 tag:vt (+5) | vl:5 ping:111 tps:20.0 lp:3 component: fly.main
+(00:29:14) Zonelesi failed KillAura check | (onehit) attack in an abnormal state (pattern: #09, val: 4) (+4) | vl:4 ping:48 tps:20.0 lp:37 component: ka.one.9
+(00:29:15) Zonelesi failed KillAura check | (onehit) attack in an abnormal state (pattern: #09, val: 4) (+4) | vl:8 ping:48 tps:20.0 lp:37 component: ka.one.9
+(00:29:53) Zonelesi failed HitBox check | missed entity hitbox (entity: enderman, angle: 151.612, move: true) (+2) | vl:2 ping:49 tps:20.0 lp:34 component: hb.mis
+(00:29:54) Zonelesi failed HitBox check | missed entity hitbox (entity: enderman, angle: 150.429, move: false) (+2) | vl:4 ping:49 tps:20.0 lp:34 component: hb.mis
+(00:32:53) LethalLuck failed Chat check | chat too fast | delay: 1758 (+1) | vl:1 ping:110 tps:20.0 lp:8 component: chat.delay
+(00:32:54) LethalLuck failed Chat check | chat too fast | delay: 785 (+1) | vl:2 ping:110 tps:20.0 lp:8 component: chat.delay
+(00:33:51) Zonelesi failed HitBox check | missed entity hitbox (entity: enderman, angle: 89.673, move: true) (+2) | vl:2 ping:63 tps:20.0 lp:32 component: hb.mis
+(00:33:52) Zonelesi failed HitBox check | missed entity hitbox (entity: enderman, angle: 85.549, move: false) (+2) | vl:4 ping:63 tps:20.0 lp:32 component: hb.mis
+(00:33:52) Zonelesi failed HitBox check | missed entity hitbox (entity: enderman, angle: 57.945, move: true) (+1) | vl:5 ping:63 tps:20.0 lp:32 component: hb.mis
+(00:33:52) Zonelesi failed HitBox check | missed entity hitbox (entity: enderman, angle: 54.198, move: true) (+1) | vl:6 ping:63 tps:20.0 lp:30 component: hb.mis
+(00:33:53) Zonelesi failed HitBox check | missed entity hitbox (entity: enderman, angle: 46.398, move: false) (+1) | vl:7 ping:63 tps:20.0 lp:30 component: hb.mis
+(00:35:16) LethalLuck failed Chat check | chat too fast | delay: 2574 (+1) | vl:1 ping:122 tps:20.0 lp:5 component: chat.delay
+(00:35:46) Zonelesi failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:48 tps:20.0 lp:20 component: interact.through
+(00:36:09) Zonelesi failed Interact check | interact block through solid (through: LIME_CONCRETE, block:CHEST) (+1) | vl:1 ping:46 tps:20.0 lp:18 component: interact.through
+(00:36:23) Zonelesi failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:2 ping:46 tps:20.0 lp:20 component: interact.through
+(00:36:29) Zonelesi failed Interact check | interact block through solid (through: LIME_CONCRETE, block:CHEST) (+1) | vl:3 ping:46 tps:20.0 lp:56 component: interact.through
+(00:36:50) LethalLuck failed Speed check | suspicious movement (move: 0.46, vet: 0.383, tag: d) (+8) | vl:8 ping:111 tps:20.0 lp:4 component: speed.main
+(00:36:50) LethalLuck failed Speed check | suspicious movement (move: 0.455, expect: 0.3665, tag: ea) (+5) | vl:13 ping:111 tps:20.0 lp:4 component: speed.main
+(00:36:50) LethalLuck failed Speed check | suspicious movement (move: 0.462, expect: 0.3665, tag: ea) (+5) | vl:18 ping:111 tps:20.0 lp:4 component: speed.main
+(00:36:50) LethalLuck failed Speed check | suspicious movement (move: 0.462, predict: 0.44, friction: 0.6, ground:false, motY: 0.346, increase:0.026, preMove:0.414, motion: 0.258,0.346,-0.383, attribute: 0.13, cm: false, di: false, tag: pred) (+5) | vl:23 ping:111 tps:20.0 lp:4 component: move.xz
+(00:36:50) LethalLuck failed Fly check | suspicious movement:0.346 predict:0.261 air_t:2 tag:sam (+5) | vl:5 ping:111 tps:20.0 lp:4 component: fly.main
+(00:36:50) LethalLuck failed Fly check | suspicious movement:0.346 predict:0.253 vel:0.248 air_t:2 tag:vt (+5) | vl:10 ping:111 tps:20.0 lp:4 component: fly.main
+(00:38:52) LethalLuck failed Fly check | suspicious movement:0.265 predict:0.17 vel:0.083 air_t:3 tag:vt (+5) | vl:5 ping:116 tps:20.0 lp:21 component: fly.main
+(00:38:52) LethalLuck failed Fly check | suspicious movement:0.181 predict:0.088 vel:0.083 air_t:4 tag:vt (+5) | vl:10 ping:116 tps:20.0 lp:21 component: fly.main
+(00:39:00) LethalLuck failed Chat check | chat too fast | delay: 2080 (+1) | vl:1 ping:116 tps:20.0 lp:14 component: chat.delay
+(00:42:48) LethalLuck failed Fly check | suspicious movement:0.338 predict:0.17 vel:0.165 air_t:3 tag:vt (+5) | vl:5 ping:117 tps:19.99 lp:5 component: fly.main
+(00:42:48) LethalLuck failed Fly check | suspicious movement:0.252 predict:0.088 vel:0.083 air_t:4 tag:vt (+5) | vl:10 ping:117 tps:19.99 lp:5 component: fly.main
+(00:43:19) LethalLuck failed Chat check | chat too fast | delay: 1433 (+1) | vl:1 ping:113 tps:20.0 lp:5 component: chat.delay
+(00:43:21) LethalLuck failed Chat check | chat too fast | delay: 1865 (+1) | vl:2 ping:113 tps:20.0 lp:5 component: chat.delay
+(00:43:23) LethalLuck failed Chat check | chat too fast | delay: 1860 (+1) | vl:3 ping:113 tps:20.0 lp:5 component: chat.delay
+(00:50:25) LethalLuck failed KillAura check | (autoclicker) click delay pattern | 1.9+ delay | avg: 249 diff: 9 (+6) | vl:6 ping:116 tps:20.0 lp:9 component: ka.ac.9p
+(00:51:01) LethalLuck failed Chat check | chat too fast | delay: 1521 (+1) | vl:1 ping:117 tps:20.0 lp:12 component: chat.delay
+(00:55:47) Zonelesi failed Scaffold check | scaffold-like placement | type N (+7) | vl:7 ping:29 tps:20.0 lp:9 component: sfd.place.n
+(00:58:56) LethalLuck failed Speed check | suspicious movement (move: 0.463, vet: 0.384, tag: d) (+8) | vl:8 ping:116 tps:20.0 lp:3 component: speed.main
+(00:58:56) LethalLuck failed Speed check | suspicious movement (move: 0.454, expect: 0.3665, tag: ea) (+5) | vl:13 ping:116 tps:20.0 lp:3 component: speed.main
+(00:58:56) LethalLuck failed Speed check | suspicious movement (move: 0.447, expect: 0.3665, tag: ea) (+5) | vl:18 ping:116 tps:20.0 lp:3 component: speed.main
+(00:58:56) LethalLuck failed Fly check | suspicious movement:0.315 predict:0.253 vel:0.248 air_t:2 tag:vt (+5) | vl:5 ping:116 tps:20.0 lp:3 component: fly.main
+(00:59:26) LethalLuck failed Speed check | suspicious movement (move: 0.465, vet: 0.391, tag: d) (+8) | vl:8 ping:115 tps:20.0 lp:10 component: speed.main
+(00:59:26) LethalLuck failed Speed check | suspicious movement (move: 0.46, expect: 0.3665, tag: ea) (+5) | vl:13 ping:115 tps:20.0 lp:10 component: speed.main
+(00:59:26) LethalLuck failed Fly check | suspicious movement:0.363 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:5 ping:115 tps:20.0 lp:10 component: fly.main
+(01:01:17) Zonelesi failed Scaffold check | scaffold-like placement | type N (+7) | vl:7 ping:44 tps:20.0 lp:16 component: sfd.place.n
+(01:03:05) LethalLuck failed Fly check | suspicious movement:0.337 predict:0.252 air_t:3 tag:sam (+5) | vl:5 ping:115 tps:20.0 lp:3 component: fly.main
+(01:03:05) LethalLuck failed Fly check | suspicious movement:0.337 predict:0.17 vel:0.165 air_t:3 tag:vt (+5) | vl:10 ping:115 tps:20.0 lp:3 component: fly.main
+(01:03:09) LethalLuck failed Fly check | suspicious movement:0.336 predict:0.251 air_t:3 tag:sam (+5) | vl:15 ping:115 tps:20.0 lp:5 component: fly.main
+(01:03:09) LethalLuck failed Fly check | suspicious movement:0.336 predict:0.17 vel:0.165 air_t:3 tag:vt (+5) | vl:20 ping:115 tps:20.0 lp:5 component: fly.main
+(01:05:33) LethalLuck failed Fly check | suspicious movement:0.318 predict:0.234 air_t:3 tag:sam (+5) | vl:5 ping:130 tps:20.0 lp:22 component: fly.main
+(01:05:33) LethalLuck failed Fly check | suspicious movement:0.318 predict:0.17 vel:0.165 air_t:3 tag:vt (+5) | vl:10 ping:130 tps:20.0 lp:22 component: fly.main
+(01:07:53) Zonelesi failed Interact check | interact block through solid (through: LIME_CONCRETE, block:CHEST) (+1) | vl:1 ping:26 tps:20.0 lp:27 component: interact.through
+(01:07:58) Zonelesi failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:2 ping:26 tps:20.0 lp:40 component: interact.through
+(01:08:46) Zonelesi failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:25 tps:20.0 lp:57 component: interact.through
+(01:11:05) Zonelesi failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:41 tps:20.0 lp:28 component: interact.through
+(01:12:23) Zonelesi failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:42 tps:20.0 lp:16 component: interact.through
+(01:15:32) Zonelesi failed Block check | break block too fast (digs: 1/3, block: gravel, j: false) (+4) | vl:4 ping:39 tps:20.0 lp:5 component: block.fastbreak.expect
+(01:16:01) Zonelesi failed Interact check | interact block through solid (through: DIRT, block:CHEST) (+1) | vl:1 ping:41 tps:20.0 lp:17 component: interact.through
+(01:17:03) Zonelesi failed Speed check | t: spin (+10) | vl:10 ping:24 tps:20.0 lp:15 component: speed.spin
+(01:17:03) Zonelesi failed Speed check | t: spin (+10) | vl:20 ping:24 tps:20.0 lp:15 component: speed.spin
+(01:17:24) Zonelesi failed Fly check | suspicious movement:0.391 predict:0.305 air_t:1 tag:sam (+5) | vl:5 ping:23 tps:20.0 lp:15 component: fly.main
+(01:17:24) Zonelesi failed Fly check | suspicious movement:0.391 predict:0.338 vel:0.248 air_t:1 tag:vt (+5) | vl:10 ping:23 tps:20.0 lp:15 component: fly.main
+(01:17:25) Zonelesi failed Fly check | suspicious movement:0.391 predict:0.305 air_t:1 tag:sam (+5) | vl:15 ping:23 tps:20.0 lp:15 component: fly.main
+(01:17:25) Zonelesi failed Fly check | suspicious movement:0.391 predict:0.338 vel:0.248 air_t:1 tag:vt (+5) | vl:20 ping:23 tps:20.0 lp:15 component: fly.main
+(01:19:27) LethalLuck failed Fly check | (levitation) move unexpected: 0.0 <> 0.293 level:1 (+5) | vl:5 ping:110 tps:20.0 lp:3 component: fly.levitation
+(01:19:27) LethalLuck failed Fly check | (levitation) move unexpected: 0.0 <> 0.197 level:1 (+5) | vl:10 ping:110 tps:20.0 lp:3 component: fly.levitation
+(01:19:27) LethalLuck failed Fly check | (levitation) move unexpected: 0.0 <> 0.165 level:1 (+5) | vl:15 ping:110 tps:20.0 lp:3 component: fly.levitation
+(01:19:47) LethalLuck failed Fly check | (levitation) move unexpected: 0.0 <> 0.239 level:1 (+5) | vl:5 ping:110 tps:20.0 lp:9 component: fly.levitation
+(01:19:47) LethalLuck failed Fly check | (levitation) move unexpected: 0.0 <> 0.197 level:1 (+5) | vl:10 ping:110 tps:20.0 lp:9 component: fly.levitation
+(01:20:06) LethalLuck failed Fly check | (levitation) move unexpected: -1.484 <> 0.045 level:1 (+5) | vl:5 ping:115 tps:20.0 lp:9 component: fly.levitation
+(01:20:08) LethalLuck failed Fly check | (levitation) move unexpected: -1.015 <> 0.045 level:1 (+5) | vl:10 ping:117 tps:20.0 lp:18 component: fly.levitation
+(01:20:18) LethalLuck failed Fly check | (levitation) move unexpected: -1.151 <> 0.045 level:1 (+5) | vl:15 ping:117 tps:20.0 lp:16 component: fly.levitation
+(01:20:45) Zonelesi failed Speed check | suspicious movement (move: 0.365, vet: 0.387, tag: d) (+8) | vl:8 ping:23 tps:20.0 lp:17 component: speed.main
+(01:20:45) Zonelesi failed Speed check | suspicious movement (move: 0.373, expect: 0.3665, tag: ea) (+5) | vl:13 ping:23 tps:20.0 lp:14 component: speed.main
+(01:20:45) Zonelesi failed Fly check | suspicious movement:0.387 predict:0.3 air_t:1 tag:sam (+5) | vl:5 ping:23 tps:20.0 lp:14 component: fly.main
+(01:23:41) LethalLuck failed Fly check | (levitation) move faster than expected: 2.0000000021606654 (+5) | vl:5 ping:111 tps:20.0 lp:4 component: fly.levitation
+(01:23:41) LethalLuck failed Fly check | (levitation) move faster than expected: 1.9999999879613004 (+5) | vl:10 ping:111 tps:20.0 lp:11 component: fly.levitation
+(01:25:20) LethalLuck failed Fly check | (levitation) move unexpected: 0.0 <> 0.239 level:1 (+5) | vl:5 ping:118 tps:20.0 lp:11 component: fly.levitation
+(01:25:20) LethalLuck failed Fly check | (levitation) move unexpected: 0.0 <> 0.239 level:1 (+5) | vl:10 ping:118 tps:20.0 lp:11 component: fly.levitation
+(01:25:20) LethalLuck failed Fly check | (levitation) move unexpected: 0.0 <> 0.239 level:1 (+5) | vl:15 ping:118 tps:20.0 lp:11 component: fly.levitation
+(01:25:20) LethalLuck failed Fly check | (levitation) move unexpected: 0.0 <> 0.239 level:1 (+5) | vl:20 ping:118 tps:20.0 lp:11 component: fly.levitation
+(01:25:20) LethalLuck failed Fly check | (levitation) move unexpected: 0.0 <> 0.239 level:1 (+5) | vl:25 ping:118 tps:20.0 lp:11 component: fly.levitation
+(01:25:20) LethalLuck failed Fly check | (levitation) move unexpected: 0.0 <> 0.197 level:1 (+5) | vl:30 ping:118 tps:20.0 lp:11 component: fly.levitation
+(01:25:20) LethalLuck failed Fly check | (levitation) move unexpected: 0.0 <> 0.165 level:1 (+5) | vl:35 ping:118 tps:20.0 lp:11 component: fly.levitation
+(01:28:07) LethalLuck failed Chat check | chat too fast | delay: 2452 (+1) | vl:1 ping:111 tps:20.0 lp:3 component: chat.delay
+(01:28:43) Zonelesi failed Speed check | suspicious movement (move: 0.469, vet: 0.389, tag: d) (+8) | vl:8 ping:21 tps:20.0 lp:18 component: speed.main
+(01:28:43) Zonelesi failed Speed check | suspicious movement (move: 0.476, expect: 0.3665, tag: ea) (+5) | vl:13 ping:21 tps:20.0 lp:18 component: speed.main
+(01:28:43) Zonelesi failed Fly check | suspicious movement:0.389 predict:0.303 air_t:1 tag:sam (+5) | vl:5 ping:21 tps:20.0 lp:18 component: fly.main
+(01:28:43) Zonelesi failed Fly check | suspicious movement:0.389 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:10 ping:21 tps:20.0 lp:18 component: fly.main
+(01:31:50) LethalLuck failed Block check | break block without delay (+4) | vl:4 ping:115 tps:20.0 lp:30 component: blk.fb.dly
+(01:32:37) LethalLuck failed Interact check | interact block through solid (through: PURPUR_PILLAR, block:CHEST) (+1) | vl:1 ping:115 tps:19.99 lp:8 component: interact.through
+(01:33:21) LethalLuck failed Fly check | (levitation) move faster than expected: 1.9564373268035713 (+5) | vl:5 ping:114 tps:20.0 lp:7 component: fly.levitation
+(01:34:34) LethalLuck failed Fly check | step | p: 1 | m:2.0 ev:0.045 lm:0.99 (+8) | vl:8 ping:110 tps:20.0 lp:16 component: speed.step
+(01:35:40) Zonelesi failed Elytra check | (elytra) more energy: 1.533 dif: 0.642 motion: -0.311 ratio: 2.063 (+3) | vl:3 ping:40 tps:20.0 lp:23 component: ely.me
+(01:36:02) Zonelesi failed Fly check | suspicious movement:0.373 predict:0.338 vel:0.42 air_t:1 tag:vt (+5) | vl:5 ping:21 tps:20.0 lp:19 component: fly.main
+(01:36:03) Zonelesi failed Fly check | suspicious movement:0.287 predict:0.253 vel:0.248 air_t:2 tag:vt (+5) | vl:10 ping:21 tps:20.0 lp:19 component: fly.main
+(01:36:03) Zonelesi failed Fly check | suspicious movement:0.203 predict:0.17 vel:0.248 air_t:3 tag:vt (+5) | vl:15 ping:21 tps:20.0 lp:19 component: fly.main
+(01:36:03) Zonelesi failed Fly check | suspicious movement:0.12 predict:0.088 vel:0.083 air_t:4 tag:vt (+5) | vl:20 ping:21 tps:20.0 lp:19 component: fly.main
+(01:40:57) Zonelesi failed Fly check | suspicious movement:-0.01 predict:-0.088 lm:-0.01 hard_pred:-0.088 sev_pred:-0.155 air_t:1 fall_t:1 g:-- tag:gn (+5) | vl:5 ping:38 tps:20.0 lp:36 component: fly.main
+(01:42:10) Zonelesi failed Fly check | suspicious movement:0.392 predict:0.306 air_t:1 tag:sam (+5) | vl:5 ping:36 tps:20.0 lp:24 component: fly.main
+(01:42:10) Zonelesi failed Fly check | suspicious movement:0.392 predict:0.338 vel:0.248 air_t:1 tag:vt (+5) | vl:10 ping:36 tps:20.0 lp:24 component: fly.main
+(01:42:13) Zonelesi failed Fly check | suspicious movement:0.391 predict:0.305 air_t:1 tag:sam (+5) | vl:15 ping:20 tps:20.0 lp:14 component: fly.main
+(01:42:13) Zonelesi failed Fly check | suspicious movement:0.391 predict:0.338 vel:0.248 air_t:1 tag:vt (+5) | vl:20 ping:20 tps:20.0 lp:14 component: fly.main
+(01:44:00) Zonelesi failed Block check | break block with timer (block: nether_quartz_ore, point: 323) (+4) | vl:4 ping:22 tps:20.0 lp:21 component: block.fb.timer
+(01:45:21) LethalLuck failed Speed check | suspicious movement (move: 0.474, vet: 0.388, tag: d) (+8) | vl:8 ping:111 tps:20.0 lp:5 component: speed.main
+(01:45:21) LethalLuck failed Speed check | suspicious movement (move: 0.469, expect: 0.3665, tag: ea) (+5) | vl:13 ping:111 tps:20.0 lp:5 component: speed.main
+(01:45:21) LethalLuck failed Fly check | suspicious movement:0.357 predict:0.338 vel:-0.231 air_t:1 tag:vt (+5) | vl:5 ping:111 tps:20.0 lp:5 component: fly.main
+(01:45:24) LethalLuck failed Speed check | suspicious movement (move: 0.514, vet: 0.391, tag: d) (+8) | vl:21 ping:111 tps:20.0 lp:5 component: speed.main
+(01:45:24) LethalLuck failed Speed check | suspicious movement (move: 0.509, expect: 0.3665, tag: ea) (+5) | vl:26 ping:111 tps:20.0 lp:5 component: speed.main
+(01:45:24) LethalLuck failed Speed check | suspicious movement (move: 0.509, predict: 0.307, friction: 0.6, ground:false, motY: 0.362, increase:0.026, preMove:0.281, motion: -0.075,0.362,0.504, attribute: 0.13, cm: false, di: false, tag: pred) (+5) | vl:31 ping:111 tps:20.0 lp:5 component: move.xz
+(01:45:24) LethalLuck failed Speed check | suspicious movement (move: 0.517, expect: 0.3665, tag: ea) (+5) | vl:36 ping:111 tps:20.0 lp:5 component: speed.main
+(01:45:24) LethalLuck failed Speed check | suspicious movement (move: 0.517, predict: 0.489, friction: 0.6, ground:false, motY: 0.362, increase:0.026, preMove:0.463, motion: -0.076,0.362,0.511, attribute: 0.13, cm: false, di: false, tag: pred) (+5) | vl:41 ping:111 tps:20.0 lp:5 component: move.xz
+(01:47:18) Zonelesi failed Speed check | t: spin (+10) | vl:10 ping:34 tps:20.0 lp:14 component: speed.spin
+(01:47:18) Zonelesi failed Speed check | t: spin (+10) | vl:20 ping:34 tps:20.0 lp:14 component: speed.spin
+(01:50:16) LethalLuck failed Fly check | suspicious movement:0.279 predict:0.17 vel:0.165 air_t:3 tag:vt (+5) | vl:5 ping:118 tps:20.0 lp:4 component: fly.main
+(01:50:16) LethalLuck failed Fly check | suspicious movement:0.195 predict:0.088 vel:0.083 air_t:4 tag:vt (+5) | vl:10 ping:118 tps:20.0 lp:4 component: fly.main
+(01:50:55) Zonelesi failed Speed check | t: spin (+10) | vl:10 ping:33 tps:20.0 lp:34 component: speed.spin
+(01:50:55) Zonelesi failed Speed check | t: spin (+10) | vl:20 ping:33 tps:20.0 lp:34 component: speed.spin
+(01:53:09) LethalLuck failed Interact check | interact block through solid (through: DARK_OAK_PLANKS, block:CHEST) (+1) | vl:1 ping:118 tps:20.0 lp:11 component: interact.through
+(01:53:36) Zonelesi failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:51 tps:20.0 lp:17 component: interact.through
+(01:55:30) Zonelesi failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:52 tps:20.0 lp:30 component: interact.through
+(01:55:37) Zonelesi failed Interact check | interact block through solid (through: GREEN_CONCRETE, block:CHEST) (+1) | vl:1 ping:33 tps:20.0 lp:24 component: interact.through
+(01:55:40) Zonelesi failed Interact check | interact block through solid (through: DIRT, block:CHEST) (+1) | vl:2 ping:33 tps:20.0 lp:24 component: interact.through
+(01:55:43) Zonelesi failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:3 ping:33 tps:20.0 lp:29 component: interact.through
+(01:56:09) Zonelesi failed Interact check | interact block through solid (through: IRON_ORE, block:CHEST) (+1) | vl:1 ping:33 tps:20.0 lp:39 component: interact.through
+(01:56:33) Zonelesi failed Speed check | t: spin (+10) | vl:10 ping:51 tps:20.0 lp:26 component: speed.spin
+(01:56:34) Zonelesi failed Speed check | t: spin (+10) | vl:20 ping:51 tps:20.0 lp:26 component: speed.spin
+(01:56:36) Zonelesi failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:51 tps:20.0 lp:36 component: interact.through
+(01:57:50) Zonelesi failed Speed check | t: spin (+10) | vl:10 ping:33 tps:20.0 lp:15 component: speed.spin
+(01:57:50) Zonelesi failed Speed check | t: spin (+10) | vl:20 ping:33 tps:20.0 lp:15 component: speed.spin
+(01:58:48) Zonelesi failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:48 tps:20.0 lp:26 component: interact.through
+(01:58:51) Zonelesi failed Interact check | interact block through solid (through: GREEN_CONCRETE, block:CHEST) (+1) | vl:2 ping:48 tps:20.0 lp:26 component: interact.through
+(01:59:01) Zonelesi failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:3 ping:29 tps:20.0 lp:26 component: interact.through
+(01:59:03) Zonelesi failed Interact check | interact block through solid (through: GREEN_CONCRETE, block:CHEST) (+1) | vl:4 ping:28 tps:20.0 lp:26 component: interact.through
+(02:11:37) Zonelesi failed Block check | break block without delay (+4) | vl:4 ping:50 tps:20.0 lp:20 component: blk.fb.dly
+(02:12:47) Zonelesi failed Speed check | t: spin (+10) | vl:10 ping:31 tps:20.0 lp:53 component: speed.spin
+(02:14:04) Zonelesi failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:48 tps:20.0 lp:18 component: interact.through
+(02:14:19) Zonelesi failed Interact check | interact block through solid (through: GRANITE, block:CHEST) (+1) | vl:2 ping:30 tps:20.0 lp:17 component: interact.through
+(02:14:39) Zonelesi failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:65 tps:20.0 lp:33 component: interact.through
+(02:14:50) Zonelesi failed Interact check | interact block through solid (through: BLUE_CONCRETE, block:CHEST) (+1) | vl:2 ping:45 tps:20.0 lp:38 component: interact.through
+(02:15:09) Zonelesi failed Interact check | interact block through solid (through: GRANITE, block:CHEST) (+1) | vl:1 ping:48 tps:20.0 lp:25 component: interact.through
+(02:16:09) Zonelesi failed Interact check | break block through walls (through: nether_quartz_ore, block: nether_quartz_ore) (+1) | vl:1 ping:40 tps:20.0 lp:27 component: interact.break
+(02:17:23) Zonelesi failed Block check | break block without delay (+4) | vl:4 ping:48 tps:20.0 lp:21 component: blk.fb.dly
+(02:22:58) Zonelesi failed Speed check | t: spin (+10) | vl:10 ping:66 tps:20.0 lp:16 component: speed.spin
+(02:22:58) Zonelesi failed Speed check | t: spin (+10) | vl:20 ping:66 tps:20.0 lp:16 component: speed.spin
+(02:25:20) Zonelesi failed Speed check | t: spin (+10) | vl:10 ping:27 tps:20.0 lp:19 component: speed.spin
+(02:27:39) Zonelesi failed Interact check | interact block through solid (through: GREEN_CONCRETE, block:CHEST) (+1) | vl:1 ping:44 tps:20.0 lp:30 component: interact.through
+(02:27:41) Zonelesi failed Interact check | interact block through solid (through: BLUE_CONCRETE, block:CHEST) (+1) | vl:2 ping:60 tps:20.0 lp:30 component: interact.through
+(02:30:52) Zonelesi failed Speed check | t: spin (+10) | vl:10 ping:43 tps:20.0 lp:25 component: speed.spin
+(02:31:03) Zonelesi failed Interact check | interact block through solid (through: IRON_ORE, block:CHEST) (+1) | vl:1 ping:44 tps:20.0 lp:19 component: interact.through
+(02:32:14) Zonelesi failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:27 tps:20.0 lp:19 component: interact.through
+(02:32:40) Zonelesi failed Interact check | interact block through solid (through: DIORITE, block:CHEST) (+1) | vl:1 ping:27 tps:20.0 lp:19 component: interact.through
+(02:35:21) Zonelesi failed KillAura check | (autoclicker) click delay pattern | 1.9+ delay | avg: 599 diff: 3 (+6) | vl:6 ping:26 tps:20.0 lp:28 component: ka.ac.9p
+(02:35:21) Zonelesi failed KillAura check | (autoclicker) click delay pattern | 1.9+ delay | avg: 599 diff: 3 (+6) | vl:12 ping:26 tps:20.0 lp:28 component: ka.ac.9p
+(02:35:21) Execute command: matrix npc Zonelesi 100
+(02:35:26) Zonelesi failed HitBox check | missed entity hitbox (entity: zombified_piglin, angle: 47.943, move: true) (+1) | vl:1 ping:43 tps:20.0 lp:28 component: hb.mis
+(02:35:29) Zonelesi failed HitBox check | missed entity hitbox (entity: zombified_piglin, angle: 38.246, move: true) (+1) | vl:2 ping:43 tps:20.0 lp:36 component: hb.mis
+(02:35:47) Zonelesi failed HitBox check | missed entity hitbox (entity: zombified_piglin, angle: 94.394, move: true) (+2) | vl:2 ping:28 tps:20.0 lp:33 component: hb.mis
+(02:35:47) Zonelesi failed HitBox check | missed entity hitbox (entity: zombified_piglin, angle: 49.252, move: true) (+1) | vl:3 ping:28 tps:20.0 lp:33 component: hb.mis
+(02:35:48) Zonelesi failed HitBox check | missed entity hitbox (entity: zombified_piglin, angle: 67.321, move: false) (+2) | vl:5 ping:28 tps:20.0 lp:33 component: hb.mis
+(02:35:49) Zonelesi failed HitBox check | missed entity hitbox (entity: zombified_piglin, angle: 66.269, move: false) (+2) | vl:7 ping:28 tps:20.0 lp:33 component: hb.mis
+(02:35:54) Zonelesi failed HitBox check | missed entity hitbox (entity: zombified_piglin, angle: 75.35, move: true) (+2) | vl:9 ping:27 tps:20.0 lp:40 component: hb.mis
+(02:35:55) Zonelesi failed HitBox check | missed entity hitbox (entity: zombified_piglin, angle: 77.358, move: true) (+2) | vl:11 ping:27 tps:20.0 lp:40 component: hb.mis
+(02:35:55) Execute command: matrix notify Zonelesi tried to reach entity outside max reach distance (HitBox)
+(02:35:56) Zonelesi failed HitBox check | missed entity hitbox (entity: zombified_piglin, angle: 36.442, move: true) (+1) | vl:12 ping:27 tps:20.0 lp:42 component: hb.mis
+(02:35:56) Execute command: matrix npc Zonelesi 120
+(02:36:29) Zonelesi failed HitBox check | missed entity hitbox (entity: zombified_piglin, angle: 44.258, move: true) (+1) | vl:1 ping:27 tps:20.0 lp:37 component: hb.mis
+(02:36:34) Zonelesi failed HitBox check | missed entity hitbox (entity: zombified_piglin, angle: 47.712, move: true) (+1) | vl:1 ping:27 tps:20.0 lp:41 component: hb.mis
+(02:36:35) Zonelesi failed HitBox check | missed entity hitbox (entity: zombified_piglin, angle: 35.658, move: true) (+1) | vl:2 ping:27 tps:20.0 lp:41 component: hb.mis
+(02:36:41) Zonelesi failed HitBox check | missed entity hitbox (entity: zombified_piglin, angle: 36.004, move: true) (+1) | vl:3 ping:26 tps:20.0 lp:50 component: hb.mis
+(02:37:16) Zonelesi failed HitBox check | missed entity hitbox (entity: zombified_piglin, angle: 46.458, move: true) (+1) | vl:1 ping:44 tps:20.0 lp:36 component: hb.mis
+(02:38:37) Zonelesi failed HitBox check | missed entity hitbox (entity: zombified_piglin, angle: 55.293, move: true) (+1) | vl:1 ping:45 tps:20.0 lp:32 component: hb.mis
+(02:38:38) Zonelesi failed HitBox check | missed entity hitbox (entity: zombified_piglin, angle: 74.486, move: false) (+2) | vl:3 ping:45 tps:20.0 lp:27 component: hb.mis
+(02:39:12) Zonelesi failed Interact check | attack entity through netherrack block (d: 2.488) (+1) | vl:1 ping:43 tps:20.0 lp:32 component: interact.attack
+(02:40:25) Zonelesi failed HitBox check | missed entity hitbox (entity: zombified_piglin, angle: 35.455, move: true) (+1) | vl:1 ping:43 tps:20.0 lp:27 component: hb.mis
+(02:47:44) Zonelesi failed Speed check | t: spin (+10) | vl:10 ping:24 tps:20.0 lp:9 component: speed.spin
+(02:53:30) Zonelesi failed Block check | break block without delay (+4) | vl:4 ping:24 tps:20.0 lp:20 component: blk.fb.dly
+(02:53:40) Zonelesi failed Block check | break block without delay (+4) | vl:4 ping:22 tps:20.0 lp:13 component: blk.fb.dly
+(03:50:08) ImJarHed failed Block check | break block without delay (+4) | vl:4 ping:165 tps:20.0 lp:21 component: blk.fb.dly
+(03:51:33) ImJarHed failed Block check | break block without delay (+4) | vl:4 ping:163 tps:20.0 lp:13 component: blk.fb.dly
+(03:53:19) ImJarHed failed Block check | break block without delay (+4) | vl:4 ping:164 tps:20.0 lp:13 component: blk.fb.dly
+(03:53:36) ImJarHed failed Block check | break block without delay (+4) | vl:4 ping:168 tps:20.0 lp:9 component: blk.fb.dly
+(03:54:57) ImJarHed failed Block check | break block without delay (+4) | vl:4 ping:167 tps:20.0 lp:13 component: blk.fb.dly
+(03:57:38) ImJarHed failed Interact check | interact block through solid (through: DIRT, block:CHEST) (+1) | vl:1 ping:165 tps:20.0 lp:11 component: interact.through
+(04:08:03) ImJarHed failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:161 tps:20.0 lp:15 component: interact.through
+(04:09:26) ImJarHed failed Interact check | breaking a block without looking at it (block: GRASS) (+1) | vl:1 ping:159 tps:20.0 lp:22 component: interact.break
+(04:09:26) ImJarHed failed Interact check | break block through walls (through: dirt, block: grass) (+1) | vl:2 ping:159 tps:20.0 lp:22 component: interact.break
+(04:14:23) ImJarHed failed Scaffold check | scaffold-like placement | type A (+1) | vl:1 ping:162 tps:20.0 lp:6 component: sfd.place.a
+(04:21:32) ImJarHed failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:158 tps:20.0 lp:15 component: interact.through
+(04:37:28) ImJarHed failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:138 tps:20.0 lp:7 component: interact.through
+(04:41:00) ImJarHed failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:158 tps:20.0 lp:22 component: interact.through
+(04:55:52) ImJarHed failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:164 tps:20.0 lp:19 component: interact.through
+(05:15:39) ImJarHed failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:163 tps:20.0 lp:41 component: interact.through
+(05:20:02) ImJarHed failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:164 tps:20.0 lp:5 component: interact.through
+(05:23:31) ImJarHed failed BadPackets check | (timer) send 39 moving packets in 1069ms | tag: limit (+5) | vl:5 ping:171 tps:20.0 lp:58 component: net.timer
+(05:27:16) ImJarHed failed HitBox check | missed entity hitbox (entity: zombie, angle: 35.177, move: true) (+1) | vl:1 ping:163 tps:20.0 lp:5 component: hb.mis
+(05:27:16) ImJarHed failed HitBox check | missed entity hitbox (entity: zombie, angle: 47.798, move: true) (+1) | vl:2 ping:163 tps:20.0 lp:4 component: hb.mis
+(05:28:56) ImJarHed failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:173 tps:20.0 lp:10 component: interact.through
+(05:32:09) ImJarHed failed Speed check | suspicious movement (move: 0.71, predict: 0.498, friction: 0.6, ground:true, motY: 0.42, increase:0.738, preMove:0.168, motion: -0.084,0.42,0.705, attribute: 0.13, cm: false, di: true, tag: pred) (+5) | vl:5 ping:160 tps:20.0 lp:4 component: move.xz
+(06:31:57) ImJarHed failed Interact check | interact block through solid (through: GRASS_BLOCK, block:CHEST) (+1) | vl:1 ping:169 tps:20.0 lp:4 component: interact.through
+(06:34:49) ImJarHed failed Block check | break block without delay (+4) | vl:4 ping:165 tps:20.0 lp:14 component: blk.fb.dly
+(06:59:17) ImJarHed failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: -1123.529,72.252,-1102.679, type: air, pkt: true) (+5) | vl:5 ping:159 tps:20.0 lp:3 component: fly.gf
+(06:59:46) ImJarHed failed HitBox check | missed entity hitbox (entity: skeleton, angle: 49.776, move: true) (+1) | vl:1 ping:167 tps:20.0 lp:3 component: hb.mis
+(07:00:29) Matrix Enabled!
+(07:00:29) Version: 5.5.0
+(08:32:27) LethalLuck failed Speed check | suspicious movement (move: 0.488, vet: 0.391, tag: d) (+8) | vl:8 ping:113 tps:20.0 lp:5 component: speed.main
+(08:32:27) LethalLuck failed Speed check | suspicious movement (move: 0.481, expect: 0.3665, tag: ea) (+5) | vl:13 ping:113 tps:20.0 lp:5 component: speed.main
+(08:32:27) LethalLuck failed Fly check | suspicious movement:0.363 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:5 ping:113 tps:20.0 lp:5 component: fly.main
+(08:34:41) LethalLuck failed Speed check | suspicious movement (move: 0.493, vet: 0.389, tag: d) (+8) | vl:8 ping:118 tps:20.0 lp:7 component: speed.main
+(08:34:41) LethalLuck failed Speed check | suspicious movement (move: 0.488, expect: 0.3665, tag: ea) (+5) | vl:13 ping:118 tps:20.0 lp:7 component: speed.main
+(08:34:41) LethalLuck failed Fly check | suspicious movement:0.359 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:5 ping:118 tps:20.0 lp:7 component: fly.main
+(08:35:01) LethalLuck failed Speed check | suspicious movement (move: 0.514, vet: 0.388, tag: d) (+8) | vl:21 ping:110 tps:19.99 lp:2 component: speed.main
+(08:35:01) LethalLuck failed Speed check | suspicious movement (move: 0.509, expect: 0.3665, tag: ea) (+5) | vl:26 ping:110 tps:19.99 lp:2 component: speed.main
+(08:35:01) LethalLuck failed Speed check | suspicious movement (move: 0.509, predict: 0.307, friction: 0.6, ground:false, motY: 0.356, increase:0.026, preMove:0.281, motion: 0.383,0.356,0.335, attribute: 0.13, cm: false, di: false, tag: pred) (+5) | vl:31 ping:110 tps:19.99 lp:2 component: move.xz
+(08:35:01) LethalLuck failed Speed check | suspicious movement (move: 0.516, expect: 0.3665, tag: ea) (+5) | vl:36 ping:110 tps:19.99 lp:2 component: speed.main
+(08:35:01) LethalLuck failed Speed check | suspicious movement (move: 0.516, predict: 0.489, friction: 0.6, ground:false, motY: 0.356, increase:0.026, preMove:0.463, motion: 0.388,0.356,0.341, attribute: 0.13, cm: false, di: false, tag: pred) (+5) | vl:41 ping:110 tps:19.99 lp:2 component: move.xz
+(08:35:01) LethalLuck failed Fly check | suspicious movement:0.356 predict:0.271 air_t:2 tag:sam (+5) | vl:10 ping:110 tps:19.99 lp:2 component: fly.main
+(08:36:05) LethalLuck failed Fly check | suspicious movement:0.357 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:5 ping:117 tps:20.0 lp:2 component: fly.main
+(08:36:05) LethalLuck failed Fly check | suspicious movement:0.357 predict:0.272 air_t:2 tag:sam (+5) | vl:10 ping:117 tps:20.0 lp:2 component: fly.main
+(08:36:05) LethalLuck failed Fly check | suspicious movement:0.357 predict:0.253 vel:0.248 air_t:2 tag:vt (+5) | vl:15 ping:117 tps:20.0 lp:2 component: fly.main
+(08:36:08) LethalLuck failed Speed check | suspicious movement (move: 0.457, vet: 0.389, tag: d) (+8) | vl:8 ping:117 tps:20.0 lp:4 component: speed.main
+(08:36:08) LethalLuck failed Speed check | suspicious movement (move: 0.451, expect: 0.3665, tag: ea) (+5) | vl:13 ping:117 tps:20.0 lp:4 component: speed.main
+(08:36:08) LethalLuck failed Fly check | suspicious movement:0.358 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:20 ping:117 tps:20.0 lp:4 component: fly.main
+(08:39:56) LethalLuck failed Fly check | suspicious movement:0.28 predict:0.17 vel:0.165 air_t:3 tag:vt (+5) | vl:5 ping:116 tps:20.0 lp:3 component: fly.main
+(08:39:56) LethalLuck failed Fly check | suspicious movement:0.196 predict:0.088 vel:0.083 air_t:4 tag:vt (+5) | vl:10 ping:116 tps:20.0 lp:3 component: fly.main
+(08:49:49) LethalLuck failed Speed check | suspicious movement (move: 0.491, vet: 0.392, tag: d) (+8) | vl:8 ping:118 tps:20.0 lp:2 component: speed.main
+(08:49:49) LethalLuck failed Speed check | suspicious movement (move: 0.486, expect: 0.3665, tag: ea) (+5) | vl:13 ping:118 tps:20.0 lp:2 component: speed.main
+(08:49:49) LethalLuck failed Fly check | suspicious movement:0.364 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:5 ping:118 tps:20.0 lp:2 component: fly.main
+(08:52:22) LethalLuck failed Speed check | suspicious movement (move: 0.489, predict: 0.464, friction: 0.6, ground:false, motY: 0.353, increase:0.026, preMove:0.438, motion: 0.105,0.353,0.477, attribute: 0.13, cm: false, di: false, tag: pred) (+5) | vl:5 ping:110 tps:20.0 lp:7 component: move.xz
+(08:57:30) LethalLuck failed Block check | break block without delay (+4) | vl:4 ping:109 tps:20.0 lp:13 component: blk.fb.dly
+(09:13:42) LethalLuck failed Fly check | suspicious movement:0.36 predict:0.274 air_t:10 tag:sam (+5) | vl:5 ping:113 tps:20.0 lp:5 component: fly.main
+(09:13:43) LethalLuck failed Fly check | suspicious movement:0.362 predict:0.338 vel:0.42 air_t:1 tag:vt (+5) | vl:10 ping:113 tps:20.0 lp:4 component: fly.main
+(09:13:43) LethalLuck failed Fly check | suspicious movement:0.362 predict:0.253 vel:0.333 air_t:2 tag:vt (+5) | vl:15 ping:113 tps:20.0 lp:4 component: fly.main
+(09:13:43) LethalLuck failed Fly check | suspicious movement:0.276 predict:0.17 vel:0.248 air_t:3 tag:vt (+5) | vl:20 ping:113 tps:20.0 lp:4 component: fly.main
+(09:13:43) LethalLuck failed Fly check | suspicious movement:0.192 predict:0.088 vel:0.165 air_t:4 tag:vt (+5) | vl:25 ping:113 tps:20.0 lp:4 component: fly.main
+(09:17:49) LethalLuck failed Speed check | suspicious movement (move: 0.489, vet: 0.392, tag: d) (+7) | vl:7 ping:120 tps:20.0 lp:2 component: speed.main
+(09:17:49) LethalLuck failed Speed check | suspicious movement (move: 0.484, expect: 0.3665, tag: ea) (+5) | vl:12 ping:120 tps:20.0 lp:2 component: speed.main
+(09:17:49) LethalLuck failed Fly check | suspicious movement:0.364 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:5 ping:120 tps:20.0 lp:2 component: fly.main
+(09:18:38) LethalLuck failed Fly check | suspicious movement:0.36 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:5 ping:115 tps:20.0 lp:2 component: fly.main
+(09:18:38) LethalLuck failed Fly check | suspicious movement:0.331 predict:0.253 vel:0.248 air_t:2 tag:vt (+5) | vl:10 ping:115 tps:20.0 lp:2 component: fly.main
+(09:18:38) LethalLuck failed Fly check | suspicious movement:0.331 predict:0.246 air_t:3 tag:sam (+5) | vl:15 ping:115 tps:20.0 lp:2 component: fly.main
+(09:18:38) LethalLuck failed Fly check | suspicious movement:0.331 predict:0.17 vel:0.165 air_t:3 tag:vt (+5) | vl:20 ping:115 tps:20.0 lp:2 component: fly.main
+(09:19:20) ImJarHed failed Speed check | (toggle) send release use item packet frequently: 40 (+2) | vl:2 ping:174 tps:20.0 lp:9 component: speed.noslow.toggle
+(09:19:37) LethalLuck failed Fly check | suspicious movement:0.362 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:5 ping:116 tps:20.0 lp:6 component: fly.main
+(09:19:37) LethalLuck failed Fly check | suspicious movement:0.362 predict:0.277 air_t:2 tag:sam (+5) | vl:10 ping:116 tps:20.0 lp:6 component: fly.main
+(09:19:37) LethalLuck failed Fly check | suspicious movement:0.362 predict:0.253 vel:0.248 air_t:2 tag:vt (+5) | vl:15 ping:116 tps:20.0 lp:6 component: fly.main
+(09:21:14) ImJarHed failed HitBox check | missed entity hitbox (entity: skeleton, angle: 42.867, move: true) (+1) | vl:1 ping:175 tps:20.0 lp:5 component: hb.mis
+(09:21:41) LethalLuck failed Fly check | suspicious movement:0.04 predict:-0.078 pmv:0.15 tag:ground (+5) | vl:5 ping:112 tps:20.0 lp:15 component: fly.main
+(09:33:54) ImJarHed failed Fly check | suspicious movement:0.518 predict:0.088 vel:-0.078 air_t:4 tag:vt (+5) | vl:5 ping:171 tps:20.0 lp:3 component: fly.main
+(09:41:08) ImJarHed failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:186 tps:20.0 lp:14 component: interact.through
+(09:41:16) ImJarHed failed Interact check | interact block through solid (through: STONE_BRICKS, block:CHEST) (+1) | vl:1 ping:172 tps:20.0 lp:14 component: interact.through
+(09:41:38) LethalLuck failed Interact check | break block through walls (through: dirt, block: dirt) (+1) | vl:1 ping:116 tps:20.0 lp:4 component: interact.break
+(09:42:54) LethalLuck failed Fly check | suspicious movement:0.252 predict:0.252 vel:-0.377 air_t:12 tag:m4 (+10) | vl:10 ping:110 tps:20.0 lp:1 component: fly.main
+(09:43:32) ImJarHed failed HitBox check | missed entity hitbox (entity: skeleton, angle: 40.326, move: true) (+1) | vl:1 ping:174 tps:20.0 lp:5 component: hb.mis
+(09:44:24) ImJarHed failed Interact check | interact block through solid (through: STONE_BRICKS, block:CHEST) (+1) | vl:1 ping:169 tps:20.0 lp:21 component: interact.through
+(09:45:25) STra1z failed Block check | break block without delay (+4) | vl:4 ping:38 tps:20.0 lp:12 component: blk.fb.dly
+(09:45:26) STra1z failed Block check | break block without delay (+4) | vl:8 ping:38 tps:20.0 lp:12 component: blk.fb.dly
+(09:46:53) LethalLuck failed Block check | break block without delay (+4) | vl:4 ping:120 tps:20.0 lp:9 component: blk.fb.dly
+(09:48:34) STra1z failed Interact check | breaking a block without looking at it (block: GRASS_BLOCK) (+1) | vl:1 ping:35 tps:20.0 lp:14 component: interact.break
+(09:48:34) STra1z failed Interact check | break block through walls (through: dirt, block: grass_block) (+1) | vl:2 ping:35 tps:20.0 lp:14 component: interact.break
+(09:48:36) ImJarHed failed HitBox check | missed entity hitbox (entity: skeleton, angle: 174.295, move: true) (+2) | vl:2 ping:174 tps:20.0 lp:3 component: hb.mis
+(09:50:11) LethalLuck failed Block check | break block without delay (+4) | vl:4 ping:110 tps:20.0 lp:14 component: blk.fb.dly
+(09:51:39) ImJarHed failed HitBox check | missed entity hitbox (entity: piglin, angle: 128.109, move: true) (+2) | vl:2 ping:166 tps:20.0 lp:3 component: hb.mis
+(09:53:01) ImJarHed failed Chat check | chat too fast | delay: 872 (+1) | vl:1 ping:183 tps:20.0 lp:17 component: chat.delay
+(09:54:16) LethalLuck failed Chat check | chat too fast | delay: 2544 (+1) | vl:1 ping:117 tps:20.0 lp:11 component: chat.delay
+(09:54:41) ImJarHed failed Fly check | suspicious movement:0.495 predict:0.612 air:1 tag:dmj (+12) | vl:12 ping:209 tps:20.0 lp:6 component: fly.main
+(09:54:48) LethalLuck failed Jesus check | liquid speed (speed: 0.132, expect:0.12, dmg: false, flw:false, module: in) (+3) | vl:3 ping:113 tps:20.0 lp:3 component: jesus.speed.in
+(09:54:48) LethalLuck failed Jesus check | liquid speed (speed: 0.125, expect:0.12, dmg: false, flw:false, module: in) (+3) | vl:6 ping:113 tps:20.0 lp:3 component: jesus.speed.in
+(09:55:02) STra1z failed Block check | break block without delay (+4) | vl:4 ping:51 tps:20.0 lp:13 component: blk.fb.dly
+(09:55:07) LethalLuck failed Fly check | suspicious movement:0.279 predict:0.17 vel:0.165 air_t:3 tag:vt (+5) | vl:5 ping:113 tps:20.0 lp:3 component: fly.main
+(09:55:07) LethalLuck failed Fly check | suspicious movement:0.195 predict:0.088 vel:0.083 air_t:4 tag:vt (+5) | vl:10 ping:113 tps:20.0 lp:3 component: fly.main
+(09:55:19) ImJarHed failed Speed check | suspicious movement (move: 0.317, expect:0.289, t:0, sprint: true, attr: 0.13, tag: a) (+9) | vl:9 ping:176 tps:20.0 lp:3 component: speed.main
+(09:55:38) LethalLuck failed Chat check | chat too fast | delay: 2533 (+1) | vl:1 ping:118 tps:20.0 lp:10 component: chat.delay
+(09:56:59) LethalLuck failed Fly check | suspicious movement:0.361 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:5 ping:116 tps:20.0 lp:2 component: fly.main
+(09:56:59) LethalLuck failed Fly check | suspicious movement:0.361 predict:0.275 air_t:2 tag:sam (+5) | vl:10 ping:116 tps:20.0 lp:2 component: fly.main
+(09:56:59) LethalLuck failed Fly check | suspicious movement:0.361 predict:0.253 vel:0.248 air_t:2 tag:vt (+5) | vl:15 ping:116 tps:20.0 lp:2 component: fly.main
+(09:57:09) ImJarHed failed HitBox check | missed entity hitbox (entity: zombified_piglin, angle: 35.91, move: true) (+1) | vl:1 ping:172 tps:19.99 lp:5 component: hb.mis
+(09:58:55) ImJarHed failed HitBox check | missed entity hitbox (entity: zombified_piglin, angle: 37.466, move: true) (+1) | vl:1 ping:179 tps:20.0 lp:4 component: hb.mis
+(10:00:11) LethalLuck failed Fly check | suspicious movement:0.279 predict:0.17 vel:0.165 air_t:3 tag:vt (+5) | vl:5 ping:117 tps:20.0 lp:4 component: fly.main
+(10:00:11) LethalLuck failed Fly check | suspicious movement:0.195 predict:0.088 vel:0.083 air_t:4 tag:vt (+5) | vl:10 ping:117 tps:20.0 lp:4 component: fly.main
+(10:00:46) LethalLuck failed Jesus check | liquid speed (speed: 0.167, expect:0.16, dmg: false, flow:false, module: out) (+4) | vl:4 ping:113 tps:20.0 lp:5 component: jesus.out
+(10:03:41) LethalLuck failed Fly check | suspicious movement:0.271 predict:0.17 vel:0.165 air_t:3 tag:vt (+5) | vl:5 ping:116 tps:20.0 lp:5 component: fly.main
+(10:03:41) LethalLuck failed Fly check | suspicious movement:0.187 predict:0.088 vel:0.083 air_t:4 tag:vt (+5) | vl:10 ping:116 tps:20.0 lp:5 component: fly.main
+(10:05:28) LethalLuck failed Speed check | suspicious movement (move: 0.322, vet: 0.391, tag: d) (+8) | vl:8 ping:114 tps:20.0 lp:3 component: speed.main
+(10:05:28) LethalLuck failed Fly check | suspicious movement:0.362 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:5 ping:114 tps:20.0 lp:3 component: fly.main
+(10:05:28) LethalLuck failed Fly check | suspicious movement:0.362 predict:0.276 air_t:2 tag:sam (+5) | vl:10 ping:114 tps:20.0 lp:3 component: fly.main
+(10:05:28) LethalLuck failed Fly check | suspicious movement:0.362 predict:0.253 vel:0.248 air_t:2 tag:vt (+5) | vl:15 ping:114 tps:20.0 lp:3 component: fly.main
+(10:06:26) STra1z failed BadPackets check | (timer) send 42 moving packets in 1041ms | tag: limit (+10) | vl:10 ping:43 tps:20.0 lp:16 component: net.timer
+(10:06:26) STra1z failed Speed check | suspicious movement (move: 1.152, expect: 0.6235, tag: c) (+10) | vl:10 ping:43 tps:20.0 lp:16 component: speed.main
+(10:06:26) STra1z failed Speed check | suspicious movement (move: 1.152, vet: 1.177, tag: d) (+8) | vl:18 ping:43 tps:20.0 lp:16 component: speed.main
+(10:06:26) STra1z failed Speed check | suspicious movement (move: 1.152, predict: 0.45, friction: 0.6, ground:true, motY: 1.177, increase:0.33, preMove:0.12, motion: -1.022,1.177,-0.531, attribute: 0.13, cm: false, di: false, tag: pred) (+5) | vl:23 ping:43 tps:20.0 lp:16 component: move.xz
+(10:06:26) STra1z failed Fly check | step | p: 1 | m:1.177 ev:0.42 lm:0.99 (+8) | vl:8 ping:43 tps:20.0 lp:16 component: speed.step
+(10:07:22) LethalLuck failed HitBox check | missed entity hitbox (entity: zombie, angle: 44.539, move: true) (+1) | vl:1 ping:110 tps:20.0 lp:4 component: hb.mis
+(10:07:22) LethalLuck failed KillAura check | (analysis) killaura-like combat pattern: #3 (d: 39.757, t: villager) (+25) | vl:25 ping:110 tps:20.0 lp:4 component: ka.als.3
+(10:07:22) Execute command: matrix notify LethalLuck might be using combat hacks (KillAura)
+(10:07:23) LethalLuck failed KillAura check | (onehit) attack in an abnormal state (pattern: #01, val: 3) (+4) | vl:29 ping:110 tps:20.0 lp:4 component: ka.one.1
+(10:10:21) ImJarHed failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:170 tps:19.99 lp:21 component: interact.through
+(10:10:34) ImJarHed failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:2 ping:170 tps:20.0 lp:15 component: interact.through
+(10:11:56) STra1z failed HitBox check | missed entity hitbox (entity: skeleton, angle: 179.434, move: true) (+2) | vl:2 ping:35 tps:20.0 lp:4 component: hb.mis
+(10:12:52) STra1z failed BadPackets check | (timer) send 37 moving packets in 1603ms | tag: limit (+5) | vl:5 ping:1483 tps:20.0 lp:47 component: net.timer
+(10:12:52) STra1z failed Speed check | suspicious movement (move: 0.414, expect:0.289, t:0, sprint: false, attr: 0.1, tag: a) (+9) | vl:9 ping:1483 tps:20.0 lp:47 component: speed.main
+(10:12:55) STra1z failed BadPackets check | (timer) send 39 moving packets in 1437ms | tag: limit (+5) | vl:10 ping:1483 tps:20.0 lp:61 component: net.timer
+(10:12:59) STra1z failed Fly check | suspicious movement:0.5 predict:0.42 air:0 tag:dmj (+12) | vl:12 ping:1483 tps:20.0 lp:61 component: fly.main
+(10:13:00) ImJarHed failed Interact check | interact block through solid (through: STONE_BRICKS, block:CHEST) (+1) | vl:1 ping:171 tps:20.0 lp:4 component: interact.through
+(10:13:03) STra1z failed BadPackets check | (timer) send 40 moving packets in 1151ms | tag: limit (+5) | vl:15 ping:658 tps:20.0 lp:49 component: net.timer
+(10:13:43) STra1z failed Speed check | sprint with weird direction (dist: 0.276, angle:157.506) (+5) | vl:5 ping:568 tps:20.0 lp:57 component: speed.sprint
+(10:16:38) ImJarHed failed Chat check | chat too fast | delay: 2013 (+1) | vl:1 ping:174 tps:20.0 lp:16 component: chat.delay
+(10:16:52) LethalLuck failed Jesus check | liquid speed (speed: 0.125, expect:0.12, dmg: false, flw:false, module: in) (+3) | vl:3 ping:111 tps:20.0 lp:3 component: jesus.speed.in
+(10:17:46) ImJarHed failed Velocity check | (respond) ignore server velocity: 0.018,0.275,0.218 (+5) | vl:5 ping:176 tps:20.0 lp:7 component: vel.expect
+(10:19:30) ImJarHed failed Speed check | suspicious movement (move: 0.622, predict: 0.138, friction: 0.6, ground:false, motY: 0.078, increase:0.026, preMove:0.112, motion: -0.622,0.078,0.0, attribute: 0.13, cm: false, di: false, tag: pred) (+5) | vl:5 ping:174 tps:20.0 lp:15 component: move.xz
+(10:21:10) ImJarHed failed Block check | break block without delay (+4) | vl:4 ping:170 tps:20.0 lp:6 component: blk.fb.dly
+(10:23:04) LethalLuck failed Interact check | breaking a block without looking at it (block: GLASS) (+1) | vl:1 ping:111 tps:20.0 lp:16 component: interact.break
+(10:23:04) LethalLuck failed Interact check | break block through walls (through: glass, block: glass) (+1) | vl:2 ping:111 tps:20.0 lp:16 component: interact.break
+(10:24:02) LethalLuck failed Speed check | suspicious movement (move: 0.325, vet: 0.391, tag: d) (+8) | vl:8 ping:110 tps:20.0 lp:3 component: speed.main
+(10:24:02) LethalLuck failed Fly check | suspicious movement:0.276 predict:0.17 vel:0.165 air_t:3 tag:vt (+5) | vl:5 ping:110 tps:20.0 lp:3 component: fly.main
+(10:24:02) LethalLuck failed Fly check | suspicious movement:0.192 predict:0.088 vel:0.083 air_t:4 tag:vt (+5) | vl:10 ping:110 tps:20.0 lp:3 component: fly.main
+(10:24:08) ImJarHed failed KillAura check | (autoclicker) click delay pattern | 1.9+ delay | avg: 598 diff: 7 (+6) | vl:6 ping:175 tps:20.0 lp:4 component: ka.ac.9p
+(10:24:09) ImJarHed failed HitBox check | missed entity hitbox (entity: zombie_villager, angle: 60.116, move: true) (+2) | vl:2 ping:175 tps:20.0 lp:3 component: hb.mis
+(10:24:13) ImJarHed failed Fly check | suspicious movement:0.408 predict:-0.422 air:9 tag:dmf (+10) | vl:10 ping:175 tps:20.0 lp:3 component: fly.main
+(10:24:33) LethalLuck failed Block check | break block without delay (+4) | vl:4 ping:111 tps:20.0 lp:5 component: blk.fb.dly
+(10:29:18) ImJarHed failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:170 tps:20.0 lp:25 component: interact.through
+(10:29:31) ImJarHed failed Fly check | step | p:3 (+4) | vl:4 ping:168 tps:20.0 lp:15 component: speed.step
+(11:18:50) LethalLuck failed Scaffold check | scaffold-like placement | type D (+7) | vl:7 ping:110 tps:20.0 lp:10 component: sfd.place.d
+(11:19:46) LethalLuck failed Elytra check | (elytra) reserve energy: 0.0 dif: 0.0 motion: 0.0 t: 441 (+2) | vl:2 ping:117 tps:20.0 lp:5 component: ely.re
+(11:22:04) LethalLuck failed Fly check | suspicious movement:0.357 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:5 ping:112 tps:20.0 lp:2 component: fly.main
+(11:22:04) LethalLuck failed Fly check | suspicious movement:0.329 predict:0.253 vel:0.248 air_t:2 tag:vt (+5) | vl:10 ping:112 tps:20.0 lp:2 component: fly.main
+(11:22:04) LethalLuck failed Fly check | suspicious movement:0.329 predict:0.244 air_t:3 tag:sam (+5) | vl:15 ping:112 tps:20.0 lp:2 component: fly.main
+(11:22:04) LethalLuck failed Fly check | suspicious movement:0.329 predict:0.17 vel:0.165 air_t:3 tag:vt (+5) | vl:20 ping:112 tps:20.0 lp:2 component: fly.main
+(11:49:17) vanism failed Speed check | t: spin (+10) | vl:10 ping:38 tps:20.0 lp:12 component: speed.spin
+(11:49:17) vanism failed Speed check | t: spin (+10) | vl:20 ping:18 tps:20.0 lp:12 component: speed.spin
+(12:14:19) vanism failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:19 tps:20.0 lp:17 component: interact.through
+(12:16:19) vanism failed Chat check | chat too fast | delay: 2548 (+1) | vl:1 ping:25 tps:20.0 lp:11 component: chat.delay
+(12:30:46) LethalLuck failed Fly check | suspicious movement:0.352 predict:0.267 air_t:2 tag:sam (+5) | vl:5 ping:117 tps:20.0 lp:14 component: fly.main
+(12:30:46) LethalLuck failed Fly check | suspicious movement:0.352 predict:0.253 vel:0.248 air_t:2 tag:vt (+5) | vl:10 ping:117 tps:20.0 lp:14 component: fly.main
+(12:39:09) Zonelesi failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:48 tps:20.0 lp:22 component: interact.through
+(12:40:10) Zonelesi failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:47 tps:19.96 lp:16 component: interact.through
+(12:41:38) Zonelesi failed Interact check | interact block through solid (through: LIME_CONCRETE, block:CHEST) (+1) | vl:1 ping:49 tps:20.0 lp:32 component: interact.through
+(12:42:13) Zonelesi failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:63 tps:20.0 lp:20 component: interact.through
+(12:43:23) LethalLuck failed Chat check | chat too fast | delay: 788 (+1) | vl:1 ping:116 tps:20.0 lp:4 component: chat.delay
+(12:43:25) LethalLuck failed Chat check | chat too fast | delay: 1359 (+1) | vl:2 ping:116 tps:20.0 lp:4 component: chat.delay
+(12:43:33) Zonelesi failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:63 tps:20.0 lp:13 component: interact.through
+(12:43:38) Zonelesi failed Interact check | interact block through solid (through: GREEN_CONCRETE, block:CHEST) (+1) | vl:2 ping:63 tps:20.0 lp:13 component: interact.through
+(12:44:07) LethalLuck failed Fly check | suspicious movement:0.339 predict:0.338 vel:0.248 air_t:1 tag:vt (+5) | vl:5 ping:110 tps:20.0 lp:2 component: fly.main
+(12:44:07) LethalLuck failed Fly check | suspicious movement:0.339 predict:0.254 air_t:2 tag:sam (+5) | vl:10 ping:110 tps:20.0 lp:2 component: fly.main
+(12:44:07) LethalLuck failed Fly check | suspicious movement:0.339 predict:0.253 vel:0.248 air_t:2 tag:vt (+5) | vl:15 ping:110 tps:20.0 lp:2 component: fly.main
+(12:44:46) Zonelesi failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:34 tps:20.0 lp:20 component: interact.through
+(12:45:47) Zonelesi failed Block check | break block without delay (+4) | vl:4 ping:30 tps:20.0 lp:19 component: blk.fb.dly
+(12:46:02) Zonelesi failed Block check | break block without delay (+4) | vl:8 ping:31 tps:20.0 lp:22 component: blk.fb.dly
+(12:46:57) LethalLuck failed Chat check | chat too fast | delay: 2070 (+1) | vl:1 ping:125 tps:20.0 lp:0 component: chat.delay
+(12:47:24) LethalLuck failed Chat check | chat too fast | delay: 1829 (+1) | vl:1 ping:120 tps:20.0 lp:10 component: chat.delay
+(12:48:00) LethalLuck failed Chat check | chat too fast | delay: 2882 (+1) | vl:1 ping:124 tps:20.0 lp:13 component: chat.delay
+(12:49:25) Zonelesi failed Speed check | t: spin (+10) | vl:10 ping:371 tps:20.0 lp:35 component: speed.spin
+(12:51:12) Zonelesi failed Speed check | t: spin (+10) | vl:10 ping:46 tps:19.99 lp:22 component: speed.spin
+(12:51:43) LethalLuck failed HitBox check | missed entity hitbox (entity: wither_skeleton, angle: 54.994, move: true) (+1) | vl:1 ping:120 tps:20.0 lp:7 component: hb.mis
+(12:52:39) LethalLuck failed Speed check | suspicious movement (move: 0.517, vet: 0.388, tag: d) (+8) | vl:8 ping:119 tps:20.0 lp:3 component: speed.main
+(12:52:39) LethalLuck failed Speed check | suspicious movement (move: 0.512, expect: 0.3665, tag: ea) (+5) | vl:13 ping:119 tps:20.0 lp:3 component: speed.main
+(12:52:39) LethalLuck failed Speed check | suspicious movement (move: 0.512, predict: 0.309, friction: 0.6, ground:false, motY: 0.356, increase:0.026, preMove:0.283, motion: -0.01,0.356,-0.512, attribute: 0.13, cm: false, di: false, tag: pred) (+5) | vl:18 ping:119 tps:20.0 lp:3 component: move.xz
+(12:52:39) LethalLuck failed Fly check | suspicious movement:0.356 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:5 ping:119 tps:20.0 lp:3 component: fly.main
+(12:54:59) Zonelesi failed Block check | break block without delay (+4) | vl:4 ping:344 tps:20.0 lp:21 component: blk.fb.dly
+(12:55:03) LethalLuck failed Fly check | suspicious movement:0.356 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:5 ping:118 tps:20.0 lp:2 component: fly.main
+(12:55:10) Zonelesi failed Block check | break block without delay (+4) | vl:4 ping:43 tps:20.0 lp:24 component: blk.fb.dly
+(12:55:14) Zonelesi failed Block check | break block without delay (+4) | vl:8 ping:43 tps:20.0 lp:24 component: blk.fb.dly
+(12:55:47) Zonelesi failed Block check | break block without delay (+4) | vl:4 ping:43 tps:20.0 lp:23 component: blk.fb.dly
+(12:56:03) Zonelesi failed Block check | break block without delay (+4) | vl:8 ping:44 tps:20.0 lp:21 component: blk.fb.dly
+(12:56:06) LethalLuck failed Block check | break block without delay (+4) | vl:4 ping:121 tps:20.0 lp:11 component: blk.fb.dly
+(13:00:07) Zonelesi failed Scaffold check | scaffold-like placement | type A (+1) | vl:1 ping:44 tps:20.0 lp:7 component: sfd.place.a
+(13:00:23) Zonelesi failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:44 tps:20.0 lp:28 component: interact.through
+(13:06:50) LethalLuck failed Speed check | suspicious movement (move: 0.47, vet: 0.391, tag: d) (+7) | vl:7 ping:126 tps:20.0 lp:3 component: speed.main
+(13:06:50) LethalLuck failed Speed check | suspicious movement (move: 0.456, expect: 0.3665, tag: ea) (+5) | vl:12 ping:126 tps:20.0 lp:3 component: speed.main
+(13:06:50) LethalLuck failed Fly check | suspicious movement:0.362 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:5 ping:126 tps:20.0 lp:3 component: fly.main
+(13:07:08) LethalLuck failed Fly check | suspicious movement:0.363 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:10 ping:120 tps:20.0 lp:7 component: fly.main
+(13:10:54) LethalLuck failed Speed check | suspicious movement (move: 0.505, vet: 0.39, tag: d) (+7) | vl:7 ping:123 tps:20.0 lp:7 component: speed.main
+(13:10:54) LethalLuck failed Speed check | suspicious movement (move: 0.498, expect: 0.3665, tag: ea) (+5) | vl:12 ping:123 tps:20.0 lp:7 component: speed.main
+(13:10:54) LethalLuck failed Fly check | suspicious movement:0.36 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:5 ping:123 tps:20.0 lp:7 component: fly.main
+(13:15:49) Zonelesi failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:43 tps:20.0 lp:14 component: interact.through
+(13:16:08) Zonelesi failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:2 ping:23 tps:20.0 lp:21 component: interact.through
+(13:16:30) Zonelesi failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:56 tps:20.0 lp:36 component: interact.through
+(13:16:34) Zonelesi failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:2 ping:25 tps:20.0 lp:41 component: interact.through
+(13:16:35) Zonelesi failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:3 ping:25 tps:20.0 lp:41 component: interact.through
+(13:16:41) Zonelesi failed Interact check | interact block through solid (through: LIME_CONCRETE, block:CHEST) (+1) | vl:1 ping:25 tps:20.0 lp:41 component: interact.through
+(13:22:32) STra1z failed Block check | break block without delay (+4) | vl:4 ping:37 tps:20.0 lp:3 component: blk.fb.dly
+(13:22:36) LethalLuck failed Interact check | interact block through solid (through: DARK_OAK_PLANKS, block:CHEST) (+1) | vl:1 ping:138 tps:20.0 lp:15 component: interact.through
+(13:24:23) LethalLuck failed Fly check | suspicious movement:0.364 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:5 ping:130 tps:19.99 lp:6 component: fly.main
+(13:24:23) LethalLuck failed Fly check | suspicious movement:0.337 predict:0.253 vel:0.248 air_t:2 tag:vt (+5) | vl:10 ping:130 tps:19.99 lp:5 component: fly.main
+(13:24:23) LethalLuck failed Fly check | suspicious movement:0.337 predict:0.252 air_t:3 tag:sam (+5) | vl:15 ping:130 tps:19.99 lp:5 component: fly.main
+(13:24:23) LethalLuck failed Fly check | suspicious movement:0.337 predict:0.17 vel:0.165 air_t:3 tag:vt (+5) | vl:20 ping:130 tps:19.99 lp:5 component: fly.main
+(13:24:30) Zonelesi failed Block check | break block with timer (block: stone, point: 399) (+4) | vl:4 ping:39 tps:20.0 lp:16 component: block.fb.timer
+(13:25:59) Zonelesi failed Block check | break block without delay (+4) | vl:4 ping:38 tps:20.0 lp:3 component: blk.fb.dly
+(13:26:13) vanism failed Interact check | break block through walls (through: gravel, block: gravel) (+1) | vl:1 ping:30 tps:20.0 lp:8 component: interact.break
+(13:26:59) Zonelesi failed Block check | break block without delay (+4) | vl:4 ping:38 tps:20.0 lp:21 component: blk.fb.dly
+(13:27:33) Zonelesi failed Block check | break block without delay (+4) | vl:4 ping:38 tps:20.0 lp:8 component: blk.fb.dly
+(13:32:58) STra1z failed HitBox check | missed entity hitbox (entity: trader_llama, angle: 43.526, move: true) (+1) | vl:1 ping:42 tps:20.0 lp:3 component: hb.mis
+(13:32:59) STra1z failed HitBox check | missed entity hitbox (entity: trader_llama, angle: 51.373, move: true) (+1) | vl:2 ping:42 tps:20.0 lp:3 component: hb.mis
+(13:34:15) Zonelesi failed Block check | break block with timer (block: stone, point: 306) (+4) | vl:4 ping:21 tps:20.0 lp:17 component: block.fb.timer
+(13:34:17) Zonelesi failed Block check | break block with timer (block: stone, point: 429) (+4) | vl:8 ping:21 tps:20.0 lp:22 component: block.fb.timer
+(13:34:53) LethalLuck failed Speed check | change direction in mid-air (dist: 0.261, angle:57.451, pre:0.287) (+5) | vl:5 ping:122 tps:20.0 lp:4 component: speed.strafe
+(13:37:03) Zonelesi failed Block check | break block without delay (+4) | vl:4 ping:36 tps:20.0 lp:17 component: blk.fb.dly
+(13:37:32) STra1z failed Block check | break block too fast (digs: 2/3, block: grass_block, j: false) (+4) | vl:4 ping:40 tps:20.0 lp:5 component: block.fastbreak.expect
+(13:40:40) Zonelesi failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:36 tps:20.0 lp:33 component: interact.through
+(13:41:28) LethalLuck failed Speed check | suspicious movement (move: 0.443, vet: 0.383, tag: d) (+7) | vl:7 ping:132 tps:20.0 lp:2 component: speed.main
+(13:41:28) LethalLuck failed Speed check | suspicious movement (move: 0.438, expect: 0.3665, tag: ea) (+5) | vl:12 ping:132 tps:20.0 lp:2 component: speed.main
+(13:41:28) LethalLuck failed Speed check | suspicious movement (move: 0.443, expect: 0.3665, tag: ea) (+5) | vl:17 ping:132 tps:20.0 lp:2 component: speed.main
+(13:41:28) LethalLuck failed Speed check | suspicious movement (move: 0.443, predict: 0.424, friction: 0.6, ground:false, motY: 0.347, increase:0.026, preMove:0.398, motion: -0.178,0.347,0.406, attribute: 0.13, cm: false, di: false, tag: pred) (+5) | vl:22 ping:132 tps:20.0 lp:2 component: move.xz
+(13:41:28) LethalLuck failed Fly check | suspicious movement:0.347 predict:0.253 vel:0.248 air_t:2 tag:vt (+5) | vl:5 ping:132 tps:20.0 lp:2 component: fly.main
+(13:41:29) LethalLuck failed Speed check | suspicious movement (move: 0.25, predict: 0.12, friction: 0.6, ground:false, motY: 0.385, increase:0.096, preMove:0.024, motion: -0.16,0.385,0.192, attribute: 0.13, cm: false, di: false, tag: pred) (+5) | vl:27 ping:132 tps:20.0 lp:3 component: move.xz
+(13:41:29) LethalLuck failed Fly check | suspicious movement:0.385 predict:0.088 vel:0.42 air_t:4 tag:vt (+5) | vl:10 ping:132 tps:20.0 lp:3 component: fly.main
+(13:41:59) Zonelesi failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:51 tps:20.0 lp:29 component: interact.through
+(13:42:08) Zonelesi failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:2 ping:36 tps:20.0 lp:24 component: interact.through
+(13:43:45) Zonelesi failed Interact check | interact block through solid (through: GREEN_CONCRETE, block:CHEST) (+1) | vl:1 ping:36 tps:20.0 lp:30 component: interact.through
+(13:46:14) Zonelesi failed Block check | break block without delay (+4) | vl:4 ping:35 tps:20.0 lp:15 component: blk.fb.dly
+(13:49:47) LethalLuck failed Speed check | suspicious movement (move: 0.501, predict: 0.296, friction: 0.6, ground:false, motY: 0.386, increase:0.026, preMove:0.27, motion: -0.113,0.386,0.488, attribute: 0.13, cm: false, di: false, tag: pred) (+5) | vl:5 ping:121 tps:20.0 lp:6 component: move.xz
+(13:49:47) LethalLuck failed Fly check | suspicious movement:0.386 predict:0.3 air_t:1 tag:sam (+5) | vl:5 ping:121 tps:20.0 lp:6 component: fly.main
+(13:49:47) LethalLuck failed Fly check | suspicious movement:0.386 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:10 ping:121 tps:20.0 lp:6 component: fly.main
+(13:49:59) LethalLuck failed Interact check | interact block through solid (through: DARK_OAK_PLANKS, block:CHEST) (+1) | vl:1 ping:120 tps:20.0 lp:5 component: interact.through
+(13:50:23) LethalLuck failed Interact check | interact block through solid (through: DARK_OAK_PLANKS, block:CHEST) (+1) | vl:1 ping:119 tps:20.0 lp:7 component: interact.through
+(13:52:00) Zonelesi failed Interact check | interact block through solid (through: GRANITE, block:CHEST) (+1) | vl:1 ping:53 tps:20.0 lp:6 component: interact.through
+(13:52:42) LethalLuck failed Speed check | suspicious movement (move: 0.45, vet: 0.388, tag: d) (+7) | vl:7 ping:126 tps:20.0 lp:3 component: speed.main
+(13:52:42) LethalLuck failed Speed check | suspicious movement (move: 0.442, expect: 0.3665, tag: ea) (+5) | vl:12 ping:126 tps:20.0 lp:3 component: speed.main
+(13:52:42) LethalLuck failed Fly check | suspicious movement:0.356 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:5 ping:126 tps:20.0 lp:3 component: fly.main
+(13:52:57) Zonelesi failed Scaffold check | scaffold-like placement | type A (+1) | vl:1 ping:52 tps:20.0 lp:16 component: sfd.place.a
+(13:53:16) Zonelesi failed Scaffold check | scaffold-like placement | type A (+1) | vl:1 ping:21 tps:20.0 lp:13 component: sfd.place.a
+(13:54:35) Zonelesi failed Interact check | interact block through solid (through: BLUE_CONCRETE, block:CHEST) (+1) | vl:1 ping:51 tps:20.0 lp:19 component: interact.through
+(13:56:00) Zonelesi failed Block check | break block with timer (block: yellow_concrete, point: 359) (+4) | vl:4 ping:34 tps:20.0 lp:28 component: block.fb.timer
+(14:01:48) Zonelesi failed Speed check | t: spin (+10) | vl:10 ping:36 tps:20.0 lp:8 component: speed.spin
+(14:03:03) Zonelesi failed Scaffold check | scaffold-like placement | type A (+1) | vl:1 ping:34 tps:20.0 lp:9 component: sfd.place.a
+(14:03:21) LethalLuck failed Interact check | interact block through solid (through: DIRT, block:CHEST) (+1) | vl:1 ping:102 tps:20.0 lp:3 component: interact.through
+(14:06:38) Zonelesi failed Interact check | interact block through solid (through: LIME_CONCRETE, block:CHEST) (+1) | vl:1 ping:49 tps:20.0 lp:30 component: interact.through
+(14:06:38) LethalLuck failed Fly check | suspicious movement:0.255 predict:0.17 vel:0.165 air_t:3 tag:vt (+5) | vl:5 ping:118 tps:20.0 lp:12 component: fly.main
+(14:06:38) LethalLuck failed Fly check | suspicious movement:0.172 predict:0.088 vel:0.083 air_t:4 tag:vt (+5) | vl:10 ping:118 tps:20.0 lp:12 component: fly.main
+(14:08:05) Zonelesi failed Speed check | t: spin (+10) | vl:10 ping:48 tps:20.0 lp:20 component: speed.spin
+(14:09:19) LethalLuck failed Speed check | suspicious movement (move: 0.485, vet: 0.391, tag: d) (+7) | vl:7 ping:124 tps:20.0 lp:9 component: speed.main
+(14:09:19) LethalLuck failed Speed check | suspicious movement (move: 0.48, expect: 0.3665, tag: ea) (+5) | vl:12 ping:124 tps:20.0 lp:9 component: speed.main
+(14:09:19) LethalLuck failed Fly check | suspicious movement:0.363 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:5 ping:124 tps:20.0 lp:9 component: fly.main
+(14:09:23) Zonelesi failed Interact check | interact block through solid (through: GREEN_CONCRETE, block:CHEST) (+1) | vl:1 ping:33 tps:20.0 lp:13 component: interact.through
+(14:16:46) Zonelesi failed Interact check | interact block through solid (through: DIRT, block:CHEST) (+1) | vl:1 ping:62 tps:20.0 lp:13 component: interact.through
+(14:16:58) Zonelesi failed Interact check | interact block through solid (through: GRASS_BLOCK, block:CHEST) (+1) | vl:2 ping:45 tps:20.0 lp:21 component: interact.through
+(14:20:57) Zonelesi failed Scaffold check | scaffold-like placement | type A (+1) | vl:1 ping:30 tps:20.0 lp:20 component: sfd.place.a
+(14:26:25) Zonelesi failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:44 tps:20.0 lp:16 component: interact.through
+(14:27:50) Zonelesi failed Interact check | interact block through solid (through: GREEN_CONCRETE, block:CHEST) (+1) | vl:1 ping:45 tps:20.0 lp:30 component: interact.through
+(14:31:49) Zonelesi failed Interact check | interact block through solid (through: GREEN_CONCRETE, block:CHEST) (+1) | vl:1 ping:28 tps:20.0 lp:13 component: interact.through
+(14:31:57) Zonelesi failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:2 ping:126 tps:20.0 lp:20 component: interact.through
+(14:32:26) Zonelesi failed Speed check | t: spin (+10) | vl:10 ping:59 tps:20.0 lp:8 component: speed.spin
+(14:32:26) Zonelesi failed Speed check | t: spin (+10) | vl:20 ping:59 tps:20.0 lp:8 component: speed.spin
+(14:37:52) Zonelesi failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:25 tps:20.0 lp:16 component: interact.through
+(14:42:03) Zonelesi failed Speed check | t: spin (+10) | vl:10 ping:26 tps:20.0 lp:16 component: speed.spin
+(14:42:03) Zonelesi failed Speed check | t: spin (+10) | vl:20 ping:26 tps:20.0 lp:19 component: speed.spin
+(14:45:25) Zonelesi failed Block check | break block without delay (+4) | vl:4 ping:57 tps:20.0 lp:16 component: blk.fb.dly
+(14:47:43) Zonelesi failed Block check | break block too fast (digs: 2/3, block: nether_gold_ore, j: false) (+4) | vl:4 ping:40 tps:20.0 lp:21 component: block.fastbreak.expect
+(14:47:54) Zonelesi failed Block check | break block without delay (+4) | vl:8 ping:26 tps:20.0 lp:18 component: blk.fb.dly
+(14:55:30) Zonelesi failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:23 tps:20.0 lp:33 component: interact.through
+(14:55:43) Zonelesi failed Interact check | interact block through solid (through: GREEN_CONCRETE, block:CHEST) (+1) | vl:1 ping:24 tps:20.0 lp:33 component: interact.through
+(14:57:06) LethalLuck failed Fly check | suspicious movement:0.5 predict:-0.078 pmv:0.5 tag:ground (+5) | vl:5 ping:116 tps:20.0 lp:2 component: fly.main
+(14:57:27) Zonelesi failed Speed check | t: spin (+10) | vl:10 ping:39 tps:20.0 lp:15 component: speed.spin
+(14:57:27) Zonelesi failed Speed check | t: spin (+10) | vl:20 ping:39 tps:20.0 lp:15 component: speed.spin
+(14:59:06) LethalLuck failed HitBox check | missed entity hitbox (entity: wither_skeleton, angle: 37.864, move: true) (+1) | vl:1 ping:123 tps:20.0 lp:5 component: hb.mis
+(15:00:43) LethalLuck failed Scaffold check | (delay) bridge too fast: 5,5 (+5) | vl:5 ping:116 tps:20.0 lp:13 component: sfd.dly
+(15:00:48) LethalLuck failed Scaffold check | scaffold-like placement | type C (+7) | vl:12 ping:123 tps:20.0 lp:12 component: sfd.place.c
+(15:00:48) Execute command: matrix notify LethalLuck tried to bridge blocks quickly (Scaffold)
+(15:01:19) LethalLuck failed Scaffold check | (delay) bridge too fast: 4,4 (+5) | vl:5 ping:118 tps:20.0 lp:11 component: sfd.dly
+(15:01:19) LethalLuck failed Scaffold check | (delay) bridge too fast: 5,5 (+5) | vl:10 ping:118 tps:20.0 lp:12 component: sfd.dly
+(15:01:19) Execute command: matrix notify LethalLuck tried to bridge blocks quickly (Scaffold)
+(15:01:25) LethalLuck failed Scaffold check | scaffold-like placement | type C (+7) | vl:17 ping:118 tps:20.0 lp:11 component: sfd.place.c
+(15:01:25) Execute command: matrix notify LethalLuck tried to bridge blocks quickly (Scaffold) #2
+(15:02:30) Zonelesi failed Interact check | interact block through solid (through: DIRT, block:CHEST) (+1) | vl:1 ping:22 tps:20.0 lp:15 component: interact.through
+(15:02:40) Zonelesi failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:22 tps:20.0 lp:32 component: interact.through
+(15:02:47) Zonelesi failed Interact check | interact block through solid (through: GREEN_CONCRETE, block:CHEST) (+1) | vl:2 ping:53 tps:20.0 lp:32 component: interact.through
+(15:02:58) Zonelesi failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:3 ping:54 tps:20.0 lp:32 component: interact.through
+(15:03:01) Zonelesi failed Interact check | interact block through solid (through: GREEN_CONCRETE, block:CHEST) (+1) | vl:4 ping:54 tps:20.0 lp:31 component: interact.through
+(15:03:47) Zonelesi failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:56 tps:20.0 lp:26 component: interact.through
+(15:03:50) LethalLuck failed Speed check | suspicious movement (move: 0.444, vet: 0.39, tag: d) (+7) | vl:7 ping:125 tps:20.0 lp:7 component: speed.main
+(15:03:50) LethalLuck failed Speed check | suspicious movement (move: 0.436, expect: 0.3665, tag: ea) (+5) | vl:12 ping:125 tps:20.0 lp:6 component: speed.main
+(15:03:50) LethalLuck failed Fly check | suspicious movement:0.361 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:5 ping:125 tps:20.0 lp:6 component: fly.main
+(15:06:01) LethalLuck failed Velocity check | (respond) ignore server velocity: -0.092,0.275,-0.198 (+5) | vl:5 ping:120 tps:20.0 lp:4 component: vel.expect
+(15:06:16) LethalLuck failed Speed check | suspicious movement (move: 0.514, vet: 0.389, tag: d) (+7) | vl:7 ping:122 tps:20.0 lp:2 component: speed.main
+(15:06:16) LethalLuck failed Speed check | suspicious movement (move: 0.509, expect: 0.3665, tag: ea) (+5) | vl:12 ping:122 tps:20.0 lp:2 component: speed.main
+(15:06:16) LethalLuck failed Speed check | suspicious movement (move: 0.509, predict: 0.307, friction: 0.6, ground:false, motY: 0.359, increase:0.026, preMove:0.281, motion: -0.352,0.359,-0.367, attribute: 0.13, cm: false, di: false, tag: pred) (+5) | vl:17 ping:122 tps:20.0 lp:2 component: move.xz
+(15:06:16) LethalLuck failed Fly check | suspicious movement:0.359 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:5 ping:122 tps:20.0 lp:2 component: fly.main
+(15:07:17) LethalLuck failed Speed check | suspicious movement (move: 0.474, vet: 0.382, tag: d) (+7) | vl:7 ping:120 tps:20.0 lp:4 component: speed.main
+(15:07:17) LethalLuck failed Speed check | suspicious movement (move: 0.469, expect: 0.3665, tag: ea) (+5) | vl:12 ping:120 tps:20.0 lp:4 component: speed.main
+(15:07:17) LethalLuck failed Speed check | suspicious movement (move: 0.464, expect: 0.3665, tag: ea) (+5) | vl:17 ping:120 tps:20.0 lp:4 component: speed.main
+(15:07:17) LethalLuck failed Speed check | suspicious movement (move: 0.464, predict: 0.453, friction: 0.6, ground:false, motY: 0.308, increase:0.026, preMove:0.427, motion: 0.074,0.308,0.458, attribute: 0.13, cm: false, di: false, tag: pred) (+5) | vl:22 ping:120 tps:20.0 lp:4 component: move.xz
+(15:07:17) LethalLuck failed Fly check | suspicious movement:0.308 predict:0.253 vel:0.248 air_t:2 tag:vt (+5) | vl:5 ping:120 tps:20.0 lp:4 component: fly.main
+(15:07:51) Zonelesi failed Speed check | t: spin (+10) | vl:10 ping:22 tps:20.0 lp:12 component: speed.spin
+(15:08:14) LethalLuck failed Velocity check | (respond) ignore server velocity: 0.19,0.275,0.107 (+5) | vl:5 ping:118 tps:20.0 lp:14 component: vel.expect
+(15:10:19) Zonelesi failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:36 tps:20.0 lp:13 component: interact.through
+(15:11:55) Zonelesi failed Speed check | t: spin (+10) | vl:10 ping:20 tps:20.0 lp:13 component: speed.spin
+(15:12:03) LethalLuck failed Speed check | suspicious movement (move: 0.483, vet: 0.389, tag: d) (+7) | vl:7 ping:134 tps:20.0 lp:4 component: speed.main
+(15:12:03) LethalLuck failed Speed check | suspicious movement (move: 0.478, expect: 0.3665, tag: ea) (+5) | vl:12 ping:134 tps:20.0 lp:4 component: speed.main
+(15:12:03) LethalLuck failed Fly check | suspicious movement:0.359 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:5 ping:134 tps:20.0 lp:4 component: fly.main
+(15:12:08) LethalLuck failed Speed check | change direction in mid-air (dist: 0.285, angle:92.528, pre:0.275) (+5) | vl:17 ping:125 tps:20.0 lp:3 component: speed.strafe
+(15:15:21) LethalLuck failed Fly check | suspicious movement:0.318 predict:0.253 vel:0.248 air_t:2 tag:vt (+5) | vl:5 ping:122 tps:20.0 lp:7 component: fly.main
+(15:15:21) LethalLuck failed Fly check | suspicious movement:0.318 predict:0.233 air_t:3 tag:sam (+5) | vl:10 ping:122 tps:20.0 lp:7 component: fly.main
+(15:15:21) LethalLuck failed Fly check | suspicious movement:0.318 predict:0.17 vel:0.165 air_t:3 tag:vt (+5) | vl:15 ping:122 tps:20.0 lp:7 component: fly.main
+(15:16:13) Zonelesi failed Scaffold check | scaffold-like placement | type A (+1) | vl:1 ping:52 tps:20.0 lp:21 component: sfd.place.a
+(15:17:40) Zonelesi failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:20 tps:20.0 lp:11 component: interact.through
+(15:17:41) Zonelesi failed Interact check | interact block through solid (through: GREEN_CONCRETE, block:CHEST) (+1) | vl:1 ping:20 tps:20.0 lp:11 component: interact.through
+(15:18:24) LethalLuck failed Interact check | interact block through solid (through: DARK_OAK_PLANKS, block:CHEST) (+1) | vl:1 ping:130 tps:20.0 lp:18 component: interact.through
+(15:18:50) LethalLuck failed Chat check | chat too fast | delay: 1956 (+1) | vl:1 ping:120 tps:20.0 lp:21 component: chat.delay
+(15:20:08) LethalLuck failed Interact check | interact block through solid (through: DARK_OAK_PLANKS, block:CHEST) (+1) | vl:1 ping:48 tps:20.0 lp:12 component: interact.through
+(15:26:28) LethalLuck failed Interact check | interact block through solid (through: DARK_OAK_PLANKS, block:CHEST) (+1) | vl:1 ping:126 tps:20.0 lp:3 component: interact.through
+(15:27:04) LethalLuck failed Chat check | chat too fast | delay: 2304 (+1) | vl:1 ping:126 tps:20.0 lp:3 component: chat.delay
+(15:28:27) LethalLuck failed Interact check | interact block through solid (through: DIRT, block:CHEST) (+1) | vl:1 ping:125 tps:20.0 lp:6 component: interact.through
+(15:29:48) Zonelesi failed Speed check | t: spin (+10) | vl:10 ping:33 tps:20.0 lp:10 component: speed.spin
+(15:29:48) Zonelesi failed Speed check | t: spin (+10) | vl:20 ping:33 tps:20.0 lp:10 component: speed.spin
+(15:31:26) LethalLuck failed Elytra check | (elytra) more energy: 0.158 dif: 0.065 motion: -0.408 ratio: 0.159 (+1) | vl:1 ping:126 tps:20.0 lp:3 component: ely.me
+(15:35:46) Zonelesi failed Interact check | interact block through solid (through: DIRT, block:CHEST) (+1) | vl:1 ping:33 tps:20.0 lp:12 component: interact.through
+(15:35:52) LethalLuck failed Speed check | suspicious movement (move: 0.457, vet: 0.387, tag: d) (+8) | vl:8 ping:118 tps:20.0 lp:7 component: speed.main
+(15:35:52) LethalLuck failed Speed check | suspicious movement (move: 0.452, expect: 0.3665, tag: ea) (+5) | vl:13 ping:118 tps:20.0 lp:7 component: speed.main
+(15:35:52) LethalLuck failed Fly check | suspicious movement:0.354 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:5 ping:118 tps:20.0 lp:7 component: fly.main
+(15:36:17) Zonelesi failed Interact check | breaking a block without looking at it (block: OAK_LEAVES) (+1) | vl:1 ping:65 tps:20.0 lp:15 component: interact.break
+(15:38:00) Zonelesi failed Speed check | t: spin (+10) | vl:10 ping:48 tps:20.0 lp:21 component: speed.spin
+(15:42:01) LethalLuck failed Speed check | suspicious movement (move: 0.517, vet: 0.39, tag: d) (+7) | vl:7 ping:120 tps:20.0 lp:2 component: speed.main
+(15:42:01) LethalLuck failed Speed check | suspicious movement (move: 0.512, expect: 0.3665, tag: ea) (+5) | vl:12 ping:120 tps:20.0 lp:2 component: speed.main
+(15:42:01) LethalLuck failed Speed check | suspicious movement (move: 0.512, predict: 0.308, friction: 0.6, ground:false, motY: 0.361, increase:0.026, preMove:0.282, motion: -0.327,0.361,-0.394, attribute: 0.13, cm: false, di: false, tag: pred) (+5) | vl:17 ping:120 tps:20.0 lp:2 component: move.xz
+(15:42:01) LethalLuck failed Fly check | suspicious movement:0.361 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:5 ping:120 tps:20.0 lp:2 component: fly.main
+(15:42:37) Zonelesi failed Scaffold check | scaffold-like placement | type A (+1) | vl:1 ping:47 tps:20.0 lp:13 component: sfd.place.a
+(15:43:07) LethalLuck failed Speed check | change direction in mid-air (dist: 0.314, angle:82.663, pre:0.249) (+5) | vl:5 ping:122 tps:20.0 lp:4 component: speed.strafe
+(15:43:13) LethalLuck failed Block check | break block without delay (+4) | vl:4 ping:120 tps:20.0 lp:3 component: blk.fb.dly
+(15:44:53) LethalLuck failed Block check | (fastplace) place 10 blocks in one second (+1) | vl:1 ping:119 tps:20.0 lp:14 component: block.fastplace
+(15:45:00) LethalLuck failed Scaffold check | scaffold-like placement | type C (+7) | vl:7 ping:119 tps:20.0 lp:7 component: sfd.place.c
+(15:45:01) LethalLuck failed Scaffold check | scaffold-like placement | type C (+7) | vl:14 ping:119 tps:20.0 lp:6 component: sfd.place.c
+(15:45:01) Execute command: matrix notify LethalLuck tried to bridge blocks quickly (Scaffold)
+(15:45:02) LethalLuck failed Scaffold check | scaffold-like placement | type C (+7) | vl:21 ping:119 tps:20.0 lp:6 component: sfd.place.c
+(15:45:02) Execute command: matrix notify LethalLuck tried to bridge blocks quickly (Scaffold) #2
+(15:45:02) LethalLuck failed Scaffold check | scaffold-like placement | type C (+7) | vl:28 ping:119 tps:20.0 lp:5 component: sfd.place.c
+(15:45:02) Execute command: matrix kick LethalLuck Scaffold/Tower
+(15:46:27) Zonelesi failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:48 tps:20.0 lp:13 component: interact.through
+(15:46:36) Zonelesi failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:2 ping:30 tps:20.0 lp:26 component: interact.through
+(15:47:48) Zonelesi failed Speed check | t: spin (+10) | vl:10 ping:30 tps:20.0 lp:15 component: speed.spin
+(15:47:48) Zonelesi failed Speed check | t: spin (+10) | vl:20 ping:30 tps:20.0 lp:15 component: speed.spin
+(15:48:16) LethalLuck failed Scaffold check | right click too fast (cps: 30 length: 7401) (+2) | vl:2 ping:116 tps:20.0 lp:8 component: sfd.clk
+(15:49:45) LethalLuck failed Block check | (fastplace) place 10 blocks in one second (+1) | vl:1 ping:117 tps:20.0 lp:4 component: block.fastplace
+(15:49:45) LethalLuck failed Block check | (fastplace) place 11 blocks in one second (+1) | vl:2 ping:120 tps:20.0 lp:4 component: block.fastplace
+(15:49:46) LethalLuck failed Block check | (fastplace) place 12 blocks in one second (+1) | vl:3 ping:120 tps:20.0 lp:4 component: block.fastplace
+(15:49:47) LethalLuck failed Block check | (fastplace) place 10 blocks in one second (+1) | vl:4 ping:120 tps:20.0 lp:4 component: block.fastplace
+(15:50:25) Zonelesi failed Interact check | interact block through solid (through: DIRT, block:CHEST) (+1) | vl:1 ping:30 tps:20.0 lp:27 component: interact.through
+(15:51:04) Zonelesi failed Interact check | interact block through solid (through: DIRT, block:CHEST) (+1) | vl:1 ping:62 tps:19.99 lp:26 component: interact.through
+(15:52:09) LethalLuck failed Block check | no swing after place block | NETHERRACK (+1) | vl:1 ping:119 tps:20.0 lp:10 component: block.noswing
+(15:52:09) LethalLuck failed Block check | no swing after place block | NETHERRACK (+1) | vl:2 ping:119 tps:20.0 lp:10 component: block.noswing
+(15:52:09) LethalLuck failed Block check | no swing after place block | NETHERRACK (+1) | vl:3 ping:119 tps:20.0 lp:10 component: block.noswing
+(15:52:09) LethalLuck failed Block check | no swing after place block | NETHERRACK (+1) | vl:4 ping:119 tps:20.0 lp:10 component: block.noswing
+(15:52:09) LethalLuck failed Scaffold check | scaffold-like placement | type E (+7) | vl:7 ping:119 tps:20.0 lp:10 component: sfd.place.e
+(15:52:26) LethalLuck failed Block check | no swing after place block | NETHERRACK (+1) | vl:1 ping:118 tps:20.0 lp:10 component: block.noswing
+(15:52:27) LethalLuck failed Scaffold check | scaffold-like placement | type B (+7) | vl:7 ping:118 tps:20.0 lp:15 component: sfd.place.b
+(15:52:27) LethalLuck failed Scaffold check | scaffold-like placement | type B (+7) | vl:14 ping:118 tps:20.0 lp:15 component: sfd.place.b
+(15:52:27) Execute command: matrix notify LethalLuck tried to bridge blocks quickly (Scaffold)
+(15:52:28) LethalLuck failed Scaffold check | scaffold-like placement | type B (+7) | vl:21 ping:118 tps:20.0 lp:17 component: sfd.place.b
+(15:52:28) Execute command: matrix notify LethalLuck tried to bridge blocks quickly (Scaffold) #2
+(15:52:29) LethalLuck failed Scaffold check | scaffold-like placement | type B (+7) | vl:28 ping:118 tps:20.0 lp:14 component: sfd.place.b
+(15:52:29) Execute command: matrix kick LethalLuck Scaffold/Tower
+(15:52:29) LethalLuck failed Scaffold check | scaffold-like placement | type N (+7) | vl:35 ping:118 tps:20.0 lp:14 component: sfd.place.n
+(15:52:29) LethalLuck failed Scaffold check | scaffold-like placement | type N (+7) | vl:42 ping:118 tps:20.0 lp:14 component: sfd.place.n
+(15:52:29) LethalLuck failed Scaffold check | scaffold-like placement | type B (+7) | vl:49 ping:118 tps:20.0 lp:14 component: sfd.place.b
+(15:52:29) LethalLuck failed Scaffold check | scaffold-like placement | type N (+7) | vl:56 ping:118 tps:20.0 lp:14 component: sfd.place.n
+(15:53:45) Zonelesi failed Interact check | interact block through solid (through: LIME_CONCRETE, block:CHEST) (+1) | vl:1 ping:47 tps:19.99 lp:14 component: interact.through
+(15:55:12) LethalLuck failed FastHeal check | regen health too fast (difficulty: hard, delay: 0.317, ver: 16) (+2) | vl:2 ping:112 tps:19.99 lp:5 component: heal
+(15:56:15) Zonelesi failed Interact check | interact block through solid (through: COBBLESTONE, block:CHEST) (+1) | vl:1 ping:47 tps:20.0 lp:13 component: interact.through
+(15:59:46) Zonelesi failed Speed check | t: spin (+10) | vl:10 ping:46 tps:20.0 lp:15 component: speed.spin
+(16:03:10) Zonelesi failed Interact check | interact block through solid (through: DIRT, block:CHEST) (+1) | vl:1 ping:44 tps:20.0 lp:21 component: interact.through
+(16:05:11) LethalLuck failed HitBox check | missed entity hitbox (entity: hoglin, angle: 35.535, move: true) (+1) | vl:1 ping:117 tps:20.0 lp:1 component: hb.mis
+(16:06:15) Zonelesi failed Scaffold check | scaffold-like placement | type A (+1) | vl:1 ping:44 tps:20.0 lp:14 component: sfd.place.a
+(16:08:20) Zonelesi failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:25 tps:20.0 lp:31 component: interact.through
+(16:09:21) Zonelesi failed Interact check | interact block through solid (through: IRON_ORE, block:CHEST) (+1) | vl:1 ping:44 tps:20.0 lp:27 component: interact.through
+(16:09:24) Zonelesi failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:2 ping:44 tps:20.0 lp:27 component: interact.through
+(16:09:51) LethalLuck failed Fly check | suspicious movement:0.388 predict:0.302 air_t:1 tag:sam (+5) | vl:5 ping:114 tps:20.0 lp:4 component: fly.main
+(16:10:01) LethalLuck failed Fly check | suspicious movement:0.384 predict:0.298 air_t:1 tag:sam (+5) | vl:10 ping:114 tps:20.0 lp:8 component: fly.main
+(16:11:07) Zonelesi failed Scaffold check | scaffold-like placement | type A (+1) | vl:1 ping:27 tps:20.0 lp:12 component: sfd.place.a
+(16:11:39) Zonelesi failed Speed check | t: spin (+10) | vl:10 ping:46 tps:20.0 lp:14 component: speed.spin
+(16:20:51) Zonelesi failed Block check | break block without delay (+4) | vl:4 ping:57 tps:20.0 lp:16 component: blk.fb.dly
+(16:22:44) Zonelesi failed Interact check | interact block through solid (through: GREEN_CONCRETE, block:CHEST) (+1) | vl:1 ping:39 tps:20.0 lp:13 component: interact.through
+(16:24:39) Zonelesi failed Block check | break block without delay (+4) | vl:4 ping:56 tps:20.0 lp:22 component: blk.fb.dly
+(16:24:49) Zonelesi failed Interact check | interact block through solid (through: DIRT, block:CHEST) (+1) | vl:1 ping:56 tps:20.0 lp:19 component: interact.through
+(16:24:49) Zonelesi failed Interact check | interact block through solid (through: DIRT, block:CHEST) (+1) | vl:2 ping:56 tps:20.0 lp:19 component: interact.through
+(16:25:22) LethalLuck failed Speed check | change direction in mid-air (dist: 0.23, angle:101.136, pre:0.286) (+5) | vl:5 ping:113 tps:20.0 lp:3 component: speed.strafe
+(16:25:49) LethalLuck failed HitBox check | missed entity hitbox (entity: hoglin, angle: 45.702, move: true) (+1) | vl:1 ping:113 tps:20.0 lp:5 component: hb.mis
+(16:29:39) LethalLuck failed Fly check | suspicious movement:0.36 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:5 ping:116 tps:20.0 lp:5 component: fly.main
+(16:30:13) LethalLuck failed HitBox check | missed entity hitbox (entity: piglin, angle: 38.578, move: true) (+1) | vl:1 ping:118 tps:20.0 lp:3 component: hb.mis
+(16:34:50) LethalLuck failed Fly check | suspicious movement:0.359 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:5 ping:129 tps:20.0 lp:14 component: fly.main
+(16:35:42) LethalLuck failed Speed check | suspicious movement (move: 0.515, vet: 0.388, tag: d) (+8) | vl:8 ping:118 tps:20.0 lp:10 component: speed.main
+(16:35:42) LethalLuck failed Speed check | suspicious movement (move: 0.51, expect: 0.3665, tag: ea) (+5) | vl:13 ping:118 tps:20.0 lp:10 component: speed.main
+(16:35:42) LethalLuck failed Speed check | suspicious movement (move: 0.51, predict: 0.307, friction: 0.6, ground:false, motY: 0.356, increase:0.026, preMove:0.281, motion: -0.004,0.356,0.51, attribute: 0.13, cm: false, di: false, tag: pred) (+5) | vl:18 ping:118 tps:20.0 lp:10 component: move.xz
+(16:35:42) LethalLuck failed Fly check | suspicious movement:0.356 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:5 ping:118 tps:20.0 lp:10 component: fly.main
+(16:35:45) LethalLuck failed Speed check | suspicious movement (0.306, air_t: 12, lm:0.279 acc: 0.02685641262869043, tag: ed) (+15) | vl:33 ping:118 tps:20.0 lp:5 component: speed.main
+(16:35:45) LethalLuck failed Speed check | suspicious movement (move: 0.498, vet: 0.388, tag: d) (+8) | vl:41 ping:118 tps:20.0 lp:5 component: speed.main
+(16:36:03) Zonelesi failed Scaffold check | scaffold-like placement | type A (+1) | vl:1 ping:55 tps:20.0 lp:9 component: sfd.place.a
+(16:39:07) Zonelesi failed Speed check | t: spin (+10) | vl:10 ping:37 tps:20.0 lp:9 component: speed.spin
+(16:40:56) LethalLuck failed HitBox check | missed entity hitbox (entity: wither_skeleton, angle: 128.867, move: true) (+2) | vl:2 ping:118 tps:20.0 lp:16 component: hb.mis
+(16:42:18) LethalLuck failed Fly check | suspicious movement: 0.092 vel: -0.517 tag: els (+10) | vl:10 ping:117 tps:20.0 lp:2 component: fly.els
+(16:49:30) Zonelesi failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:20 tps:20.0 lp:16 component: interact.through
+(16:49:35) Zonelesi failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:2 ping:20 tps:20.0 lp:25 component: interact.through
+(16:50:01) STra1z failed Interact check | breaking a block without looking at it (block: STONE_BRICKS) (+1) | vl:1 ping:48 tps:20.0 lp:7 component: interact.break
+(16:50:01) STra1z failed Interact check | break block through walls (through: spruce_planks, block: stone_bricks) (+1) | vl:2 ping:48 tps:20.0 lp:7 component: interact.break
+(16:50:13) Zonelesi failed Interact check | interact block through solid (through: LIME_CONCRETE, block:CHEST) (+1) | vl:1 ping:39 tps:20.0 lp:15 component: interact.through
+(16:50:28) Zonelesi failed Interact check | interact block through solid (through: GREEN_CONCRETE, block:CHEST) (+1) | vl:2 ping:36 tps:20.0 lp:40 component: interact.through
+(16:51:10) LethalLuck failed Chat check | chat too fast | delay: 2200 (+1) | vl:1 ping:113 tps:20.0 lp:11 component: chat.delay
+(16:52:19) LethalLuck failed Interact check | interact block through solid (through: DARK_OAK_PLANKS, block:CHEST) (+1) | vl:1 ping:122 tps:20.0 lp:6 component: interact.through
+(16:55:39) STra1z failed BadPackets check | (timer) moved too many times (timer: 4.525, t:221, buffer:20, tag: timer) (+5) | vl:5 ping:2308 tps:20.0 lp:36 component: net.timer
+(16:55:39) STra1z failed BadPackets check | (timer) send 77 moving packets in 1075ms | tag: limit (+5) | vl:10 ping:2308 tps:20.0 lp:36 component: net.timer
+(16:55:39) STra1z failed Speed check | suspicious movement (move: 0.958, expect:0.289, t:0, sprint: false, attr: 0.1, tag: a) (+9) | vl:9 ping:2308 tps:20.0 lp:36 component: speed.main
+(16:55:39) STra1z failed Speed check | suspicious movement (move: 0.958, predict: 0.244, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.114, motion: -0.878,0.0,-0.383, attribute: 0.13, cm: false, di: false, tag: pred) (+5) | vl:14 ping:2308 tps:20.0 lp:36 component: move.xz
+(16:58:46) Zonelesi failed Block check | break block with timer (block: lime_concrete, point: 516) (+4) | vl:4 ping:51 tps:20.0 lp:17 component: block.fb.timer
+(16:59:18) Zonelesi failed Inventory check | t: chest steal  m:click a=68 (+1) | vl:1 ping:51 tps:20.0 lp:16 component: inv.cs.b
+(17:01:41) LethalLuck failed Block check | break block without delay (+4) | vl:4 ping:119 tps:19.99 lp:24 component: blk.fb.dly
+(17:02:01) LethalLuck failed Interact check | break block through walls (through: basalt, block: basalt) (+1) | vl:1 ping:119 tps:20.0 lp:19 component: interact.break
+(17:02:26) LethalLuck failed Block check | break block without delay (+4) | vl:4 ping:119 tps:20.0 lp:22 component: blk.fb.dly
+(17:03:02) Zonelesi failed Interact check | interact block through solid (through: DIRT, block:CHEST) (+1) | vl:1 ping:158 tps:20.0 lp:45 component: interact.through
+(17:03:09) LethalLuck failed Block check | break block without delay (+4) | vl:4 ping:116 tps:20.0 lp:14 component: blk.fb.dly
+(17:03:09) Zonelesi failed Interact check | interact block through solid (through: DIRT, block:CHEST) (+1) | vl:2 ping:158 tps:20.0 lp:45 component: interact.through
+(17:03:42) LethalLuck failed Block check | break block without delay (+4) | vl:4 ping:115 tps:20.0 lp:23 component: blk.fb.dly
+(17:03:58) LethalLuck failed Block check | break block without delay (+4) | vl:8 ping:115 tps:20.0 lp:25 component: blk.fb.dly
+(17:04:01) LethalLuck failed Block check | break block too fast (digs: 4/5, block: blackstone, j: false) (+4) | vl:12 ping:115 tps:20.0 lp:25 component: block.fastbreak.expect
+(17:04:01) Execute command: matrix notify LethalLuck tried to place/break a block too quickly (FastPlace/FastBreak)
+(17:04:01) LethalLuck failed Interact check | break block through walls (through: blackstone, block: basalt) (+1) | vl:1 ping:115 tps:20.0 lp:25 component: interact.break
+(17:07:14) LethalLuck failed Scaffold check | scaffold-like placement | type C (+7) | vl:7 ping:117 tps:20.0 lp:19 component: sfd.place.c
+(17:07:15) LethalLuck failed Scaffold check | scaffold-like placement | type C (+7) | vl:14 ping:116 tps:20.0 lp:19 component: sfd.place.c
+(17:07:15) Execute command: matrix notify LethalLuck tried to bridge blocks quickly (Scaffold)
+(17:07:15) LethalLuck failed Scaffold check | scaffold-like placement | type C (+7) | vl:21 ping:116 tps:20.0 lp:20 component: sfd.place.c
+(17:07:15) Execute command: matrix notify LethalLuck tried to bridge blocks quickly (Scaffold) #2
+(17:07:17) LethalLuck failed Scaffold check | scaffold-like placement | type C (+7) | vl:28 ping:116 tps:20.0 lp:19 component: sfd.place.c
+(17:07:17) Execute command: matrix kick LethalLuck Scaffold/Tower
+(17:08:19) LethalLuck failed Block check | break block without delay (+4) | vl:4 ping:112 tps:20.0 lp:14 component: blk.fb.dly
+(17:08:58) LethalLuck failed Scaffold check | scaffold-like placement | type C (+7) | vl:7 ping:110 tps:20.0 lp:8 component: sfd.place.c
+(17:09:20) LethalLuck failed Chat check | chat too fast | delay: 2400 (+1) | vl:1 ping:107 tps:20.0 lp:8 component: chat.delay
+(17:10:09) LethalLuck failed Block check | break block without delay (+4) | vl:4 ping:116 tps:20.0 lp:11 component: blk.fb.dly
+(17:10:42) LethalLuck failed Chat check | chat too fast | delay: 841 (+1) | vl:1 ping:109 tps:20.0 lp:2 component: chat.delay
+(17:15:16) LethalLuck failed Block check | break block without delay (+4) | vl:4 ping:107 tps:20.0 lp:24 component: blk.fb.dly
+(17:15:25) LethalLuck failed Block check | break block without delay (+4) | vl:8 ping:110 tps:20.0 lp:22 component: blk.fb.dly
+(17:15:42) LethalLuck failed Block check | break block without delay (+4) | vl:4 ping:113 tps:20.0 lp:22 component: blk.fb.dly
+(17:19:04) Zonelesi failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:34 tps:20.0 lp:25 component: interact.through
+(17:22:08) LethalLuck failed Block check | break block without delay (+4) | vl:4 ping:108 tps:20.0 lp:20 component: blk.fb.dly
+(17:22:28) LethalLuck failed Block check | break block without delay (+4) | vl:4 ping:108 tps:20.0 lp:10 component: blk.fb.dly
+(17:23:29) Zonelesi failed Speed check | t: spin (+10) | vl:10 ping:29 tps:20.0 lp:12 component: speed.spin
+(17:29:38) LethalLuck failed Block check | break block without delay (+4) | vl:4 ping:116 tps:20.0 lp:24 component: blk.fb.dly
+(17:33:55) Zonelesi failed Scaffold check | scaffold-like placement | type A (+1) | vl:1 ping:29 tps:20.0 lp:12 component: sfd.place.a
+(17:40:57) Zonelesi failed Speed check | t: spin (+10) | vl:10 ping:28 tps:20.0 lp:17 component: speed.spin
+(17:41:12) Zonelesi failed Speed check | t: spin (+10) | vl:10 ping:44 tps:20.0 lp:18 component: speed.spin
+(17:42:06) Zonelesi failed Speed check | t: spin (+10) | vl:10 ping:28 tps:20.0 lp:22 component: speed.spin
+(17:46:16) Zonelesi failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:26 tps:20.0 lp:21 component: interact.through
+(17:47:00) Zonelesi failed Interact check | interact block through solid (through: DIRT, block:CHEST) (+1) | vl:1 ping:43 tps:20.0 lp:24 component: interact.through
+(17:50:05) Zonelesi failed Inventory check | t: chest steal  m:click a=55 (+1) | vl:1 ping:41 tps:20.0 lp:16 component: inv.cs.b
+(17:55:54) Zonelesi failed Speed check | t: spin (+10) | vl:10 ping:42 tps:20.0 lp:15 component: speed.spin
+(17:57:49) Zonelesi failed Scaffold check | scaffold-like placement | type A (+1) | vl:1 ping:45 tps:20.0 lp:13 component: sfd.place.a
+(17:59:17) Zonelesi failed Fly check | suspicious movement:0.5 predict:0.42 air:0 tag:dmj (+12) | vl:12 ping:25 tps:20.0 lp:35 component: fly.main
+(18:02:05) Zonelesi failed Fly check | suspicious movement:0.385 predict:0.298 air_t:1 tag:sam (+5) | vl:5 ping:41 tps:20.0 lp:14 component: fly.main
+(18:02:05) Zonelesi failed Fly check | suspicious movement:0.385 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:10 ping:41 tps:20.0 lp:14 component: fly.main
+(18:02:32) LethalLuck failed Chat check | chat too fast | delay: 1799 (+1) | vl:1 ping:113 tps:20.0 lp:8 component: chat.delay
+(18:02:34) LethalLuck failed Chat check | chat too fast | delay: 2449 (+1) | vl:2 ping:118 tps:20.0 lp:8 component: chat.delay
+(18:04:33) Zonelesi failed Speed check | suspicious movement (move: 0.46, vet: 0.391, tag: d) (+8) | vl:8 ping:22 tps:20.0 lp:8 component: speed.main
+(18:04:33) Zonelesi failed Speed check | suspicious movement (move: 0.468, expect: 0.3665, tag: ea) (+5) | vl:13 ping:22 tps:20.0 lp:8 component: speed.main
+(18:04:33) Zonelesi failed Fly check | suspicious movement:0.391 predict:0.305 air_t:1 tag:sam (+5) | vl:5 ping:22 tps:20.0 lp:8 component: fly.main
+(18:04:33) Zonelesi failed Fly check | suspicious movement:0.391 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:10 ping:22 tps:20.0 lp:8 component: fly.main
+(18:07:31) Zonelesi failed BadPackets check | (timer) send 45 moving packets in 1154ms | tag: limit (+10) | vl:10 ping:39 tps:20.0 lp:29 component: net.timer
+(18:07:37) Zonelesi failed Block check | break block with timer (block: nether_quartz_ore, point: 433) (+4) | vl:4 ping:40 tps:20.0 lp:54 component: block.fb.timer
+(18:07:38) Zonelesi failed Block check | break block with timer (block: nether_quartz_ore, point: 485) (+4) | vl:8 ping:40 tps:20.0 lp:54 component: block.fb.timer
+(18:07:41) LethalLuck failed Interact check | interact block through solid (through: DARK_OAK_PLANKS, block:CHEST) (+1) | vl:1 ping:117 tps:20.0 lp:7 component: interact.through
+(18:09:27) LethalLuck failed Interact check | breaking a block without looking at it (block: STONE) (+1) | vl:1 ping:114 tps:20.0 lp:8 component: interact.break
+(18:09:27) LethalLuck failed Interact check | breaking a block without looking at it (block: STONE) (+1) | vl:2 ping:114 tps:20.0 lp:8 component: interact.break
+(18:09:48) Zonelesi failed HitBox check | missed entity hitbox (entity: piglin, angle: 87.501, move: true) (+2) | vl:2 ping:22 tps:20.0 lp:16 component: hb.mis
+(18:10:54) LethalLuck failed Interact check | breaking a block without looking at it (block: STONE) (+1) | vl:1 ping:116 tps:20.0 lp:12 component: interact.break
+(18:11:11) LethalLuck failed Block check | break block without delay (+4) | vl:4 ping:117 tps:19.99 lp:10 component: blk.fb.dly
+(18:12:11) LethalLuck failed Interact check | breaking a block without looking at it (block: STONE) (+1) | vl:1 ping:111 tps:20.0 lp:19 component: interact.break
+(18:12:18) LethalLuck failed Interact check | breaking a block without looking at it (block: STONE) (+1) | vl:2 ping:113 tps:19.99 lp:10 component: interact.break
+(18:13:13) Zonelesi failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:98 tps:20.0 lp:38 component: interact.through
+(18:13:53) LethalLuck failed Chat check | chat too fast | delay: 2904 (+1) | vl:1 ping:113 tps:20.0 lp:19 component: chat.delay
+(18:17:40) Zonelesi failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:24 tps:20.0 lp:21 component: interact.through
+(18:17:51) Zonelesi failed Interact check | interact block through solid (through: LIME_CONCRETE, block:CHEST) (+1) | vl:1 ping:23 tps:20.0 lp:14 component: interact.through
+(18:18:37) Zonelesi failed Speed check | t: spin (+10) | vl:10 ping:38 tps:20.0 lp:14 component: speed.spin
+(18:29:18) Zonelesi failed Speed check | t: spin (+10) | vl:10 ping:33 tps:20.0 lp:21 component: speed.spin
+(18:29:24) Zonelesi failed Speed check | t: spin (+10) | vl:20 ping:19 tps:20.0 lp:21 component: speed.spin
+(18:30:11) LethalLuck failed Interact check | interact block through solid (through: DARK_OAK_PLANKS, block:CHEST) (+1) | vl:1 ping:118 tps:20.0 lp:12 component: interact.through
+(18:30:13) LethalLuck failed Interact check | interact block through solid (through: DARK_OAK_PLANKS, block:CHEST) (+1) | vl:2 ping:118 tps:20.0 lp:21 component: interact.through
+(18:36:38) Zonelesi failed Scaffold check | scaffold-like placement | type A (+1) | vl:1 ping:34 tps:20.0 lp:13 component: sfd.place.a
+(18:37:08) Zonelesi failed Speed check | t: spin (+10) | vl:10 ping:18 tps:20.0 lp:13 component: speed.spin
+(18:45:33) Zonelesi failed Block check | no swing after place block | DIRT (+1) | vl:1 ping:31 tps:20.0 lp:14 component: block.noswing
+(18:45:55) LethalLuck failed Fly check | suspicious movement:0.318 predict:0.234 air_t:3 tag:sam (+5) | vl:5 ping:113 tps:20.0 lp:14 component: fly.main
+(18:48:56) LethalLuck failed Elytra check | (elytra) more energy: 0.005 dif: 0.001 motion: -0.005 ratio: 0.153 (+1) | vl:1 ping:114 tps:20.0 lp:2 component: ely.me
+(19:22:46) LethalLuck failed Elytra check | (elytra) impossible elytra movement (move: 0.002,0.519,-0.019, mot: 0.5193214741766212) (+2) | vl:2 ping:114 tps:20.0 lp:7 component: ely.mvy
+(19:22:46) LethalLuck failed Elytra check | (elytra) impossible elytra movement (move: 0.002,0.477,-0.017, mot: 0.47659080433888334) (+2) | vl:4 ping:114 tps:20.0 lp:7 component: ely.mvy
+(19:22:46) LethalLuck failed Elytra check | (elytra) impossible elytra movement (move: 0.002,0.43,-0.015, mot: 0.4303020280095211) (+2) | vl:6 ping:114 tps:20.0 lp:7 component: ely.mvy
+(19:22:47) LethalLuck failed Elytra check | (elytra) reserve energy: 0.0 dif: 0.0 motion: 0.0 t: 84 (+2) | vl:8 ping:114 tps:20.0 lp:7 component: ely.re
+(19:23:07) LethalLuck failed Fly check | suspicious movement:0.099 predict:-0.078 vel:-0.231 air_t:12 tag:m4 (+10) | vl:10 ping:116 tps:20.0 lp:3 component: fly.main
+(19:23:08) LethalLuck failed Fly check | suspicious movement:0.0 predict:-0.078 vel:-0.304 air_t:12 tag:m4 (+10) | vl:20 ping:116 tps:20.0 lp:3 component: fly.main
+(19:23:09) LethalLuck failed Fly check | step | p: 1 | m:1.264 ev:0.333 lm:1.068 (+8) | vl:28 ping:116 tps:20.0 lp:3 component: speed.step
+(19:24:33) LethalLuck failed Fly check | suspicious movement:0.334 predict:0.249 air_t:1 tag:sam (+5) | vl:5 ping:112 tps:20.0 lp:4 component: fly.main
+(19:31:57) LethalLuck failed HitBox check | missed entity hitbox (entity: enderman, angle: 39.611, move: false) (+1) | vl:1 ping:114 tps:20.0 lp:35 component: hb.mis
+(19:32:14) LethalLuck failed HitBox check | missed entity hitbox (entity: enderman, angle: 78.254, move: true) (+2) | vl:2 ping:112 tps:20.0 lp:39 component: hb.mis
+(19:32:14) LethalLuck failed HitBox check | missed entity hitbox (entity: enderman, angle: 98.393, move: true) (+2) | vl:4 ping:112 tps:20.0 lp:39 component: hb.mis
+(19:32:49) LethalLuck failed HitBox check | missed entity hitbox (entity: enderman, angle: 56.313, move: false) (+1) | vl:1 ping:115 tps:20.0 lp:26 component: hb.mis
+(19:33:03) LethalLuck failed HitBox check | missed entity hitbox (entity: enderman, angle: 48.29, move: true) (+1) | vl:2 ping:120 tps:20.0 lp:33 component: hb.mis
+(19:50:35) LethalLuck failed HitBox check | missed entity hitbox (entity: enderman, angle: 40.706, move: true) (+1) | vl:1 ping:120 tps:20.0 lp:20 component: hb.mis
+(19:50:43) LethalLuck failed HitBox check | missed entity hitbox (entity: enderman, angle: 36.006, move: false) (+1) | vl:1 ping:129 tps:20.0 lp:21 component: hb.mis
+(19:50:43) LethalLuck failed HitBox check | missed entity hitbox (entity: enderman, angle: 78.499, move: true) (+2) | vl:3 ping:129 tps:20.0 lp:21 component: hb.mis
+(19:50:45) LethalLuck failed HitBox check | missed entity hitbox (entity: enderman, angle: 91.343, move: true) (+2) | vl:5 ping:129 tps:20.0 lp:19 component: hb.mis
+(19:50:46) LethalLuck failed HitBox check | missed entity hitbox (entity: enderman, angle: 100.233, move: true) (+2) | vl:7 ping:129 tps:20.0 lp:19 component: hb.mis
+(19:50:46) LethalLuck failed HitBox check | missed entity hitbox (entity: enderman, angle: 171.884, move: true) (+2) | vl:9 ping:129 tps:20.0 lp:22 component: hb.mis
+(19:50:53) LethalLuck failed HitBox check | missed entity hitbox (entity: enderman, angle: 111.842, move: true) (+2) | vl:11 ping:122 tps:20.0 lp:27 component: hb.mis
+(19:50:53) Execute command: matrix notify LethalLuck tried to reach entity outside max reach distance (HitBox)
+(19:50:53) LethalLuck failed HitBox check | missed entity hitbox (entity: enderman, angle: 35.286, move: false) (+1) | vl:12 ping:122 tps:20.0 lp:27 component: hb.mis
+(19:50:53) Execute command: matrix npc LethalLuck 120
+(19:53:19) LethalLuck failed HitBox check | missed entity hitbox (entity: enderman, angle: 39.58, move: true) (+1) | vl:1 ping:118 tps:20.0 lp:16 component: hb.mis
+(19:54:40) LethalLuck failed Velocity check | (respond) ignore server velocity: -0.185,0.275,-0.115 (+5) | vl:5 ping:119 tps:19.99 lp:7 component: vel.expect
+(19:54:41) LethalLuck failed Velocity check | (respond) ignore server velocity: 0.11,0.275,0.189 (+5) | vl:10 ping:119 tps:19.99 lp:5 component: vel.expect
+(19:54:41) Execute command: matrix notify LethalLuck tried to ignore server velocity (Velocity)
+(19:54:47) LethalLuck failed Velocity check | (respond) ignore server velocity: 0.034,0.275,0.216 (+5) | vl:15 ping:120 tps:20.0 lp:5 component: vel.expect
+(19:54:47) Execute command: matrix notify LethalLuck tried to ignore server velocity (Velocity) #2
+(19:55:32) LethalLuck failed Velocity check | (respond) ignore server velocity: -0.178,0.275,0.127 (+5) | vl:8 ping:119 tps:20.0 lp:14 component: vel.expect
+(19:59:15) LethalLuck failed Jesus check | liquid speed (speed: 0.167, expect:0.16, dmg: false, flow:false, module: out) (+4) | vl:4 ping:120 tps:20.0 lp:6 component: jesus.out
+(19:59:15) LethalLuck failed Jesus check | liquid speed (speed: 0.189, expect:0.16, dmg: false, flow:false, module: out) (+4) | vl:8 ping:120 tps:20.0 lp:6 component: jesus.out
+(20:55:58) Matrix Enabled!
+(20:55:58) Version: 5.5.0
+(21:04:07) Zonelesi failed Speed check | t: spin (+10) | vl:10 ping:23 tps:20.0 lp:31 component: speed.spin
+(21:04:35) Zonelesi failed Interact check | interact block through solid (through: DIRT, block:CHEST) (+1) | vl:1 ping:38 tps:20.0 lp:20 component: interact.through
+(21:05:43) Zonelesi failed Speed check | change direction in mid-air (dist: 0.282, angle:60.691, pre:0.582) (+5) | vl:5 ping:20 tps:20.0 lp:28 component: speed.strafe
+(21:11:51) Zonelesi failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:22 tps:20.0 lp:37 component: interact.through
+(21:17:05) Zonelesi failed Speed check | t: spin (+10) | vl:10 ping:21 tps:20.0 lp:17 component: speed.spin
+(21:21:26) LethalLuck failed Fly check | suspicious movement:0.172 predict:0.172 vel:-0.225 air_t:12 tag:m4 (+10) | vl:10 ping:122 tps:20.0 lp:15 component: fly.main
+(21:24:42) LethalLuck failed Block check | break block without delay (+4) | vl:4 ping:135 tps:20.0 lp:19 component: blk.fb.dly
+(21:59:25) Zonelesi failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:79 tps:20.0 lp:14 component: interact.through
+(21:59:32) Zonelesi failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:2 ping:14 tps:20.0 lp:14 component: interact.through
+(21:59:46) Zonelesi failed Speed check | suspicious movement (move: 0.625, expect: 0.6235, tag: c) (+10) | vl:10 ping:31 tps:20.0 lp:16 component: speed.main
+(21:59:46) Zonelesi failed Speed check | suspicious movement (move: 0.367, expect: 0.3665, tag: ea) (+5) | vl:15 ping:31 tps:20.0 lp:16 component: speed.main
+(22:01:46) Zonelesi failed Interact check | interact block through solid (through: DIRT, block:CHEST) (+1) | vl:1 ping:31 tps:20.0 lp:17 component: interact.through
+(22:03:02) Zonelesi failed Speed check | suspicious movement (move: 0.442, expect: 0.429, g_tk:1, tag: b) (+8) | vl:8 ping:47 tps:20.0 lp:13 component: speed.main
+(22:04:32) Zonelesi failed Speed check | t: spin (+10) | vl:10 ping:30 tps:20.0 lp:17 component: speed.spin
+(22:05:32) Zonelesi failed Block check | break block without delay (+4) | vl:4 ping:31 tps:20.0 lp:26 component: blk.fb.dly
+(22:06:26) Zonelesi failed Block check | break block without delay (+4) | vl:4 ping:29 tps:20.0 lp:18 component: blk.fb.dly
+(22:06:53) Zonelesi failed Speed check | t: spin (+10) | vl:10 ping:45 tps:20.0 lp:17 component: speed.spin
+(22:07:07) Zonelesi failed Speed check | t: spin (+10) | vl:20 ping:29 tps:20.0 lp:21 component: speed.spin
+(22:07:18) Zonelesi failed Block check | break block with timer (block: coal_ore, point: 2518) (+4) | vl:4 ping:46 tps:20.0 lp:32 component: block.fb.timer
+(22:07:18) Zonelesi failed BadPackets check | (timer) moved too many times (timer: 3.021, t:331, buffer:20, tag: timer) (+10) | vl:10 ping:46 tps:20.0 lp:32 component: net.timer
+(22:07:19) Zonelesi failed BadPackets check | (timer) send 73 moving packets in 996ms | tag: limit (+10) | vl:20 ping:46 tps:20.0 lp:32 component: net.timer
+(22:07:21) Zonelesi failed Block check | break block with timer (block: coal_ore, point: 379) (+4) | vl:8 ping:46 tps:20.0 lp:32 component: block.fb.timer
+(22:08:05) Zonelesi failed Block check | break block without delay (+4) | vl:4 ping:45 tps:20.0 lp:13 component: blk.fb.dly
+(22:12:00) Zonelesi failed Block check | break block with timer (block: coal_ore, point: 317) (+4) | vl:4 ping:46 tps:20.0 lp:37 component: block.fb.timer
+(22:14:30) Zonelesi failed Block check | break block with timer (block: clay, point: 445) (+4) | vl:4 ping:26 tps:20.0 lp:18 component: block.fb.timer
+(22:19:19) Zonelesi failed Block check | break block too fast (digs: 8/9, block: stone, j: false) (+4) | vl:4 ping:44 tps:20.0 lp:16 component: block.fastbreak.expect
+(22:19:29) Zonelesi failed Block check | break block without delay (+4) | vl:8 ping:27 tps:20.0 lp:22 component: blk.fb.dly
+(22:23:11) Zonelesi failed Speed check | change direction in mid-air (dist: 0.27, angle:73.036, pre:0.151) (+5) | vl:5 ping:30 tps:20.0 lp:11 component: speed.strafe
+(22:27:53) Zonelesi failed Block check | break block with timer (block: coal_ore, point: 447) (+4) | vl:4 ping:26 tps:20.0 lp:18 component: block.fb.timer
+(22:27:54) Zonelesi failed Block check | break block with timer (block: coal_ore, point: 357) (+4) | vl:8 ping:26 tps:20.0 lp:18 component: block.fb.timer
+(22:33:05) Zonelesi failed Interact check | interact block through solid (through: GREEN_CONCRETE, block:CHEST) (+1) | vl:1 ping:24 tps:20.0 lp:17 component: interact.through
+(22:33:37) Zonelesi failed Interact check | interact block through solid (through: GREEN_CONCRETE, block:CHEST) (+1) | vl:1 ping:40 tps:20.0 lp:15 component: interact.through
+(22:33:37) Zonelesi failed Interact check | interact block through solid (through: GREEN_CONCRETE, block:CHEST) (+1) | vl:2 ping:40 tps:20.0 lp:15 component: interact.through
+(22:38:14) Zonelesi failed Interact check | interact block through solid (through: DIRT, block:CHEST) (+1) | vl:1 ping:40 tps:20.0 lp:15 component: interact.through
+(22:42:16) Zonelesi failed Interact check | interact block through solid (through: DIRT, block:CHEST) (+1) | vl:1 ping:24 tps:20.0 lp:12 component: interact.through
+(22:42:44) Zonelesi failed Interact check | interact block through solid (through: GRANITE, block:CHEST) (+1) | vl:1 ping:56 tps:20.0 lp:44 component: interact.through
+(22:42:51) Zonelesi failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:2 ping:24 tps:20.0 lp:48 component: interact.through
+(22:43:23) Zonelesi failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:38 tps:20.0 lp:16 component: interact.through
+(22:43:43) Zonelesi failed Fly check | suspicious movement:0.392 predict:0.306 air_t:1 tag:sam (+5) | vl:5 ping:26 tps:20.0 lp:19 component: fly.main
+(22:43:43) Zonelesi failed Fly check | suspicious movement:0.392 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:10 ping:26 tps:20.0 lp:19 component: fly.main
+(22:44:21) Zonelesi failed Block check | break block without delay (+4) | vl:4 ping:42 tps:20.0 lp:21 component: blk.fb.dly
+(22:45:41) Zonelesi failed Block check | break block without delay (+4) | vl:4 ping:38 tps:20.0 lp:15 component: blk.fb.dly
+(22:48:11) Zonelesi failed Block check | break block without delay (+4) | vl:4 ping:39 tps:20.0 lp:14 component: blk.fb.dly
+(22:52:18) Zonelesi failed Block check | break block without delay (+4) | vl:4 ping:21 tps:20.0 lp:23 component: blk.fb.dly
+(22:56:24) Zonelesi failed FastHeal check | regen health too fast (difficulty: hard, delay: 0.417, ver: 16) (+2) | vl:2 ping:36 tps:20.0 lp:12 component: heal
+(23:00:06) Zonelesi failed Speed check | t: spin (+10) | vl:10 ping:20 tps:20.0 lp:20 component: speed.spin
+(23:00:16) Zonelesi failed Speed check | t: spin (+10) | vl:10 ping:68 tps:20.0 lp:16 component: speed.spin
+(23:15:16) Zonelesi failed Interact check | interact block through solid (through: GRASS_BLOCK, block:CHEST) (+1) | vl:1 ping:50 tps:20.0 lp:33 component: interact.through
+(23:16:46) Zonelesi failed Speed check | t: spin (+10) | vl:10 ping:66 tps:20.0 lp:8 component: speed.spin
+(23:22:39) Zonelesi failed Scaffold check | scaffold-like placement | type A (+1) | vl:1 ping:49 tps:20.0 lp:21 component: sfd.place.a
+(23:22:42) Zonelesi failed Scaffold check | scaffold-like placement | type A (+1) | vl:1 ping:49 tps:20.0 lp:18 component: sfd.place.a
+(23:29:01) Zonelesi failed Interact check | interact block through solid (through: GRASS_BLOCK, block:CHEST) (+1) | vl:1 ping:31 tps:20.0 lp:23 component: interact.through
+(23:30:00) Zonelesi failed Interact check | interact block through solid (through: DIRT, block:CHEST) (+1) | vl:1 ping:46 tps:20.0 lp:24 component: interact.through
+(23:45:31) Zonelesi failed HitBox check | missed entity hitbox (entity: skeleton, angle: 57.04, move: true) (+1) | vl:1 ping:61 tps:20.0 lp:19 component: hb.mis
+(23:49:54) Zonelesi failed Speed check | t: spin (+10) | vl:10 ping:27 tps:20.0 lp:33 component: speed.spin
+(23:49:54) Zonelesi failed Speed check | t: spin (+10) | vl:20 ping:27 tps:20.0 lp:33 component: speed.spin
+(23:51:22) Zonelesi failed Scaffold check | scaffold-like placement | type A (+1) | vl:1 ping:28 tps:20.0 lp:26 component: sfd.place.a
+(23:51:29) Zonelesi failed Scaffold check | scaffold-like placement | type A (+1) | vl:2 ping:27 tps:20.0 lp:15 component: sfd.place.a
+(23:51:39) Zonelesi failed Block check | break block without delay (+4) | vl:4 ping:77 tps:20.0 lp:13 component: blk.fb.dly

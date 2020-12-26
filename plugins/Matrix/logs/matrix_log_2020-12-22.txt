@@ -1,0 +1,82 @@
+(00:41:21) LethalLuck failed Inventory check | t: chest steal m:pka d:131 (+1) | vl:1 ping:28 tps:20.0 lp:36 component: inv.cs.c
+(00:41:26) LethalLuck failed Inventory check | t: chest steal m:pka d:111 (+1) | vl:2 ping:28 tps:20.0 lp:36 component: inv.cs.c
+(05:15:54) fastgetter failed BadPackets check | (timer) send 64 moving packets in 1114ms | tag: limit (+10) | vl:10 ping:44 tps:20.0 lp:33 component: net.timer
+(05:59:53) fastgetter failed Block check | break block without delay (+4) | vl:4 ping:32 tps:20.0 lp:13 component: blk.fb.dly
+(06:00:04) fastgetter failed Block check | break block without delay (+4) | vl:8 ping:28 tps:20.0 lp:13 component: blk.fb.dly
+(06:01:08) fastgetter failed Block check | break block without delay (+4) | vl:4 ping:27 tps:20.0 lp:21 component: blk.fb.dly
+(06:03:11) fastgetter failed Block check | break block with timer (block: iron_ore, point: 400) (+4) | vl:4 ping:20 tps:20.0 lp:17 component: block.fb.timer
+(06:03:30) fastgetter failed Block check | break block with timer (block: stone, point: 311) (+4) | vl:4 ping:17 tps:20.0 lp:16 component: block.fb.timer
+(06:09:45) fastgetter failed Block check | break block without delay (+4) | vl:4 ping:31 tps:20.0 lp:14 component: blk.fb.dly
+(06:14:39) fastgetter failed Block check | break block without delay (+4) | vl:4 ping:41 tps:20.0 lp:9 component: blk.fb.dly
+(06:14:55) fastgetter failed Block check | break block without delay (+4) | vl:4 ping:19 tps:20.0 lp:15 component: blk.fb.dly
+(06:15:43) fastgetter failed Block check | break block without delay (+4) | vl:4 ping:23 tps:20.0 lp:12 component: blk.fb.dly
+(06:22:21) fastgetter failed Block check | break block without delay (+4) | vl:4 ping:34 tps:20.0 lp:24 component: blk.fb.dly
+(06:22:43) fastgetter failed Block check | break block without delay (+4) | vl:4 ping:44 tps:20.0 lp:24 component: blk.fb.dly
+(06:24:45) fastgetter failed Block check | break block without delay (+4) | vl:4 ping:25 tps:20.0 lp:21 component: blk.fb.dly
+(06:26:55) fastgetter failed Block check | break block without delay (+4) | vl:4 ping:32 tps:20.0 lp:19 component: blk.fb.dly
+(06:27:03) fastgetter failed Block check | break block without delay (+4) | vl:8 ping:30 tps:20.0 lp:15 component: blk.fb.dly
+(06:29:20) fastgetter failed Block check | break block without delay (+4) | vl:4 ping:38 tps:20.0 lp:19 component: blk.fb.dly
+(06:33:22) fastgetter failed Block check | break block without delay (+4) | vl:4 ping:45 tps:20.0 lp:21 component: blk.fb.dly
+(07:00:30) Matrix Enabled!
+(07:00:30) Version: 5.5.0
+(14:54:24) STra1z failed Interact check | breaking a block without looking at it (block: STONE) (+1) | vl:1 ping:46 tps:20.0 lp:27 component: interact.break
+(14:54:32) STra1z failed Block check | break block without delay (+4) | vl:4 ping:46 tps:20.0 lp:21 component: blk.fb.dly
+(14:54:43) STra1z failed Block check | break block without delay (+4) | vl:8 ping:49 tps:20.0 lp:20 component: blk.fb.dly
+(14:54:55) STra1z failed Interact check | breaking a block without looking at it (block: STONE) (+1) | vl:1 ping:46 tps:20.0 lp:24 component: interact.break
+(14:56:39) STra1z failed Block check | break block without delay (+4) | vl:4 ping:41 tps:20.0 lp:25 component: blk.fb.dly
+(15:01:25) STra1z failed Interact check | breaking a block without looking at it (block: STONE) (+0) | vl:0 ping:3355 tps:20.0 lp:39 component: interact.break
+(15:01:26) STra1z failed BadPackets check | (timer) send 60 moving packets in 1015ms | tag: limit (+5) | vl:5 ping:3355 tps:20.0 lp:39 component: net.timer
+(15:10:04) STra1z failed Block check | break block without delay (+4) | vl:4 ping:46 tps:20.0 lp:21 component: blk.fb.dly
+(15:17:00) STra1z failed Block check | break block without delay (+4) | vl:4 ping:48 tps:20.0 lp:21 component: blk.fb.dly
+(15:24:15) STra1z failed Block check | break block without delay (+4) | vl:4 ping:65 tps:20.0 lp:17 component: blk.fb.dly
+(15:27:57) STra1z failed Block check | break block without delay (+4) | vl:4 ping:41 tps:20.0 lp:13 component: blk.fb.dly
+(15:41:02) STra1z failed Block check | break block without delay (+4) | vl:4 ping:47 tps:20.0 lp:14 component: blk.fb.dly
+(20:50:50) Billy_Not_Really failed Block check | break block with timer (block: iron_ore, point: 353) (+4) | vl:4 ping:40 tps:19.99 lp:19 component: block.fb.timer
+(20:50:51) Billy_Not_Really failed Block check | break block with timer (block: iron_ore, point: 769) (+4) | vl:8 ping:40 tps:20.0 lp:19 component: block.fb.timer
+(20:50:54) Billy_Not_Really failed Block check | break block with timer (block: iron_ore, point: 1164) (+4) | vl:12 ping:40 tps:20.0 lp:43 component: block.fb.timer
+(20:50:54) Execute command: matrix notify Billy_Not_Really tried to place/break a block too quickly (FastPlace/FastBreak)
+(20:52:11) Billy_Not_Really failed Speed check | t: spin (+10) | vl:10 ping:55 tps:20.0 lp:11 component: speed.spin
+(20:55:02) Billy_Not_Really failed HitBox check | missed entity hitbox (entity: zombie, angle: 46.253, move: true) (+1) | vl:1 ping:86 tps:20.0 lp:11 component: hb.mis
+(20:56:39) Billy_Not_Really failed Block check | break block without delay (+4) | vl:4 ping:85 tps:19.99 lp:23 component: blk.fb.dly
+(21:07:17) Billy_Not_Really failed Speed check | t: spin (+10) | vl:10 ping:121 tps:20.0 lp:33 component: speed.spin
+(21:07:17) Billy_Not_Really failed Speed check | t: spin (+10) | vl:20 ping:121 tps:20.0 lp:33 component: speed.spin
+(21:18:50) Billy_Not_Really failed BadPackets check | (timer) send 57 moving packets in 997ms | tag: limit (+5) | vl:5 ping:186 tps:20.0 lp:28 component: net.timer
+(21:18:50) Billy_Not_Really failed Speed check | suspicious movement (move: 2.728, expect:0.699, t:0, sprint: false, attr: 0.1, tag: a) (+9) | vl:9 ping:186 tps:20.0 lp:28 component: speed.main
+(21:18:50) Billy_Not_Really failed Speed check | suspicious movement (move: 2.728, predict: 0.696, friction: 0.6, ground:true, motY: 0.0, increase:0.58, preMove:0.116, motion: 2.725,0.0,0.125, attribute: 0.13, cm: false, di: false, tag: pred) (+5) | vl:14 ping:186 tps:20.0 lp:28 component: move.xz
+(21:19:09) Billy_Not_Really failed BadPackets check | (timer) send 40 moving packets in 1010ms | tag: limit (+5) | vl:10 ping:158 tps:20.0 lp:26 component: net.timer
+(21:19:09) Billy_Not_Really failed Fly check | step | p: 1 | m:1.166 ev:0.42 lm:0.99 (+7) | vl:7 ping:158 tps:20.0 lp:26 component: speed.step
+(21:20:46) Billy_Not_Really failed Block check | break block without delay (+4) | vl:4 ping:57 tps:20.0 lp:22 component: blk.fb.dly
+(21:24:09) Billy_Not_Really failed Speed check | t: spin (+10) | vl:10 ping:298 tps:20.0 lp:21 component: speed.spin
+(21:24:09) Billy_Not_Really failed Speed check | t: spin (+10) | vl:20 ping:298 tps:20.0 lp:18 component: speed.spin
+(21:32:44) LethalLuck failed Interact check | interact block through solid (through: SAND, block:CHEST) (+1) | vl:1 ping:122 tps:20.0 lp:14 component: interact.through
+(21:33:46) LethalLuck failed Interact check | interact block through solid (through: GRASS_BLOCK, block:CHEST) (+1) | vl:1 ping:121 tps:20.0 lp:3 component: interact.through
+(21:42:56) LethalLuck failed Inventory check | t: chest steal  m:click a=59 (+1) | vl:1 ping:118 tps:20.0 lp:17 component: inv.cs.b
+(21:42:56) LethalLuck failed Inventory check | t: chest steal  m:click a=64 (+1) | vl:2 ping:118 tps:20.0 lp:17 component: inv.cs.b
+(23:44:40) STra1z failed BadPackets check | (timer) send 49 moving packets in 2812ms | tag: limit (+5) | vl:5 ping:2253 tps:20.0 lp:37 component: net.timer
+(23:44:42) STra1z failed BadPackets check | (timer) send 76 moving packets in 1707ms | tag: limit (+5) | vl:10 ping:971 tps:20.0 lp:64 component: net.timer
+(23:44:42) STra1z failed BadPackets check | (timer) moved too many times (timer: 1.179, t:848, buffer:20, tag: timer) (+5) | vl:15 ping:971 tps:20.0 lp:64 component: net.timer
+(23:47:30) LethalLuck failed Speed check | change direction in mid-air (dist: 0.281, angle:64.52, pre:0.286) (+5) | vl:5 ping:124 tps:20.0 lp:3 component: speed.strafe
+(23:47:37) LethalLuck failed Interact check | interact block through solid (through: SAND, block:CHEST) (+1) | vl:1 ping:125 tps:20.0 lp:7 component: interact.through
+(23:48:24) LethalLuck failed Speed check | suspicious movement (move: 0.516, vet: 0.391, tag: d) (+7) | vl:7 ping:122 tps:20.0 lp:7 component: speed.main
+(23:48:24) LethalLuck failed Speed check | suspicious movement (move: 0.51, expect: 0.3665, tag: ea) (+5) | vl:12 ping:122 tps:20.0 lp:7 component: speed.main
+(23:48:24) LethalLuck failed Speed check | suspicious movement (move: 0.51, predict: 0.408, friction: 0.6, ground:false, motY: 0.362, increase:0.126, preMove:0.282, motion: 0.509,0.362,0.043, attribute: 0.13, cm: false, di: false, tag: pred) (+5) | vl:17 ping:122 tps:20.0 lp:7 component: move.xz
+(23:48:24) LethalLuck failed Speed check | suspicious movement (move: 0.51, expect: 0.3665, tag: ea) (+5) | vl:22 ping:122 tps:20.0 lp:7 component: speed.main
+(23:48:24) LethalLuck failed Speed check | suspicious movement (move: 0.465, expect: 0.3665, tag: ea) (+5) | vl:27 ping:122 tps:20.0 lp:7 component: speed.main
+(23:48:24) LethalLuck failed Fly check | suspicious movement:0.277 predict:0.17 vel:0.165 air_t:3 tag:vt (+5) | vl:5 ping:122 tps:20.0 lp:7 component: fly.main
+(23:52:22) LethalLuck failed Speed check | suspicious movement (move: 0.466, vet: 0.389, tag: d) (+7) | vl:7 ping:125 tps:20.0 lp:5 component: speed.main
+(23:52:22) LethalLuck failed Speed check | suspicious movement (move: 0.461, expect: 0.3665, tag: ea) (+5) | vl:12 ping:125 tps:20.0 lp:5 component: speed.main
+(23:52:22) LethalLuck failed Fly check | suspicious movement:0.358 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:5 ping:125 tps:20.0 lp:5 component: fly.main
+(23:52:32) LethalLuck failed Fly check | suspicious movement:0.363 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:10 ping:120 tps:20.0 lp:3 component: fly.main
+(23:52:38) STra1z failed Block check | break block with timer (block: stone, point: 372) (+4) | vl:4 ping:55 tps:20.0 lp:33 component: block.fb.timer
+(23:54:03) STra1z failed Block check | break block with timer (block: stone, point: 345) (+4) | vl:4 ping:47 tps:20.0 lp:36 component: block.fb.timer
+(23:54:03) STra1z failed Block check | break block too fast (digs: 1/7, block: stone, j: false) (+4) | vl:8 ping:47 tps:20.0 lp:36 component: block.fastbreak.expect
+(23:55:31) STra1z failed Block check | break block too fast (digs: 1/14, block: redstone_ore, j: false) (+4) | vl:4 ping:54 tps:20.0 lp:42 component: block.fastbreak.expect
+(23:55:31) STra1z failed Interact check | breaking a block without looking at it (block: REDSTONE_ORE) (+1) | vl:1 ping:54 tps:20.0 lp:42 component: interact.break
+(23:55:31) STra1z failed Interact check | break block through walls (through: redstone_ore, block: redstone_ore) (+1) | vl:2 ping:54 tps:20.0 lp:42 component: interact.break
+(23:55:43) STra1z failed Block check | break block too fast (digs: 7/14, block: redstone_ore, j: false) (+4) | vl:4 ping:62 tps:20.0 lp:45 component: block.fastbreak.expect
+(23:55:43) STra1z failed Interact check | breaking a block without looking at it (block: REDSTONE_ORE) (+1) | vl:1 ping:62 tps:20.0 lp:45 component: interact.break
+(23:55:43) STra1z failed Interact check | break block through walls (through: iron_ore, block: redstone_ore) (+1) | vl:2 ping:62 tps:20.0 lp:45 component: interact.break
+(23:56:38) STra1z failed Block check | break block too fast (digs: 4/7, block: stone, j: false) (+4) | vl:4 ping:55 tps:20.0 lp:33 component: block.fastbreak.expect
+(23:56:56) STra1z failed Block check | break block with timer (block: stone, point: 501) (+4) | vl:4 ping:42 tps:20.0 lp:26 component: block.fb.timer
+(23:57:31) STra1z failed Interact check | breaking a block without looking at it (block: STONE) (+1) | vl:1 ping:56 tps:20.0 lp:29 component: interact.break
+(23:59:08) STra1z failed Block check | break block too fast (digs: 6/7, block: stone, j: false) (+4) | vl:4 ping:69 tps:20.0 lp:27 component: block.fastbreak.expect

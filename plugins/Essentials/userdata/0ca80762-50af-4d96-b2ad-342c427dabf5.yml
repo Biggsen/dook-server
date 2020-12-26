@@ -1,0 +1,29 @@
+lastAccountName: fastgetter
+timestamps:
+  login: 1608702417606
+  lastteleport: 1608615229300
+  logout: 1608702429464
+ipAddress: 176.199.210.157
+lastlocation:
+  world: world
+  x: 858.471209659421
+  y: 5.0
+  z: -912.2933284202576
+  yaw: 181.37804
+  pitch: -17.699654
+logoutlocation:
+  world: world
+  x: 870.8518580618395
+  y: 63.0
+  z: -949.6485916185014
+  yaw: 91.52892
+  pitch: 16.049818
+homes:
+  home:
+    world: world
+    x: 870.5288833696427
+    y: 63.0
+    z: -949.5116116614562
+    yaw: 94.52893
+    pitch: 6.1498876
+money: '1308.3600000000000358'

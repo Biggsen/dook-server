@@ -1,0 +1,169 @@
+(01:00:33) LethalLuck failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: 1015.406,134.001,139.5, type: air, pkt: true) (+5) | vl:5 ping:0 tps:20.0 lp:19 component: fly.gf
+(02:23:18) LethalLuck failed Elytra check | (elytra) impossible elytra movement (move: 0.0,0.634,0.0, mot: 0.6343004836580803) (+2) | vl:2 ping:215 tps:20.0 lp:2 component: ely.mvy
+(02:23:18) LethalLuck failed Elytra check | (elytra) impossible elytra movement (move: 0.0,0.602,0.0, mot: 0.6015768156293007) (+2) | vl:4 ping:215 tps:20.0 lp:2 component: ely.mvy
+(02:23:18) LethalLuck failed Elytra check | (elytra) impossible elytra movement (move: 0.0,0.551,0.0, mot: 0.5509418807969269) (+2) | vl:6 ping:215 tps:20.0 lp:2 component: ely.mvy
+(02:23:18) LethalLuck failed Elytra check | (elytra) impossible elytra movement (move: 0.0,0.482,0.0, mot: 0.48198498233603004) (+2) | vl:8 ping:215 tps:20.0 lp:2 component: ely.mvy
+(05:14:51) LethalLuck failed Elytra check | (elytra) impossible elytra movement (move: 0.0,0.597,0.0, mot: 0.597240636287637) (+2) | vl:2 ping:222 tps:20.0 lp:5 component: ely.mvy
+(05:14:51) LethalLuck failed Elytra check | (elytra) impossible elytra movement (move: 0.0,0.516,0.0, mot: 0.5158322732407044) (+2) | vl:4 ping:222 tps:20.0 lp:5 component: ely.mvy
+(05:14:51) LethalLuck failed Elytra check | (elytra) impossible elytra movement (move: 0.0,0.436,0.0, mot: 0.4360520759020119) (+2) | vl:6 ping:222 tps:20.0 lp:5 component: ely.mvy
+(07:00:29) Matrix Enabled!
+(07:00:29) Version: 5.5.0
+(12:48:08) STra1z failed HitBox check | missed entity hitbox (entity: zombie, angle: 58.756, move: true) (+1) | vl:1 ping:158 tps:19.98 lp:13 component: hb.mis
+(12:48:08) STra1z failed HitBox check | missed entity hitbox (entity: zombie, angle: 48.826, move: true) (+1) | vl:2 ping:158 tps:19.98 lp:13 component: hb.mis
+(12:48:26) STra1z failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: -1059.328,66.766,-934.7, type: air, pkt: true) (+5) | vl:5 ping:935 tps:20.0 lp:11 component: fly.gf
+(12:48:35) STra1z failed Velocity check | (respond) ignore server velocity: 0.214,0.275,0.045 (+5) | vl:5 ping:1713 tps:20.0 lp:26 component: vel.expect
+(14:12:23) LethalLuck failed Interact check | interact block through solid (through: BEDROCK, block:CHEST) (+1) | vl:1 ping:119 tps:20.0 lp:33 component: interact.through
+(15:18:37) STra1z failed Interact check | breaking a block without looking at it (block: STONE) (+1) | vl:1 ping:84 tps:20.0 lp:10 component: interact.break
+(15:26:24) STra1z failed HitBox check | missed entity hitbox (entity: skeleton, angle: 44.158, move: true) (+1) | vl:1 ping:38 tps:20.0 lp:8 component: hb.mis
+(15:26:34) STra1z failed HitBox check | missed entity hitbox (entity: skeleton, angle: 45.787, move: true) (+1) | vl:2 ping:44 tps:20.0 lp:5 component: hb.mis
+(15:29:54) STra1z failed Block check | break block too fast (digs: 6/14, block: iron_ore, j: false) (+4) | vl:4 ping:33 tps:20.0 lp:12 component: block.fastbreak.expect
+(15:37:28) STra1z failed Block check | break block without delay (+4) | vl:4 ping:48 tps:20.0 lp:18 component: blk.fb.dly
+(15:49:49) STra1z failed Fly check | suspicious movement:0.438 predict:-0.078 pmv:0.563 tag:ground (+5) | vl:5 ping:33 tps:20.0 lp:8 component: fly.main
+(15:49:49) STra1z failed Fly check | suspicious movement:0.464 predict:0.17 vel:-0.078 air_t:3 tag:vt (+5) | vl:10 ping:53 tps:20.0 lp:14 component: fly.main
+(16:35:24) LethalLuck failed Interact check | interact block through solid (through: BEDROCK, block:CHEST) (+1) | vl:1 ping:37 tps:20.0 lp:15 component: interact.through
+(16:38:32) LethalLuck failed Speed check | suspicious movement (move: 0.465, expect: 0.4065, tag: ea) (+5) | vl:5 ping:125 tps:20.0 lp:11 component: speed.main
+(16:38:32) LethalLuck failed Speed check | suspicious movement (move: 0.473, expect: 0.4065, tag: ea) (+5) | vl:10 ping:125 tps:20.0 lp:11 component: speed.main
+(16:38:32) LethalLuck failed Speed check | suspicious movement (move: 0.473, predict: 0.449, friction: 0.6, ground:false, motY: 0.361, increase:0.026, preMove:0.423, motion: 0.472,0.361,0.011, attribute: 0.13, cm: false, di: false, tag: pred) (+5) | vl:15 ping:125 tps:20.0 lp:11 component: move.xz
+(16:38:32) LethalLuck failed Fly check | suspicious movement:0.361 predict:0.275 air_t:2 tag:sam (+5) | vl:5 ping:125 tps:20.0 lp:11 component: fly.main
+(19:09:48) STra1z failed Block check | break block without delay (+4) | vl:4 ping:38 tps:20.0 lp:4 component: blk.fb.dly
+(19:09:49) STra1z failed Block check | break block without delay (+4) | vl:8 ping:38 tps:20.0 lp:4 component: blk.fb.dly
+(19:23:59) STra1z failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:44 tps:20.0 lp:16 component: interact.through
+(19:31:07) STra1z failed Block check | break block without delay (+4) | vl:4 ping:49 tps:20.0 lp:14 component: blk.fb.dly
+(19:31:37) STra1z failed Block check | break block without delay (+4) | vl:4 ping:161 tps:20.0 lp:21 component: blk.fb.dly
+(19:32:18) STra1z failed Interact check | breaking a block without looking at it (block: STONE) (+1) | vl:1 ping:36 tps:20.0 lp:14 component: interact.break
+(19:37:11) STra1z failed Block check | break block without delay (+4) | vl:4 ping:46 tps:20.0 lp:19 component: blk.fb.dly
+(21:04:09) LethalLuck failed Speed check | suspicious movement (move: 0.494, expect: 0.4065, tag: ea) (+5) | vl:5 ping:111 tps:20.0 lp:5 component: speed.main
+(21:04:09) LethalLuck failed Speed check | suspicious movement (move: 0.502, expect: 0.4065, tag: ea) (+5) | vl:10 ping:111 tps:20.0 lp:5 component: speed.main
+(21:04:09) LethalLuck failed Speed check | suspicious movement (move: 0.502, predict: 0.476, friction: 0.6, ground:false, motY: 0.355, increase:0.026, preMove:0.45, motion: 0.451,0.355,-0.22, attribute: 0.13, cm: false, di: false, tag: pred) (+5) | vl:15 ping:111 tps:20.0 lp:5 component: move.xz
+(21:04:09) LethalLuck failed Fly check | suspicious movement:0.355 predict:0.27 air_t:2 tag:sam (+5) | vl:5 ping:111 tps:20.0 lp:5 component: fly.main
+(21:04:41) LethalLuck failed Speed check | suspicious movement (move: 0.406, vet: 0.379, tag: d) (+8) | vl:8 ping:116 tps:20.0 lp:5 component: speed.main
+(21:04:41) LethalLuck failed Speed check | suspicious movement (move: 0.402, expect: 0.3665, tag: ea) (+5) | vl:13 ping:116 tps:20.0 lp:5 component: speed.main
+(21:04:41) LethalLuck failed Fly check | suspicious movement:0.34 predict:0.338 vel:-0.231 air_t:1 tag:vt (+5) | vl:5 ping:116 tps:20.0 lp:5 component: fly.main
+(21:20:51) LethalLuck failed Block check | break block without delay (+4) | vl:4 ping:114 tps:20.0 lp:7 component: blk.fb.dly
+(21:58:54) STra1z failed Block check | break block without delay (+4) | vl:4 ping:48 tps:20.0 lp:12 component: blk.fb.dly
+(22:15:33) LethalLuck failed Elytra check | (elytra) more energy: 0.333 dif: 0.0 motion: -0.093 ratio: 0.0 (+1) | vl:1 ping:111 tps:20.0 lp:3 component: ely.me
+(22:15:34) LethalLuck failed Elytra check | (elytra) more energy: 0.333 dif: 0.0 motion: -0.093 ratio: 0.0 (+1) | vl:2 ping:111 tps:20.0 lp:3 component: ely.me
+(22:15:34) LethalLuck failed Elytra check | (elytra) more energy: 0.333 dif: 0.0 motion: -0.093 ratio: 0.0 (+1) | vl:3 ping:111 tps:20.0 lp:3 component: ely.me
+(22:15:34) LethalLuck failed Elytra check | (elytra) more energy: 0.333 dif: 0.0 motion: -0.093 ratio: 0.0 (+1) | vl:4 ping:111 tps:20.0 lp:3 component: ely.me
+(22:15:34) LethalLuck failed Elytra check | (elytra) more energy: 0.333 dif: 0.0 motion: -0.093 ratio: 0.0 (+1) | vl:5 ping:111 tps:20.0 lp:3 component: ely.me
+(22:15:35) LethalLuck failed Elytra check | (elytra) more energy: 0.333 dif: 0.0 motion: -0.093 ratio: 0.0 (+1) | vl:6 ping:111 tps:20.0 lp:3 component: ely.me
+(22:16:34) LethalLuck failed Elytra check | (elytra) more energy: 0.333 dif: 0.0 motion: -0.093 ratio: 0.0 (+1) | vl:1 ping:113 tps:20.0 lp:3 component: ely.me
+(22:16:35) LethalLuck failed Elytra check | (elytra) more energy: 0.333 dif: 0.0 motion: -0.093 ratio: 0.0 (+1) | vl:2 ping:113 tps:20.0 lp:3 component: ely.me
+(22:16:35) LethalLuck failed Elytra check | (elytra) more energy: 0.333 dif: 0.0 motion: -0.093 ratio: 0.0 (+1) | vl:3 ping:113 tps:20.0 lp:3 component: ely.me
+(22:16:35) LethalLuck failed Elytra check | (elytra) more energy: 0.333 dif: 0.0 motion: -0.093 ratio: 0.0 (+1) | vl:4 ping:113 tps:20.0 lp:3 component: ely.me
+(22:16:36) LethalLuck failed Elytra check | (elytra) more energy: 0.333 dif: 0.0 motion: -0.093 ratio: 0.0 (+1) | vl:5 ping:113 tps:20.0 lp:3 component: ely.me
+(22:16:36) LethalLuck failed Elytra check | (elytra) more energy: 0.333 dif: 0.0 motion: -0.093 ratio: 0.0 (+1) | vl:6 ping:113 tps:20.0 lp:3 component: ely.me
+(22:18:05) LethalLuck failed Elytra check | (elytra) more energy: 0.065 dif: 0.0 motion: -0.092 ratio: 0.0 (+1) | vl:1 ping:117 tps:20.0 lp:3 component: ely.me
+(22:18:05) LethalLuck failed Elytra check | (elytra) more energy: 0.065 dif: 0.0 motion: -0.092 ratio: 0.0 (+1) | vl:2 ping:117 tps:20.0 lp:3 component: ely.me
+(22:18:06) LethalLuck failed Elytra check | (elytra) more energy: 0.065 dif: 0.0 motion: -0.092 ratio: 0.0 (+1) | vl:3 ping:117 tps:20.0 lp:2 component: ely.me
+(22:18:06) LethalLuck failed Elytra check | (elytra) more energy: 0.065 dif: 0.0 motion: -0.092 ratio: 0.0 (+1) | vl:4 ping:117 tps:20.0 lp:2 component: ely.me
+(22:18:06) LethalLuck failed Elytra check | (elytra) more energy: 0.065 dif: 0.0 motion: -0.092 ratio: 0.0 (+1) | vl:5 ping:117 tps:20.0 lp:2 component: ely.me
+(22:18:06) LethalLuck failed Elytra check | (elytra) more energy: 0.065 dif: 0.0 motion: -0.092 ratio: 0.0 (+1) | vl:6 ping:117 tps:20.0 lp:2 component: ely.me
+(22:18:27) LethalLuck failed Elytra check | (elytra) more energy: 0.065 dif: 0.0 motion: -0.092 ratio: 0.0 (+1) | vl:1 ping:112 tps:20.0 lp:2 component: ely.me
+(22:18:27) LethalLuck failed Elytra check | (elytra) more energy: 0.065 dif: 0.0 motion: -0.092 ratio: 0.0 (+1) | vl:2 ping:112 tps:20.0 lp:2 component: ely.me
+(22:18:27) LethalLuck failed Elytra check | (elytra) more energy: 0.065 dif: 0.0 motion: -0.092 ratio: 0.0 (+1) | vl:3 ping:112 tps:20.0 lp:2 component: ely.me
+(22:18:27) LethalLuck failed Elytra check | (elytra) more energy: 0.065 dif: 0.0 motion: -0.092 ratio: 0.0 (+1) | vl:4 ping:112 tps:20.0 lp:2 component: ely.me
+(22:18:27) LethalLuck failed Elytra check | (elytra) more energy: 0.065 dif: 0.0 motion: -0.092 ratio: 0.0 (+1) | vl:5 ping:112 tps:20.0 lp:2 component: ely.me
+(22:18:28) LethalLuck failed Elytra check | (elytra) more energy: 0.065 dif: 0.0 motion: -0.092 ratio: 0.0 (+1) | vl:6 ping:112 tps:20.0 lp:2 component: ely.me
+(22:18:43) Billy_Not_Really failed Speed check | t: spin (+10) | vl:10 ping:86 tps:20.0 lp:18 component: speed.spin
+(22:18:43) Billy_Not_Really failed Speed check | t: spin (+10) | vl:20 ping:86 tps:20.0 lp:18 component: speed.spin
+(22:18:48) LethalLuck failed Elytra check | (elytra) more energy: 0.065 dif: 0.0 motion: -0.092 ratio: 0.0 (+1) | vl:1 ping:117 tps:20.0 lp:3 component: ely.me
+(22:18:49) LethalLuck failed Elytra check | (elytra) more energy: 0.065 dif: 0.0 motion: -0.092 ratio: 0.0 (+1) | vl:2 ping:117 tps:20.0 lp:3 component: ely.me
+(22:18:49) LethalLuck failed Elytra check | (elytra) more energy: 0.065 dif: 0.0 motion: -0.092 ratio: 0.0 (+1) | vl:3 ping:117 tps:20.0 lp:3 component: ely.me
+(22:18:49) LethalLuck failed Elytra check | (elytra) more energy: 0.065 dif: 0.0 motion: -0.092 ratio: 0.0 (+1) | vl:4 ping:117 tps:20.0 lp:3 component: ely.me
+(22:18:49) LethalLuck failed Elytra check | (elytra) more energy: 0.065 dif: 0.0 motion: -0.092 ratio: 0.0 (+1) | vl:5 ping:117 tps:20.0 lp:3 component: ely.me
+(22:18:49) LethalLuck failed Elytra check | (elytra) more energy: 0.065 dif: 0.0 motion: -0.092 ratio: 0.0 (+1) | vl:6 ping:117 tps:20.0 lp:3 component: ely.me
+(22:19:10) LethalLuck failed Elytra check | (elytra) more energy: 0.065 dif: 0.0 motion: -0.092 ratio: 0.0 (+1) | vl:7 ping:115 tps:20.0 lp:3 component: ely.me
+(22:19:31) LethalLuck failed Elytra check | (elytra) more energy: 0.065 dif: 0.0 motion: -0.092 ratio: 0.0 (+1) | vl:1 ping:113 tps:20.0 lp:2 component: ely.me
+(22:19:31) LethalLuck failed Elytra check | (elytra) more energy: 0.065 dif: 0.0 motion: -0.092 ratio: 0.0 (+1) | vl:2 ping:113 tps:20.0 lp:2 component: ely.me
+(22:19:31) LethalLuck failed Elytra check | (elytra) more energy: 0.065 dif: 0.0 motion: -0.092 ratio: 0.0 (+1) | vl:3 ping:113 tps:20.0 lp:2 component: ely.me
+(22:19:31) LethalLuck failed Elytra check | (elytra) more energy: 0.065 dif: 0.0 motion: -0.092 ratio: 0.0 (+1) | vl:4 ping:113 tps:20.0 lp:2 component: ely.me
+(22:19:31) LethalLuck failed Elytra check | (elytra) more energy: 0.065 dif: 0.0 motion: -0.092 ratio: 0.0 (+1) | vl:5 ping:113 tps:20.0 lp:2 component: ely.me
+(22:19:31) LethalLuck failed Elytra check | (elytra) more energy: 0.065 dif: 0.0 motion: -0.092 ratio: 0.0 (+1) | vl:6 ping:113 tps:20.0 lp:2 component: ely.me
+(22:19:52) LethalLuck failed Elytra check | (elytra) more energy: 0.065 dif: 0.0 motion: -0.092 ratio: 0.0 (+1) | vl:1 ping:110 tps:20.0 lp:4 component: ely.me
+(22:19:52) LethalLuck failed Elytra check | (elytra) more energy: 0.065 dif: 0.0 motion: -0.092 ratio: 0.0 (+1) | vl:2 ping:110 tps:20.0 lp:4 component: ely.me
+(22:19:52) LethalLuck failed Elytra check | (elytra) more energy: 0.065 dif: 0.0 motion: -0.092 ratio: 0.0 (+1) | vl:3 ping:110 tps:20.0 lp:4 component: ely.me
+(22:19:52) LethalLuck failed Elytra check | (elytra) more energy: 0.065 dif: 0.0 motion: -0.092 ratio: 0.0 (+1) | vl:4 ping:110 tps:20.0 lp:4 component: ely.me
+(22:19:52) LethalLuck failed Elytra check | (elytra) more energy: 0.065 dif: 0.0 motion: -0.092 ratio: 0.0 (+1) | vl:5 ping:110 tps:20.0 lp:4 component: ely.me
+(22:19:52) LethalLuck failed Elytra check | (elytra) more energy: 0.065 dif: 0.0 motion: -0.092 ratio: 0.0 (+1) | vl:6 ping:110 tps:20.0 lp:4 component: ely.me
+(22:20:13) LethalLuck failed Elytra check | (elytra) more energy: 0.065 dif: 0.0 motion: -0.092 ratio: 0.0 (+1) | vl:1 ping:109 tps:20.0 lp:3 component: ely.me
+(22:20:13) LethalLuck failed Elytra check | (elytra) more energy: 0.065 dif: 0.0 motion: -0.092 ratio: 0.0 (+1) | vl:2 ping:109 tps:20.0 lp:3 component: ely.me
+(22:20:13) LethalLuck failed Elytra check | (elytra) more energy: 0.065 dif: 0.0 motion: -0.092 ratio: 0.0 (+1) | vl:3 ping:109 tps:20.0 lp:3 component: ely.me
+(22:20:13) LethalLuck failed Elytra check | (elytra) more energy: 0.065 dif: 0.0 motion: -0.092 ratio: 0.0 (+1) | vl:4 ping:109 tps:20.0 lp:3 component: ely.me
+(22:20:13) LethalLuck failed Elytra check | (elytra) more energy: 0.065 dif: 0.0 motion: -0.092 ratio: 0.0 (+1) | vl:5 ping:109 tps:20.0 lp:3 component: ely.me
+(22:20:14) LethalLuck failed Elytra check | (elytra) more energy: 0.065 dif: 0.0 motion: -0.092 ratio: 0.0 (+1) | vl:6 ping:109 tps:20.0 lp:3 component: ely.me
+(22:20:34) LethalLuck failed Elytra check | (elytra) more energy: 0.065 dif: 0.0 motion: -0.092 ratio: 0.0 (+1) | vl:7 ping:116 tps:20.0 lp:3 component: ely.me
+(22:20:55) LethalLuck failed Elytra check | (elytra) more energy: 0.065 dif: 0.0 motion: -0.092 ratio: 0.0 (+1) | vl:1 ping:112 tps:20.0 lp:3 component: ely.me
+(22:20:55) LethalLuck failed Elytra check | (elytra) more energy: 0.065 dif: 0.0 motion: -0.092 ratio: 0.0 (+1) | vl:2 ping:112 tps:20.0 lp:3 component: ely.me
+(22:20:55) LethalLuck failed Elytra check | (elytra) more energy: 0.065 dif: 0.0 motion: -0.092 ratio: 0.0 (+1) | vl:3 ping:112 tps:20.0 lp:3 component: ely.me
+(22:20:56) LethalLuck failed Elytra check | (elytra) more energy: 0.065 dif: 0.0 motion: -0.092 ratio: 0.0 (+1) | vl:4 ping:112 tps:20.0 lp:3 component: ely.me
+(22:20:56) LethalLuck failed Elytra check | (elytra) more energy: 0.065 dif: 0.0 motion: -0.092 ratio: 0.0 (+1) | vl:5 ping:112 tps:20.0 lp:3 component: ely.me
+(22:20:56) LethalLuck failed Elytra check | (elytra) more energy: 0.065 dif: 0.0 motion: -0.092 ratio: 0.0 (+1) | vl:6 ping:112 tps:20.0 lp:3 component: ely.me
+(22:21:17) LethalLuck failed Elytra check | (elytra) more energy: 0.065 dif: 0.0 motion: -0.092 ratio: 0.0 (+1) | vl:1 ping:116 tps:20.0 lp:3 component: ely.me
+(22:21:17) LethalLuck failed Elytra check | (elytra) more energy: 0.065 dif: 0.0 motion: -0.092 ratio: 0.0 (+1) | vl:2 ping:116 tps:20.0 lp:3 component: ely.me
+(22:21:17) LethalLuck failed Elytra check | (elytra) more energy: 0.065 dif: 0.0 motion: -0.092 ratio: 0.0 (+1) | vl:3 ping:116 tps:20.0 lp:3 component: ely.me
+(22:21:17) LethalLuck failed Elytra check | (elytra) more energy: 0.065 dif: 0.0 motion: -0.092 ratio: 0.0 (+1) | vl:4 ping:116 tps:20.0 lp:3 component: ely.me
+(22:21:17) LethalLuck failed Elytra check | (elytra) more energy: 0.065 dif: 0.0 motion: -0.092 ratio: 0.0 (+1) | vl:5 ping:116 tps:20.0 lp:3 component: ely.me
+(22:21:17) LethalLuck failed Elytra check | (elytra) more energy: 0.065 dif: 0.0 motion: -0.092 ratio: 0.0 (+1) | vl:6 ping:116 tps:20.0 lp:3 component: ely.me
+(22:21:45) LethalLuck failed Elytra check | (elytra) more energy: 0.066 dif: 0.0 motion: -0.088 ratio: 0.0 (+1) | vl:1 ping:120 tps:20.0 lp:3 component: ely.me
+(22:21:45) LethalLuck failed Elytra check | (elytra) more energy: 0.066 dif: 0.0 motion: -0.088 ratio: 0.0 (+1) | vl:2 ping:120 tps:20.0 lp:3 component: ely.me
+(22:21:45) LethalLuck failed Elytra check | (elytra) more energy: 0.066 dif: 0.0 motion: -0.088 ratio: 0.0 (+1) | vl:3 ping:120 tps:20.0 lp:3 component: ely.me
+(22:21:45) LethalLuck failed Elytra check | (elytra) more energy: 0.066 dif: 0.0 motion: -0.088 ratio: 0.0 (+1) | vl:4 ping:120 tps:20.0 lp:3 component: ely.me
+(22:21:45) LethalLuck failed Elytra check | (elytra) more energy: 0.066 dif: 0.0 motion: -0.088 ratio: 0.0 (+1) | vl:5 ping:120 tps:20.0 lp:3 component: ely.me
+(22:21:45) LethalLuck failed Elytra check | (elytra) more energy: 0.066 dif: 0.0 motion: -0.088 ratio: 0.0 (+1) | vl:6 ping:120 tps:20.0 lp:3 component: ely.me
+(22:22:06) LethalLuck failed Elytra check | (elytra) more energy: 0.066 dif: 0.0 motion: -0.088 ratio: 0.0 (+1) | vl:7 ping:113 tps:20.0 lp:2 component: ely.me
+(22:22:27) LethalLuck failed Elytra check | (elytra) more energy: 0.066 dif: 0.0 motion: -0.088 ratio: 0.0 (+1) | vl:1 ping:111 tps:20.0 lp:2 component: ely.me
+(22:22:27) LethalLuck failed Elytra check | (elytra) more energy: 0.066 dif: 0.0 motion: -0.088 ratio: 0.0 (+1) | vl:2 ping:111 tps:20.0 lp:2 component: ely.me
+(22:22:28) LethalLuck failed Elytra check | (elytra) more energy: 0.066 dif: 0.0 motion: -0.088 ratio: 0.0 (+1) | vl:3 ping:111 tps:20.0 lp:2 component: ely.me
+(22:22:28) LethalLuck failed Elytra check | (elytra) more energy: 0.066 dif: 0.0 motion: -0.088 ratio: 0.0 (+1) | vl:4 ping:111 tps:20.0 lp:2 component: ely.me
+(22:22:28) LethalLuck failed Elytra check | (elytra) more energy: 0.066 dif: 0.0 motion: -0.088 ratio: 0.0 (+1) | vl:5 ping:111 tps:20.0 lp:2 component: ely.me
+(22:22:28) LethalLuck failed Elytra check | (elytra) more energy: 0.066 dif: 0.0 motion: -0.088 ratio: 0.0 (+1) | vl:6 ping:111 tps:20.0 lp:2 component: ely.me
+(22:22:49) LethalLuck failed Elytra check | (elytra) more energy: 0.066 dif: 0.0 motion: -0.088 ratio: 0.0 (+1) | vl:1 ping:114 tps:20.0 lp:3 component: ely.me
+(22:22:49) LethalLuck failed Elytra check | (elytra) more energy: 0.066 dif: 0.0 motion: -0.088 ratio: 0.0 (+1) | vl:2 ping:114 tps:20.0 lp:3 component: ely.me
+(22:22:49) LethalLuck failed Elytra check | (elytra) more energy: 0.066 dif: 0.0 motion: -0.088 ratio: 0.0 (+1) | vl:3 ping:114 tps:20.0 lp:3 component: ely.me
+(22:22:49) LethalLuck failed Elytra check | (elytra) more energy: 0.066 dif: 0.0 motion: -0.088 ratio: 0.0 (+1) | vl:4 ping:114 tps:20.0 lp:3 component: ely.me
+(22:22:50) LethalLuck failed Elytra check | (elytra) more energy: 0.066 dif: 0.0 motion: -0.088 ratio: 0.0 (+1) | vl:5 ping:114 tps:20.0 lp:3 component: ely.me
+(22:22:50) LethalLuck failed Elytra check | (elytra) more energy: 0.066 dif: 0.0 motion: -0.088 ratio: 0.0 (+1) | vl:6 ping:114 tps:20.0 lp:3 component: ely.me
+(22:23:11) LethalLuck failed Elytra check | (elytra) more energy: 0.066 dif: 0.0 motion: -0.088 ratio: 0.0 (+1) | vl:7 ping:114 tps:20.0 lp:3 component: ely.me
+(22:23:32) LethalLuck failed Elytra check | (elytra) more energy: 0.066 dif: 0.0 motion: -0.088 ratio: 0.0 (+1) | vl:1 ping:115 tps:20.0 lp:4 component: ely.me
+(22:23:33) LethalLuck failed Elytra check | (elytra) more energy: 0.066 dif: 0.0 motion: -0.088 ratio: 0.0 (+1) | vl:2 ping:115 tps:20.0 lp:4 component: ely.me
+(22:23:33) LethalLuck failed Elytra check | (elytra) more energy: 0.066 dif: 0.0 motion: -0.088 ratio: 0.0 (+1) | vl:3 ping:115 tps:20.0 lp:4 component: ely.me
+(22:23:33) LethalLuck failed Elytra check | (elytra) more energy: 0.066 dif: 0.0 motion: -0.088 ratio: 0.0 (+1) | vl:4 ping:115 tps:20.0 lp:4 component: ely.me
+(22:23:33) LethalLuck failed Elytra check | (elytra) more energy: 0.066 dif: 0.0 motion: -0.088 ratio: 0.0 (+1) | vl:5 ping:115 tps:20.0 lp:4 component: ely.me
+(22:23:33) LethalLuck failed Elytra check | (elytra) more energy: 0.066 dif: 0.0 motion: -0.088 ratio: 0.0 (+1) | vl:6 ping:115 tps:20.0 lp:4 component: ely.me
+(22:23:55) LethalLuck failed Elytra check | (elytra) more energy: 0.066 dif: 0.0 motion: -0.089 ratio: 0.0 (+1) | vl:1 ping:115 tps:20.0 lp:3 component: ely.me
+(22:23:55) LethalLuck failed Elytra check | (elytra) more energy: 0.066 dif: 0.0 motion: -0.089 ratio: 0.0 (+1) | vl:2 ping:115 tps:20.0 lp:3 component: ely.me
+(22:23:55) LethalLuck failed Elytra check | (elytra) more energy: 0.066 dif: 0.0 motion: -0.089 ratio: 0.0 (+1) | vl:3 ping:115 tps:20.0 lp:3 component: ely.me
+(22:23:55) LethalLuck failed Elytra check | (elytra) more energy: 0.066 dif: 0.0 motion: -0.089 ratio: 0.0 (+1) | vl:4 ping:115 tps:20.0 lp:3 component: ely.me
+(22:23:55) LethalLuck failed Elytra check | (elytra) more energy: 0.066 dif: 0.0 motion: -0.089 ratio: 0.0 (+1) | vl:5 ping:115 tps:20.0 lp:3 component: ely.me
+(22:23:55) LethalLuck failed Elytra check | (elytra) more energy: 0.066 dif: 0.0 motion: -0.089 ratio: 0.0 (+1) | vl:6 ping:115 tps:20.0 lp:3 component: ely.me
+(22:24:16) LethalLuck failed Elytra check | (elytra) more energy: 0.066 dif: 0.0 motion: -0.089 ratio: 0.0 (+1) | vl:1 ping:110 tps:20.0 lp:3 component: ely.me
+(22:24:16) LethalLuck failed Elytra check | (elytra) more energy: 0.066 dif: 0.0 motion: -0.089 ratio: 0.0 (+1) | vl:2 ping:110 tps:20.0 lp:3 component: ely.me
+(22:24:17) LethalLuck failed Elytra check | (elytra) more energy: 0.066 dif: 0.0 motion: -0.089 ratio: 0.0 (+1) | vl:3 ping:110 tps:20.0 lp:3 component: ely.me
+(22:24:17) LethalLuck failed Elytra check | (elytra) more energy: 0.066 dif: 0.0 motion: -0.089 ratio: 0.0 (+1) | vl:4 ping:110 tps:20.0 lp:3 component: ely.me
+(22:24:17) LethalLuck failed Elytra check | (elytra) more energy: 0.066 dif: 0.0 motion: -0.089 ratio: 0.0 (+1) | vl:5 ping:110 tps:20.0 lp:3 component: ely.me
+(22:24:17) LethalLuck failed Elytra check | (elytra) more energy: 0.066 dif: 0.0 motion: -0.089 ratio: 0.0 (+1) | vl:6 ping:110 tps:20.0 lp:3 component: ely.me
+(22:28:26) Billy_Not_Really failed Interact check | breaking a block without looking at it (block: TALL_GRASS) (+1) | vl:1 ping:59 tps:20.0 lp:15 component: interact.break
+(22:28:26) Billy_Not_Really failed Interact check | break block through walls (through: stone, block: tall_grass) (+1) | vl:2 ping:59 tps:20.0 lp:15 component: interact.break
+(22:29:11) Billy_Not_Really failed HitBox check | missed entity hitbox (entity: zombie, angle: 176.307, move: true) (+2) | vl:2 ping:65 tps:20.0 lp:54 component: hb.mis
+(22:29:12) Billy_Not_Really failed BadPackets check | (timer) send 42 moving packets in 1057ms | tag: limit (+10) | vl:10 ping:65 tps:20.0 lp:47 component: net.timer
+(22:29:12) Billy_Not_Really failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: -33.295,57.249,156.177, type: air, pkt: true) (+5) | vl:5 ping:65 tps:20.0 lp:47 component: fly.gf
+(22:29:12) Billy_Not_Really failed Speed check | suspicious movement (move: 0.78, predict: 0.501, friction: 0.6, ground:false, motY: -1.249, increase:0.39, preMove:0.111, motion: 0.779,-1.249,0.024, attribute: 0.13, cm: false, di: false, tag: pred) (+5) | vl:5 ping:65 tps:20.0 lp:47 component: move.xz
+(22:38:20) LethalLuck failed Chat check | chat too fast | delay: 2491 (+1) | vl:1 ping:112 tps:20.0 lp:13 component: chat.delay
+(22:44:18) LethalLuck failed Chat check | chat too fast | delay: 925 (+1) | vl:1 ping:116 tps:20.0 lp:13 component: chat.delay
+(22:44:34) LethalLuck failed Chat check | chat too fast | delay: 2111 (+1) | vl:2 ping:110 tps:20.0 lp:13 component: chat.delay
+(22:48:51) LethalLuck failed Speed check | suspicious movement (0.309, air_t: 12, lm:0.296 acc: 0.012996279116480103, tag: ed) (+15) | vl:15 ping:115 tps:20.0 lp:6 component: speed.main
+(22:48:51) LethalLuck failed Speed check | suspicious movement (move: 0.501, vet: 0.38, tag: d) (+8) | vl:23 ping:115 tps:20.0 lp:6 component: speed.main
+(22:48:51) LethalLuck failed Speed check | suspicious movement (move: 0.495, expect: 0.3665, tag: ea) (+5) | vl:28 ping:115 tps:20.0 lp:6 component: speed.main
+(22:48:51) LethalLuck failed Speed check | suspicious movement (move: 0.502, expect: 0.3665, tag: ea) (+5) | vl:33 ping:115 tps:20.0 lp:6 component: speed.main
+(22:48:51) LethalLuck failed Speed check | suspicious movement (move: 0.502, predict: 0.476, friction: 0.6, ground:false, motY: 0.342, increase:0.026, preMove:0.45, motion: 0.278,0.342,-0.418, attribute: 0.13, cm: false, di: false, tag: pred) (+5) | vl:38 ping:115 tps:20.0 lp:6 component: move.xz
+(22:48:51) LethalLuck failed Fly check | suspicious movement:0.342 predict:0.253 vel:0.248 air_t:2 tag:vt (+5) | vl:5 ping:115 tps:20.0 lp:6 component: fly.main
+(22:54:20) LethalLuck failed Speed check | change direction in mid-air (dist: 0.267, angle:72.425, pre:0.176) (+5) | vl:5 ping:110 tps:20.0 lp:3 component: speed.strafe
+(22:55:37) Billy_Not_Really failed Interact check | breaking a block without looking at it (block: STONE) (+1) | vl:1 ping:177 tps:20.0 lp:50 component: interact.break
+(22:55:38) Billy_Not_Really failed Interact check | breaking a block without looking at it (block: STONE) (+1) | vl:2 ping:177 tps:20.0 lp:50 component: interact.break
+(22:55:39) Billy_Not_Really failed Interact check | breaking a block without looking at it (block: STONE) (+1) | vl:3 ping:56 tps:20.0 lp:50 component: interact.break
+(22:55:40) Billy_Not_Really failed Interact check | breaking a block without looking at it (block: STONE) (+1) | vl:4 ping:56 tps:20.0 lp:50 component: interact.break
+(22:55:41) Billy_Not_Really failed Interact check | breaking a block without looking at it (block: STONE) (+1) | vl:5 ping:56 tps:20.0 lp:50 component: interact.break
+(22:58:45) Billy_Not_Really failed Speed check | t: spin (+10) | vl:10 ping:56 tps:20.0 lp:41 component: speed.spin
+(22:58:45) Billy_Not_Really failed Speed check | t: spin (+10) | vl:20 ping:56 tps:20.0 lp:41 component: speed.spin
+(23:03:45) Billy_Not_Really failed Block check | break block without delay (+4) | vl:4 ping:88 tps:20.0 lp:24 component: blk.fb.dly

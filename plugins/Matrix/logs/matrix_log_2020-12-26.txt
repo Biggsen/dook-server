@@ -1,0 +1,92 @@
+(03:11:29) Bl4zeBoy failed Block check | break block with timer (block: grass_block, point: 507) (+4) | vl:4 ping:59 tps:20.0 lp:27 component: block.fb.timer
+(03:11:30) Bl4zeBoy failed Block check | break block too fast (digs: 1/2, block: dirt, j: false) (+4) | vl:8 ping:59 tps:20.0 lp:52 component: block.fastbreak.expect
+(03:11:31) Bl4zeBoy failed Block check | break block too fast (digs: 5/14, block: grass_block, j: false) (+4) | vl:12 ping:59 tps:20.0 lp:48 component: block.fastbreak.expect
+(03:11:31) Execute command: matrix notify Bl4zeBoy tried to place/break a block too quickly (FastPlace/FastBreak)
+(03:11:31) Bl4zeBoy failed Interact check | breaking a block without looking at it (block: GRASS_BLOCK) (+1) | vl:1 ping:59 tps:20.0 lp:48 component: interact.break
+(03:11:31) Bl4zeBoy failed Interact check | break block through walls (through: stone, block: grass_block) (+1) | vl:2 ping:59 tps:20.0 lp:48 component: interact.break
+(03:11:32) Bl4zeBoy failed Block check | break block too fast (digs: 2/12, block: dirt, j: false) (+4) | vl:16 ping:59 tps:20.0 lp:41 component: block.fastbreak.expect
+(03:11:32) Bl4zeBoy failed Interact check | breaking a block without looking at it (block: DIRT) (+1) | vl:3 ping:59 tps:20.0 lp:41 component: interact.break
+(03:11:32) Bl4zeBoy failed Interact check | break block through walls (through: stone, block: dirt) (+1) | vl:4 ping:59 tps:20.0 lp:41 component: interact.break
+(03:11:52) Bl4zeBoy failed Speed check | suspicious movement (move: 1.004, expect: 0.7435, tag: c) (+10) | vl:10 ping:1644 tps:20.0 lp:35 component: speed.main
+(03:11:52) Bl4zeBoy failed Speed check | suspicious movement (move: 1.004, predict: 0.33, friction: 0.6, ground:true, motY: 1.0, increase:0.33, preMove:0.0, motion: 0.086,1.0,-1.0, attribute: 0.13, cm: false, di: false, tag: pred) (+5) | vl:15 ping:1644 tps:20.0 lp:35 component: move.xz
+(03:11:52) Bl4zeBoy failed Fly check | step | p: 1 | m:1.0 ev:-0.078 lm:0.99 (+2) | vl:2 ping:1644 tps:20.0 lp:35 component: speed.step
+(03:11:53) Bl4zeBoy failed Fly check | step | p:3 (+4) | vl:6 ping:1644 tps:20.0 lp:37 component: speed.step
+(03:11:57) Bl4zeBoy failed Speed check | suspicious movement (move: 1.05, expect: 0.7435, tag: c) (+10) | vl:25 ping:1644 tps:20.0 lp:36 component: speed.main
+(03:11:57) Bl4zeBoy failed Speed check | suspicious movement (move: 1.05, predict: 0.33, friction: 0.6, ground:true, motY: 2.0, increase:0.33, preMove:0.0, motion: -0.319,2.0,-1.0, attribute: 0.13, cm: false, di: false, tag: pred) (+5) | vl:30 ping:1644 tps:20.0 lp:36 component: move.xz
+(03:11:57) Bl4zeBoy failed Fly check | step | p: 1 | m:2.0 ev:-0.078 lm:0.99 (+2) | vl:8 ping:1644 tps:20.0 lp:36 component: speed.step
+(03:12:27) Bl4zeBoy failed Fly check | step | p: 1 | m:1.0 ev:-0.078 lm:0.99 (+8) | vl:8 ping:64 tps:20.0 lp:25 component: speed.step
+(03:12:28) Bl4zeBoy failed Interact check | breaking a block without looking at it (block: STONE) (+1) | vl:1 ping:64 tps:20.0 lp:38 component: interact.break
+(03:12:29) Bl4zeBoy failed Fly check | step | p:3 (+4) | vl:12 ping:64 tps:20.0 lp:38 component: speed.step
+(03:13:08) Bl4zeBoy failed BadPackets check | (timer) moved too many times (timer: 111.111, t:9, buffer:20, tag: timer) (+5) | vl:5 ping:4693 tps:20.0 lp:49 component: net.timer
+(03:13:09) Bl4zeBoy failed BadPackets check | (timer) moved too many times (timer: 1.319, t:758, buffer:20, tag: timer) (+5) | vl:10 ping:4693 tps:20.0 lp:49 component: net.timer
+(03:13:09) Bl4zeBoy failed BadPackets check | (timer) send 87 moving packets in 995ms | tag: limit (+5) | vl:15 ping:4693 tps:20.0 lp:49 component: net.timer
+(03:14:06) Bl4zeBoy failed BadPackets check | (timer) send 53 moving packets in 1171ms | tag: limit (+5) | vl:5 ping:7761 tps:20.0 lp:48 component: net.timer
+(03:14:07) Bl4zeBoy failed BadPackets check | (timer) send 53 moving packets in 1474ms | tag: limit (+5) | vl:10 ping:7761 tps:20.0 lp:59 component: net.timer
+(03:14:08) Bl4zeBoy failed Interact check | breaking a block without looking at it (block: IRON_ORE) (+0) | vl:0 ping:7761 tps:20.0 lp:59 component: interact.break
+(03:14:08) Bl4zeBoy failed Interact check | break block through walls (through: iron_ore, block: iron_ore) (+0) | vl:0 ping:7761 tps:20.0 lp:59 component: interact.break
+(07:00:30) Matrix Enabled!
+(07:00:30) Version: 5.5.0
+(08:03:12) Zonelesi failed Speed check | t: spin (+10) | vl:10 ping:70 tps:20.0 lp:28 component: speed.spin
+(08:06:13) Zonelesi failed Speed check | t: spin (+10) | vl:10 ping:50 tps:20.0 lp:10 component: speed.spin
+(08:07:26) Zonelesi failed Speed check | suspicious movement (move: 0.449, expect: 0.429, g_tk:1, tag: b) (+8) | vl:8 ping:42 tps:20.0 lp:12 component: speed.main
+(08:14:34) Zonelesi failed Inventory check | t: chest steal  m:click a=99 (+1) | vl:1 ping:29 tps:20.0 lp:17 component: inv.cs.b
+(08:29:52) Zonelesi failed Scaffold check | scaffold-like placement | type A (+1) | vl:1 ping:27 tps:20.0 lp:17 component: sfd.place.a
+(08:34:32) Zonelesi failed Block check | break block without delay (+4) | vl:4 ping:25 tps:20.0 lp:15 component: blk.fb.dly
+(08:38:17) Zonelesi failed Speed check | t: spin (+10) | vl:10 ping:23 tps:20.0 lp:12 component: speed.spin
+(08:40:23) Zonelesi failed Block check | break block without delay (+4) | vl:4 ping:22 tps:20.0 lp:17 component: blk.fb.dly
+(08:44:48) Zonelesi failed Speed check | t: spin (+10) | vl:10 ping:27 tps:20.0 lp:14 component: speed.spin
+(08:50:06) Zonelesi failed Block check | break block without delay (+4) | vl:4 ping:19 tps:20.0 lp:7 component: blk.fb.dly
+(08:52:22) Zonelesi failed Block check | break block without delay (+4) | vl:4 ping:20 tps:20.0 lp:20 component: blk.fb.dly
+(08:54:11) Zonelesi failed Speed check | t: spin (+10) | vl:10 ping:22 tps:20.0 lp:8 component: speed.spin
+(08:58:55) Zonelesi failed Block check | break block without delay (+4) | vl:4 ping:29 tps:20.0 lp:5 component: blk.fb.dly
+(09:00:01) Zonelesi failed Block check | break block without delay (+4) | vl:4 ping:24 tps:20.0 lp:16 component: blk.fb.dly
+(09:00:05) Zonelesi failed Block check | break block without delay (+4) | vl:8 ping:24 tps:20.0 lp:16 component: blk.fb.dly
+(09:03:17) Zonelesi failed Block check | break block without delay (+4) | vl:4 ping:21 tps:20.0 lp:9 component: blk.fb.dly
+(09:07:29) Zonelesi failed Block check | break block without delay (+4) | vl:4 ping:28 tps:20.0 lp:20 component: blk.fb.dly
+(09:07:46) Zonelesi failed Block check | break block without delay (+4) | vl:4 ping:24 tps:20.0 lp:16 component: blk.fb.dly
+(09:09:57) Zonelesi failed Block check | break block without delay (+4) | vl:4 ping:34 tps:20.0 lp:23 component: blk.fb.dly
+(09:11:51) Zonelesi failed Block check | break block without delay (+4) | vl:4 ping:24 tps:20.0 lp:19 component: blk.fb.dly
+(09:12:41) Zonelesi failed Block check | break block without delay (+4) | vl:4 ping:37 tps:20.0 lp:5 component: blk.fb.dly
+(09:13:37) Zonelesi failed Block check | break block without delay (+4) | vl:4 ping:21 tps:20.0 lp:16 component: blk.fb.dly
+(09:13:57) Zonelesi failed Speed check | t: spin (+10) | vl:10 ping:33 tps:20.0 lp:19 component: speed.spin
+(09:15:30) Zonelesi failed Block check | break block without delay (+4) | vl:4 ping:40 tps:20.0 lp:11 component: blk.fb.dly
+(09:18:49) Zonelesi failed Block check | break block without delay (+4) | vl:4 ping:31 tps:20.0 lp:16 component: blk.fb.dly
+(09:18:57) Zonelesi failed Block check | break block without delay (+4) | vl:8 ping:19 tps:20.0 lp:18 component: blk.fb.dly
+(09:19:00) Zonelesi failed Block check | break block without delay (+4) | vl:12 ping:19 tps:20.0 lp:24 component: blk.fb.dly
+(09:19:00) Execute command: matrix notify Zonelesi tried to place/break a block too quickly (FastPlace/FastBreak)
+(09:19:03) Zonelesi failed Block check | break block without delay (+4) | vl:16 ping:19 tps:20.0 lp:17 component: blk.fb.dly
+(09:28:54) Zonelesi failed Block check | break block without delay (+4) | vl:4 ping:75 tps:20.0 lp:21 component: blk.fb.dly
+(09:31:27) Zonelesi failed Speed check | t: spin (+10) | vl:10 ping:98 tps:20.0 lp:40 component: speed.spin
+(09:31:27) Zonelesi failed Speed check | t: spin (+10) | vl:20 ping:98 tps:20.0 lp:40 component: speed.spin
+(09:35:48) Zonelesi failed Speed check | suspicious movement (move: 0.44, expect: 0.429, g_tk:1, tag: b) (+8) | vl:8 ping:33 tps:20.0 lp:19 component: speed.main
+(09:41:55) Zonelesi failed Interact check | interact block through solid (through: LIGHT_BLUE_CONCRETE_POWDER, block:CHEST) (+1) | vl:1 ping:43 tps:20.0 lp:41 component: interact.through
+(09:43:09) Zonelesi failed Speed check | t: spin (+10) | vl:10 ping:45 tps:20.0 lp:23 component: speed.spin
+(09:47:07) Zonelesi failed Speed check | t: spin (+10) | vl:10 ping:30 tps:20.0 lp:17 component: speed.spin
+(12:07:58) Matrix Enabled!
+(12:07:58) Version: 5.5.0
+(12:49:41) Billy_Not_Really failed Speed check | t: spin (+10) | vl:10 ping:23 tps:20.0 lp:22 component: speed.spin
+(13:13:49) Billy_Not_Really failed HitBox check | missed entity hitbox (entity: rabbit, angle: 66.001, move: true) (+2) | vl:2 ping:23 tps:20.0 lp:11 component: hb.mis
+(13:16:06) Billy_Not_Really failed HitBox check | missed entity hitbox (entity: pig, angle: 36.307, move: true) (+1) | vl:1 ping:64 tps:20.0 lp:14 component: hb.mis
+(13:16:19) Billy_Not_Really failed HitBox check | missed entity hitbox (entity: sheep, angle: 40.107, move: true) (+1) | vl:1 ping:30 tps:20.0 lp:15 component: hb.mis
+(13:29:03) Billy_Not_Really failed Speed check | t: spin (+10) | vl:10 ping:76 tps:20.0 lp:11 component: speed.spin
+(13:29:03) Billy_Not_Really failed Speed check | t: spin (+10) | vl:20 ping:76 tps:20.0 lp:11 component: speed.spin
+(13:44:07) Billy_Not_Really failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: -215.789,68.252,46.396, type: air, pkt: true) (+5) | vl:5 ping:65 tps:20.0 lp:10 component: fly.gf
+(13:44:44) vanism failed Speed check | t: spin (+10) | vl:10 ping:28 tps:20.0 lp:10 component: speed.spin
+(16:53:31) Matrix Enabled!
+(16:53:31) Version: 5.5.0
+(17:52:54) Billy_Not_Really failed Jesus check | liquid speed (speed: 0.121, expect:0.12, dmg: false, flw:false, module: in) (+3) | vl:3 ping:23 tps:20.0 lp:15 component: jesus.speed.in
+(17:52:54) Billy_Not_Really failed Jesus check | liquid speed (speed: 0.128, expect:0.12, dmg: false, flw:false, module: in) (+3) | vl:6 ping:23 tps:20.0 lp:15 component: jesus.speed.in
+(17:52:55) Billy_Not_Really failed Jesus check | liquid speed (speed: 0.135, expect:0.12, dmg: false, flw:false, module: in) (+3) | vl:9 ping:23 tps:20.0 lp:15 component: jesus.speed.in
+(17:52:55) Billy_Not_Really failed Jesus check | liquid speed (speed: 0.127, expect:0.12, dmg: false, flw:false, module: in) (+3) | vl:12 ping:23 tps:20.0 lp:15 component: jesus.speed.in
+(17:52:55) Billy_Not_Really failed Jesus check | liquid speed (speed: 0.121, expect:0.12, dmg: false, flw:false, module: in) (+3) | vl:15 ping:23 tps:20.0 lp:15 component: jesus.speed.in
+(17:56:11) Billy_Not_Really failed BadPackets check | (timer) send 45 moving packets in 1025ms | tag: limit (+10) | vl:10 ping:66 tps:20.0 lp:28 component: net.timer
+(18:05:12) Billy_Not_Really failed Speed check | t: spin (+10) | vl:10 ping:31 tps:20.0 lp:16 component: speed.spin
+(18:05:12) Billy_Not_Really failed Speed check | t: spin (+10) | vl:20 ping:31 tps:20.0 lp:16 component: speed.spin
+(18:09:12) Billy_Not_Really failed Speed check | t: spin (+10) | vl:10 ping:110 tps:20.0 lp:21 component: speed.spin
+(18:09:12) Billy_Not_Really failed Speed check | t: spin (+10) | vl:20 ping:110 tps:20.0 lp:21 component: speed.spin
+(20:31:41) vanism failed Speed check | t: spin (+10) | vl:10 ping:29 tps:20.0 lp:15 component: speed.spin
+(20:33:02) vanism failed Speed check | t: spin (+10) | vl:10 ping:20 tps:20.0 lp:13 component: speed.spin
+(20:33:02) vanism failed Speed check | t: spin (+10) | vl:20 ping:20 tps:20.0 lp:13 component: speed.spin
+(20:52:50) vanism failed Interact check | break block through walls (through: oak_log, block: oak_planks) (+1) | vl:1 ping:19 tps:20.0 lp:20 component: interact.break
+(21:00:38) vanism failed HitBox check | missed entity hitbox (entity: zombie, angle: 100.388, move: false) (+2) | vl:2 ping:36 tps:20.0 lp:13 component: hb.mis
+(21:01:44) vanism failed Interact check | attack entity through stone_bricks block (d: 1.932) (+1) | vl:1 ping:25 tps:19.99 lp:31 component: interact.attack

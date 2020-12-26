@@ -1,0 +1,111 @@
+(00:02:21) LethalLuck failed Elytra check | (elytra) more energy: 0.078 dif: 0.0 motion: -0.074 ratio: 0.0 (+1) | vl:1 ping:123 tps:20.0 lp:3 component: ely.me
+(00:02:21) LethalLuck failed Elytra check | (elytra) more energy: 0.078 dif: 0.0 motion: -0.074 ratio: 0.0 (+1) | vl:2 ping:123 tps:20.0 lp:3 component: ely.me
+(00:02:21) LethalLuck failed Elytra check | (elytra) more energy: 0.078 dif: 0.0 motion: -0.074 ratio: 0.0 (+1) | vl:3 ping:123 tps:20.0 lp:3 component: ely.me
+(00:02:21) LethalLuck failed Elytra check | (elytra) more energy: 0.078 dif: 0.0 motion: -0.074 ratio: 0.0 (+1) | vl:4 ping:123 tps:20.0 lp:3 component: ely.me
+(00:02:21) LethalLuck failed Elytra check | (elytra) more energy: 0.078 dif: 0.0 motion: -0.074 ratio: 0.0 (+1) | vl:5 ping:123 tps:20.0 lp:3 component: ely.me
+(00:02:22) LethalLuck failed Elytra check | (elytra) more energy: 0.078 dif: 0.0 motion: -0.074 ratio: 0.0 (+1) | vl:6 ping:123 tps:20.0 lp:3 component: ely.me
+(00:02:39) LethalLuck failed Interact check | interact block through solid (through: STONE_BRICKS, block:CHEST) (+1) | vl:1 ping:124 tps:20.0 lp:2 component: interact.through
+(00:04:21) LethalLuck failed Interact check | interact block through solid (through: SAND, block:CHEST) (+1) | vl:1 ping:126 tps:20.0 lp:10 component: interact.through
+(00:05:45) LethalLuck failed Interact check | interact block through solid (through: GRASS_BLOCK, block:CHEST) (+1) | vl:1 ping:124 tps:20.0 lp:9 component: interact.through
+(00:05:47) LethalLuck failed Interact check | interact block through solid (through: DARK_OAK_PLANKS, block:CHEST) (+1) | vl:2 ping:124 tps:20.0 lp:9 component: interact.through
+(00:18:22) LethalLuck failed Interact check | interact block through solid (through: DARK_OAK_PLANKS, block:CHEST) (+1) | vl:1 ping:121 tps:20.0 lp:3 component: interact.through
+(00:26:51) LethalLuck failed FastHeal check | regen health too fast (difficulty: easy, delay: 0.377, ver: 16) (+2) | vl:2 ping:117 tps:20.0 lp:3 component: heal
+(00:31:00) LethalLuck failed Elytra check | (elytra) move too fast when boosting: 1.98 (+3) | vl:3 ping:119 tps:20.0 lp:3 component: ely.bst
+(00:31:00) LethalLuck failed Elytra check | (elytra) move too fast when boosting: 1.97 (+3) | vl:6 ping:119 tps:20.0 lp:4 component: ely.bst
+(00:31:01) LethalLuck failed Elytra check | (elytra) move too fast when boosting: 1.959 (+3) | vl:9 ping:119 tps:20.0 lp:4 component: ely.bst
+(03:18:58) NaomiR06 failed Speed check | suspicious movement (move: 0.3, expect:0.289, t:0, sprint: false, attr: 0.1, tag: a) (+9) | vl:9 ping:0 tps:20.0 lp:6 component: speed.main
+(03:18:58) NaomiR06 failed Speed check | suspicious movement (move: 0.322, expect:0.289, t:0, sprint: false, attr: 0.1, tag: a) (+9) | vl:18 ping:0 tps:20.0 lp:6 component: speed.main
+(03:18:58) NaomiR06 failed Speed check | suspicious movement (move: 0.322, predict: 0.294, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.164, motion: 0.298,0.0,-0.122, attribute: 0.13, cm: false, di: false, tag: pred) (+5) | vl:23 ping:0 tps:20.0 lp:6 component: move.xz
+(03:18:58) NaomiR06 failed Speed check | suspicious movement (move: 0.342, expect:0.289, t:0, sprint: false, attr: 0.1, tag: a) (+9) | vl:32 ping:0 tps:20.0 lp:6 component: speed.main
+(03:18:58) NaomiR06 failed Speed check | suspicious movement (move: 0.342, predict: 0.306, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.176, motion: 0.317,0.0,-0.128, attribute: 0.13, cm: false, di: false, tag: pred) (+5) | vl:37 ping:0 tps:20.0 lp:6 component: move.xz
+(03:18:58) NaomiR06 failed Fly check | ground spoof (expect: --, move: 0.42,0.294,-0.205, at: -246.678,69.684,90.143, type: air, pkt: false) (+5) | vl:5 ping:0 tps:20.0 lp:7 component: fly.gf
+(03:18:58) NaomiR06 failed Fly check | ground spoof (expect: --, move: 0.409,0.326,-0.227, at: -246.269,70.01,89.915, type: air, pkt: false) (+5) | vl:10 ping:0 tps:20.0 lp:7 component: fly.gf
+(03:18:58) NaomiR06 failed Fly check | ground spoof (expect: --, move: 0.396,0.346,-0.25, at: -245.873,70.356,89.665, type: air, pkt: false) (+5) | vl:15 ping:0 tps:20.0 lp:7 component: fly.gf
+(03:18:59) NaomiR06 failed Fly check | ground spoof (expect: --, move: 0.103,0.346,-0.171, at: -247.987,70.356,90.379, type: air, pkt: false) (+5) | vl:20 ping:0 tps:20.0 lp:7 component: fly.gf
+(03:18:59) NaomiR06 failed Fly check | ground spoof (expect: --, move: 0.221,0.007,-0.121, at: -247.083,69.74,89.921, type: air, pkt: false) (+5) | vl:25 ping:0 tps:20.0 lp:10 component: fly.gf
+(03:19:00) NaomiR06 failed Fly check | ground spoof (expect: --, move: 0.291,0.0,-0.11, at: -246.728,69.0,90.25, type: air, pkt: false) (+5) | vl:30 ping:0 tps:20.0 lp:10 component: fly.gf
+(03:19:00) NaomiR06 failed Speed check | suspicious movement (move: 0.311, predict: 0.287, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.157, motion: 0.291,0.0,-0.11, attribute: 0.13, cm: false, di: false, tag: pred) (+5) | vl:42 ping:0 tps:20.0 lp:10 component: move.xz
+(03:19:01) NaomiR06 failed Speed check | suspicious movement (move: 0.311, predict: 0.287, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.157, motion: 0.291,0.0,-0.11, attribute: 0.13, cm: false, di: false, tag: pred) (+5) | vl:47 ping:0 tps:20.0 lp:12 component: move.xz
+(03:19:01) NaomiR06 failed Fly check | ground spoof (expect: --, move: 0.27,0.0,-0.102, at: -246.886,69.0,90.31, type: air, pkt: false) (+5) | vl:35 ping:0 tps:20.0 lp:12 component: fly.gf
+(03:19:01) NaomiR06 failed Fly check | ground spoof (expect: --, move: 0.246,0.326,-0.093, at: -247.156,70.01,90.411, type: air, pkt: false) (+5) | vl:40 ping:0 tps:20.0 lp:11 component: fly.gf
+(03:19:02) NaomiR06 failed Fly check | ground spoof (expect: --, move: 0.16,0.326,-0.06, at: -247.814,70.01,90.659, type: air, pkt: false) (+5) | vl:45 ping:0 tps:20.0 lp:11 component: fly.gf
+(03:19:02) NaomiR06 failed Fly check | ground spoof (expect: --, move: 0.16,0.326,-0.06, at: -247.814,70.01,90.659, type: air, pkt: false) (+5) | vl:50 ping:0 tps:20.0 lp:11 component: fly.gf
+(03:19:02) Execute command: matrix notify NaomiR06 tried to fly (Fly) #1
+(03:19:02) NaomiR06 failed Fly check | ground spoof (expect: --, move: 0.096,0.248,-0.036, at: -247.874,70.001,90.682, type: air, pkt: false) (+5) | vl:55 ping:0 tps:20.0 lp:11 component: fly.gf
+(03:19:03) NaomiR06 failed Fly check | ground spoof (expect: --, move: 0.149,-0.152,-0.056, at: -246.905,69.524,90.317, type: air, pkt: false) (+5) | vl:60 ping:0 tps:20.0 lp:12 component: fly.gf
+(03:19:03) NaomiR06 failed Speed check | suspicious movement (move: 0.342, predict: 0.277, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.147, motion: 0.32,0.0,-0.121, attribute: 0.13, cm: false, di: false, tag: pred) (+5) | vl:52 ping:0 tps:20.0 lp:12 component: move.xz
+(03:19:04) NaomiR06 failed Speed check | suspicious movement (move: 0.342, predict: 0.277, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.147, motion: 0.32,0.0,-0.121, attribute: 0.13, cm: false, di: false, tag: pred) (+5) | vl:57 ping:0 tps:20.0 lp:13 component: move.xz
+(03:19:04) Execute command: matrix notify NaomiR06 tried to move faster than usual (Speed) #1
+(03:19:08) NaomiR06 failed Fly check | ground spoof (expect: --, move: 0.128,0.248,0.039, at: -248.448,70.001,92.543, type: air, pkt: false) (+5) | vl:65 ping:110 tps:20.0 lp:15 component: fly.gf
+(03:19:08) NaomiR06 failed Fly check | ground spoof (expect: --, move: 0.127,0.248,0.038, at: -248.09,70.001,92.648, type: air, pkt: false) (+5) | vl:70 ping:110 tps:20.0 lp:15 component: fly.gf
+(03:19:09) NaomiR06 failed Fly check | illegal packets | x: -247.8153525494074 y: 68.500011 z: 92.73013053383745 | tag:gf-mod (+10) | vl:80 ping:110 tps:20.0 lp:16 component: fly.fg.mod
+(03:19:09) NaomiR06 failed Fly check | illegal packets | x: -247.8153525494074 y: 68.500011 z: 92.73013053383745 | tag:gf-mod (+10) | vl:90 ping:110 tps:20.0 lp:16 component: fly.fg.mod
+(03:19:10) NaomiR06 failed Fly check | illegal packets | x: -247.8153525494074 y: 68.500011 z: 92.73013053383745 | tag:gf-mod (+10) | vl:100 ping:110 tps:20.0 lp:16 component: fly.fg.mod
+(03:19:10) Execute command: matrix notify NaomiR06 tried to fly (Fly) #2
+(03:19:10) NaomiR06 failed Fly check | illegal packets | x: -247.8153525494074 y: 68.500011 z: 92.73013053383745 | tag:gf-mod (+10) | vl:110 ping:110 tps:20.0 lp:45 component: fly.fg.mod
+(03:19:11) NaomiR06 failed Fly check | illegal packets | x: -253.5 y: 69.000011 z: 92.5 | tag:gf-mod (+10) | vl:120 ping:110 tps:20.0 lp:45 component: fly.fg.mod
+(07:00:30) Matrix Enabled!
+(07:00:30) Version: 5.5.0
+(16:12:41) STra1z failed Block check | break block without delay (+4) | vl:4 ping:59 tps:20.0 lp:21 component: blk.fb.dly
+(16:13:31) STra1z failed Block check | break block with timer (block: stone, point: 959) (+4) | vl:4 ping:96 tps:20.0 lp:22 component: block.fb.timer
+(16:13:32) STra1z failed BadPackets check | (timer) send 58 moving packets in 1017ms | tag: limit (+10) | vl:10 ping:96 tps:20.0 lp:36 component: net.timer
+(16:14:14) STra1z failed Block check | break block without delay (+4) | vl:4 ping:52 tps:20.0 lp:16 component: blk.fb.dly
+(16:14:53) STra1z failed Block check | break block without delay (+4) | vl:4 ping:49 tps:20.0 lp:12 component: blk.fb.dly
+(21:37:36) Zonelesi failed Block check | break block without delay (+4) | vl:4 ping:43 tps:20.0 lp:21 component: blk.fb.dly
+(21:38:05) Zonelesi failed Block check | break block without delay (+4) | vl:4 ping:28 tps:20.0 lp:20 component: blk.fb.dly
+(21:41:33) Zonelesi failed Block check | break block without delay (+4) | vl:4 ping:28 tps:20.0 lp:11 component: blk.fb.dly
+(21:51:30) Zonelesi failed Block check | break block without delay (+4) | vl:4 ping:25 tps:20.0 lp:11 component: blk.fb.dly
+(21:51:34) Zonelesi failed Block check | break block without delay (+4) | vl:8 ping:25 tps:20.0 lp:8 component: blk.fb.dly
+(21:51:46) Zonelesi failed Block check | no swing after place block | COBBLESTONE (+1) | vl:1 ping:18 tps:20.0 lp:18 component: block.noswing
+(21:54:47) Zonelesi failed Block check | break block without delay (+4) | vl:4 ping:36 tps:20.0 lp:12 component: blk.fb.dly
+(21:56:16) Zonelesi failed Block check | break block without delay (+4) | vl:4 ping:25 tps:20.0 lp:4 component: blk.fb.dly
+(21:56:29) Zonelesi failed Speed check | t: spin (+10) | vl:10 ping:29 tps:20.0 lp:11 component: speed.spin
+(21:58:56) Zonelesi failed Speed check | t: spin (+10) | vl:10 ping:24 tps:20.0 lp:11 component: speed.spin
+(21:58:56) Zonelesi failed Speed check | t: spin (+10) | vl:20 ping:24 tps:20.0 lp:11 component: speed.spin
+(22:49:22) Zonelesi failed Fly check | suspicious movement:0.392 predict:0.306 air_t:1 tag:sam (+5) | vl:5 ping:31 tps:20.0 lp:15 component: fly.main
+(22:49:22) Zonelesi failed Fly check | suspicious movement:0.392 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:10 ping:31 tps:20.0 lp:15 component: fly.main
+(22:50:49) Zonelesi failed Block check | break block with timer (block: coal_ore, point: 404) (+4) | vl:4 ping:30 tps:20.0 lp:23 component: block.fb.timer
+(22:51:20) Zonelesi failed Block check | break block too fast (digs: 8/9, block: stone, j: false) (+4) | vl:4 ping:33 tps:20.0 lp:13 component: block.fastbreak.expect
+(22:52:42) Zonelesi failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:35 tps:20.0 lp:10 component: interact.through
+(22:56:38) Zonelesi failed Inventory check | t: chest steal  m:click a=76 (+1) | vl:1 ping:23 tps:20.0 lp:30 component: inv.cs.b
+(22:59:53) Zonelesi failed Speed check | suspicious movement (move: 0.491, vet: 0.391, tag: d) (+8) | vl:8 ping:29 tps:20.0 lp:29 component: speed.main
+(22:59:53) Zonelesi failed Speed check | suspicious movement (move: 0.499, expect: 0.3665, tag: ea) (+5) | vl:13 ping:29 tps:20.0 lp:29 component: speed.main
+(22:59:53) Zonelesi failed Fly check | suspicious movement:0.391 predict:0.305 air_t:1 tag:sam (+5) | vl:5 ping:29 tps:20.0 lp:29 component: fly.main
+(22:59:53) Zonelesi failed Fly check | suspicious movement:0.391 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:10 ping:29 tps:20.0 lp:29 component: fly.main
+(23:00:29) Zonelesi failed Speed check | suspicious movement (move: 0.485, vet: 0.391, tag: d) (+8) | vl:8 ping:28 tps:19.95 lp:24 component: speed.main
+(23:00:29) Zonelesi failed Speed check | suspicious movement (move: 0.493, expect: 0.3665, tag: ea) (+5) | vl:13 ping:28 tps:19.95 lp:24 component: speed.main
+(23:00:29) Zonelesi failed Fly check | suspicious movement:0.391 predict:0.305 air_t:1 tag:sam (+5) | vl:5 ping:28 tps:19.95 lp:24 component: fly.main
+(23:00:29) Zonelesi failed Fly check | suspicious movement:0.391 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:10 ping:28 tps:19.95 lp:24 component: fly.main
+(23:05:35) Zonelesi failed Block check | no swing after place block | SNOW_BLOCK (+1) | vl:1 ping:22 tps:20.0 lp:6 component: block.noswing
+(23:06:52) Zonelesi failed Speed check | t: spin (+10) | vl:10 ping:33 tps:20.0 lp:16 component: speed.spin
+(23:09:47) Zonelesi failed Interact check | interact block through solid (through: LIME_CONCRETE, block:CHEST) (+1) | vl:1 ping:57 tps:20.0 lp:9 component: interact.through
+(23:10:17) Zonelesi failed Speed check | t: spin (+10) | vl:10 ping:47 tps:20.0 lp:8 component: speed.spin
+(23:11:33) STra1z failed Block check | break block with timer (block: coal_ore, point: 319) (+4) | vl:4 ping:46 tps:20.0 lp:16 component: block.fb.timer
+(23:17:43) STra1z failed Speed check | suspicious movement (move: 1.232, expect: 0.7435, tag: c) (+10) | vl:10 ping:607 tps:20.0 lp:16 component: speed.main
+(23:17:43) STra1z failed Speed check | suspicious movement (move: 1.232, predict: 0.457, friction: 0.6, ground:true, motY: 1.023, increase:0.43, preMove:0.027, motion: -0.046,1.023,1.231, attribute: 0.13, cm: false, di: true, tag: pred) (+5) | vl:15 ping:607 tps:20.0 lp:16 component: move.xz
+(23:17:43) STra1z failed Fly check | step | p: 1 | m:1.023 ev:0.42 lm:1.013 (+2) | vl:2 ping:607 tps:20.0 lp:16 component: speed.step
+(23:19:36) Zonelesi failed Scaffold check | scaffold-like placement | type A (+1) | vl:1 ping:33 tps:20.0 lp:8 component: sfd.place.a
+(23:26:03) Zonelesi failed Scaffold check | scaffold-like placement | type A (+1) | vl:1 ping:319 tps:20.0 lp:9 component: sfd.place.a
+(23:34:38) Zonelesi failed Speed check | suspicious movement (move: 0.493, vet: 0.392, tag: d) (+8) | vl:8 ping:38 tps:20.0 lp:9 component: speed.main
+(23:34:38) Zonelesi failed Speed check | suspicious movement (move: 0.501, expect: 0.3665, tag: ea) (+5) | vl:13 ping:38 tps:20.0 lp:9 component: speed.main
+(23:34:38) Zonelesi failed Speed check | suspicious movement (move: 0.501, predict: 0.295, friction: 0.6, ground:false, motY: 0.392, increase:0.026, preMove:0.269, motion: 0.501,0.392,0.0, attribute: 0.13, cm: false, di: false, tag: pred) (+5) | vl:18 ping:38 tps:20.0 lp:9 component: move.xz
+(23:34:38) Zonelesi failed Fly check | suspicious movement:0.392 predict:0.305 air_t:1 tag:sam (+5) | vl:5 ping:38 tps:20.0 lp:9 component: fly.main
+(23:34:38) Zonelesi failed Fly check | suspicious movement:0.392 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:10 ping:38 tps:20.0 lp:9 component: fly.main
+(23:38:09) Zonelesi failed BadPackets check | (timer) send 39 moving packets in 1017ms | tag: limit (+10) | vl:10 ping:30 tps:20.0 lp:42 component: net.timer
+(23:38:36) Zonelesi failed Block check | break block with timer (block: stone, point: 1285) (+4) | vl:4 ping:51 tps:20.0 lp:17 component: block.fb.timer
+(23:38:36) Zonelesi failed Block check | break block with timer (block: stone, point: 755) (+4) | vl:8 ping:51 tps:20.0 lp:28 component: block.fb.timer
+(23:38:36) Zonelesi failed Block check | break block with timer (block: stone, point: 1223) (+4) | vl:12 ping:51 tps:20.0 lp:28 component: block.fb.timer
+(23:38:36) Execute command: matrix notify Zonelesi tried to place/break a block too quickly (FastPlace/FastBreak)
+(23:38:37) Zonelesi failed BadPackets check | (timer) send 57 moving packets in 1034ms | tag: limit (+10) | vl:10 ping:51 tps:20.0 lp:31 component: net.timer
+(23:39:00) Zonelesi failed Interact check | interact block through solid (through: ANDESITE, block:CHEST) (+1) | vl:1 ping:44 tps:20.0 lp:11 component: interact.through
+(23:40:07) Zonelesi failed BadPackets check | (timer) send 41 moving packets in 1030ms | tag: limit (+5) | vl:5 ping:646 tps:20.0 lp:41 component: net.timer
+(23:40:07) Zonelesi failed Speed check | suspicious movement (move: 1.997, expect: 0.3665, tag: ea) (+20) | vl:20 ping:646 tps:20.0 lp:41 component: speed.main
+(23:40:07) Zonelesi failed Speed check | suspicious movement (move: 1.997, predict: 0.346, friction: 0.6, ground:false, motY: 0.271, increase:0.026, preMove:0.32, motion: 0.322,0.271,1.97, attribute: 0.13, cm: false, di: false, tag: pred) (+5) | vl:25 ping:646 tps:20.0 lp:41 component: move.xz
+(23:40:07) Zonelesi failed Fly check | suspicious movement:0.271 predict:0.253 vel:-0.152 air_t:2 tag:vt (+5) | vl:5 ping:646 tps:20.0 lp:41 component: fly.main
+(23:40:15) Zonelesi failed Interact check | breaking a block without looking at it (block: BIRCH_LEAVES) (+0) | vl:0 ping:646 tps:20.0 lp:13 component: interact.break
+(23:40:15) Zonelesi failed Interact check | break block through walls (through: birch_leaves, block: birch_leaves) (+0) | vl:0 ping:646 tps:20.0 lp:13 component: interact.break
+(23:40:15) Zonelesi failed Interact check | breaking a block without looking at it (block: BIRCH_LEAVES) (+0) | vl:0 ping:646 tps:20.0 lp:13 component: interact.break
+(23:40:15) Zonelesi failed Interact check | break block through walls (through: birch_leaves, block: birch_leaves) (+0) | vl:0 ping:646 tps:20.0 lp:13 component: interact.break
+(23:42:14) Zonelesi failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:38 tps:20.0 lp:16 component: interact.through
+(23:57:48) Zonelesi failed BadPackets check | (timer) moved too many times (timer: 14.493, t:69, buffer:20, tag: timer) (+10) | vl:10 ping:39 tps:20.0 lp:39 component: net.timer
+(23:57:48) Zonelesi failed BadPackets check | (timer) send 73 moving packets in 1041ms | tag: limit (+10) | vl:20 ping:39 tps:20.0 lp:40 component: net.timer

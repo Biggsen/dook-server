@@ -1,16 +1,16 @@
 lastAccountName: ImJarHed
 timestamps:
-  login: 1608098783902
-  lastteleport: 1608101298501
-  logout: 1608104254515
+  login: 1608870122017
+  lastteleport: 1608197123236
+  logout: 1608870316577
 ipAddress: 98.160.214.120
 lastlocation:
   world: world
-  x: -253.16272863122896
-  y: 69.0
-  z: 92.32770093753341
-  yaw: 97.41162
-  pitch: 32.380302
+  x: -1126.0700056108487
+  y: 11.0
+  z: -1139.9247671146054
+  yaw: 273.64478
+  pitch: 20.028215
 homes:
   home:
     world: world
@@ -21,8 +21,9 @@ homes:
     pitch: 37.5753
 logoutlocation:
   world: world
-  x: -1109.3886711732055
-  y: 59.0
-  z: -1064.8483122962873
-  yaw: 182.9209
-  pitch: 19.981342
+  x: -1121.6509514385202
+  y: 55.0
+  z: -1048.300000011921
+  yaw: 180.40118
+  pitch: 15.658179
+money: '4394.38000000000010204'

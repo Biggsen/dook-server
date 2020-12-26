@@ -1,0 +1,142 @@
+(00:00:46) LethalLuck failed KillAura check | (autoclicker) click delay pattern | 1.9+ delay | avg: 399 diff: 7 (+6) | vl:6 ping:125 tps:20.0 lp:34 component: ka.ac.9p
+(00:24:17) vanism failed Speed check | t: spin (+10) | vl:10 ping:20 tps:20.0 lp:26 component: speed.spin
+(00:29:45) vanism failed Block check | break block without delay (+4) | vl:4 ping:30 tps:20.0 lp:20 component: blk.fb.dly
+(00:37:32) vanism failed Block check | break block without delay (+4) | vl:4 ping:28 tps:20.0 lp:10 component: blk.fb.dly
+(00:44:58) vanism failed Interact check | break block through walls (through: stone, block: iron_ore) (+1) | vl:1 ping:29 tps:20.0 lp:26 component: interact.break
+(00:46:21) vanism failed Block check | break block without delay (+4) | vl:4 ping:18 tps:20.0 lp:11 component: blk.fb.dly
+(01:04:18) LethalLuck failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: 970.3,127.006,168.3, type: air, pkt: false) (+5) | vl:5 ping:108 tps:20.0 lp:10 component: fly.gf
+(01:04:18) LethalLuck failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: 970.3,127.006,168.3, type: air, pkt: false) (+5) | vl:10 ping:108 tps:20.0 lp:10 component: fly.gf
+(01:06:42) LethalLuck failed Block check | break block too fast (digs: 36/42, block: obsidian, j: false) (+4) | vl:4 ping:109 tps:20.0 lp:3 component: block.fastbreak.expect
+(01:17:29) LethalLuck failed Interact check | interact block through solid (through: GLASS, block:CHEST) (+1) | vl:1 ping:112 tps:20.0 lp:18 component: interact.through
+(01:23:41) LethalLuck failed Fly check | suspicious movement:0.343 predict:0.257 air_t:2 tag:sam (+5) | vl:5 ping:117 tps:20.0 lp:13 component: fly.main
+(01:23:41) LethalLuck failed Fly check | suspicious movement:0.343 predict:0.253 vel:0.248 air_t:2 tag:vt (+5) | vl:10 ping:117 tps:20.0 lp:13 component: fly.main
+(01:26:36) LethalLuck failed Speed check | suspicious movement (move: 0.4, vet: 0.387, tag: d) (+8) | vl:8 ping:113 tps:20.0 lp:4 component: speed.main
+(01:26:36) LethalLuck failed Speed check | suspicious movement (move: 0.391, expect: 0.3665, tag: ea) (+5) | vl:13 ping:113 tps:20.0 lp:4 component: speed.main
+(01:26:36) LethalLuck failed Fly check | suspicious movement:0.355 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:5 ping:113 tps:20.0 lp:4 component: fly.main
+(01:31:14) LethalLuck failed Speed check | suspicious movement (move: 0.513, vet: 0.385, tag: d) (+8) | vl:8 ping:110 tps:20.0 lp:9 component: speed.main
+(01:31:14) LethalLuck failed Speed check | suspicious movement (move: 0.508, expect: 0.3665, tag: ea) (+5) | vl:13 ping:110 tps:20.0 lp:9 component: speed.main
+(01:31:14) LethalLuck failed Speed check | suspicious movement (move: 0.508, predict: 0.406, friction: 0.6, ground:false, motY: 0.341, increase:0.126, preMove:0.28, motion: -0.02,0.341,0.508, attribute: 0.13, cm: false, di: false, tag: pred) (+5) | vl:18 ping:110 tps:20.0 lp:9 component: move.xz
+(01:31:14) LethalLuck failed Speed check | suspicious movement (move: 0.508, expect: 0.3665, tag: ea) (+5) | vl:23 ping:110 tps:20.0 lp:9 component: speed.main
+(01:31:14) LethalLuck failed Fly check | suspicious movement:0.341 predict:0.256 air_t:2 tag:sam (+5) | vl:5 ping:110 tps:20.0 lp:9 component: fly.main
+(01:31:14) LethalLuck failed Fly check | suspicious movement:0.341 predict:0.253 vel:0.248 air_t:2 tag:vt (+5) | vl:10 ping:110 tps:20.0 lp:9 component: fly.main
+(01:40:01) LethalLuck failed Elytra check | (elytra) reserve energy: 0.0 dif: 0.0 motion: 0.0 t: 138 (+2) | vl:2 ping:109 tps:20.0 lp:3 component: ely.re
+(01:41:41) LethalLuck failed Elytra check | (elytra) reserve energy: 0.164 dif: 0.008 tag: liquid (+2) | vl:2 ping:112 tps:20.0 lp:3 component: ely.rel
+(01:49:25) LethalLuck failed Interact check | interact block through solid (through: GLASS, block:CHEST) (+1) | vl:1 ping:111 tps:20.0 lp:3 component: interact.through
+(01:55:55) LethalLuck failed Block check | break block without delay (+4) | vl:4 ping:109 tps:20.0 lp:24 component: blk.fb.dly
+(02:01:18) LethalLuck failed Speed check | suspicious movement (move: 0.484, vet: 0.391, tag: d) (+4) | vl:4 ping:205 tps:20.0 lp:9 component: speed.main
+(02:01:18) LethalLuck failed Speed check | suspicious movement (move: 0.479, expect: 0.3665, tag: ea) (+5) | vl:9 ping:205 tps:20.0 lp:9 component: speed.main
+(02:01:18) LethalLuck failed Fly check | suspicious movement:0.362 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:5 ping:205 tps:20.0 lp:9 component: fly.main
+(02:05:57) LethalLuck failed Interact check | interact block through solid (through: DARK_OAK_PLANKS, block:CHEST) (+1) | vl:1 ping:113 tps:20.0 lp:18 component: interact.through
+(02:23:22) LethalLuck failed Fly check | suspicious movement:0.333 predict:0.248 air_t:2 tag:sam (+5) | vl:5 ping:109 tps:20.0 lp:11 component: fly.main
+(02:27:04) LethalLuck failed Interact check | interact block through solid (through: SAND, block:CHEST) (+1) | vl:1 ping:110 tps:20.0 lp:28 component: interact.through
+(02:28:50) LethalLuck failed Interact check | interact block through solid (through: DARK_OAK_PLANKS, block:CHEST) (+1) | vl:1 ping:106 tps:20.0 lp:25 component: interact.through
+(02:50:16) LethalLuck failed Interact check | interact block through solid (through: SAND, block:CHEST) (+1) | vl:1 ping:116 tps:20.0 lp:15 component: interact.through
+(02:50:20) LethalLuck failed Interact check | interact block through solid (through: DIRT, block:CHEST) (+1) | vl:2 ping:116 tps:20.0 lp:15 component: interact.through
+(06:52:51) LethalLuck failed Fly check | suspicious movement:0.0 predict:-0.228 air:8 tag:dmf (+10) | vl:10 ping:116 tps:20.0 lp:5 component: fly.main
+(07:00:31) Matrix Enabled!
+(07:00:31) Version: 5.5.0
+(11:17:49) LethalLuck failed Speed check | change direction in mid-air (dist: 0.311, angle:91.169, pre:0.287) (+5) | vl:5 ping:107 tps:20.0 lp:4 component: speed.strafe
+(11:27:53) LethalLuck failed Speed check | suspicious movement (move: 0.449, predict: 0.439, friction: 0.6, ground:false, motY: 0.327, increase:0.026, preMove:0.413, motion: -0.435,0.327,0.112, attribute: 0.13, cm: false, di: false, tag: pred) (+5) | vl:5 ping:107 tps:20.0 lp:2 component: move.xz
+(11:27:53) LethalLuck failed Speed check | suspicious movement (move: 0.457, predict: 0.435, friction: 0.6, ground:false, motY: 0.327, increase:0.026, preMove:0.409, motion: -0.442,0.327,0.114, attribute: 0.13, cm: false, di: false, tag: pred) (+5) | vl:10 ping:107 tps:20.0 lp:2 component: move.xz
+(11:27:53) LethalLuck failed Fly check | suspicious movement:0.327 predict:0.242 air_t:3 tag:sam (+5) | vl:5 ping:107 tps:20.0 lp:2 component: fly.main
+(11:27:53) LethalLuck failed Fly check | suspicious movement:0.327 predict:0.17 vel:0.165 air_t:3 tag:vt (+5) | vl:10 ping:107 tps:20.0 lp:2 component: fly.main
+(11:33:49) LethalLuck failed Fly check | suspicious movement:0.218 predict:0.17 vel:0.165 air_t:3 tag:vt (+5) | vl:5 ping:117 tps:20.0 lp:4 component: fly.main
+(11:33:49) LethalLuck failed Fly check | suspicious movement:0.136 predict:0.088 vel:0.083 air_t:4 tag:vt (+5) | vl:10 ping:117 tps:20.0 lp:4 component: fly.main
+(11:33:49) LethalLuck failed Fly check | suspicious movement:-0.128 predict:-0.025 lm:0.054 hard_pred:-0.025 sev_pred:-0.152 air_t:6 fall_t:1 g:-- tag:gn (+5) | vl:15 ping:117 tps:20.0 lp:4 component: fly.main
+(11:34:01) LethalLuck failed Elytra check | (elytra) keep glide pose on ground: 3 (+4) | vl:4 ping:128 tps:20.0 lp:2 component: ely.grd
+(11:34:01) LethalLuck failed Elytra check | (elytra) keep glide pose on ground: 4 (+4) | vl:8 ping:128 tps:20.0 lp:2 component: ely.grd
+(11:35:54) LethalLuck failed Speed check | suspicious movement (move: 0.316, vet: 0.392, tag: d) (+8) | vl:8 ping:113 tps:20.0 lp:9 component: speed.main
+(11:35:54) LethalLuck failed Fly check | suspicious movement:0.364 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:5 ping:113 tps:20.0 lp:9 component: fly.main
+(11:35:54) LethalLuck failed Fly check | suspicious movement:0.364 predict:0.279 air_t:2 tag:sam (+5) | vl:10 ping:113 tps:20.0 lp:9 component: fly.main
+(11:35:54) LethalLuck failed Fly check | suspicious movement:0.364 predict:0.253 vel:0.248 air_t:2 tag:vt (+5) | vl:15 ping:113 tps:20.0 lp:9 component: fly.main
+(11:42:02) Matrix Enabled!
+(11:42:02) Version: 5.5.0
+(11:45:08) verzion failed Block check | break block without delay (+4) | vl:4 ping:22 tps:20.0 lp:10 component: blk.fb.dly
+(11:56:29) LethalLuck failed Interact check | interact block through solid (through: SAND, block:CHEST) (+1) | vl:1 ping:111 tps:20.0 lp:15 component: interact.through
+(12:05:01) LethalLuck failed Interact check | interact block through solid (through: DARK_OAK_PLANKS, block:CHEST) (+1) | vl:1 ping:117 tps:20.0 lp:15 component: interact.through
+(12:05:14) LethalLuck failed Interact check | interact block through solid (through: DARK_OAK_PLANKS, block:CHEST) (+1) | vl:2 ping:112 tps:20.0 lp:15 component: interact.through
+(12:06:15) LethalLuck failed Interact check | interact block through solid (through: GRASS_BLOCK, block:CHEST) (+1) | vl:1 ping:117 tps:20.0 lp:35 component: interact.through
+(12:06:50) LethalLuck failed Interact check | interact block through solid (through: DARK_OAK_PLANKS, block:CHEST) (+1) | vl:1 ping:112 tps:20.0 lp:35 component: interact.through
+(12:20:52) LethalLuck failed Fly check | suspicious movement:0.357 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:5 ping:113 tps:20.0 lp:2 component: fly.main
+(12:20:52) LethalLuck failed Fly check | suspicious movement:0.357 predict:0.271 air_t:2 tag:sam (+5) | vl:10 ping:113 tps:20.0 lp:2 component: fly.main
+(12:20:52) LethalLuck failed Fly check | suspicious movement:0.357 predict:0.253 vel:0.248 air_t:2 tag:vt (+5) | vl:15 ping:113 tps:20.0 lp:2 component: fly.main
+(12:22:33) LethalLuck failed Inventory check | t: chest steal  m:click a=99 (+1) | vl:1 ping:114 tps:20.0 lp:5 component: inv.cs.b
+(12:22:33) LethalLuck failed Inventory check | t: chest steal  m:click a=99 (+1) | vl:2 ping:114 tps:20.0 lp:5 component: inv.cs.b
+(12:22:33) LethalLuck failed Inventory check | t: chest steal  m:click a=98 (+1) | vl:3 ping:114 tps:20.0 lp:5 component: inv.cs.b
+(12:22:33) LethalLuck failed Inventory check | t: chest steal  m:click a=97 (+1) | vl:4 ping:114 tps:20.0 lp:5 component: inv.cs.b
+(12:22:34) LethalLuck failed Inventory check | t: chest steal  m:click a=99 (+1) | vl:5 ping:114 tps:20.0 lp:5 component: inv.cs.b
+(12:22:41) LethalLuck failed Fly check | suspicious movement:0.347 predict:0.262 air_t:2 tag:sam (+5) | vl:5 ping:113 tps:20.0 lp:4 component: fly.main
+(12:22:41) LethalLuck failed Fly check | suspicious movement:0.347 predict:0.253 vel:0.248 air_t:2 tag:vt (+5) | vl:10 ping:113 tps:20.0 lp:4 component: fly.main
+(12:36:02) LethalLuck failed Fly check | suspicious movement:0.36 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:5 ping:113 tps:20.0 lp:9 component: fly.main
+(12:36:02) LethalLuck failed Fly check | suspicious movement:0.33 predict:0.253 vel:0.248 air_t:2 tag:vt (+5) | vl:10 ping:113 tps:20.0 lp:9 component: fly.main
+(12:36:02) LethalLuck failed Fly check | suspicious movement:0.33 predict:0.245 air_t:3 tag:sam (+5) | vl:15 ping:113 tps:20.0 lp:9 component: fly.main
+(12:36:02) LethalLuck failed Fly check | suspicious movement:0.33 predict:0.17 vel:0.165 air_t:3 tag:vt (+5) | vl:20 ping:113 tps:20.0 lp:9 component: fly.main
+(12:36:02) LethalLuck failed Fly check | suspicious movement:0.361 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:25 ping:113 tps:20.0 lp:9 component: fly.main
+(12:36:02) LethalLuck failed Fly check | suspicious movement:0.332 predict:0.253 vel:0.248 air_t:2 tag:vt (+5) | vl:30 ping:113 tps:20.0 lp:9 component: fly.main
+(12:36:02) LethalLuck failed Fly check | suspicious movement:0.332 predict:0.247 air_t:3 tag:sam (+5) | vl:35 ping:113 tps:20.0 lp:9 component: fly.main
+(12:36:02) LethalLuck failed Fly check | suspicious movement:0.332 predict:0.17 vel:0.165 air_t:3 tag:vt (+5) | vl:40 ping:113 tps:20.0 lp:9 component: fly.main
+(12:45:04) LethalLuck failed Speed check | suspicious movement (move: 0.33, vet: 0.391, tag: d) (+7) | vl:7 ping:128 tps:20.0 lp:4 component: speed.main
+(12:45:04) LethalLuck failed Fly check | suspicious movement:0.363 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:5 ping:128 tps:20.0 lp:4 component: fly.main
+(12:47:44) LethalLuck failed Interact check | interact block through solid (through: DARK_OAK_PLANKS, block:CHEST) (+1) | vl:1 ping:111 tps:20.0 lp:14 component: interact.through
+(12:58:19) LethalLuck failed Interact check | interact block through solid (through: SAND, block:CHEST) (+1) | vl:1 ping:112 tps:20.0 lp:11 component: interact.through
+(13:02:20) LethalLuck failed Speed check | suspicious movement (move: 0.487, vet: 0.383, tag: d) (+8) | vl:8 ping:113 tps:20.0 lp:3 component: speed.main
+(13:02:20) LethalLuck failed Speed check | suspicious movement (move: 0.482, expect: 0.3665, tag: ea) (+5) | vl:13 ping:113 tps:20.0 lp:3 component: speed.main
+(13:02:20) LethalLuck failed Speed check | suspicious movement (move: 0.49, expect: 0.3665, tag: ea) (+5) | vl:18 ping:113 tps:20.0 lp:3 component: speed.main
+(13:02:20) LethalLuck failed Speed check | suspicious movement (move: 0.49, predict: 0.465, friction: 0.6, ground:false, motY: 0.347, increase:0.026, preMove:0.439, motion: 0.0,0.347,0.49, attribute: 0.13, cm: false, di: false, tag: pred) (+5) | vl:23 ping:113 tps:20.0 lp:3 component: move.xz
+(13:02:20) LethalLuck failed Fly check | suspicious movement:0.347 predict:0.262 air_t:2 tag:sam (+5) | vl:5 ping:113 tps:20.0 lp:3 component: fly.main
+(13:02:20) LethalLuck failed Fly check | suspicious movement:0.347 predict:0.253 vel:0.248 air_t:2 tag:vt (+5) | vl:10 ping:113 tps:20.0 lp:3 component: fly.main
+(13:02:37) LethalLuck failed Interact check | interact block through solid (through: BEDROCK, block:CHEST) (+1) | vl:1 ping:115 tps:20.0 lp:6 component: interact.through
+(13:23:48) LethalLuck failed Chat check | chat too fast | delay: 2260 (+1) | vl:1 ping:113 tps:20.0 lp:8 component: chat.delay
+(13:31:24) LethalLuck failed Speed check | suspicious movement (move: 0.339, vet: 0.397, tag: d) (+8) | vl:8 ping:112 tps:20.0 lp:2 component: speed.main
+(13:38:30) LethalLuck failed Elytra check | (elytra) reserve energy: 0.0 dif: 0.0 motion: 0.0 t: 3 (+2) | vl:2 ping:111 tps:20.0 lp:8 component: ely.re
+(13:58:28) LethalLuck failed Elytra check | (elytra) more energy: 0.001 dif: 0.0 motion: -0.037 ratio: 0.0 (+1) | vl:1 ping:112 tps:20.0 lp:2 component: ely.me
+(13:58:28) LethalLuck failed Elytra check | (elytra) more energy: 0.001 dif: 0.0 motion: -0.037 ratio: 0.0 (+1) | vl:2 ping:112 tps:20.0 lp:2 component: ely.me
+(13:58:28) LethalLuck failed Elytra check | (elytra) more energy: 0.001 dif: 0.0 motion: -0.037 ratio: 0.0 (+1) | vl:3 ping:112 tps:20.0 lp:2 component: ely.me
+(13:58:28) LethalLuck failed Elytra check | (elytra) more energy: 0.001 dif: 0.0 motion: -0.037 ratio: 0.0 (+1) | vl:4 ping:112 tps:20.0 lp:2 component: ely.me
+(13:58:28) LethalLuck failed Elytra check | (elytra) more energy: 0.001 dif: 0.0 motion: -0.037 ratio: 0.0 (+1) | vl:5 ping:112 tps:20.0 lp:2 component: ely.me
+(13:58:28) LethalLuck failed Elytra check | (elytra) more energy: 0.001 dif: 0.0 motion: -0.037 ratio: 0.0 (+1) | vl:6 ping:112 tps:20.0 lp:2 component: ely.me
+(13:58:29) LethalLuck failed Elytra check | (elytra) more energy: 0.001 dif: 0.0 motion: -0.039 ratio: 0.0 (+1) | vl:7 ping:112 tps:20.0 lp:8 component: ely.me
+(13:58:29) LethalLuck failed Elytra check | (elytra) more energy: 0.001 dif: 0.0 motion: -0.039 ratio: 0.0 (+1) | vl:8 ping:112 tps:20.0 lp:8 component: ely.me
+(13:58:30) LethalLuck failed Elytra check | (elytra) more energy: 0.001 dif: 0.0 motion: -0.044 ratio: 0.0 (+1) | vl:9 ping:112 tps:20.0 lp:8 component: ely.me
+(13:58:30) LethalLuck failed Elytra check | (elytra) more energy: 0.001 dif: 0.0 motion: -0.044 ratio: 0.0 (+1) | vl:10 ping:112 tps:20.0 lp:15 component: ely.me
+(13:58:30) Execute command: matrix notify LethalLuck suspected using elytra flight (Elytra)
+(13:58:30) LethalLuck failed Elytra check | (elytra) more energy: 0.001 dif: 0.0 motion: -0.044 ratio: 0.0 (+1) | vl:11 ping:112 tps:20.0 lp:15 component: ely.me
+(14:01:14) LethalLuck failed Fly check | suspicious movement:-0.304 predict:0.152 lm:0.235 hard_pred:0.152 sev_pred:-0.447 air_t:3 fall_t:1 g:-- tag:gn (+5) | vl:5 ping:110 tps:20.0 lp:10 component: fly.main
+(14:06:38) LethalLuck failed Speed check | suspicious movement (move: 0.457, vet: 0.394, tag: d) (+7) | vl:7 ping:121 tps:20.0 lp:3 component: speed.main
+(14:06:38) LethalLuck failed Speed check | suspicious movement (move: 0.443, expect: 0.3665, tag: ea) (+5) | vl:12 ping:121 tps:20.0 lp:3 component: speed.main
+(14:06:38) LethalLuck failed Fly check | suspicious movement:0.368 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:5 ping:121 tps:20.0 lp:3 component: fly.main
+(14:08:46) LethalLuck failed Fly check | suspicious movement:0.366 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:5 ping:114 tps:20.0 lp:2 component: fly.main
+(14:08:46) LethalLuck failed Fly check | suspicious movement:0.339 predict:0.253 vel:0.248 air_t:2 tag:vt (+5) | vl:10 ping:114 tps:20.0 lp:2 component: fly.main
+(14:18:07) Fossiel69 failed Speed check | suspicious movement (move: 0.308, predict: 0.273, friction: 0.6, ground:false, motY: 0.248, increase:0.026, preMove:0.247, motion: 0.276,0.248,0.137, attribute: 0.13, cm: false, di: false, tag: pred) (+5) | vl:5 ping:33 tps:20.0 lp:5 component: move.xz
+(14:19:58) Fossiel69 failed Speed check | suspicious movement (move: 0.318, expect:0.289, t:0, sprint: true, attr: 0.13, tag: a) (+9) | vl:9 ping:123 tps:20.0 lp:3 component: speed.main
+(14:19:58) Fossiel69 failed Speed check | suspicious movement (move: 0.318, predict: 0.286, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.156, motion: 0.298,0.0,-0.109, attribute: 0.13, cm: false, di: false, tag: pred) (+5) | vl:14 ping:123 tps:20.0 lp:3 component: move.xz
+(14:19:58) Fossiel69 failed Speed check | suspicious movement (move: 0.298, expect:0.289, t:0, sprint: true, attr: 0.13, tag: a) (+9) | vl:23 ping:123 tps:20.0 lp:3 component: speed.main
+(14:22:42) Fossiel69 failed Block check | break block too fast (digs: 2/22, block: stone, j: false) (+4) | vl:4 ping:63 tps:20.0 lp:28 component: block.fastbreak.expect
+(14:24:48) Fossiel69 failed HitBox check | missed entity hitbox (entity: skeleton, angle: 80.178, move: true) (+2) | vl:2 ping:45 tps:20.0 lp:5 component: hb.mis
+(14:30:32) Fossiel69 failed Block check | break block without delay (+4) | vl:4 ping:32 tps:20.0 lp:32 component: blk.fb.dly
+(14:33:58) LethalLuck failed Speed check | suspicious movement (move: 0.29, expect:0.289, t:0, sprint: false, attr: 0.1, tag: a) (+9) | vl:9 ping:117 tps:20.0 lp:7 component: speed.main
+(14:37:40) LethalLuck failed Scaffold check | (delay) bridge too fast: 4,6 (+5) | vl:5 ping:116 tps:20.0 lp:10 component: sfd.dly
+(14:38:29) LethalLuck failed Scaffold check | scaffold-like placement | type A (+1) | vl:1 ping:113 tps:20.0 lp:7 component: sfd.place.a
+(15:10:20) LethalLuck failed Interact check | interact block through solid (through: DIRT, block:CHEST) (+1) | vl:1 ping:122 tps:20.0 lp:12 component: interact.through
+(15:11:29) LethalLuck failed Scaffold check | (delay) bridge too fast: 4,5 (+5) | vl:5 ping:117 tps:20.0 lp:18 component: sfd.dly
+(15:11:29) LethalLuck failed Scaffold check | (delay) bridge too fast: 6,5 (+5) | vl:10 ping:117 tps:20.0 lp:18 component: sfd.dly
+(15:11:29) Execute command: matrix notify LethalLuck tried to bridge blocks quickly (Scaffold)
+(15:18:42) LethalLuck failed Scaffold check | (delay) bridge too fast: 5,6 (+5) | vl:5 ping:118 tps:20.0 lp:17 component: sfd.dly
+(15:18:42) LethalLuck failed Scaffold check | (delay) bridge too fast: 4,5 (+5) | vl:10 ping:118 tps:20.0 lp:17 component: sfd.dly
+(15:18:42) Execute command: matrix notify LethalLuck tried to bridge blocks quickly (Scaffold)
+(15:18:43) LethalLuck failed Scaffold check | (delay) bridge too fast: 6,5 (+5) | vl:15 ping:118 tps:20.0 lp:17 component: sfd.dly
+(15:18:43) Execute command: matrix notify LethalLuck tried to bridge blocks quickly (Scaffold) #2
+(15:18:44) LethalLuck failed Scaffold check | (delay) bridge too fast: 5,5 (+5) | vl:20 ping:118 tps:20.0 lp:17 component: sfd.dly
+(15:42:56) LethalLuck failed Interact check | interact block through solid (through: DARK_OAK_PLANKS, block:CHEST) (+1) | vl:1 ping:122 tps:20.0 lp:12 component: interact.through
+(15:46:15) LethalLuck failed Interact check | interact block through solid (through: BEDROCK, block:CHEST) (+1) | vl:1 ping:117 tps:20.0 lp:20 component: interact.through
+(17:59:11) LethalLuck failed Speed check | suspicious movement (move: 3.136, predict: 0.126, friction: 0.6, ground:false, motY: -17.078, increase:0.126, preMove:0.0, motion: 2.886,-17.078,-1.227, attribute: 0.13, cm: false, di: false, tag: pred) (+5) | vl:5 ping:0 tps:20.0 lp:0 component: move.xz
+(18:05:50) LethalLuck failed Elytra check | (elytra) impossible elytra movement (move: -0.005,0.813,-0.018, mot: 0.8126449814500916) (+2) | vl:2 ping:111 tps:20.0 lp:2 component: ely.mvy
+(18:05:50) LethalLuck failed Elytra check | (elytra) impossible elytra movement (move: -0.002,0.777,-0.017, mot: 0.7768137136156952) (+2) | vl:4 ping:111 tps:20.0 lp:2 component: ely.mvy
+(18:05:50) LethalLuck failed Elytra check | (elytra) impossible elytra movement (move: 0.002,0.735,-0.015, mot: 0.7351286191840813) (+2) | vl:6 ping:111 tps:20.0 lp:5 component: ely.mvy
+(18:05:50) LethalLuck failed Elytra check | (elytra) impossible elytra movement (move: 0.001,0.679,-0.013, mot: 0.6788863966508529) (+2) | vl:8 ping:111 tps:20.0 lp:5 component: ely.mvy
+(19:08:14) LethalLuck failed Interact check | interact block through solid (through: BEDROCK, block:CHEST) (+1) | vl:1 ping:108 tps:20.0 lp:26 component: interact.through
+(19:09:18) LethalLuck failed Fly check | suspicious movement:0.333 predict:0.335 vel:-0.374 air_t:12 tag:m4 (+10) | vl:10 ping:111 tps:20.0 lp:16 component: fly.main
+(22:03:37) LethalLuck failed Elytra check | (elytra) impossible elytra movement (move: 0.011,0.658,-0.014, mot: 0.6580796548404351) (+2) | vl:2 ping:117 tps:20.0 lp:3 component: ely.mvy
+(22:03:37) LethalLuck failed Elytra check | (elytra) impossible elytra movement (move: 0.008,0.624,-0.012, mot: 0.6237335644866562) (+2) | vl:4 ping:117 tps:20.0 lp:3 component: ely.mvy
+(22:03:37) LethalLuck failed Elytra check | (elytra) impossible elytra movement (move: 0.006,0.574,-0.011, mot: 0.5742193650356171) (+2) | vl:6 ping:117 tps:20.0 lp:3 component: ely.mvy
+(22:03:37) LethalLuck failed Elytra check | (elytra) impossible elytra movement (move: 0.004,0.512,-0.009, mot: 0.5121966849721389) (+2) | vl:8 ping:117 tps:20.0 lp:3 component: ely.mvy

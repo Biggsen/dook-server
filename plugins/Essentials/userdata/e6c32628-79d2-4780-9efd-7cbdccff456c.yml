@@ -1,0 +1,30 @@
+lastAccountName: Billy_Not_Really
+timestamps:
+  login: 1609001011921
+  lastteleport: 1608815738210
+  logout: 1609002853290
+ipAddress: 195.206.183.102
+lastlocation:
+  world: world
+  x: -14.79882336070575
+  y: 79.0
+  z: 1195.123236636602
+  yaw: 8.718048
+  pitch: 27.388826
+homes:
+  home:
+    world: world
+    x: -199.62825343975715
+    y: 57.0
+    z: -39.30000001192093
+    yaw: 82.52585
+    pitch: 30.29999
+logoutlocation:
+  world: world
+  x: -394.1521857317387
+  y: 53.0
+  z: -1207.9070714134903
+  yaw: 279.05017
+  pitch: 8.400096
+afk: false
+money: '176.70'
