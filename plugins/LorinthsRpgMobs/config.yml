@@ -8,98 +8,98 @@ AutoButcher:
   - world
   - world_nether
   - world_the_end
-LevelHook: RpgItems #Vanilla, RpgItems, Heroes, BattleStats, SkillAPI, MMOCore
-DistanceAlgorithm: Diamond # Circle, Diamond, Square (Recommend Diamond for best results, Circle is pretty intensive)
-AllowAutoUpdates: false #If true this will auto download updates on server start and will take effect on next startup
-ForceRpgMobsEquipment: false # If true this will apply the equipment configured in rpg mobs ignoring vanilla equipment logic
-VanillaMobEquipmentOverrides: true #If true, enchanted vanilla gear will override equipment settings in this file
-IgnoreSpawnerMobs: true #If true, mobs spawned from a mob spawner will not have level or experience changed
-FormulaMethod: Java #Java, Javascript - Basic is more efficient, Javascript allows for more complex formulas
+LevelHook: RpgItems
+DistanceAlgorithm: Diamond
+AllowAutoUpdates: false
+ForceRpgMobsEquipment: false
+VanillaMobEquipmentOverrides: true
+IgnoreSpawnerMobs: true
+FormulaMethod: Java
 ExperienceDisplay:
   Enabled: true
-  ChatMessageType: ACTION_BAR #CHAT, SYSTEM, ACTION_BAR
+  ChatMessageType: ACTION_BAR
   Message: '&aYou gained &e{exp} &aexp!'
 BattleLevels:
   Enabled: false
 DungeonsXL:
   Enabled: false
-  DungeonLevels: # Dungeon ids are stored in all lowercase and underscores _ instead of spaces
+  DungeonLevels:
     dungeon_a: 10-12
 EliteMobs:
   OverrideEnabled: false
   Worlds:
-    world: "{level} + ({level} / 4) + rand({level} /4)"
-    world_nether: "{level} + ({level} / 4) + rand({level} /4)"
-    world_the_end: "{level} + ({level} / 4) + rand({level} /4)"
+    world: '{level} + ({level} / 4) + rand({level} /4)'
+    world_nether: '{level} + ({level} / 4) + rand({level} /4)'
+    world_the_end: '{level} + ({level} / 4) + rand({level} /4)'
 Heroes:
-  Enabled: false # if enabled, will use exp calculations for Heroes
+  Enabled: false
   PartyExperienceFormulas:
-    '2': "1.5 * {exp} / 2" # sets the amount of exp a player gets in a party
-    '3': "1.8 * {exp} / 3"
-    '4': "2.0 * {exp} / 4"
-    '5': "2.2 * {exp} / 5"
-    '6': "2.4 * {exp} / 6"
+    '2': 1.5 * {exp} / 2
+    '3': 1.8 * {exp} / 3
+    '4': 2.0 * {exp} / 4
+    '5': 2.2 * {exp} / 5
+    '6': 2.4 * {exp} / 6
 HealthBar:
   Enabled: true
-  Type: Placeholder # Chat, ActionBar, HealthBar, Placeholder
+  Type: Placeholder
   Format: '{name} &7- &a{current} &7/ &a{max} &e{percent}%'
   PercentBasedFormat:
-    50: '{name}  &e{current} &7/ &a{max}'
-    20: '{name}  &c{current} &7/ &a{max}'
+    '50': '{name}  &e{current} &7/ &a{max}'
+    '20': '{name}  &c{current} &7/ &a{max}'
 JobsReborn:
   Enabled: false
   Options:
-    HookExp: true # Experience dropped by this plugin, will be given to players current job
-    HookMoney: true # Money dropped by this plugin will be given to players current job
-    HookPoints: true # Points will be given calculated on the below formulas
+    HookExp: true
+    HookMoney: true
+    HookPoints: true
     Points:
-      DEFAULT: '3 + {level}/5 + rand(3)'
-      CREEPER: '5 + {level}/3 + rand(5)'
+      DEFAULT: 3 + {level}/5 + rand(3)
+      CREEPER: 5 + {level}/3 + rand(5)
 McMMo:
-  Enabled: false # set to true if you want to use XP drops for combat skills on kill
+  Enabled: false
 MmoCore:
   Enabled: false
   DistanceAlgorithm: Diamond
-  ValidDistance: 50 # distance to killer to obtain exp from party members
+  ValidDistance: 50
   PartyExperienceFormulas:
-    '2': "1.5 * {exp} / 2" # sets the amount of exp a player gets in a party
-    '3': "1.8 * {exp} / 3"
-    '4': "2.0 * {exp} / 4"
-    '5': "2.2 * {exp} / 5"
-    '6': "2.4 * {exp} / 6"
+    '2': 1.5 * {exp} / 2
+    '3': 1.8 * {exp} / 3
+    '4': 2.0 * {exp} / 4
+    '5': 2.2 * {exp} / 5
+    '6': 2.4 * {exp} / 6
 MythicDrops:
   Enabled: false
 MythicMobs:
   Enabled: false
   IgnoredWorlds:
-    - world_the_end
+  - world_the_end
 SkillAPI:
-  Enabled: false # if enabled, will use exp calculations for SkillAPI
+  Enabled: false
 SkillsPro:
-  Enabled: false # if enabled, will use exp calculations for SkillsPro
+  Enabled: false
 Vault:
-  Enabled: false # if enabled, will drop money using CurrencyValue / CurrencyChance
+  Enabled: false
 TardisWeepingAngels:
   Enabled: true
 GriefPrevention:
   Enabled: true
   DisableSpawnsInAllClaims: false
-ExperiencePermissions: # Give permissions with, lrm.experience.<name> e.g. lrm.experience.vip
-  default: 1.0 # multiplier of dropped/gained experience
-  vip: 1.5 # 1.5x exp dropped
+ExperiencePermissions:
+  default: 1.0
+  vip: 1.5
 Names:
-  TagsAlwaysOn: false # Do you want creature name tags to always show?
-  Format: '[Lvl.{level}] {Variant} {name}' # Global name format, takes {level}, {Variant} or {variant}, {name}
+  TagsAlwaysOn: false
+  Format: '[Lvl.{level}] {Variant} {name}'
 SpawnPoints:
-  world: # Name of the world spawnpoints are in
-    mainTown: # name of spawnpoint
-      Disabled: false # if the spawnpoint is disabled
-      Level: 1 # starting level
-      Distance: 50 # Interval to level up
-      MaxLevel: -1 # -1 is disabled, but what level do mobs cap at for this spawn point?
-      CenterBuffer: 50 # distance delay for creatures to not level up from the center
-      Variance: 0 # level offset to add some randomization to levels (This is Additive)
-      Location: # The actual center point distance is calculated from
+  world:
+    mainTown:
+      Disabled: false
+      Level: 1
+      Distance: 50
+      MaxLevel: -1
+      CenterBuffer: 50
+      Variance: 0
+      Location:
         X: 0
         Z: 0
     otherTown:
@@ -113,26 +113,25 @@ SpawnPoints:
         X: 10000
         Z: -5000
 LevelRegions:
-  world: # Name of the world the level regions are in
-    undeadkeep: # name of the level region
-      Level: 40 # level of all mobs in the region
-      Names: # custom names for entities
-        ZOMBIE: '&5Undead Warrior' # All zombies will have their name purple and be called 'Undead Warrior', accepts {level} tag
+  world:
+    undeadkeep:
+      Level: 40
+      Names:
+        ZOMBIE: '&5Undead Warrior'
       Bosses:
         ZOMBIE:
-         CrystalMiner: 10.0
+          CrystalMiner: 10.0
       Disabled: false
       DisabledEntities:
-      # Use "- '*' " to disable all entities
       - PIG
 MobVariants:
-  Disabled: true # Disable random variants?
-  VariantChance: 40 # Chance (out of 100) for a mob to be variant
-  DisabledTypes: #Disable variants for entire entity types
+  Disabled: true
+  VariantChance: 40
+  DisabledTypes:
   - CREEPER
   VariantWeightsPerLevel:
     Enabled: false
-    1:
+    '1':
       AcidBomb: 10
       Blinding: 10
       Burning: 10
@@ -152,7 +151,7 @@ MobVariants:
       Tough: 10
       Wealthy: 10
   AcidBomb:
-    DisplayName: 'Acid Bomber'
+    DisplayName: Acid Bomber
     Disabled: false
     DisabledTypes: []
     Weight: 10
@@ -168,16 +167,16 @@ MobVariants:
       Particle: REDSTONE
       Color: OLIVE
   Blinding:
-    DisplayName: 'Blinding'
-    Disabled: false # Disable specific variants
-    DisabledTypes: [] # Disable specific entity types for a variant
-    Weight: 10 # The chance this variant is selected
-    Blinding: # Effect details
-      Duration: 60 # Blinding duration in ticks (1 second = 20 ticks)
-      Level: 2 # potion effect level
-      Chance: 100.0 # chance to blind on hit
+    DisplayName: Blinding
+    Disabled: false
+    DisabledTypes: []
+    Weight: 10
+    Blinding:
+      Duration: 60
+      Level: 2
+      Chance: 100.0
   Burning:
-    DisplayName: 'Burning'
+    DisplayName: Burning
     Disabled: false
     DisabledTypes: []
     Weight: 10
@@ -185,23 +184,23 @@ MobVariants:
       Ticks: 20
       Chance: 20.0
   Confetti:
-    DisplayName: 'Confetti'
+    DisplayName: Confetti
     Disabled: false
     DisabledTypes: []
     Weight: 10
     Colors:
-      - RED
-      - GREEN
-      - BLUE
+    - RED
+    - GREEN
+    - BLUE
     FadeColors:
-      - YELLOW
-      - PURPLE
-      - FUCHSIA
+    - YELLOW
+    - PURPLE
+    - FUCHSIA
     HasTrail: true
     Power: 0
     Type: BURST
   Explosive:
-    DisplayName: 'Explosive'
+    DisplayName: Explosive
     Disabled: false
     DisabledTypes: []
     Weight: 10
@@ -209,67 +208,67 @@ MobVariants:
     IgniteBlocks: false
     Power: 4.0
   Fast:
-    DisplayName: 'Fast'
+    DisplayName: Fast
     Disabled: false
     DisabledTypes: []
     Weight: 10
     SpeedMultiplier: 1.5
   Forceful:
-    DisplayName: 'Forceful'
+    DisplayName: Forceful
     Disabled: false
     DisabledTypes: []
     Weight: 10
     ForceMultiplier: 2.0
   Glowing:
-    DisplayName: 'Glowing'
+    DisplayName: Glowing
     Disabled: false
     DisabledTypes: []
     Weight: 10
   Healing:
-    DisplayName: 'Healing'
+    DisplayName: Healing
     Disabled: false
     DisabledTypes: []
     Weight: 10
     HealFor: 2.0
     ShowHeal: true
   Invisible:
-    DisplayName: 'Invisible'
+    DisplayName: Invisible
     Disabled: false
     DisabledTypes: []
     Weight: 10
   Joker:
-    DisplayName: 'Joker'
+    DisplayName: Joker
     Disabled: true
     DisabledTypes: []
     Weight: 10
-    HARDCORE: false # Extreme penalties for extreme chaos
+    HARDCORE: false
     Particles:
-      Enabled: true # if true Joker will spawn particles and random locations
-      Particle: 'FLAME'
-      ParticlesCount: 40 # how many particles will spawn (this controls the duration of spawning: every 20 = 1 sec)
-      MaxDistanceFromSource: 2.0 # determines the maximum distance from source for particle to spawn
-    ChangeHealth: # When killed joker will change killer health to random value form 1.0 (0.0 if HARDCORE) to maximum killer health (it can harm, it can heal)
+      Enabled: true
+      Particle: FLAME
+      ParticlesCount: 40
+      MaxDistanceFromSource: 2.0
+    ChangeHealth:
       Chance: 100.0
-    Disarm: # When killed joker will disarm your weapon in main hand
+    Disarm:
       Chance: 100.0
-      Range: 5.0 # Max distance from player that item could be dropped
-    Teleport: # When killed will teleport player to near but random (X and Z - random, Y - fixed) location (disabled without HARDCORE: true)
+      Range: 5.0
+    Teleport:
       Chance: 100.0
-      Distance: 20.0 # Max distance from player location before joker death that player can be teleported.
-    Surprise: # When killed Joker will left player a very much explosive surprise. Enabling this scenario and disarm could permanently destroy player weapon.
+      Distance: 20.0
+    Surprise:
       Chance: 100.0
-      Ticks: 20 # Ticks until explode
-    Disguise: # Joker would disguise (display name) as one of online players in world
+      Ticks: 20
+    Disguise:
       Enabled: false
       Chance: 100.0
-      DeathMessage: '{player} was slain by {joker}' # {player} - player display name. {joker} - display name of player that joker is disguised
+      DeathMessage: '{player} was slain by {joker}'
   Magma:
-    DisplayName: 'Magma'
+    DisplayName: Magma
     Disabled: true
     DisabledTypes: []
     Weight: 10
   Poisonous:
-    DisplayName: 'Poisonous'
+    DisplayName: Poisonous
     Disabled: false
     DisabledTypes: []
     Weight: 10
@@ -278,33 +277,33 @@ MobVariants:
       Level: 0
       Chance: 20.0
   Slow:
-    DisplayName: 'Slow'
+    DisplayName: Slow
     Disabled: false
     DisabledTypes: []
     Weight: 10
     SpeedMultiplier: 0.5
   Strong:
-    DisplayName: 'Strong'
+    DisplayName: Strong
     Disabled: false
     DisabledTypes: []
     Weight: 10
     Damage: 2
     DamageMultiplier: 1.0
   Sturdy:
-    DisplayName: 'Sturdy'
+    DisplayName: Sturdy
     Disabled: false
     DisabledTypes: []
     Weight: 10
     KnockbackResistance: 1.0
   Tough:
-    DisplayName: 'Tough'
+    DisplayName: Tough
     Disabled: false
     DisabledTypes: []
     Weight: 10
     Armor: 2
     ArmorMultiplier: 1.0
   Wealthy:
-    DisplayName: 'Wealthy'
+    DisplayName: Wealthy
     Disabled: false
     DisabledTypes: []
     Weight: 5
@@ -315,19 +314,19 @@ Entity:
   Misc:
     Disabled: true
   Monster:
-    Disabled: false # Can disabled full groups
+    Disabled: false
     ZOMBIE:
-      Disabled: false # Can disabled certain entities
-      AllowDespawn: true # Entity will despawn naturally if set to true
-      Formulas: # Formulas used to calculate different attributes. {level} allows for level based calculation
+      Disabled: false
+      AllowDespawn: true
+      Formulas:
         Damage: rand(3) + ({level} / 10)
         Health: 20 + ({level} / 3) + ({level} / 5) + rand(5)
         Experience: rand(3) + 1
         CurrencyChance: 10.0 + ({level} / 5)
         CurrencyValue: 5.0 + ({level} / 3) + rand(3)
-      Equipment: # Equipment given when entity is spawned
+      Equipment:
         Weapon:
-          '1': SALMON 10% drop:15%, WOODEN_SWORD 10%, WOODEN_AXE 10% # MATERIAL equip% drop:drop%, etc
+          '1': SALMON 10% drop:15%, WOODEN_SWORD 10%, WOODEN_AXE 10%
           '12': STONE_SWORD 25%, STONE_AXE 20%
           '20': IRON_SWORD 30% sharpness:1, IRON_AXE 25%
           '30': GOLDEN_SWORD 35%, GOLDEN_AXE 30%
@@ -336,29 +335,29 @@ Entity:
           '20': SHIELD 10%
           '40': SHIELD 15%
         Helmet:
-          10: LEATHER_HELMET #If no equip% is provided it defaults to 100%
-          20: CHAINMAIL_HELMET #If no drop% is provided it defaults to 0%
+          '10': LEATHER_HELMET
+          '20': CHAINMAIL_HELMET
         Chestplate:
-          12: LEATHER_CHESTPLATE
-          22: CHAINMAIL_CHESTPLATE
+          '12': LEATHER_CHESTPLATE
+          '22': CHAINMAIL_CHESTPLATE
         Leggings:
-          14: LEATHER_LEGGINGS
-          24: CHAINMAIL_LEGGINGS
+          '14': LEATHER_LEGGINGS
+          '24': CHAINMAIL_LEGGINGS
         Boots:
-          12: LEATHER_BOOTS
-          22: CHAINMAIL_BOOTS
+          '12': LEATHER_BOOTS
+          '22': CHAINMAIL_BOOTS
       Bosses:
-        1:
+        '1':
           CrystalMiner: 10.0
       Mounts:
-        1:
+        '1':
           HORSE: 0.1
       MythicDrops:
-        1: common 50%, uncommon 15%
-        10: common 40%, uncommon 25%
-        20: common 30%, uncommon 35%
-        50: legendary 1%
-      Names: # Names given to the entity at certain milestones
+        '1': common 50%, uncommon 15%
+        '10': common 40%, uncommon 25%
+        '20': common 30%, uncommon 35%
+        '50': legendary 1%
+      Names:
         '1':
           Name: Weak Zombie
         '20':
