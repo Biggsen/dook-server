@@ -23,7 +23,7 @@
 #
 ##########
 
-Enabled: true
+Enabled: false
 ReplaceVanillaDrops: false
 Items:
   smellyFlesh:
