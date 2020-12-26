@@ -8,7 +8,7 @@ AutoButcher:
   - world
   - world_nether
   - world_the_end
-LevelHook: RpgItems
+LevelHook: Vanilla
 DistanceAlgorithm: Diamond
 AllowAutoUpdates: false
 ForceRpgMobsEquipment: false
@@ -17,8 +17,8 @@ IgnoreSpawnerMobs: true
 FormulaMethod: Java
 ExperienceDisplay:
   Enabled: true
-  ChatMessageType: ACTION_BAR
-  Message: '&aYou gained &e{exp} &aexp!'
+  ChatMessageType: SYSTEM
+  Message: '&aYou gained &e{exp} &aXP!'
 BattleLevels:
   Enabled: false
 DungeonsXL:
@@ -41,13 +41,15 @@ Heroes:
     '6': 2.4 * {exp} / 6
 HealthBar:
   Enabled: true
-  Type: Placeholder
-  Format: '{name} &7- &a{current} &7/ &a{max} &e{percent}%'
+  Type: ActionBar
+  Format: '{name} &2&l{percent}% &7({current}/{max})'
   PercentBasedFormat:
-    '50': '{name}  &e{current} &7/ &a{max}'
-    '20': '{name}  &c{current} &7/ &a{max}'
+    '75': '{name} &e&l{percent}% &7({current}/{max})'
+    '50': '{name} &6&l{percent}% &7({current}/{max})'
+    '25': '{name} &c&l{percent}% &7({current}/{max})'
+    '10': '{name} &4&l{percent}% &7({current}/{max})'
 JobsReborn:
-  Enabled: false
+  Enabled: true
   Options:
     HookExp: true
     HookMoney: true
@@ -56,7 +58,7 @@ JobsReborn:
       DEFAULT: 3 + {level}/5 + rand(3)
       CREEPER: 5 + {level}/3 + rand(5)
 McMMo:
-  Enabled: false
+  Enabled: true
 MmoCore:
   Enabled: false
   DistanceAlgorithm: Diamond
@@ -78,7 +80,7 @@ SkillAPI:
 SkillsPro:
   Enabled: false
 Vault:
-  Enabled: false
+  Enabled: true
 TardisWeepingAngels:
   Enabled: true
 GriefPrevention:
@@ -89,29 +91,20 @@ ExperiencePermissions:
   vip: 1.5
 Names:
   TagsAlwaysOn: false
-  Format: '[Lvl.{level}] {Variant} {name}'
+  Format: '[L{level}] {Variant} {name}'
 SpawnPoints:
   world:
-    mainTown:
+    spawn:
       Disabled: false
       Level: 1
-      Distance: 50
-      MaxLevel: -1
-      CenterBuffer: 50
-      Variance: 0
-      Location:
-        X: 0
-        Z: 0
-    otherTown:
-      Disabled: true
-      Level: 20
-      Distance: 100
       MaxLevel: 50
-      CenterBuffer: 0
-      Variance: 0
+      Distance: 300
+      CenterBuffer: 200
+      Variance: 8
+      MaxDistance: -1
       Location:
-        X: 10000
-        Z: -5000
+        X: -253
+        Z: 92
 LevelRegions:
   world:
     undeadkeep:
@@ -125,7 +118,7 @@ LevelRegions:
       DisabledEntities:
       - PIG
 MobVariants:
-  Disabled: true
+  Disabled: false
   VariantChance: 40
   DisabledTypes:
   - CREEPER
@@ -311,8 +304,188 @@ MobVariants:
 Entity:
   Animal:
     Disabled: true
+    POLAR_BEAR:
+      Disabled: false
+      AllowDespawn: false
+      DisabledWorlds: []
+      Formulas:
+        Health: 30 + ({level} / 3) + ({level} / 5) + rand(5)
+        Damage: 6 + rand(3) + ({level} / 12)
+        Experience: rand(5) + 1 + rand({level} / 5)
+        CurrencyChance: 5.0 + ({level} / 5)
+        CurrencyValue: 3.0 + ({level} / 3) + rand(3)
+      Names:
+        '1':
+          Name: Polar Bear
+        '40':
+          Name: Epic Polar Bear
+    CHICKEN:
+      Disabled: false
+      AllowDespawn: false
+      DisabledWorlds: []
+      Formulas:
+        Health: 4 + ({level} / 3) + ({level} / 5) + rand(5)
+        Damage: 2 + rand(3) + ({level} / 12)
+        Experience: rand(5) + 1 + rand({level} / 5)
+        CurrencyChance: 5.0 + ({level} / 5)
+        CurrencyValue: 3.0 + ({level} / 3) + rand(3)
+      Names:
+        '1':
+          Name: Chicken
+        '40':
+          Name: Epic Chicken
+    WOLF:
+      Disabled: false
+      AllowDespawn: false
+      DisabledWorlds: []
+      Formulas:
+        Health: 8 + ({level} / 3) + ({level} / 5) + rand(5)
+        Damage: 4 + rand(3) + ({level} / 12)
+        Experience: rand(5) + 1 + rand({level} / 5)
+        CurrencyChance: 5.0 + ({level} / 5)
+        CurrencyValue: 3.0 + ({level} / 3) + rand(3)
+      Names:
+        '1':
+          Name: Wolf
+        '40':
+          Name: Epic Wolf
+    COW:
+      Disabled: false
+      AllowDespawn: false
+      DisabledWorlds: []
+      Formulas:
+        Health: 10 + ({level} / 3) + ({level} / 5) + rand(5)
+        Damage: 2 + rand(3) + ({level} / 12)
+        Experience: rand(5) + 1 + rand({level} / 5)
+        CurrencyChance: 5.0 + ({level} / 5)
+        CurrencyValue: 3.0 + ({level} / 3) + rand(3)
+      Names:
+        '1':
+          Name: Cow
+        '40':
+          Name: Epic Cow
+    TROPICAL_FISH:
+      Disabled: false
+      AllowDespawn: false
+      DisabledWorlds: []
+      Formulas:
+        Health: 3 + ({level} / 3) + ({level} / 5) + rand(5)
+        Damage: 2 + rand(3) + ({level} / 12)
+        Experience: rand(5) + 1 + rand({level} / 5)
+        CurrencyChance: 5.0 + ({level} / 5)
+        CurrencyValue: 3.0 + ({level} / 3) + rand(3)
+      Names:
+        '1':
+          Name: Tropical Fish
+        '40':
+          Name: Epic Tropical Fish
+    VILLAGER:
+      Disabled: false
+      AllowDespawn: false
+      DisabledWorlds: []
+      Formulas:
+        Health: 20 + ({level} / 3) + ({level} / 5) + rand(5)
+        Damage: 2 + rand(3) + ({level} / 12)
+        Experience: rand(5) + 1 + rand({level} / 5)
+        CurrencyChance: 5.0 + ({level} / 5)
+        CurrencyValue: 3.0 + ({level} / 3) + rand(3)
+      Names:
+        '1':
+          Name: Villager
+        '40':
+          Name: Epic Villager
+    PUFFERFISH:
+      Disabled: false
+      AllowDespawn: false
+      DisabledWorlds: []
+      Formulas:
+        Health: 3 + ({level} / 3) + ({level} / 5) + rand(5)
+        Damage: 2 + rand(3) + ({level} / 12)
+        Experience: rand(5) + 1 + rand({level} / 5)
+        CurrencyChance: 5.0 + ({level} / 5)
+        CurrencyValue: 3.0 + ({level} / 3) + rand(3)
+      Names:
+        '1':
+          Name: Pufferfish
+        '40':
+          Name: Epic Pufferfish
+    SQUID:
+      Disabled: false
+      AllowDespawn: false
+      DisabledWorlds: []
+      Formulas:
+        Health: 10 + ({level} / 3) + ({level} / 5) + rand(5)
+        Damage: 2 + rand(3) + ({level} / 12)
+        Experience: rand(5) + 1 + rand({level} / 5)
+        CurrencyChance: 5.0 + ({level} / 5)
+        CurrencyValue: 3.0 + ({level} / 3) + rand(3)
+      Names:
+        '1':
+          Name: Squid
+        '40':
+          Name: Epic Squid
+    SALMON:
+      Disabled: false
+      AllowDespawn: false
+      DisabledWorlds: []
+      Formulas:
+        Health: 3 + ({level} / 3) + ({level} / 5) + rand(5)
+        Damage: 2 + rand(3) + ({level} / 12)
+        Experience: rand(5) + 1 + rand({level} / 5)
+        CurrencyChance: 5.0 + ({level} / 5)
+        CurrencyValue: 3.0 + ({level} / 3) + rand(3)
+      Names:
+        '1':
+          Name: Salmon
+        '40':
+          Name: Epic Salmon
+    SHEEP:
+      Disabled: false
+      AllowDespawn: false
+      DisabledWorlds: []
+      Formulas:
+        Health: 8 + ({level} / 3) + ({level} / 5) + rand(5)
+        Damage: 2 + rand(3) + ({level} / 12)
+        Experience: rand(5) + 1 + rand({level} / 5)
+        CurrencyChance: 5.0 + ({level} / 5)
+        CurrencyValue: 3.0 + ({level} / 3) + rand(3)
+      Names:
+        '1':
+          Name: Sheep
+        '40':
+          Name: Epic Sheep
+    PIG:
+      Disabled: false
+      AllowDespawn: false
+      DisabledWorlds: []
+      Formulas:
+        Health: 10 + ({level} / 3) + ({level} / 5) + rand(5)
+        Damage: 2 + rand(3) + ({level} / 12)
+        Experience: rand(5) + 1 + rand({level} / 5)
+        CurrencyChance: 5.0 + ({level} / 5)
+        CurrencyValue: 3.0 + ({level} / 3) + rand(3)
+      Names:
+        '1':
+          Name: Pig
+        '40':
+          Name: Epic Pig
   Misc:
     Disabled: true
+    BAT:
+      Disabled: false
+      AllowDespawn: false
+      DisabledWorlds: []
+      Formulas:
+        Health: 6 + ({level} / 3) + ({level} / 5) + rand(5)
+        Damage: 2 + rand(3) + ({level} / 12)
+        Experience: rand(5) + 1 + rand({level} / 5)
+        CurrencyChance: 5.0 + ({level} / 5)
+        CurrencyValue: 3.0 + ({level} / 3) + rand(3)
+      Names:
+        '1':
+          Name: Bat
+        '40':
+          Name: Epic Bat
   Monster:
     Disabled: false
     ZOMBIE:
@@ -359,8 +532,141 @@ Entity:
         '50': legendary 1%
       Names:
         '1':
-          Name: Weak Zombie
-        '20':
           Name: Zombie
         '40':
-          Name: Strong Zombie
+          Name: Epic Zombie
+    STRAY:
+      Disabled: false
+      AllowDespawn: true
+      DisabledWorlds: []
+      Formulas:
+        Health: 20 + ({level} / 3) + ({level} / 5) + rand(5)
+        Damage: 2 + rand(3) + ({level} / 12)
+        Experience: rand(5) + 1 + rand({level} / 5)
+        CurrencyChance: 5.0 + ({level} / 5)
+        CurrencyValue: 3.0 + ({level} / 3) + rand(3)
+      Names:
+        '1':
+          Name: Stray
+        '40':
+          Name: Epic Stray
+    ENDERMAN:
+      Disabled: false
+      AllowDespawn: true
+      DisabledWorlds: []
+      Formulas:
+        Health: 40 + ({level} / 3) + ({level} / 5) + rand(5)
+        Damage: 7 + rand(3) + ({level} / 12)
+        Experience: rand(5) + 1 + rand({level} / 5)
+        CurrencyChance: 5.0 + ({level} / 5)
+        CurrencyValue: 3.0 + ({level} / 3) + rand(3)
+      Names:
+        '1':
+          Name: Enderman
+        '40':
+          Name: Epic Enderman
+    CREEPER:
+      Disabled: false
+      AllowDespawn: true
+      DisabledWorlds: []
+      Formulas:
+        Health: 20 + ({level} / 3) + ({level} / 5) + rand(5)
+        Damage: 2 + rand(3) + ({level} / 12)
+        Experience: rand(5) + 1 + rand({level} / 5)
+        CurrencyChance: 5.0 + ({level} / 5)
+        CurrencyValue: 3.0 + ({level} / 3) + rand(3)
+      Names:
+        '1':
+          Name: Creeper
+        '40':
+          Name: Epic Creeper
+    SPIDER:
+      Disabled: false
+      AllowDespawn: true
+      DisabledWorlds: []
+      Formulas:
+        Health: 16 + ({level} / 3) + ({level} / 5) + rand(5)
+        Damage: 2 + rand(3) + ({level} / 12)
+        Experience: rand(5) + 1 + rand({level} / 5)
+        CurrencyChance: 5.0 + ({level} / 5)
+        CurrencyValue: 3.0 + ({level} / 3) + rand(3)
+      Names:
+        '1':
+          Name: Spider
+        '40':
+          Name: Epic Spider
+    SKELETON:
+      Disabled: false
+      AllowDespawn: true
+      DisabledWorlds: []
+      Formulas:
+        Health: 20 + ({level} / 3) + ({level} / 5) + rand(5)
+        Damage: 2 + rand(3) + ({level} / 12)
+        Experience: rand(5) + 1 + rand({level} / 5)
+        CurrencyChance: 5.0 + ({level} / 5)
+        CurrencyValue: 3.0 + ({level} / 3) + rand(3)
+      Names:
+        '1':
+          Name: Skeleton
+        '40':
+          Name: Epic Skeleton
+    ZOMBIE_VILLAGER:
+      Disabled: false
+      AllowDespawn: true
+      DisabledWorlds: []
+      Formulas:
+        Health: 20 + ({level} / 3) + ({level} / 5) + rand(5)
+        Damage: 3 + rand(3) + ({level} / 12)
+        Experience: rand(5) + 1 + rand({level} / 5)
+        CurrencyChance: 5.0 + ({level} / 5)
+        CurrencyValue: 3.0 + ({level} / 3) + rand(3)
+      Names:
+        '1':
+          Name: Zombie Villager
+        '40':
+          Name: Epic Zombie Villager
+    WITCH:
+      Disabled: false
+      AllowDespawn: true
+      DisabledWorlds: []
+      Formulas:
+        Health: 26 + ({level} / 3) + ({level} / 5) + rand(5)
+        Damage: 2 + rand(3) + ({level} / 12)
+        Experience: rand(5) + 1 + rand({level} / 5)
+        CurrencyChance: 5.0 + ({level} / 5)
+        CurrencyValue: 3.0 + ({level} / 3) + rand(3)
+      Names:
+        '1':
+          Name: Witch
+        '40':
+          Name: Epic Witch
+    DROWNED:
+      Disabled: false
+      AllowDespawn: true
+      DisabledWorlds: []
+      Formulas:
+        Health: 20 + ({level} / 3) + ({level} / 5) + rand(5)
+        Damage: 3 + rand(3) + ({level} / 12)
+        Experience: rand(5) + 1 + rand({level} / 5)
+        CurrencyChance: 5.0 + ({level} / 5)
+        CurrencyValue: 3.0 + ({level} / 3) + rand(3)
+      Names:
+        '1':
+          Name: Drowned
+        '40':
+          Name: Epic Drowned
+    PILLAGER:
+      Disabled: false
+      AllowDespawn: true
+      DisabledWorlds: []
+      Formulas:
+        Health: 24 + ({level} / 3) + ({level} / 5) + rand(5)
+        Damage: 5 + rand(3) + ({level} / 12)
+        Experience: rand(5) + 1 + rand({level} / 5)
+        CurrencyChance: 5.0 + ({level} / 5)
+        CurrencyValue: 3.0 + ({level} / 3) + rand(3)
+      Names:
+        '1':
+          Name: Pillager
+        '40':
+          Name: Epic Pillager
