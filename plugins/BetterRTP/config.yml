@@ -81,6 +81,6 @@ PermissionGroup:
   Groups:
   - default:
     - world:
-        MaxRadius: 2000
+        MaxRadius: 1000
         MinRadius: 100
-        Price: 100
+        Price: 250

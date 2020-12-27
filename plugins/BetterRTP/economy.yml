@@ -1,5 +1,5 @@
 Economy:
-  Enabled: false
+  Enabled: true
   Price: 5
 Hunger:
   Enabled: false
