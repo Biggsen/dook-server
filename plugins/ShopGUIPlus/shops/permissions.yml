@@ -610,58 +610,30 @@ permissions:
     # weapons and tools
     700:
       type: permission
-      permission: "shopguiplus.item.weapons_tools.wooden_sword"
+      permissions:
+        - "shopguiplus.item.weapons_tools.wooden_sword"
+        - "shopguiplus.item.weapons_tools.wooden_axe"
       item:
         material: WOODEN_SWORD
         quantity: 1
-        name: "Buy and sell wooden swords in the weapons and tools shop"
+        name: "Buy and sell wooden swords and axes in the weapons and tools shop"
       buyPrice: 1000
       sellPrice: -1
       slot: 0
       page: 7
-    701:
-      type: permission
-      permission: "shopguiplus.item.weapons_tools.wooden_axe"
-      item:
-        material: WOODEN_AXE
-        quantity: 1
-        name: "Buy and sell wooden axes in the weapons and tools shop"
-      buyPrice: 1000
-      sellPrice: -1
-      slot: 1
-      page: 7
     702:
       type: permission
-      permission: "shopguiplus.item.weapons_tools.wooden_pickaxe"
+      permissions:
+        - "shopguiplus.item.weapons_tools.wooden_pickaxe"
+        - "shopguiplus.item.weapons_tools.wooden_shovel"
+        - "shopguiplus.item.weapons_tools.wooden_hoe"
       item:
         material: WOODEN_PICKAXE
         quantity: 1
-        name: "Buy and sell wooden pickaxes in the weapons and tools shop"
+        name: "Buy and sell wooden pickaxes, shovels and hoes in the weapons and tools shop"
       buyPrice: 1000
       sellPrice: -1
-      slot: 2
-      page: 7
-    703:
-      type: permission
-      permission: "shopguiplus.item.weapons_tools.wooden_shovel"
-      item:
-        material: WOODEN_SHOVEL
-        quantity: 1
-        name: "Buy and sell wooden shovels in the weapons and tools shop"
-      buyPrice: 1000
-      sellPrice: -1
-      slot: 3
-      page: 7
-    704:
-      type: permission
-      permission: "shopguiplus.item.weapons_tools.wooden_hoe"
-      item:
-        material: WOODEN_HOE
-        quantity: 1
-        name: "Buy and sell wooden hoes in the weapons and tools shop"
-      buyPrice: 1000
-      sellPrice: -1
-      slot: 4
+      slot: 1
       page: 7
     705:
       type: permission
@@ -672,7 +644,7 @@ permissions:
         name: "Buy and sell bows in the weapons and tools shop"
       buyPrice: 1000
       sellPrice: -1
-      slot: 5
+      slot: 2
       page: 7
     706:
       type: permission
@@ -683,7 +655,63 @@ permissions:
         name: "Buy and sell fishing rods in the weapons and tools shop"
       buyPrice: 1000
       sellPrice: -1
-      slot: 6
+      slot: 3
+      page: 7
+    7010:
+      type: permission
+      permissions:
+        - "shopguiplus.item.weapons_tools.golden_sword_buy"
+        - "shopguiplus.item.weapons_tools.golden_axe_buy"
+      item:
+        material: GOLDEN_SWORD
+        quantity: 1
+        name: "Buy golden swords and axes in the weapons and tools shop"
+      buyPrice: 1000
+      sellPrice: -1
+      slot: 9
+      page: 7
+    7011:
+      type: command
+      item:
+        material: GOLDEN_SWORD
+        quantity: 1
+        name: "Sell golden swords and axes in the weapons and tools shop"
+        lore:
+          - "This permission will expire in 2 days"
+      commands:
+        - "lp user %PLAYER% permission settemp shopguiplus.item.weapons_tools.golden_sword_sell true 2d"
+        - "lp user %PLAYER% permission settemp shopguiplus.item.weapons_tools.golden_axe_sell true 2d"
+      buyPrice: 1000
+      slot: 18
+      page: 7
+    7020:
+      type: permission
+      permissions:
+        - "shopguiplus.item.weapons_tools.golden_pickaxe_buy"
+        - "shopguiplus.item.weapons_tools.golden_shovel_buy"
+        - "shopguiplus.item.weapons_tools.golden_hoe_buy"
+      item:
+        material: GOLDEN_PICKAXE
+        quantity: 1
+        name: "Buy golden pickaxes, shovels and hoes in the weapons and tools shop"
+      buyPrice: 1000
+      sellPrice: -1
+      slot: 10
+      page: 7
+    7021:
+      type: command
+      item:
+        material: GOLDEN_PICKAXE
+        quantity: 1
+        name: "Sell golden pickaxes, shovels and hoes in the weapons and tools shop"
+        lore:
+          - "This permission will expire in 2 days"
+      commands:
+        - "lp user %PLAYER% permission settemp shopguiplus.item.weapons_tools.golden_pickaxe_sell true 2d"
+        - "lp user %PLAYER% permission settemp shopguiplus.item.weapons_tools.golden_shovel_sell true 2d"
+        - "lp user %PLAYER% permission settemp shopguiplus.item.weapons_tools.golden_hoe_sell true 2d"
+      buyPrice: 1000
+      slot: 19
       page: 7
     money7:
       type: special

@@ -1,13 +1,13 @@
 weapons_tools:
   name: "&8&lWeapons and tools (page %page%)"
-  size: 45
+  size: 54
   enablePerItemPermissions: true
   fillItem:
     material: BLACK_STAINED_GLASS_PANE
     name: " "
   buttons:
     goBack:
-      slot: 40
+      slot: 49
   items:
     wooden_sword:
       type: item
@@ -65,6 +65,86 @@ weapons_tools:
       buyPrice: 25
       sellPrice: 8
       slot: 6
+    golden_sword_buy:
+      type: item
+      item:
+        material: GOLDEN_SWORD
+        quantity: 1
+      buyPrice: 505
+      sellPrice: -1
+      slot: 9
+    golden_sword_sell:
+      type: item
+      item:
+        material: GOLDEN_SWORD
+        quantity: 1
+      buyPrice: -1
+      sellPrice: 152
+      slot: 18
+    golden_axe_buy:
+      type: item
+      item:
+        material: GOLDEN_AXE
+        quantity: 1
+      buyPrice: 760
+      sellPrice: -1
+      slot: 10
+    golden_axe_sell:
+      type: item
+      item:
+        material: GOLDEN_AXE
+        quantity: 1
+      buyPrice: -1
+      sellPrice: 228
+      slot: 19
+    golden_pickaxe_buy:
+      type: item
+      item:
+        material: GOLDEN_PICKAXE
+        quantity: 1
+      buyPrice: 760
+      sellPrice: -1
+      slot: 11
+    golden_pickaxe_sell:
+      type: item
+      item:
+        material: GOLDEN_PICKAXE
+        quantity: 1
+      buyPrice: -1
+      sellPrice: 228
+      slot: 20
+    golden_shovel_buy:
+      type: item
+      item:
+        material: GOLDEN_SHOVEL
+        quantity: 1
+      buyPrice: 260
+      sellPrice: -1
+      slot: 12
+    golden_shovel_sell:
+      type: item
+      item:
+        material: GOLDEN_SHOVEL
+        quantity: 1
+      buyPrice: -1
+      sellPrice: 78
+      slot: 21
+    golden_hoe_buy:
+      type: item
+      item:
+        material: GOLDEN_HOE
+        quantity: 1
+      buyPrice: 510
+      sellPrice: -1
+      slot: 13
+    golden_hoe_sell:
+      type: item
+      item:
+        material: GOLDEN_HOE
+        quantity: 1
+      buyPrice: -1
+      sellPrice: 153
+      slot: 22
   #   2:
   #     type: item
   #     item:
@@ -81,14 +161,6 @@ weapons_tools:
   #     buyPrice: 1000
   #     sellPrice: 200
   #     slot: 12
-  #   4:
-  #     type: item
-  #     item:
-  #       material: GOLDEN_AXE
-  #       quantity: 1
-  #     buyPrice: 50
-  #     sellPrice: 10
-  #     slot: 13
   #   5:
   #     type: item
   #     item:
@@ -105,14 +177,6 @@ weapons_tools:
   #     buyPrice: 1000
   #     sellPrice: 200
   #     slot: 15
-  #   7:
-  #     type: item
-  #     item:
-  #       material: GOLDEN_SHOVEL
-  #       quantity: 1
-  #     buyPrice: 50
-  #     sellPrice: 5
-  #     slot: 16
   #   8:
   #     type: item
   #     item:
@@ -129,14 +193,6 @@ weapons_tools:
   #     buyPrice: 750
   #     sellPrice: 150
   #     slot: 20
-  #   10:
-  #     type: item
-  #     item:
-  #       material: GOLDEN_HOE
-  #       quantity: 1
-  #     buyPrice: 50
-  #     sellPrice: 10
-  #     slot: 21
   #   11:
   #     type: item
   #     item:
@@ -172,4 +228,4 @@ weapons_tools:
     money:
       type: special
       special: BALANCE
-      slot: 44
+      slot: 53
