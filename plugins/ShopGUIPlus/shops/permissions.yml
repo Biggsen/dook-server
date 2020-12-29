@@ -606,3 +606,87 @@ permissions:
       special: BALANCE
       slot: 44
       page: 6
+
+    # weapons and tools
+    700:
+      type: permission
+      permission: "shopguiplus.item.weapons_tools.wooden_sword"
+      item:
+        material: WOODEN_SWORD
+        quantity: 1
+        name: "Buy and sell wooden swords in the weapons and tools shop"
+      buyPrice: 1000
+      sellPrice: -1
+      slot: 0
+      page: 7
+    701:
+      type: permission
+      permission: "shopguiplus.item.weapons_tools.wooden_axe"
+      item:
+        material: WOODEN_AXE
+        quantity: 1
+        name: "Buy and sell wooden axes in the weapons and tools shop"
+      buyPrice: 1000
+      sellPrice: -1
+      slot: 1
+      page: 7
+    702:
+      type: permission
+      permission: "shopguiplus.item.weapons_tools.wooden_pickaxe"
+      item:
+        material: WOODEN_PICKAXE
+        quantity: 1
+        name: "Buy and sell wooden pickaxes in the weapons and tools shop"
+      buyPrice: 1000
+      sellPrice: -1
+      slot: 2
+      page: 7
+    703:
+      type: permission
+      permission: "shopguiplus.item.weapons_tools.wooden_shovel"
+      item:
+        material: WOODEN_SHOVEL
+        quantity: 1
+        name: "Buy and sell wooden shovels in the weapons and tools shop"
+      buyPrice: 1000
+      sellPrice: -1
+      slot: 3
+      page: 7
+    704:
+      type: permission
+      permission: "shopguiplus.item.weapons_tools.wooden_hoe"
+      item:
+        material: WOODEN_HOE
+        quantity: 1
+        name: "Buy and sell wooden hoes in the weapons and tools shop"
+      buyPrice: 1000
+      sellPrice: -1
+      slot: 4
+      page: 7
+    705:
+      type: permission
+      permission: "shopguiplus.item.weapons_tools.bow"
+      item:
+        material: BOW
+        quantity: 1
+        name: "Buy and sell bows in the weapons and tools shop"
+      buyPrice: 1000
+      sellPrice: -1
+      slot: 5
+      page: 7
+    706:
+      type: permission
+      permission: "shopguiplus.item.weapons_tools.fishing_rod"
+      item:
+        material: FISHING_ROD
+        quantity: 1
+        name: "Buy and sell fishing rods in the weapons and tools shop"
+      buyPrice: 1000
+      sellPrice: -1
+      slot: 6
+      page: 7
+    money7:
+      type: special
+      special: BALANCE
+      slot: 44
+      page: 7

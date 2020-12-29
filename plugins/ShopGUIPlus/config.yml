@@ -560,13 +560,6 @@ shopMenuItems:
       name: "&2&lFood"
     shop: "food"
     slot: 1
-  # 4:
-  #   item:
-  #     material: IRON_PICKAXE
-  #     quantity: 1
-  #     name: "&8&lTools"
-  #   shop: "tools"
-  #   slot: 14
   3:
     item:
       material: WHEAT
@@ -595,6 +588,13 @@ shopMenuItems:
       name: "&4&lArmor"
     shop: "armor"
     slot: 5
+  7:
+    item:
+      material: IRON_AXE
+      quantity: 1
+      name: "&8&lWeapons and tools"
+    shop: "weapons_tools"
+    slot: 6
   # 8:
   #   item:
   #     material: LIGHT_BLUE_DYE
