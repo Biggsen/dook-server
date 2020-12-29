@@ -98,6 +98,7 @@ permissions:
       type: special
       special: BALANCE
       slot: 44
+
     # food
     20:
       type: permission
@@ -415,6 +416,7 @@ permissions:
       special: BALANCE
       slot: 44
       page: 4
+
     # ores
     500:
       type: permission
@@ -551,6 +553,8 @@ permissions:
       special: BALANCE
       slot: 44
       page: 5
+
+    # armor
     600:
       type: permission
       permissions:
@@ -565,6 +569,37 @@ permissions:
       buyPrice: 1000
       sellPrice: -1
       slot: 0
+      page: 6
+    6010:
+      type: permission
+      permissions:
+        - "shopguiplus.item.armor.golden_helmet_buy"
+        - "shopguiplus.item.armor.golden_chestplate_buy"
+        - "shopguiplus.item.armor.golden_leggings_buy"
+        - "shopguiplus.item.armor.golden_boots_buy"
+      item:
+        material: GOLDEN_CHESTPLATE
+        quantity: 1
+        name: "Buy golden armor in the armor shop"
+      buyPrice: 1000
+      sellPrice: -1
+      slot: 1
+      page: 6
+    6011:
+      type: command
+      item:
+        material: GOLDEN_CHESTPLATE
+        quantity: 1
+        name: "Sell golden armor in the armor shop"
+        lore:
+          - "This permission will expire in 1 day"
+      commands:
+        - "lp user %PLAYER% permission settemp shopguiplus.item.armor.golden_helmet_sell true 1d"
+        - "lp user %PLAYER% permission settemp shopguiplus.item.armor.golden_chestplate_sell true 1d"
+        - "lp user %PLAYER% permission settemp shopguiplus.item.armor.golden_leggings_sell true 1d"
+        - "lp user %PLAYER% permission settemp shopguiplus.item.armor.golden_boots_sell true 1d"
+      buyPrice: 1000
+      slot: 10
       page: 6
     money6:
       type: special
