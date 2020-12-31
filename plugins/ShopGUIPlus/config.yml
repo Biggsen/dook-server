@@ -595,6 +595,13 @@ shopMenuItems:
       name: "&8&lWeapons and tools"
     shop: "weapons_tools"
     slot: 6
+  8:
+    item:
+      material: LANTERN
+      quantity: 1
+      name: "&8&lUtilities"
+    shop: "utilities"
+    slot: 7
   # 8:
   #   item:
   #     material: LIGHT_BLUE_DYE

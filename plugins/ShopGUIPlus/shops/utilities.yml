@@ -1,0 +1,39 @@
+utilities:
+  name: "&8&lUtilities (page %page%)"
+  size: 45
+  enablePerItemPermissions: true
+  fillItem:
+    material: BLACK_STAINED_GLASS_PANE
+    name: " "
+  buttons:
+    goBack:
+      slot: 40
+  items:
+    torch:
+      type: item
+      item:
+        material: TORCH
+        quantity: 16
+      buyPrice: 148
+      sellPrice: 44
+      slot: 0
+    lantern:
+      type: item
+      item:
+        material: LANTERN
+        quantity: 1
+      buyPrice: 89
+      sellPrice: 27
+      slot: 1
+    saddle:
+      type: item
+      item:
+        material: SADDLE
+        quantity: 1
+      buyPrice: 320
+      sellPrice: 96
+      slot: 2
+    money:
+      type: special
+      special: BALANCE
+      slot: 44

@@ -718,3 +718,42 @@ permissions:
       special: BALANCE
       slot: 44
       page: 7
+    # weapons and tools
+    800:
+      type: permission
+      permission: "shopguiplus.item.utilities.torch"
+      item:
+        material: TORCH
+        quantity: 1
+        name: "Buy and sell torches in the utilities shop"
+      buyPrice: 1000
+      sellPrice: -1
+      slot: 0
+      page: 8
+    801:
+      type: permission
+      permission: "shopguiplus.item.utilities.lantern"
+      item:
+        material: LANTERN
+        quantity: 1
+        name: "Buy and sell lanterns in the utilities shop"
+      buyPrice: 1000
+      sellPrice: -1
+      slot: 1
+      page: 8
+    802:
+      type: permission
+      permission: "shopguiplus.item.utilities.saddle"
+      item:
+        material: SADDLE
+        quantity: 1
+        name: "Buy and sell saddles in the utilities shop"
+      buyPrice: 1000
+      sellPrice: -1
+      slot: 2
+      page: 8
+    money8:
+      type: special
+      special: BALANCE
+      slot: 44
+      page: 7
