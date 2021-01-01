@@ -556,7 +556,7 @@ Jobs:
         RewardDesc:
         - Break 200 oak logs and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       birch_breaker:
         Name: Birch breaker
@@ -568,7 +568,7 @@ Jobs:
         RewardDesc:
         - Break 200 birch logs and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       dark_oak_breaker:
         Name: Dark Oak Breaker
@@ -580,7 +580,7 @@ Jobs:
         RewardDesc:
         - Break 200 dark oak logs and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       spruce_breaker:
         Name: Spruce Breaker
@@ -592,7 +592,7 @@ Jobs:
         RewardDesc:
         - Break 200 spruce logs and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       acacia_breaker:
         Name: Acacia Breaker
@@ -604,7 +604,7 @@ Jobs:
         RewardDesc:
         - Break 200 acacia logs and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       jungle_breaker:
         Name: Jungle Breaker
@@ -616,7 +616,7 @@ Jobs:
         RewardDesc:
         - Break 200 jungle logs and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
     Gui:
       Id: 17
@@ -696,7 +696,7 @@ Jobs:
         RewardDesc:
         - Break 400 stone blocks and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       andesite_breaker:
         Name: Andesite Breaker
@@ -708,7 +708,7 @@ Jobs:
         RewardDesc:
         - Break 50 andesite blocks and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       diorite_breaker:
         Name: Diorite Breaker
@@ -720,7 +720,7 @@ Jobs:
         RewardDesc:
         - Break 50 diorite blocks and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       granite_breaker:
         Name: Granite Breaker
@@ -732,7 +732,7 @@ Jobs:
         RewardDesc:
         - Break 50 granite blocks and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       coal_miner:
         Name: Coal Miner
@@ -744,7 +744,7 @@ Jobs:
         RewardDesc:
         - Mine 150 coal ore and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       iron_miner:
         Name: Iron Miner
@@ -756,7 +756,7 @@ Jobs:
         RewardDesc:
         - Mine 50 iron ore and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       redstone_miner:
         Name: Redstone Miner
@@ -768,7 +768,7 @@ Jobs:
         RewardDesc:
         - Mine 50 redstone ore and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       gold_miner:
         Name: Gold Miner
@@ -780,7 +780,7 @@ Jobs:
         RewardDesc:
         - Mine 15 gold ore and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       lapis_miner:
         Name: Lapis Lazuli Miner
@@ -792,7 +792,7 @@ Jobs:
         RewardDesc:
         - Mine 6 lapis lazuli ore and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
     Gui:
       Id: 270
@@ -1003,7 +1003,7 @@ Jobs:
         RewardDesc:
         - Place 100 stone blocks and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       stone_stairs_placer:
         Name: Stone Stairs Placer
@@ -1015,7 +1015,7 @@ Jobs:
         RewardDesc:
         - Place 100 stone stairs and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       cobblestone_placer:
         Name: Cobblestone Placer
@@ -1027,7 +1027,7 @@ Jobs:
         RewardDesc:
         - Place 100 cobblestone blocks and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       cobblestone_stairs_placer:
         Name: Cobblestone Stairs Placer
@@ -1039,7 +1039,7 @@ Jobs:
         RewardDesc:
         - Place 100 cobblestone stairs and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       stone_bricks_placer:
         Name: Stone Bricks Placer
@@ -1051,7 +1051,7 @@ Jobs:
         RewardDesc:
         - Place 100 stone bricks blocks and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       stone_bricks_stairs_placer:
         Name: Stone Bricks Stairs Placer
@@ -1063,7 +1063,7 @@ Jobs:
         RewardDesc:
         - Place 100 stone brick stairs and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       andesite_placer:
         Name: Andesite Placer
@@ -1075,7 +1075,7 @@ Jobs:
         RewardDesc:
         - Place 100 andesite blocks and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       diorite_placer:
         Name: Diorite Placer
@@ -1087,7 +1087,7 @@ Jobs:
         RewardDesc:
         - Place 100 diorite blocks and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       granite_placer:
         Name: Granite Placer
@@ -1099,7 +1099,7 @@ Jobs:
         RewardDesc:
         - Place 100 granite blocks and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       glass_placer:
         Name: Glass Placer
@@ -1111,7 +1111,7 @@ Jobs:
         RewardDesc:
         - Place 100 glass blocks and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       oak_planks_placer:
         Name: Oak Planks Placer
@@ -1123,7 +1123,7 @@ Jobs:
         RewardDesc:
         - Place 100 oak planks and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       birch_planks_placer:
         Name: Birch Planks Placer
@@ -1135,7 +1135,7 @@ Jobs:
         RewardDesc:
         - Place 100 birch planks and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       dark_oak_planks_placer:
         Name: Dark Oak Planks Placer
@@ -1147,7 +1147,7 @@ Jobs:
         RewardDesc:
         - Place 100 dark oak planks and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       spruce_planks_placer:
         Name: Spruce Planks Placer
@@ -1159,7 +1159,7 @@ Jobs:
         RewardDesc:
         - Place 100 spruce planks and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       acacia_planks_placer:
         Name: Acacia Planks Placer
@@ -1171,7 +1171,7 @@ Jobs:
         RewardDesc:
         - Place 100 acacia planks and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       jungle_planks_placer:
         Name: Jungle Planks Placer
@@ -1183,7 +1183,7 @@ Jobs:
         RewardDesc:
         - Place 100 jungle planks and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
     Gui:
       Item: brick_stairs
@@ -1930,7 +1930,7 @@ Jobs:
         RewardDesc:
         - Break 600 dirt blocks and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       grass_block_digger:
         Name: Grass Block Digger
@@ -1942,7 +1942,7 @@ Jobs:
         RewardDesc:
         - Break 400 grass blocks and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       gravel_digger:
         Name: Gravel Digger
@@ -1954,7 +1954,7 @@ Jobs:
         RewardDesc:
         - Break 400 gravel blocks and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       sand_digger:
         Name: Sand Digger
@@ -1966,7 +1966,7 @@ Jobs:
         RewardDesc:
         - Break 600 sand blocks and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       red_sand_digger:
         Name: Red Sand Digger
@@ -1978,7 +1978,7 @@ Jobs:
         RewardDesc:
         - Break 600 red sand blocks and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       coarse_dirt_digger:
         Name: Coarse Dirt Digger
@@ -1990,7 +1990,7 @@ Jobs:
         RewardDesc:
         - Break 600 coarse dirt blocks and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       podzol_digger:
         Name: Podzol Digger
@@ -2002,7 +2002,7 @@ Jobs:
         RewardDesc:
         - Break 600 podzol blocks and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       ice_digger:
         Name: Ice Digger
@@ -2014,7 +2014,7 @@ Jobs:
         RewardDesc:
         - Break 600 ice blocks and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       clay_digger:
         Name: Clay Digger
@@ -2026,7 +2026,7 @@ Jobs:
         RewardDesc:
         - Break 250 clay blocks and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
     Gui:
       Id: 269
@@ -2094,7 +2094,7 @@ Jobs:
         RewardDesc:
         - Plant 200 wheat seeds and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       wheat_harvester:
         Name: Wheat Harvester
@@ -2106,7 +2106,7 @@ Jobs:
         RewardDesc:
         - Harvest 200 wheat and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       potato_planter:
         Name: Potato Planter
@@ -2118,7 +2118,7 @@ Jobs:
         RewardDesc:
         - Plant 200 potatoes and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       potato_harvester:
         Name: Potato Harvester
@@ -2130,7 +2130,7 @@ Jobs:
         RewardDesc:
         - Harvest 200 potatoes and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       carrot_planter:
         Name: Carrot Planter
@@ -2142,7 +2142,7 @@ Jobs:
         RewardDesc:
         - Plant 200 carrots and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       carrot_harvester:
         Name: Carrot Harvester
@@ -2154,7 +2154,7 @@ Jobs:
         RewardDesc:
         - Harvest 200 carrots and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       beetroot_planter:
         Name: Beetroot Planter
@@ -2166,7 +2166,7 @@ Jobs:
         RewardDesc:
         - Plant 200 beetroot seeds and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       beetroot_harvester:
         Name: Beetroot Harvester
@@ -2178,7 +2178,7 @@ Jobs:
         RewardDesc:
         - Harvest 200 beetroot and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       melon_planter:
         Name: Melon Planter
@@ -2190,7 +2190,7 @@ Jobs:
         RewardDesc:
         - Plant 200 melon seeds and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       melon_harvester:
         Name: Melon Harvester
@@ -2202,7 +2202,7 @@ Jobs:
         RewardDesc:
         - Harvest 200 melons and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       pumpkin_planter:
         Name: Pumpkin Planter
@@ -2214,7 +2214,7 @@ Jobs:
         RewardDesc:
         - Plant 200 pumpkin seeds and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       pumpkin_harvester:
         Name: Pumpkin Harvester
@@ -2226,7 +2226,7 @@ Jobs:
         RewardDesc:
         - Harvest 200 pumpkins and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
     Gui:
       Item: wooden_hoe
@@ -2610,7 +2610,7 @@ Jobs:
         RewardDesc:
         - Kill 50 zombies and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       skeleton_killer:
         Name: Skeleton Killer
@@ -2622,7 +2622,7 @@ Jobs:
         RewardDesc:
         - Kill 50 skeletons and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       spider_killer:
         Name: Spider Killer
@@ -2634,7 +2634,7 @@ Jobs:
         RewardDesc:
         - Kill 50 spiders and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       creeper_killer:
         Name: Creeper Killer
@@ -2646,7 +2646,7 @@ Jobs:
         RewardDesc:
         - Kill 50 creepers and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       enderman_killer:
         Name: Enderman Killer
@@ -2658,7 +2658,7 @@ Jobs:
         RewardDesc:
         - Kill 20 endermen and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       drowned_killer:
         Name: Drowned Killer
@@ -2670,7 +2670,7 @@ Jobs:
         RewardDesc:
         - Kill 50 drowned and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       husk_killer:
         Name: Husk Killer
@@ -2682,7 +2682,7 @@ Jobs:
         RewardDesc:
         - Kill 50 husks and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       zombie_villager_killer:
         Name: Zombie Villager Killer
@@ -2694,7 +2694,7 @@ Jobs:
         RewardDesc:
         - Kill 30 zombie villagers and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
     Gui:
       Id: 261
@@ -2851,7 +2851,7 @@ Jobs:
         RewardDesc:
         - Explore 30 new chunks and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       explore_second:
         Name: Second one to explore
@@ -2864,7 +2864,7 @@ Jobs:
         - Explore 30 chunks visited by 1 other
         - and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       explore_third:
         Name: Third one to explore
@@ -2877,7 +2877,7 @@ Jobs:
         - Explore 30 chunks visited by 2 others
         - and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       explore_fourth:
         Name: Fourth one to explore
@@ -2890,7 +2890,7 @@ Jobs:
         - Explore 30 chunks visited by 3 others
         - and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       explore_last:
         Name: Last one to explore
@@ -2903,7 +2903,7 @@ Jobs:
         - Explore 30 chunks visited by 4 others
         - and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       craft_map:
         Name: Make Maps
@@ -2915,7 +2915,7 @@ Jobs:
         RewardDesc:
         - Craft 20 maps and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
     Gui:
       Id: 301
@@ -2972,7 +2972,7 @@ Jobs:
         RewardDesc:
         - Make 50 chests and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       lantern_maker:
         Name: Lantern Maker
@@ -2984,7 +2984,7 @@ Jobs:
         RewardDesc:
         - Make 50 lanterns and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       furnace_maker:
         Name: Furnace Maker
@@ -2996,7 +2996,7 @@ Jobs:
         RewardDesc:
         - Make 50 furnaces and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       barrel_maker:
         Name: Barrel Maker
@@ -3008,7 +3008,7 @@ Jobs:
         RewardDesc:
         - Make 50 barrels and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       hopper_maker:
         Name: Hopper Maker
@@ -3020,7 +3020,7 @@ Jobs:
         RewardDesc:
         - Make 20 hoppers and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       stick_maker:
         Name: Stick Maker
@@ -3032,7 +3032,7 @@ Jobs:
         RewardDesc:
         - Make 300 sticks and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       enchanting_table_maker:
         Name: Enchanting Table Maker
@@ -3044,7 +3044,7 @@ Jobs:
         RewardDesc:
         - Make 2 enchanting tables and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
     Gui:
       Item: crafting_table
@@ -3536,7 +3536,7 @@ Jobs:
         RewardDesc:
         - Catch 30 cod and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       salmon_catcher:
         Name: Salmon Catcher
@@ -3548,7 +3548,7 @@ Jobs:
         RewardDesc:
         - Catch 15 salmon and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       pufferfish_catcher:
         Name: Pufferfish Catcher
@@ -3560,7 +3560,7 @@ Jobs:
         RewardDesc:
         - Catch 6 pufferfish and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       tropical_fish_catcher:
         Name: Tropical Fish Catcher
@@ -3572,7 +3572,7 @@ Jobs:
         RewardDesc:
         - Catch 2 tropical fish and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       saddle_catcher:
         Name: Saddle Catcher
@@ -3584,7 +3584,7 @@ Jobs:
         RewardDesc:
         - Catch 1 saddle and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       name_tag_catcher:
         Name: Name Tag Catcher
@@ -3596,7 +3596,7 @@ Jobs:
         RewardDesc:
         - Catch 1 name tag and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
     Gui:
       Item: fishing_rod
@@ -3643,7 +3643,7 @@ Jobs:
         RewardDesc:
         - Craft 200 wooden swords and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       wooden_axe_maker:
         Name: Wooden Axe Maker
@@ -3655,7 +3655,7 @@ Jobs:
         RewardDesc:
         - Craft 200 wooden axes and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       stone_sword_maker:
         Name: Stone Sword Maker
@@ -3667,7 +3667,7 @@ Jobs:
         RewardDesc:
         - Craft 100 stone swords and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       stone_axe_maker:
         Name: Stone Axe Maker
@@ -3679,7 +3679,7 @@ Jobs:
         RewardDesc:
         - Craft 100 stone axes and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       iron_sword_maker:
         Name: Iron Sword Maker
@@ -3691,7 +3691,7 @@ Jobs:
         RewardDesc:
         - Craft 50 iron swords and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       iron_axe_maker:
         Name: Iron Axe Maker
@@ -3703,7 +3703,7 @@ Jobs:
         RewardDesc:
         - Craft 50 iron axes and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       mercenaries_gear:
         Name: Equip 5 mercenaries
@@ -3721,7 +3721,7 @@ Jobs:
         RewardDesc:
         - Craft battle gear for 5 mercenaries and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       guards_gear:
         Name: Equip 5 guards
@@ -3739,7 +3739,7 @@ Jobs:
         RewardDesc:
         - Craft battle gear for 5 guards and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
     Gui:
       Id: 58
@@ -3909,7 +3909,7 @@ Jobs:
         RewardDesc:
         - Brew 100 awkward potions and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       potion_extender:
         Name: Potion Extender
@@ -3921,7 +3921,7 @@ Jobs:
         RewardDesc:
         - Extend 100 potions and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       potion_amplifier:
         Name: Potion Amplifier
@@ -3933,7 +3933,7 @@ Jobs:
         RewardDesc:
         - Amplify 100 potions and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       potion_converter:
         Name: Potion Converter
@@ -3945,7 +3945,7 @@ Jobs:
         RewardDesc:
         - Convert 100 potions and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       splash_potion_brewer:
         Name: Splash Potion Brewer
@@ -3957,7 +3957,7 @@ Jobs:
         RewardDesc:
         - Brew 80 splash potions and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       lingering_potion_brewer:
         Name: Lingering Potion Brewer
@@ -3969,7 +3969,7 @@ Jobs:
         RewardDesc:
         - Brew 80 lingering potions and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       swiftness_potion_brewer:
         Name: Swiftness Potion Brewer
@@ -3981,7 +3981,7 @@ Jobs:
         RewardDesc:
         - Brew 100 swiftness potions and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       water_breathing_potion_brewer:
         Name: Water Breathing Potion Brewer
@@ -3993,7 +3993,7 @@ Jobs:
         RewardDesc:
         - Brew 100 water breathing potions and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       regeneration_potion_brewer:
         Name: Regeneration Potion Brewer
@@ -4005,7 +4005,7 @@ Jobs:
         RewardDesc:
         - Brew 100 regeneration potions and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
     Gui:
       Id: 379
@@ -4105,7 +4105,7 @@ Jobs:
         RewardDesc:
         - Enchant Efficiency 10 times and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       piercing_enchanter:
         Name: Piercing Enchanter
@@ -4117,7 +4117,7 @@ Jobs:
         RewardDesc:
         - Enchant Piercing 10 times and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       power_enchanter:
         Name: Power Enchanter
@@ -4129,7 +4129,7 @@ Jobs:
         RewardDesc:
         - Enchant Power 10 times and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       protection_enchanter:
         Name: Protection Enchanter
@@ -4141,7 +4141,7 @@ Jobs:
         RewardDesc:
         - Enchant Protection 10 times and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       sharpness_enchanter:
         Name: Sharpness Enchanter
@@ -4153,7 +4153,7 @@ Jobs:
         RewardDesc:
         - Enchant Sharpness 10 times and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       smite_enchanter:
         Name: Smite Enchanter
@@ -4165,7 +4165,7 @@ Jobs:
         RewardDesc:
         - Enchant Smite 8 times and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       knockback_enchanter:
         Name: Knockback Enchanter
@@ -4177,7 +4177,7 @@ Jobs:
         RewardDesc:
         - Enchant Knockback 8 times and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
       feather_falling_enchanter:
         Name: Feather Falling Enchanter
@@ -4189,7 +4189,7 @@ Jobs:
         RewardDesc:
         - Enchant Feather Falling 8 times and get $1000
         Chance: 50
-        toLevel: 10
+        toLevel: 50
         fromLevel: 1
     Gui:
       Id: 116
