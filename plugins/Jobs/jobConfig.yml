@@ -544,20 +544,80 @@ Jobs:
       * ((numjobs-1)*0.05))
     experience-progression-equation: baseexperience-(baseexperience*((numjobs-1) *0.01))
     rejoinCooldown: 10
-    maxDailyQuests: 1
+    maxDailyQuests: 2
     Quests:
-      '1':
-        Name: Woodpecker
+      'oak_breaker':
+        Name: Oak Breaker
         Objectives:
-        - Break;oak_log;50
-        - Break;birch_log;50
-        - Break;jungle_log;50
+        - Break;oak_log;200
         RewardCommands:
-        - eco give [playerName] 100
+        - eco give [playerName] 1000
         - msg [playerName] Completed quest!
         RewardDesc:
-        - Break logs and get money
-        - Get 100 for this!
+        - Break 200 oak logs and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'birch_breaker':
+        Name: Birch breaker
+        Objectives:
+        - Break;birch_log;200
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Break 200 birch logs and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'dark_oak_breaker':
+        Name: Dark Oak Breaker
+        Objectives:
+        - Break;dark_oak_log;200
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Break 200 dark oak logs and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'spruce_breaker':
+        Name: Spruce Breaker
+        Objectives:
+        - Break;spruce_log;200
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Break 200 spruce logs and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'acacia_breaker':
+        Name: Acacia Breaker
+        Objectives:
+        - Break;acacia_log;200
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Break 200 acacia logs and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'jungle_breaker':
+        Name: Jungle Breaker
+        Objectives:
+        - Break;jungle_log;200
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Break 200 jungle logs and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
     Gui:
       Id: 17
       Data: 2
@@ -610,16 +670,6 @@ Jobs:
         income: 0.75
         points: 0.75
         experience: 0.25
-    Kill:
-      Player:
-        income: 7.5
-        points: 7.5
-        experience: 7.5
-    custom-kill:
-      Woodcutter:
-        income: 10.0
-        points: 10.0
-        experience: 10.0
   Miner:
     fullname: Miner
     shortname: M
@@ -634,20 +684,248 @@ Jobs:
       * ((numjobs-1)*0.05))
     experience-progression-equation: baseexperience-(baseexperience*((numjobs-1) *0.01))
     rejoinCooldown: 10
-    maxDailyQuests: 1
+    maxDailyQuests: 2
     Quests:
-      '1':
-        Name: DarkOne
+      'stone_breaker':
+        Name: Stone Breaker
         Objectives:
-        - Break;stone;50
-        - Break;granite;50
-        - Break;sandstone;50
+        - Break;stone;400
         RewardCommands:
-        - eco give [playerName] 100
+        - eco give [playerName] 1000
         - msg [playerName] Completed quest!
         RewardDesc:
-        - Break blocks and get money
-        - Get 100 for this!
+        - Break 400 stone blocks and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'andesite_breaker':
+        Name: Andesite Breaker
+        Objectives:
+        - Break;andesite;50
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Break 50 andesite blocks and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'diorite_breaker':
+        Name: Diorite Breaker
+        Objectives:
+        - Break;diorite;50
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Break 50 diorite blocks and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'granite_breaker':
+        Name: Granite Breaker
+        Objectives:
+        - Break;granite;50
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Break 50 granite blocks and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'coal_miner':
+        Name: Coal Miner
+        Objectives:
+        - Break;coal_ore;150
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Mine 150 coal ore and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'iron_miner':
+        Name: Iron Miner
+        Objectives:
+        - Break;iron_ore;50
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Mine 50 iron ore and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'redstone_miner':
+        Name: Redstone Miner
+        Objectives:
+        - Break;redstone_ore;50
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Mine 50 redstone ore and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'gold_miner':
+        Name: Gold Miner
+        Objectives:
+        - Break;gold_ore;15
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Mine 15 gold ore and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'lapis_miner':
+        Name: Lapis Lazuli Miner
+        Objectives:
+        - Break;lapis_ore;6
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Mine 6 lapis lazuli ore and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      # 'stone_breaker':
+      #   Name: Stone Breaker
+      #   Objectives:
+      #   - Break;stone;200
+      #   RewardCommands:
+      #   - eco give [playerName] 1000
+      #   - msg [playerName] Completed quest!
+      #   RewardDesc:
+      #   - Break 200 stone blocks and get $1000
+      #   Chance: 100
+      #   toLevel: 10
+      #   fromLevel: 1
+      # 'granite_breaker':
+      #   Name: Granite Breaker
+      #   Objectives:
+      #   - Break;granite;200
+      #   RewardCommands:
+      #   - eco give [playerName] 1000
+      #   - msg [playerName] Completed quest!
+      #   RewardDesc:
+      #   - Break 200 granite blocks and get $1000
+      #   Chance: 100
+      #   toLevel: 10
+      #   fromLevel: 1
+      # 'diorite_breaker':
+      #   Name: Diorite Breaker
+      #   Objectives:
+      #   - Break;diorite;200
+      #   RewardCommands:
+      #   - eco give [playerName] 1000
+      #   - msg [playerName] Completed quest!
+      #   RewardDesc:
+      #   - Break 200 diorite blocks and get $1000
+      #   Chance: 100
+      #   toLevel: 10
+      #   fromLevel: 1
+      # 'andesite_breaker':
+      #   Name: Andesite Breaker
+      #   Objectives:
+      #   - Break;andesite;200
+      #   RewardCommands:
+      #   - eco give [playerName] 1000
+      #   - msg [playerName] Completed quest!
+      #   RewardDesc:
+      #   - Break 200 andesite blocks and get $1000
+      #   Chance: 100
+      #   toLevel: 10
+      #   fromLevel: 1
+      # 'gravel_breaker':
+      #   Name: Gravel Breaker
+      #   Objectives:
+      #   - Break;gravel;200
+      #   RewardCommands:
+      #   - eco give [playerName] 1000
+      #   - msg [playerName] Completed quest!
+      #   RewardDesc:
+      #   - Break 200 gravel and get $1000
+      #   Chance: 100
+      #   toLevel: 10
+      #   fromLevel: 1
+      # 'dirt_breaker':
+      #   Name: Gravel Breaker
+      #   Objectives:
+      #   - Break;dirt;200
+      #   RewardCommands:
+      #   - eco give [playerName] 1000
+      #   - msg [playerName] Completed quest!
+      #   RewardDesc:
+      #   - Break 200 dirt and get $1000
+      #   Chance: 100
+      #   toLevel: 10
+      #   fromLevel: 1
+      # 'coal_breaker':
+      #   Name: Coal Breaker
+      #   Objectives:
+      #   - Break;coal_ore;200
+      #   RewardCommands:
+      #   - eco give [playerName] 1000
+      #   - msg [playerName] Completed quest!
+      #   RewardDesc:
+      #   - Break 200 coal ore and get $1000
+      #   Chance: 100
+      #   toLevel: 10
+      #   fromLevel: 1
+      # 'redstone_breaker':
+      #   Name: Redstone Breaker
+      #   Objectives:
+      #   - Break;redstone_ore;200
+      #   RewardCommands:
+      #   - eco give [playerName] 1000
+      #   - msg [playerName] Completed quest!
+      #   RewardDesc:
+      #   - Break 200 redstone ore and get $1000
+      #   Chance: 100
+      #   toLevel: 10
+      #   fromLevel: 1
+      # 'lapis_breaker':
+      #   Name: Lapis Breaker
+      #   Objectives:
+      #   - Break;lapis_ore;200
+      #   RewardCommands:
+      #   - eco give [playerName] 1000
+      #   - msg [playerName] Completed quest!
+      #   RewardDesc:
+      #   - Break 200 lapis ore and get $1000
+      #   Chance: 100
+      #   toLevel: 10
+      #   fromLevel: 1
+      # 'gold_breaker':
+      #   Name: Gold Breaker
+      #   Objectives:
+      #   - Break;gold_ore;200
+      #   RewardCommands:
+      #   - eco give [playerName] 1000
+      #   - msg [playerName] Completed quest!
+      #   RewardDesc:
+      #   - Break 200 gold ore and get $1000
+      #   Chance: 100
+      #   toLevel: 10
+      #   fromLevel: 1
+      # 'iron_breaker':
+      #   Name: Iron Breaker
+      #   Objectives:
+      #   - Break;iron_ore;200
+      #   RewardCommands:
+      #   - eco give [playerName] 1000
+      #   - msg [playerName] Completed quest!
+      #   RewardDesc:
+      #   - Break 200 iron ore and get $1000
+      #   Chance: 100
+      #   toLevel: 10
+      #   fromLevel: 1
     Gui:
       Id: 270
       Data: 0
@@ -810,11 +1088,27 @@ Jobs:
         income: -15
         points: -15
         experience: -30
-    Kill:
-      Player:
-        income: 7.5
-        points: 7.5
-        experience: 7.5
+    items:
+      firstOne:
+        id: 278
+        name: '&8Miner Pickaxe'
+        lore:
+        - '&eBobs pick'
+        - '&710% bonus XP'
+        enchants:
+        - DAMAGE_ALL=1
+        - FIRE_ASPECT=1
+        moneyBoost: 1.1
+        expBoost: 1.2
+        pointBoost: 1.3
+      helmet:
+        id: 310
+        name: '&8Armor'
+        lore:
+        - '&eBobs armor'
+        - '&710% bonus XP'
+        moneyBoost: 1.1
+        expBoost: 1.1
   Builder:
     fullname: Builder
     shortname: B
@@ -829,20 +1123,200 @@ Jobs:
       * ((numjobs-1)*0.05))
     experience-progression-equation: baseexperience-(baseexperience*((numjobs-1) *0.01))
     rejoinCooldown: 10
-    maxDailyQuests: 1
+    maxDailyQuests: 2
     Quests:
-      '1':
-        Name: Architect
+      'stone_placer':
+        Name: Stone Placer
         Objectives:
-        - Place;spruce_planks;50
-        - Place;birch_planks;50
-        - Place;wool;50
+        - Place;stone;100
         RewardCommands:
-        - eco give [playerName] 100
+        - eco give [playerName] 1000
         - msg [playerName] Completed quest!
         RewardDesc:
-        - Place blocks and get money
-        - Get 100 for this!
+        - Place 100 stone blocks and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'stone_stairs_placer':
+        Name: Stone Stairs Placer
+        Objectives:
+        - Place;stone_stairs;100
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Place 100 stone stairs and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'cobblestone_placer':
+        Name: Cobblestone Placer
+        Objectives:
+        - Place;cobblestone;100
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Place 100 cobblestone blocks and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'cobblestone_stairs_placer':
+        Name: Cobblestone Stairs Placer
+        Objectives:
+        - Place;cobblestone_stairs;100
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Place 100 cobblestone stairs and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'stone_bricks_placer':
+        Name: Stone Bricks Placer
+        Objectives:
+        - Place;stone_bricks;100
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Place 100 stone bricks blocks and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'stone_bricks_stairs_placer':
+        Name: Stone Bricks Stairs Placer
+        Objectives:
+        - Place;stone_brick_stairs;100
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Place 100 stone brick stairs and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'andesite_placer':
+        Name: Andesite Placer
+        Objectives:
+        - Place;andesite;100
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Place 100 andesite blocks and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'diorite_placer':
+        Name: Diorite Placer
+        Objectives:
+        - Place;diorite;100
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Place 100 diorite blocks and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'granite_placer':
+        Name: Granite Placer
+        Objectives:
+        - Place;granite;100
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Place 100 granite blocks and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'glass_placer':
+        Name: Glass Placer
+        Objectives:
+        - Place;glass;100
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Place 100 glass blocks and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'oak_planks_placer':
+        Name: Oak Planks Placer
+        Objectives:
+        - Place;oak_planks;100
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Place 100 oak planks and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'birch_planks_placer':
+        Name: Birch Planks Placer
+        Objectives:
+        - Place;birch_planks;100
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Place 100 birch planks and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'dark_oak_planks_placer':
+        Name: Dark Oak Planks Placer
+        Objectives:
+        - Place;dark_oak_planks;100
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Place 100 dark oak planks and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'spruce_planks_placer':
+        Name: Spruce Planks Placer
+        Objectives:
+        - Place;spruce_planks;100
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Place 100 spruce planks and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'acacia_planks_placer':
+        Name: Acacia Planks Placer
+        Objectives:
+        - Place;acacia_planks;100
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Place 100 acacia planks and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'jungle_planks_placer':
+        Name: Jungle Planks Placer
+        Objectives:
+        - Place;jungle_planks;100
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Place 100 jungle planks and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
     Gui:
       Item: brick_stairs
     Place:
@@ -1562,11 +2036,6 @@ Jobs:
         income: 1.5
         points: 1.5
         experience: 2
-    Kill:
-      Player:
-        income: 7.5
-        points: 7.5
-        experience: 7.5
   Digger:
     fullname: Digger
     shortname: D
@@ -1581,20 +2050,116 @@ Jobs:
       * ((numjobs-1)*0.05))
     experience-progression-equation: baseexperience-(baseexperience*((numjobs-1) *0.01))
     rejoinCooldown: 10
-    maxDailyQuests: 1
+    maxDailyQuests: 2
     Quests:
-      '1':
-        Name: Ground Mole
+      'dirt_digger':
+        Name: Dirt Digger
         Objectives:
-        - Break;dirt;50
-        - Break;grass_block;50
-        - Break;gravel;50
+        - Break;dirt;600
         RewardCommands:
-        - eco give [playerName] 100
+        - eco give [playerName] 1000
         - msg [playerName] Completed quest!
         RewardDesc:
-        - Dig blocks and get money
-        - Get 100 for this!
+        - Break 600 dirt blocks and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'grass_block_digger':
+        Name: Grass Block Digger
+        Objectives:
+        - Break;grass_block;400
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Break 400 grass blocks and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'gravel_digger':
+        Name: Gravel Digger
+        Objectives:
+        - Break;gravel;400
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Break 400 gravel blocks and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'sand_digger':
+        Name: Sand Digger
+        Objectives:
+        - Break;sand;600
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Break 600 sand blocks and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'red_sand_digger':
+        Name: Red Sand Digger
+        Objectives:
+        - Break;red_sand;600
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Break 600 red sand blocks and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'coarse_dirt_digger':
+        Name: Coarse Dirt Digger
+        Objectives:
+        - Break;coarse_dirt;600
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Break 600 coarse dirt blocks and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'podzol_digger':
+        Name: Podzol Digger
+        Objectives:
+        - Break;podzol;600
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Break 600 podzol blocks and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'ice_digger':
+        Name: Ice Digger
+        Objectives:
+        - Break;ice;600
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Break 600 ice blocks and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'clay_digger':
+        Name: Clay Digger
+        Objectives:
+        - Break;clay;250
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Break 250 clay blocks and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
     Gui:
       Id: 269
       Data: 0
@@ -1604,6 +2169,14 @@ Jobs:
         points: 1
         experience: 1
       coarse_dirt:
+        income: 1
+        points: 1
+        experience: 1
+      podzol:
+        income: 1
+        points: 1
+        experience: 1
+      ice:
         income: 1
         points: 1
         experience: 1
@@ -1627,16 +2200,6 @@ Jobs:
         income: 1
         points: 1
         experience: 1.0
-    Kill:
-      Player:
-        income: 7.5
-        points: 7.5
-        experience: 7.5
-    custom-kill:
-      Digger:
-        income: 10.0
-        points: 10.0
-        experience: 10.0
   Farmer:
     fullname: Farmer
     shortname: Fa
@@ -1651,20 +2214,153 @@ Jobs:
       * ((numjobs-1)*0.05))
     experience-progression-equation: baseexperience-(baseexperience*((numjobs-1) *0.01))
     rejoinCooldown: 10
-    maxDailyQuests: 1
+    maxDailyQuests: 2
     Quests:
-      '1':
-        Name: Regular Joe
+      'wheat_planter':
+        Name: Wheat Planter
         Objectives:
-        - Breed;Sheep;10
-        - Shear;White;10
-        - Milk;Cow;3
+        - Place;wheat;200
         RewardCommands:
-        - eco give [playerName] 100
+        - eco give [playerName] 1000
         - msg [playerName] Completed quest!
         RewardDesc:
-        - Be a farmer and get money
-        - Get 100 for this!
+        - Plant 200 wheat seeds and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'wheat_harvester':
+        Name: Wheat Harvester
+        Objectives:
+        - Break;wheat-7;200
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Harvest 200 wheat and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'potato_planter':
+        Name: Potato Planter
+        Objectives:
+        - Place;potatoes;200
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Plant 200 potatoes and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'potato_harvester':
+        Name: Potato Harvester
+        Objectives:
+        - Break;potatoes-7;200
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Harvest 200 potatoes and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'carrot_planter':
+        Name: Carrot Planter
+        Objectives:
+        - Place;carrots;200
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Plant 200 carrots and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'carrot_harvester':
+        Name: Carrot Harvester
+        Objectives:
+        - Break;carrots-7;200
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Harvest 200 carrots and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'beetroot_planter':
+        Name: Beetroot Planter
+        Objectives:
+        - Place;beetroots;200
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Plant 200 beetroot seeds and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      # Doesn't work
+      'beetroot_harvester':
+        Name: Beetroot Harvester
+        Objectives:
+        - Place;beetroots-3;200
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Harvest 200 beetroot and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'melon_planter':
+        Name: Melon Planter
+        Objectives:
+        - Place;melon_stem;200
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Plant 200 melon seeds and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'melon_harvester':
+        Name: Melon Harvester
+        Objectives:
+        - Break;melon;200
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Harvest 200 melons and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'pumpkin_planter':
+        Name: Pumpkin Planter
+        Objectives:
+        - Place;pumpkin_stem;200
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Plant 200 pumpkin seeds and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'pumpkin_harvester':
+        Name: Pumpkin Harvester
+        Objectives:
+        - Break;pumpkin;200
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Harvest 200 pumpkins and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
     Gui:
       Item: wooden_hoe
     Tame:
@@ -2021,15 +2717,10 @@ Jobs:
         income: 1
         points: 1
         experience: 1
-    Kill:
-      Player:
-        income: 7.5
-        points: 7.5
-        experience: 7.5
   Hunter:
     fullname: Hunter
     shortname: H
-    description: Earns money killing animals and monsters.
+    description: Earns money killing monsters.
     ChatColour: RED
     chat-display: full
     max-level: 200
@@ -2040,20 +2731,104 @@ Jobs:
       * ((numjobs-1)*0.05))
     experience-progression-equation: baseexperience-(baseexperience*((numjobs-1) *0.01))
     rejoinCooldown: 10
-    maxDailyQuests: 1
+    maxDailyQuests: 2
     Quests:
-      '1':
-        Name: Predator
+      'zombie_killer':
+        Name: Zombie Killer
         Objectives:
-        - Kill;Wolf;10
-        - Kill;Creeper;3
-        - Kill;Skeleton;10
+        - Kill;zombie;50
         RewardCommands:
-        - eco give [playerName] 100
+        - eco give [playerName] 1000
         - msg [playerName] Completed quest!
         RewardDesc:
-        - Kill everything what moves and get money
-        - Get 100 for this!
+        - Kill 50 zombies and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'skeleton_killer':
+        Name: Skeleton Killer
+        Objectives:
+        - Kill;skeleton;50
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Kill 50 skeletons and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'spider_killer':
+        Name: Spider Killer
+        Objectives:
+        - Kill;spider;50
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Kill 50 spiders and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'creeper_killer':
+        Name: Creeper Killer
+        Objectives:
+        - Kill;creeper;50
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Kill 50 creepers and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'enderman_killer':
+        Name: Enderman Killer
+        Objectives:
+        - Kill;enderman;20
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Kill 20 endermen and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'drowned_killer':
+        Name: Drowned Killer
+        Objectives:
+        - Kill;drowned;50
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Kill 50 drowned and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'husk_killer':
+        Name: Husk Killer
+        Objectives:
+        - Kill;husk;50
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Kill 50 husks and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'zombie_villager_killer':
+        Name: Zombie Villager Killer
+        Objectives:
+        - Kill;zombie_villager;30
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Kill 30 zombie villagers and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
     Gui:
       Id: 261
       Data: 0
@@ -2197,18 +2972,84 @@ Jobs:
       * ((numjobs-1)*0.05))
     experience-progression-equation: baseexperience-(baseexperience*((numjobs-1) *0.01))
     rejoinCooldown: 10
-    maxDailyQuests: 1
+    maxDailyQuests: 2
     Quests:
-      '1':
-        Name: Galileo
+      'explore_first':
+        Name: First one to explore
         Objectives:
         - Explore;1;30
         RewardCommands:
-        - eco give [playerName] 100
+        - eco give [playerName] 1000
         - msg [playerName] Completed quest!
         RewardDesc:
-        - Go on a trip and get money
-        - Get 100 for this!
+        - Explore 30 new chunks and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'explore_second':
+        Name: Second one to explore
+        Objectives:
+        - Explore;2;30
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Explore 30 chunks visited by 1 other
+        - and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'explore_third':
+        Name: Third one to explore
+        Objectives:
+        - Explore;3;30
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Explore 30 chunks visited by 2 others
+        - and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'explore_fourth':
+        Name: Fourth one to explore
+        Objectives:
+        - Explore;4;30
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Explore 30 chunks visited by 3 others
+        - and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'explore_last':
+        Name: Last one to explore
+        Objectives:
+        - Explore;5;30
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Explore 30 chunks visited by 4 others
+        - and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'craft_map':
+        Name: Make Maps
+        Objectives:
+        - Craft;empty_map;20
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Craft 20 maps and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
     Gui:
       Id: 301
       Data: 0
@@ -2233,10 +3074,11 @@ Jobs:
         income: 0.1
         points: 0.1
         experience: 0.1
-    Kill:
-      Player:
-        income: 7.5
-        experience: 7.5
+    Craft:
+      empty_map:
+        income: 4.0
+        points: 4.0
+        experience: 4.0
   Crafter:
     fullname: Crafter
     shortname: Cr
@@ -2251,20 +3093,92 @@ Jobs:
       * ((numjobs-1)*0.05))
     experience-progression-equation: baseexperience-(baseexperience*((numjobs-1) *0.01))
     rejoinCooldown: 10
-    maxDailyQuests: 1
+    maxDailyQuests: 2
     Quests:
-      '1':
-        Name: Master Crafter
+      'chests_maker':
+        Name: Chests Maker
         Objectives:
-        - Craft;dispenser;10
-        - Craft;chest;10
-        - Craft;ladder;30
+        - Craft;chest;50
         RewardCommands:
-        - eco give [playerName] 100
+        - eco give [playerName] 1000
         - msg [playerName] Completed quest!
         RewardDesc:
-        - Craft and get money
-        - Get 100 for this!
+        - Make 50 chests and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'lantern_maker':
+        Name: Lantern Maker
+        Objectives:
+        - Craft;lantern;50
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Make 50 lanterns and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'furnace_maker':
+        Name: Furnace Maker
+        Objectives:
+        - Craft;furnace;50
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Make 50 furnaces and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'barrel_maker':
+        Name: Barrel Maker
+        Objectives:
+        - Craft;barrel;50
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Make 50 barrels and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'hopper_maker':
+        Name: Hopper Maker
+        Objectives:
+        - Craft;hopper;20
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Make 20 hoppers and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'stick_maker':
+        Name: Stick Maker
+        Objectives:
+        - Craft;stick;300
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Make 300 sticks and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'enchanting_table_maker':
+        Name: Enchanting Table Maker
+        Objectives:
+        - Craft;enchanting_table;2
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Make 2 enchanting tables and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
     Gui:
       Item: crafting_table
     Craft:
@@ -2300,6 +3214,14 @@ Jobs:
         income: 1.3
         points: 1.3
         experience: 1.3
+      barrel:
+        income: 1.5
+        points: 1.5
+        experience: 1.5
+      lantern:
+        income: 2.0
+        points: 2.0
+        experience: 2.0
       crafting_table:
         income: 0.7
         points: 0.7
@@ -2721,11 +3643,6 @@ Jobs:
         income: 3.0
         points: 3.0
         experience: 3.0
-    Kill:
-      Player:
-        income: 7.5
-        points: 7.5
-        experience: 7.5
   Fisherman:
     fullname: Fisherman
     shortname: Fi
@@ -2740,20 +3657,80 @@ Jobs:
       * ((numjobs-1)*0.05))
     experience-progression-equation: baseexperience-(baseexperience*((numjobs-1) *0.01))
     rejoinCooldown: 10
-    maxDailyQuests: 1
+    maxDailyQuests: 2
     Quests:
-      '1':
-        Name: Catcher
+      'cod_catcher':
+        Name: Cod Catcher
         Objectives:
-        - Fish;cod;2
-        - Fish;salmon;2
-        - Fish;tropical_fish;2
+        - Fish;cod;30
         RewardCommands:
-        - eco give [playerName] 100
+        - eco give [playerName] 1000
         - msg [playerName] Completed quest!
         RewardDesc:
-        - Catch fish and get money
-        - Get 100 for this!
+        - Catch 30 cod and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'salmon_catcher':
+        Name: Salmon Catcher
+        Objectives:
+        - Fish;salmon;15
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Catch 15 salmon and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'pufferfish_catcher':
+        Name: Pufferfish Catcher
+        Objectives:
+        - Fish;pufferfish;8
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Catch 6 pufferfish and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'tropical_fish_catcher':
+        Name: Tropical Fish Catcher
+        Objectives:
+        - Fish;tropical_fish;2
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Catch 2 tropical fish and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'saddle_catcher':
+        Name: Saddle Catcher
+        Objectives:
+        - Fish;saddle;1
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Catch 1 saddle and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'name_tag_catcher':
+        Name: Name Tag Catcher
+        Objectives:
+        - Fish;name_tag;1
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Catch 1 name tag and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
     Gui:
       Item: fishing_rod
     Fish:
@@ -2773,11 +3750,6 @@ Jobs:
         income: 25.0
         points: 25.0
         experience: 25.0
-    Kill:
-      Player:
-        income: 7.5
-        points: 7.5
-        experience: 7.5
   Weaponsmith:
     fullname: Weaponsmith
     shortname: W
@@ -2792,20 +3764,116 @@ Jobs:
       * ((numjobs-1)*0.05))
     experience-progression-equation: baseexperience-(baseexperience*((numjobs-1) *0.01))
     rejoinCooldown: 10
-    maxDailyQuests: 1
+    maxDailyQuests: 2
     Quests:
-      '1':
-        Name: War never ends
+      'wooden_sword_maker':
+        Name: Wooden Sword Maker
         Objectives:
-        - Craft;wooden_sword;2
-        - Craft;iron_chestplate;2
-        - Craft;gold_leggings;2
+        - Craft;wooden_sword;200
         RewardCommands:
-        - eco give [playerName] 100
+        - eco give [playerName] 1000
         - msg [playerName] Completed quest!
         RewardDesc:
-        - Craft weapons and get money
-        - Get 100 for this!
+        - Craft 200 wooden swords and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'wooden_axe_maker':
+        Name: Wooden Axe Maker
+        Objectives:
+        - Craft;wooden_axe;200
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Craft 200 wooden axes and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'stone_sword_maker':
+        Name: Stone Sword Maker
+        Objectives:
+        - Craft;stone_sword;100
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Craft 100 stone swords and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'stone_axe_maker':
+        Name: Stone Axe Maker
+        Objectives:
+        - Craft;stone_axe;100
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Craft 100 stone axes and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'iron_sword_maker':
+        Name: Iron Sword Maker
+        Objectives:
+        - Craft;iron_sword;50
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Craft 50 iron swords and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'iron_axe_maker':
+        Name: Iron Axe Maker
+        Objectives:
+        - Craft;iron_axe;50
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Craft 50 iron axes and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'mercenaries_gear':
+        Name: Equip 5 mercenaries
+        Objectives:
+        - Craft;wooden_sword;2
+        - Craft;wooden_axe;3
+        - Craft;leather_helmet;5
+        - Craft;leather_chestplate;5
+        - Craft;leather_leggings;5
+        - Craft;leather_boots;5
+        - Craft;shield;5
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Craft battle gear for 5 mercenaries and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'guards_gear':
+        Name: Equip 5 guards
+        Objectives:
+        - Craft;iron_sword;4
+        - Craft;iron_axe;1
+        - Craft;iron_helmet;5
+        - Craft;iron_chestplate;5
+        - Craft;iron_leggings;5
+        - Craft;iron_boots;5
+        - Craft;shield;5
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Craft battle gear for 5 guards and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
     Gui:
       Id: 58
       Data: 0
@@ -2919,6 +3987,22 @@ Jobs:
         income: 4.0
         points: 4.0
         experience: 4.0
+      wood_axe:
+        income: 1.0
+        points: 1.0
+        experience: 1.0
+      iron_axe:
+        income: 2.0
+        points: 2.0
+        experience: 2.0
+      gold_axe:
+        income: 3.0
+        points: 3.0
+        experience: 3.0
+      diamond_axe:
+        income: 4.0
+        points: 4.0
+        experience: 4.0
     Smelt:
       iron_ingot:
         income: 1.3
@@ -2946,20 +4030,116 @@ Jobs:
       * ((numjobs-1)*0.05))
     experience-progression-equation: baseexperience-(baseexperience*((numjobs-1) *0.01))
     rejoinCooldown: 10
-    maxDailyQuests: 1
+    maxDailyQuests: 2
     Quests:
-      '1':
-        Name: Heavy drinker
+      'awkward_potion_brewer':
+        Name: Awkward Potion Brewer
         Objectives:
-        - Brew;glowstone_dust;2
-        - Brew;redstone;2
-        - Brew;sugar;2
+        - Brew;nether_wart;100
         RewardCommands:
-        - eco give [playerName] 100
+        - eco give [playerName] 1000
         - msg [playerName] Completed quest!
         RewardDesc:
-        - Brew some stuff and get money
-        - Get 100 for this!
+        - Brew 100 awkward potions and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'potion_extender':
+        Name: Potion Extender
+        Objectives:
+        - Brew;redstone_dust;100
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Extend 100 potions and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'potion_amplifier':
+        Name: Potion Amplifier
+        Objectives:
+        - Brew;glowstone_dust;100
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Amplify 100 potions and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'potion_converter':
+        Name: Potion Converter
+        Objectives:
+        - Brew;fermented_spider_eye;100
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Convert 100 potions and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'splash_potion_brewer':
+        Name: Splash Potion Brewer
+        Objectives:
+        - Brew;gunpowder;80
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Brew 80 splash potions and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'lingering_potion_brewer':
+        Name: Lingering Potion Brewer
+        Objectives:
+        - Brew;dragon_breath;80
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Brew 80 lingering potions and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'swiftness_potion_brewer':
+        Name: Swiftness Potion Brewer
+        Objectives:
+        - Brew;sugar;100
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Brew 100 swiftness potions and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'water_breathing_potion_brewer':
+        Name: Water Breathing Potion Brewer
+        Objectives:
+        - Brew;pufferfish;100
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Brew 100 water breathing potions and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'regeneration_potion_brewer':
+        Name: Regeneration Potion Brewer
+        Objectives:
+        - Brew;ghast_tear;100
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Brew 100 regeneration potions and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
     Gui:
       Id: 379
       Data: 0
@@ -3035,7 +4215,7 @@ Jobs:
   Enchanter:
     fullname: Enchanter
     shortname: E
-    description: Earns money enchanting weapons.
+    description: Earns money enchanting items.
     ChatColour: DARK_BLUE
     chat-display: full
     max-level: 200
@@ -3046,24 +4226,112 @@ Jobs:
       * ((numjobs-1)*0.05))
     experience-progression-equation: baseexperience-(baseexperience*((numjobs-1) *0.01))
     rejoinCooldown: 10
-    maxDailyQuests: 1
+    maxDailyQuests: 2
     Quests:
-      '1':
-        Name: Harry the wizard
+      'efficiency_enchanter':
+        Name: Efficiency Enchanter
         Objectives:
-        - Enchant;wood_sword;1
-        - Enchant;diamond_sword;1
-        - Enchant;ARROW_DAMAGE;1
+        - Enchant;EFFICIENCY;10
         RewardCommands:
-        - eco give [playerName] 100
+        - eco give [playerName] 1000
         - msg [playerName] Completed quest!
         RewardDesc:
-        - Be a wizard and get money
-        - Get 100 for this!
+        - Enchant Efficiency 10 times and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'piercing_enchanter':
+        Name: Piercing Enchanter
+        Objectives:
+        - Enchant;PIERCING;10
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Enchant Piercing 10 times and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'power_enchanter':
+        Name: Power Enchanter
+        Objectives:
+        - Enchant;POWER;10
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Enchant Power 10 times and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'protection_enchanter':
+        Name: Protection Enchanter
+        Objectives:
+        - Enchant;PROTECTION;10
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Enchant Protection 10 times and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'sharpness_enchanter':
+        Name: Sharpness Enchanter
+        Objectives:
+        - Enchant;SHARPNESS;10
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Enchant Sharpness 10 times and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'smite_enchanter':
+        Name: Smite Enchanter
+        Objectives:
+        - Enchant;SMITE;8
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Enchant Smite 8 times and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'knockback_enchanter':
+        Name: Knockback Enchanter
+        Objectives:
+        - Enchant;KNOCKBACK;8
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Enchant Knockback 8 times and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
+      'feather_falling_enchanter':
+        Name: Feather Falling Enchanter
+        Objectives:
+        - Enchant;FEATHER_FALLING;8
+        RewardCommands:
+        - eco give [playerName] 1000
+        - msg [playerName] Completed quest!
+        RewardDesc:
+        - Enchant Feather Falling 8 times and get $1000
+        Chance: 50
+        toLevel: 10
+        fromLevel: 1
     Gui:
       Id: 116
       Data: 0
     Enchant:
+      book:
+        income: 1.5
+        points: 1.5
+        experience: 4.0
       wood_sword:
         income: 1.5
         points: 1.5
@@ -3128,7 +4396,7 @@ Jobs:
         income: 9.0
         points: 9.0
         experience: 30.0
-      diamond_spade:
+      diamond_shovel:
         income: 5.0
         points: 5.0
         experience: 30.0
