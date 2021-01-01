@@ -141,7 +141,7 @@ Jobs:
         Objectives:
         - Kill;Zombie;50
         RewardCommands:
-        - eco give [playerName] 2000
+        - eco give [playerName] 10000
         - msg [playerName] Completed quest!
         RewardDesc:
         - Kill 50 zombies
@@ -546,7 +546,7 @@ Jobs:
     rejoinCooldown: 10
     maxDailyQuests: 2
     Quests:
-      'oak_breaker':
+      oak_breaker:
         Name: Oak Breaker
         Objectives:
         - Break;oak_log;200
@@ -558,7 +558,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'birch_breaker':
+      birch_breaker:
         Name: Birch breaker
         Objectives:
         - Break;birch_log;200
@@ -570,7 +570,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'dark_oak_breaker':
+      dark_oak_breaker:
         Name: Dark Oak Breaker
         Objectives:
         - Break;dark_oak_log;200
@@ -582,7 +582,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'spruce_breaker':
+      spruce_breaker:
         Name: Spruce Breaker
         Objectives:
         - Break;spruce_log;200
@@ -594,7 +594,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'acacia_breaker':
+      acacia_breaker:
         Name: Acacia Breaker
         Objectives:
         - Break;acacia_log;200
@@ -606,7 +606,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'jungle_breaker':
+      jungle_breaker:
         Name: Jungle Breaker
         Objectives:
         - Break;jungle_log;200
@@ -686,7 +686,7 @@ Jobs:
     rejoinCooldown: 10
     maxDailyQuests: 2
     Quests:
-      'stone_breaker':
+      stone_breaker:
         Name: Stone Breaker
         Objectives:
         - Break;stone;400
@@ -698,7 +698,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'andesite_breaker':
+      andesite_breaker:
         Name: Andesite Breaker
         Objectives:
         - Break;andesite;50
@@ -710,7 +710,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'diorite_breaker':
+      diorite_breaker:
         Name: Diorite Breaker
         Objectives:
         - Break;diorite;50
@@ -722,7 +722,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'granite_breaker':
+      granite_breaker:
         Name: Granite Breaker
         Objectives:
         - Break;granite;50
@@ -734,7 +734,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'coal_miner':
+      coal_miner:
         Name: Coal Miner
         Objectives:
         - Break;coal_ore;150
@@ -746,7 +746,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'iron_miner':
+      iron_miner:
         Name: Iron Miner
         Objectives:
         - Break;iron_ore;50
@@ -758,7 +758,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'redstone_miner':
+      redstone_miner:
         Name: Redstone Miner
         Objectives:
         - Break;redstone_ore;50
@@ -770,7 +770,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'gold_miner':
+      gold_miner:
         Name: Gold Miner
         Objectives:
         - Break;gold_ore;15
@@ -782,7 +782,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'lapis_miner':
+      lapis_miner:
         Name: Lapis Lazuli Miner
         Objectives:
         - Break;lapis_ore;6
@@ -794,138 +794,6 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      # 'stone_breaker':
-      #   Name: Stone Breaker
-      #   Objectives:
-      #   - Break;stone;200
-      #   RewardCommands:
-      #   - eco give [playerName] 1000
-      #   - msg [playerName] Completed quest!
-      #   RewardDesc:
-      #   - Break 200 stone blocks and get $1000
-      #   Chance: 100
-      #   toLevel: 10
-      #   fromLevel: 1
-      # 'granite_breaker':
-      #   Name: Granite Breaker
-      #   Objectives:
-      #   - Break;granite;200
-      #   RewardCommands:
-      #   - eco give [playerName] 1000
-      #   - msg [playerName] Completed quest!
-      #   RewardDesc:
-      #   - Break 200 granite blocks and get $1000
-      #   Chance: 100
-      #   toLevel: 10
-      #   fromLevel: 1
-      # 'diorite_breaker':
-      #   Name: Diorite Breaker
-      #   Objectives:
-      #   - Break;diorite;200
-      #   RewardCommands:
-      #   - eco give [playerName] 1000
-      #   - msg [playerName] Completed quest!
-      #   RewardDesc:
-      #   - Break 200 diorite blocks and get $1000
-      #   Chance: 100
-      #   toLevel: 10
-      #   fromLevel: 1
-      # 'andesite_breaker':
-      #   Name: Andesite Breaker
-      #   Objectives:
-      #   - Break;andesite;200
-      #   RewardCommands:
-      #   - eco give [playerName] 1000
-      #   - msg [playerName] Completed quest!
-      #   RewardDesc:
-      #   - Break 200 andesite blocks and get $1000
-      #   Chance: 100
-      #   toLevel: 10
-      #   fromLevel: 1
-      # 'gravel_breaker':
-      #   Name: Gravel Breaker
-      #   Objectives:
-      #   - Break;gravel;200
-      #   RewardCommands:
-      #   - eco give [playerName] 1000
-      #   - msg [playerName] Completed quest!
-      #   RewardDesc:
-      #   - Break 200 gravel and get $1000
-      #   Chance: 100
-      #   toLevel: 10
-      #   fromLevel: 1
-      # 'dirt_breaker':
-      #   Name: Gravel Breaker
-      #   Objectives:
-      #   - Break;dirt;200
-      #   RewardCommands:
-      #   - eco give [playerName] 1000
-      #   - msg [playerName] Completed quest!
-      #   RewardDesc:
-      #   - Break 200 dirt and get $1000
-      #   Chance: 100
-      #   toLevel: 10
-      #   fromLevel: 1
-      # 'coal_breaker':
-      #   Name: Coal Breaker
-      #   Objectives:
-      #   - Break;coal_ore;200
-      #   RewardCommands:
-      #   - eco give [playerName] 1000
-      #   - msg [playerName] Completed quest!
-      #   RewardDesc:
-      #   - Break 200 coal ore and get $1000
-      #   Chance: 100
-      #   toLevel: 10
-      #   fromLevel: 1
-      # 'redstone_breaker':
-      #   Name: Redstone Breaker
-      #   Objectives:
-      #   - Break;redstone_ore;200
-      #   RewardCommands:
-      #   - eco give [playerName] 1000
-      #   - msg [playerName] Completed quest!
-      #   RewardDesc:
-      #   - Break 200 redstone ore and get $1000
-      #   Chance: 100
-      #   toLevel: 10
-      #   fromLevel: 1
-      # 'lapis_breaker':
-      #   Name: Lapis Breaker
-      #   Objectives:
-      #   - Break;lapis_ore;200
-      #   RewardCommands:
-      #   - eco give [playerName] 1000
-      #   - msg [playerName] Completed quest!
-      #   RewardDesc:
-      #   - Break 200 lapis ore and get $1000
-      #   Chance: 100
-      #   toLevel: 10
-      #   fromLevel: 1
-      # 'gold_breaker':
-      #   Name: Gold Breaker
-      #   Objectives:
-      #   - Break;gold_ore;200
-      #   RewardCommands:
-      #   - eco give [playerName] 1000
-      #   - msg [playerName] Completed quest!
-      #   RewardDesc:
-      #   - Break 200 gold ore and get $1000
-      #   Chance: 100
-      #   toLevel: 10
-      #   fromLevel: 1
-      # 'iron_breaker':
-      #   Name: Iron Breaker
-      #   Objectives:
-      #   - Break;iron_ore;200
-      #   RewardCommands:
-      #   - eco give [playerName] 1000
-      #   - msg [playerName] Completed quest!
-      #   RewardDesc:
-      #   - Break 200 iron ore and get $1000
-      #   Chance: 100
-      #   toLevel: 10
-      #   fromLevel: 1
     Gui:
       Id: 270
       Data: 0
@@ -1125,7 +993,7 @@ Jobs:
     rejoinCooldown: 10
     maxDailyQuests: 2
     Quests:
-      'stone_placer':
+      stone_placer:
         Name: Stone Placer
         Objectives:
         - Place;stone;100
@@ -1137,7 +1005,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'stone_stairs_placer':
+      stone_stairs_placer:
         Name: Stone Stairs Placer
         Objectives:
         - Place;stone_stairs;100
@@ -1149,7 +1017,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'cobblestone_placer':
+      cobblestone_placer:
         Name: Cobblestone Placer
         Objectives:
         - Place;cobblestone;100
@@ -1161,7 +1029,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'cobblestone_stairs_placer':
+      cobblestone_stairs_placer:
         Name: Cobblestone Stairs Placer
         Objectives:
         - Place;cobblestone_stairs;100
@@ -1173,7 +1041,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'stone_bricks_placer':
+      stone_bricks_placer:
         Name: Stone Bricks Placer
         Objectives:
         - Place;stone_bricks;100
@@ -1185,7 +1053,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'stone_bricks_stairs_placer':
+      stone_bricks_stairs_placer:
         Name: Stone Bricks Stairs Placer
         Objectives:
         - Place;stone_brick_stairs;100
@@ -1197,7 +1065,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'andesite_placer':
+      andesite_placer:
         Name: Andesite Placer
         Objectives:
         - Place;andesite;100
@@ -1209,7 +1077,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'diorite_placer':
+      diorite_placer:
         Name: Diorite Placer
         Objectives:
         - Place;diorite;100
@@ -1221,7 +1089,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'granite_placer':
+      granite_placer:
         Name: Granite Placer
         Objectives:
         - Place;granite;100
@@ -1233,7 +1101,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'glass_placer':
+      glass_placer:
         Name: Glass Placer
         Objectives:
         - Place;glass;100
@@ -1245,7 +1113,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'oak_planks_placer':
+      oak_planks_placer:
         Name: Oak Planks Placer
         Objectives:
         - Place;oak_planks;100
@@ -1257,7 +1125,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'birch_planks_placer':
+      birch_planks_placer:
         Name: Birch Planks Placer
         Objectives:
         - Place;birch_planks;100
@@ -1269,7 +1137,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'dark_oak_planks_placer':
+      dark_oak_planks_placer:
         Name: Dark Oak Planks Placer
         Objectives:
         - Place;dark_oak_planks;100
@@ -1281,7 +1149,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'spruce_planks_placer':
+      spruce_planks_placer:
         Name: Spruce Planks Placer
         Objectives:
         - Place;spruce_planks;100
@@ -1293,7 +1161,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'acacia_planks_placer':
+      acacia_planks_placer:
         Name: Acacia Planks Placer
         Objectives:
         - Place;acacia_planks;100
@@ -1305,7 +1173,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'jungle_planks_placer':
+      jungle_planks_placer:
         Name: Jungle Planks Placer
         Objectives:
         - Place;jungle_planks;100
@@ -2052,7 +1920,7 @@ Jobs:
     rejoinCooldown: 10
     maxDailyQuests: 2
     Quests:
-      'dirt_digger':
+      dirt_digger:
         Name: Dirt Digger
         Objectives:
         - Break;dirt;600
@@ -2064,7 +1932,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'grass_block_digger':
+      grass_block_digger:
         Name: Grass Block Digger
         Objectives:
         - Break;grass_block;400
@@ -2076,7 +1944,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'gravel_digger':
+      gravel_digger:
         Name: Gravel Digger
         Objectives:
         - Break;gravel;400
@@ -2088,7 +1956,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'sand_digger':
+      sand_digger:
         Name: Sand Digger
         Objectives:
         - Break;sand;600
@@ -2100,7 +1968,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'red_sand_digger':
+      red_sand_digger:
         Name: Red Sand Digger
         Objectives:
         - Break;red_sand;600
@@ -2112,7 +1980,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'coarse_dirt_digger':
+      coarse_dirt_digger:
         Name: Coarse Dirt Digger
         Objectives:
         - Break;coarse_dirt;600
@@ -2124,7 +1992,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'podzol_digger':
+      podzol_digger:
         Name: Podzol Digger
         Objectives:
         - Break;podzol;600
@@ -2136,7 +2004,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'ice_digger':
+      ice_digger:
         Name: Ice Digger
         Objectives:
         - Break;ice;600
@@ -2148,7 +2016,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'clay_digger':
+      clay_digger:
         Name: Clay Digger
         Objectives:
         - Break;clay;250
@@ -2216,7 +2084,7 @@ Jobs:
     rejoinCooldown: 10
     maxDailyQuests: 2
     Quests:
-      'wheat_planter':
+      wheat_planter:
         Name: Wheat Planter
         Objectives:
         - Place;wheat;200
@@ -2228,7 +2096,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'wheat_harvester':
+      wheat_harvester:
         Name: Wheat Harvester
         Objectives:
         - Break;wheat-7;200
@@ -2240,7 +2108,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'potato_planter':
+      potato_planter:
         Name: Potato Planter
         Objectives:
         - Place;potatoes;200
@@ -2252,7 +2120,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'potato_harvester':
+      potato_harvester:
         Name: Potato Harvester
         Objectives:
         - Break;potatoes-7;200
@@ -2264,7 +2132,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'carrot_planter':
+      carrot_planter:
         Name: Carrot Planter
         Objectives:
         - Place;carrots;200
@@ -2276,7 +2144,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'carrot_harvester':
+      carrot_harvester:
         Name: Carrot Harvester
         Objectives:
         - Break;carrots-7;200
@@ -2288,7 +2156,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'beetroot_planter':
+      beetroot_planter:
         Name: Beetroot Planter
         Objectives:
         - Place;beetroots;200
@@ -2300,8 +2168,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      # Doesn't work
-      'beetroot_harvester':
+      beetroot_harvester:
         Name: Beetroot Harvester
         Objectives:
         - Place;beetroots-3;200
@@ -2313,7 +2180,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'melon_planter':
+      melon_planter:
         Name: Melon Planter
         Objectives:
         - Place;melon_stem;200
@@ -2325,7 +2192,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'melon_harvester':
+      melon_harvester:
         Name: Melon Harvester
         Objectives:
         - Break;melon;200
@@ -2337,7 +2204,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'pumpkin_planter':
+      pumpkin_planter:
         Name: Pumpkin Planter
         Objectives:
         - Place;pumpkin_stem;200
@@ -2349,7 +2216,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'pumpkin_harvester':
+      pumpkin_harvester:
         Name: Pumpkin Harvester
         Objectives:
         - Break;pumpkin;200
@@ -2733,7 +2600,7 @@ Jobs:
     rejoinCooldown: 10
     maxDailyQuests: 2
     Quests:
-      'zombie_killer':
+      zombie_killer:
         Name: Zombie Killer
         Objectives:
         - Kill;zombie;50
@@ -2745,7 +2612,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'skeleton_killer':
+      skeleton_killer:
         Name: Skeleton Killer
         Objectives:
         - Kill;skeleton;50
@@ -2757,7 +2624,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'spider_killer':
+      spider_killer:
         Name: Spider Killer
         Objectives:
         - Kill;spider;50
@@ -2769,7 +2636,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'creeper_killer':
+      creeper_killer:
         Name: Creeper Killer
         Objectives:
         - Kill;creeper;50
@@ -2781,7 +2648,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'enderman_killer':
+      enderman_killer:
         Name: Enderman Killer
         Objectives:
         - Kill;enderman;20
@@ -2793,7 +2660,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'drowned_killer':
+      drowned_killer:
         Name: Drowned Killer
         Objectives:
         - Kill;drowned;50
@@ -2805,7 +2672,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'husk_killer':
+      husk_killer:
         Name: Husk Killer
         Objectives:
         - Kill;husk;50
@@ -2817,7 +2684,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'zombie_villager_killer':
+      zombie_villager_killer:
         Name: Zombie Villager Killer
         Objectives:
         - Kill;zombie_villager;30
@@ -2974,7 +2841,7 @@ Jobs:
     rejoinCooldown: 10
     maxDailyQuests: 2
     Quests:
-      'explore_first':
+      explore_first:
         Name: First one to explore
         Objectives:
         - Explore;1;30
@@ -2986,7 +2853,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'explore_second':
+      explore_second:
         Name: Second one to explore
         Objectives:
         - Explore;2;30
@@ -2999,7 +2866,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'explore_third':
+      explore_third:
         Name: Third one to explore
         Objectives:
         - Explore;3;30
@@ -3012,7 +2879,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'explore_fourth':
+      explore_fourth:
         Name: Fourth one to explore
         Objectives:
         - Explore;4;30
@@ -3025,7 +2892,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'explore_last':
+      explore_last:
         Name: Last one to explore
         Objectives:
         - Explore;5;30
@@ -3038,7 +2905,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'craft_map':
+      craft_map:
         Name: Make Maps
         Objectives:
         - Craft;empty_map;20
@@ -3095,7 +2962,7 @@ Jobs:
     rejoinCooldown: 10
     maxDailyQuests: 2
     Quests:
-      'chests_maker':
+      chests_maker:
         Name: Chests Maker
         Objectives:
         - Craft;chest;50
@@ -3107,7 +2974,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'lantern_maker':
+      lantern_maker:
         Name: Lantern Maker
         Objectives:
         - Craft;lantern;50
@@ -3119,7 +2986,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'furnace_maker':
+      furnace_maker:
         Name: Furnace Maker
         Objectives:
         - Craft;furnace;50
@@ -3131,7 +2998,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'barrel_maker':
+      barrel_maker:
         Name: Barrel Maker
         Objectives:
         - Craft;barrel;50
@@ -3143,7 +3010,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'hopper_maker':
+      hopper_maker:
         Name: Hopper Maker
         Objectives:
         - Craft;hopper;20
@@ -3155,7 +3022,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'stick_maker':
+      stick_maker:
         Name: Stick Maker
         Objectives:
         - Craft;stick;300
@@ -3167,7 +3034,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'enchanting_table_maker':
+      enchanting_table_maker:
         Name: Enchanting Table Maker
         Objectives:
         - Craft;enchanting_table;2
@@ -3659,7 +3526,7 @@ Jobs:
     rejoinCooldown: 10
     maxDailyQuests: 2
     Quests:
-      'cod_catcher':
+      cod_catcher:
         Name: Cod Catcher
         Objectives:
         - Fish;cod;30
@@ -3671,7 +3538,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'salmon_catcher':
+      salmon_catcher:
         Name: Salmon Catcher
         Objectives:
         - Fish;salmon;15
@@ -3683,7 +3550,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'pufferfish_catcher':
+      pufferfish_catcher:
         Name: Pufferfish Catcher
         Objectives:
         - Fish;pufferfish;8
@@ -3695,7 +3562,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'tropical_fish_catcher':
+      tropical_fish_catcher:
         Name: Tropical Fish Catcher
         Objectives:
         - Fish;tropical_fish;2
@@ -3707,7 +3574,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'saddle_catcher':
+      saddle_catcher:
         Name: Saddle Catcher
         Objectives:
         - Fish;saddle;1
@@ -3719,7 +3586,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'name_tag_catcher':
+      name_tag_catcher:
         Name: Name Tag Catcher
         Objectives:
         - Fish;name_tag;1
@@ -3766,7 +3633,7 @@ Jobs:
     rejoinCooldown: 10
     maxDailyQuests: 2
     Quests:
-      'wooden_sword_maker':
+      wooden_sword_maker:
         Name: Wooden Sword Maker
         Objectives:
         - Craft;wooden_sword;200
@@ -3778,7 +3645,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'wooden_axe_maker':
+      wooden_axe_maker:
         Name: Wooden Axe Maker
         Objectives:
         - Craft;wooden_axe;200
@@ -3790,7 +3657,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'stone_sword_maker':
+      stone_sword_maker:
         Name: Stone Sword Maker
         Objectives:
         - Craft;stone_sword;100
@@ -3802,7 +3669,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'stone_axe_maker':
+      stone_axe_maker:
         Name: Stone Axe Maker
         Objectives:
         - Craft;stone_axe;100
@@ -3814,7 +3681,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'iron_sword_maker':
+      iron_sword_maker:
         Name: Iron Sword Maker
         Objectives:
         - Craft;iron_sword;50
@@ -3826,7 +3693,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'iron_axe_maker':
+      iron_axe_maker:
         Name: Iron Axe Maker
         Objectives:
         - Craft;iron_axe;50
@@ -3838,7 +3705,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'mercenaries_gear':
+      mercenaries_gear:
         Name: Equip 5 mercenaries
         Objectives:
         - Craft;wooden_sword;2
@@ -3856,7 +3723,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'guards_gear':
+      guards_gear:
         Name: Equip 5 guards
         Objectives:
         - Craft;iron_sword;4
@@ -4032,7 +3899,7 @@ Jobs:
     rejoinCooldown: 10
     maxDailyQuests: 2
     Quests:
-      'awkward_potion_brewer':
+      awkward_potion_brewer:
         Name: Awkward Potion Brewer
         Objectives:
         - Brew;nether_wart;100
@@ -4044,7 +3911,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'potion_extender':
+      potion_extender:
         Name: Potion Extender
         Objectives:
         - Brew;redstone_dust;100
@@ -4056,7 +3923,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'potion_amplifier':
+      potion_amplifier:
         Name: Potion Amplifier
         Objectives:
         - Brew;glowstone_dust;100
@@ -4068,7 +3935,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'potion_converter':
+      potion_converter:
         Name: Potion Converter
         Objectives:
         - Brew;fermented_spider_eye;100
@@ -4080,7 +3947,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'splash_potion_brewer':
+      splash_potion_brewer:
         Name: Splash Potion Brewer
         Objectives:
         - Brew;gunpowder;80
@@ -4092,7 +3959,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'lingering_potion_brewer':
+      lingering_potion_brewer:
         Name: Lingering Potion Brewer
         Objectives:
         - Brew;dragon_breath;80
@@ -4104,7 +3971,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'swiftness_potion_brewer':
+      swiftness_potion_brewer:
         Name: Swiftness Potion Brewer
         Objectives:
         - Brew;sugar;100
@@ -4116,7 +3983,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'water_breathing_potion_brewer':
+      water_breathing_potion_brewer:
         Name: Water Breathing Potion Brewer
         Objectives:
         - Brew;pufferfish;100
@@ -4128,7 +3995,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'regeneration_potion_brewer':
+      regeneration_potion_brewer:
         Name: Regeneration Potion Brewer
         Objectives:
         - Brew;ghast_tear;100
@@ -4228,7 +4095,7 @@ Jobs:
     rejoinCooldown: 10
     maxDailyQuests: 2
     Quests:
-      'efficiency_enchanter':
+      efficiency_enchanter:
         Name: Efficiency Enchanter
         Objectives:
         - Enchant;EFFICIENCY;10
@@ -4240,7 +4107,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'piercing_enchanter':
+      piercing_enchanter:
         Name: Piercing Enchanter
         Objectives:
         - Enchant;PIERCING;10
@@ -4252,7 +4119,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'power_enchanter':
+      power_enchanter:
         Name: Power Enchanter
         Objectives:
         - Enchant;POWER;10
@@ -4264,7 +4131,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'protection_enchanter':
+      protection_enchanter:
         Name: Protection Enchanter
         Objectives:
         - Enchant;PROTECTION;10
@@ -4276,7 +4143,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'sharpness_enchanter':
+      sharpness_enchanter:
         Name: Sharpness Enchanter
         Objectives:
         - Enchant;SHARPNESS;10
@@ -4288,7 +4155,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'smite_enchanter':
+      smite_enchanter:
         Name: Smite Enchanter
         Objectives:
         - Enchant;SMITE;8
@@ -4300,7 +4167,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'knockback_enchanter':
+      knockback_enchanter:
         Name: Knockback Enchanter
         Objectives:
         - Enchant;KNOCKBACK;8
@@ -4312,7 +4179,7 @@ Jobs:
         Chance: 50
         toLevel: 10
         fromLevel: 1
-      'feather_falling_enchanter':
+      feather_falling_enchanter:
         Name: Feather Falling Enchanter
         Objectives:
         - Enchant;FEATHER_FALLING;8
