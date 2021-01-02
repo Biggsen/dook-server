@@ -142,6 +142,7 @@ shopItemLoreFormat:
   # This one to permissions
   permission:
     - "&7Buy price: &c%buy%"
+    - "%owned%"
   # And this one to enchantments
   enchantment:
     - "&7Buy price: &c%buy%"
