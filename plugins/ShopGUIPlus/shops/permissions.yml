@@ -1,6 +1,15 @@
 permissions:
   # Shop item permissions
   name: "&9&lPermissions (page %page%)"
+  namePerPage:
+    1: "&2&lBlocks"
+    2: "&9&lFood"
+    3: "&a&lFarming"
+    4: "&3&lMob drops"
+    5: "&8&lOres"
+    6: "&d&lArmor"
+    7: "&6&lWeapons and tools"
+    8: "&e&lUtilities"
   size: 45
   fillItem:
     material: BLACK_STAINED_GLASS_PANE
