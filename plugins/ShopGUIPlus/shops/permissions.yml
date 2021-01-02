@@ -510,19 +510,19 @@ permissions:
       sellPrice: -1
       slot: 5
       page: 5
-    5061:
-      type: command
-      item:
-        material: DIAMOND
-        quantity: 1
-        name: "Sell diamonds in the ores shop"
-        lore:
-          - "This permission will expire in 1 day"
-      commands:
-        - "lp user %PLAYER% permission settemp shopguiplus.item.ores.61 true 1d"
-      buyPrice: 2500
-      slot: 14
-      page: 5
+    # 5061:
+    #   type: command
+    #   item:
+    #     material: DIAMOND
+    #     quantity: 1
+    #     name: "Sell diamonds in the ores shop"
+    #     lore:
+    #       - "This permission will expire in 1 day"
+    #   commands:
+    #     - "lp user %PLAYER% permission settemp shopguiplus.item.ores.61 true 1d"
+    #   buyPrice: 2500
+    #   slot: 14
+    #   page: 5
     5070:
       type: permission
       permission: "shopguiplus.item.ores.70"
@@ -534,20 +534,20 @@ permissions:
       sellPrice: -1
       slot: 6
       page: 5
-    5071:
-      type: command
-      item:
-        material: EMERALD
-        quantity: 1
-        name: "Sell emeralds in the ores shop"
-        lore:
-          - "This permission will expire in 1 day"
-      commands:
-        - "lp user %PLAYER% permission settemp shopguiplus.item.ores.71 true 1d"
-      buyPrice: 2500
-      sellPrice: -1
-      slot: 15
-      page: 5
+    # 5071:
+    #   type: command
+    #   item:
+    #     material: EMERALD
+    #     quantity: 1
+    #     name: "Sell emeralds in the ores shop"
+    #     lore:
+    #       - "This permission will expire in 1 day"
+    #   commands:
+    #     - "lp user %PLAYER% permission settemp shopguiplus.item.ores.71 true 1d"
+    #   buyPrice: 2500
+    #   sellPrice: -1
+    #   slot: 15
+    #   page: 5
     money5:
       type: special
       special: BALANCE
