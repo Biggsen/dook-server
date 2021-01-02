@@ -1,5 +1,5 @@
 weapons_tools:
-  name: "&8&lWeapons and tools (page %page%)"
+  name: "&6&lWeapons and tools (page %page%)"
   size: 54
   enablePerItemPermissions: true
   fillItem:

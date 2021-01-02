@@ -1,5 +1,5 @@
 perks:
-  name: "&3&lPerks (page %page%)"
+  name: "&9&lPerks (page %page%)"
   size: 45
   enablePerItemPermissions: true
   fillItem:

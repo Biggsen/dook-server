@@ -1,6 +1,6 @@
 permissions:
   # Shop item permissions
-  name: "&3&lPermissions (page %page%)"
+  name: "&9&lPermissions (page %page%)"
   size: 45
   fillItem:
     material: BLACK_STAINED_GLASS_PANE
@@ -718,7 +718,8 @@ permissions:
       special: BALANCE
       slot: 44
       page: 7
-    # weapons and tools
+
+    # utilities
     800:
       type: permission
       permission: "shopguiplus.item.utilities.torch"

@@ -1,5 +1,5 @@
 utilities:
-  name: "&8&lUtilities (page %page%)"
+  name: "&e&lUtilities (page %page%)"
   size: 45
   enablePerItemPermissions: true
   fillItem:

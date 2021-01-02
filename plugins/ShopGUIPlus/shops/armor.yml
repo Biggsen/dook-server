@@ -1,5 +1,5 @@
 armor:
-  name: "&4&lArmor (page %page%)"
+  name: "&d&lArmor (page %page%)"
   size: 45
   enablePerItemPermissions: true
   fillItem:

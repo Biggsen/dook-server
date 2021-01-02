@@ -1,5 +1,5 @@
 drops:
-  name: "&9&lMob drops (page %page%)"
+  name: "&3&lMob drops (page %page%)"
   size: 45
   enablePerItemPermissions: true
   fillItem:

@@ -1,5 +1,5 @@
 ores:
-  name: "&3&lOres (page %page%)"
+  name: "&8&lOres (page %page%)"
   size: 45
   enablePerItemPermissions: true
   fillItem:

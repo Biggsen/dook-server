@@ -1,5 +1,5 @@
 blocks:
-  name: "&9&lBlocks (page %page%)"
+  name: "&2&lBlocks (page %page%)"
   size: 45
   enablePerItemPermissions: true
   fillItem:

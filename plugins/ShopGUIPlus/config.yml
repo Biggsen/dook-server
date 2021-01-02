@@ -548,7 +548,7 @@ shopMenuItems:
       # The same rules apply for material, amount, damage and lore as for goBackButton
       material: GRASS_BLOCK
       quantity: 1
-      name: "&9&lBlocks"
+      name: "&2&lBlocks"
     # Shop ID from shops yaml
     shop: "blocks"
     # Slot in shops menu, counting from 0 to 53
@@ -558,49 +558,49 @@ shopMenuItems:
       material: APPLE
       quantity: 1
       damage: 0
-      name: "&2&lFood"
+      name: "&9&lFood"
     shop: "food"
     slot: 1
   3:
     item:
       material: WHEAT
       quantity: 1
-      name: "&5&lFarming"
+      name: "&a&lFarming"
     shop: "farming"
     slot: 2
   4:
     item:
       material: ROTTEN_FLESH
       quantity: 1
-      name: "&9&lMob drops"
+      name: "&3&lMob drops"
     shop: "drops"
     slot: 3
   5:
     item:
       material: DIAMOND
       quantity: 1
-      name: "&3&lOres"
+      name: "&8&lOres"
     shop: "ores"
     slot: 4
   6:
     item:
       material: IRON_CHESTPLATE
       quantity: 1
-      name: "&4&lArmor"
+      name: "&d&lArmor"
     shop: "armor"
     slot: 5
   7:
     item:
       material: IRON_AXE
       quantity: 1
-      name: "&8&lWeapons and tools"
+      name: "&6&lWeapons and tools"
     shop: "weapons_tools"
     slot: 6
   8:
     item:
       material: LANTERN
       quantity: 1
-      name: "&8&lUtilities"
+      name: "&e&lUtilities"
     shop: "utilities"
     slot: 7
   # 8:

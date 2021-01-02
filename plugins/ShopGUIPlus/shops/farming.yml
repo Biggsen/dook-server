@@ -1,5 +1,5 @@
 farming:
-  name: "&5&lFarming (page %page%)"
+  name: "&a&lFarming (page %page%)"
   size: 45
   enablePerItemPermissions: true
   fillItem:

@@ -1,5 +1,5 @@
 food:
-  name: "&2&lFood (page %page%)"
+  name: "&9&lFood (page %page%)"
   size: 45
   enablePerItemPermissions: true
   fillItem:
