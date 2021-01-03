@@ -51,8 +51,9 @@ rewards:
   # Example of matchers. See https://github.com/minecrafter/SuperbVote/wiki/Configuration#if for a full list of available
   # matchers.
   - if:
-      permission: suberbvote.claimblocks
-      chance: 1
+      permission: superbvote.test
+      chance-percentage: 5
+      service: test
     commands:
     - adjustbonusclaimblocks %player% 15
     player-message: "&aThanks for voting for us on %service%, you have been rewarded with 15 claimblocks."

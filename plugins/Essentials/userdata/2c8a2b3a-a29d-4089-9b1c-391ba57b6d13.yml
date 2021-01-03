@@ -1,23 +1,23 @@
 lastAccountName: vanism
 timestamps:
-  login: 1609020264226
-  logout: 1609020308981
-  lastteleport: 1608987102945
+  login: 1609677211686
+  logout: 1609677479446
+  lastteleport: 1609617407489
 ipAddress: 82.15.220.198
 logoutlocation:
   world: world
-  x: -711.6283349810542
+  x: -706.8797892561568
   y: 64.0
-  z: 548.9841902661801
-  yaw: -1.6476448
-  pitch: 23.699965
+  z: 550.704941497421
+  yaw: -243.907
+  pitch: 17.700047
 lastlocation:
   world: world
-  x: -258.55112505374314
-  y: 67.0
-  z: 108.13335205974786
-  yaw: -124.1709
-  pitch: 3.0000706
+  x: -521.037241272386
+  y: 64.0
+  z: 681.5874072102763
+  yaw: -62.60898
+  pitch: 19.05
 homes:
   home:
     world: world
@@ -28,10 +28,10 @@ homes:
     pitch: 12.150052
   mine:
     world: world
-    x: -708.0489250775227
+    x: -708.0007803883052
     y: 12.0
-    z: 658.0146347814408
-    yaw: -178.1145
-    pitch: 12.300205
-money: '16987.45434999999973853'
+    z: 678.6689098602259
+    yaw: -179.34229
+    pitch: 19.35196
+money: '18067.92609999999971113'
 afk: false

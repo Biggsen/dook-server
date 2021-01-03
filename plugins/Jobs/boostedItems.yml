@@ -37,3 +37,29 @@ exampleBoost:
   levelFrom: 0
   # (Optional) Defines level of job until which this boost should be applied
   levelUntil: 50
+Miner_helmet:
+  id: DIAMOND_HELMET
+  name: '&8Armor'
+  lore:
+  - '&eBobs armor'
+  - '&710% bonus XP'
+  enchants: []
+  moneyBoost: 1.1
+  expBoost: 1.1
+  pointsBoost: 1.0
+  jobs:
+  - Miner
+Miner_firstone:
+  id: DIAMOND_PICKAXE
+  name: '&8Miner Pickaxe'
+  lore:
+  - '&eBobs pick'
+  - '&710% bonus XP'
+  enchants:
+  - FIRE_ASPECT=1
+  - SHARPNESS=1
+  moneyBoost: 1.1
+  expBoost: 1.19
+  pointsBoost: 1.3
+  jobs:
+  - Miner
