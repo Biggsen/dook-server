@@ -138,5 +138,5 @@ DIALOG:
       NAME: '&cSelling stacks of %item%'
 SHOP:
   PERMISSION:
-    ALREADYOWNED: '&4(Already owned)'
-    NOTOWNED: '&a(Not owned)'
+    ALREADYOWNED: '&a(Not owned)'
+    NOTOWNED: '&4(Already owned)'
