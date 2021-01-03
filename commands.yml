@@ -17,3 +17,5 @@ aliases:
   - version $1-
   discord:
   - customtext discord $1-
+  store:
+  - customtext store $1-

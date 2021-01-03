@@ -34,3 +34,6 @@ This text here will be shown if you type /vote
 
 #discord
 &6Join our discord at https://discord.gg/Z5QXruHRnS
+
+#store
+&6Visit the Dook store at https://dook.enjin.com
