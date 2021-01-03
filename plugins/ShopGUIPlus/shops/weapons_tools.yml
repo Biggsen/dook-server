@@ -65,6 +65,46 @@ weapons_tools:
       buyPrice: 25
       sellPrice: 8
       slot: 6
+    stone_sword:
+      type: item
+      item:
+        material: STONE_SWORD
+        quantity: 1
+      buyPrice: 13
+      sellPrice: 4
+      slot: 9
+    stone_axe:
+      type: item
+      item:
+        material: STONE_AXE
+        quantity: 1
+      buyPrice: 22
+      sellPrice: 7
+      slot: 10
+    stone_pickaxe:
+      type: item
+      item:
+        material: STONE_PICKAXE
+        quantity: 1
+      buyPrice: 22
+      sellPrice: 7
+      slot: 11
+    stone_shovel:
+      type: item
+      item:
+        material: STONE_SHOVEL
+        quantity: 1
+      buyPrice: 14
+      sellPrice: 4
+      slot: 12
+    stone_hoe:
+      type: item
+      item:
+        material: STONE_HOE
+        quantity: 1
+      buyPrice: 18
+      sellPrice: 5
+      slot: 13
     golden_sword_buy:
       type: item
       item:
@@ -72,7 +112,7 @@ weapons_tools:
         quantity: 1
       buyPrice: 505
       sellPrice: -1
-      slot: 9
+      slot: 18
     golden_sword_sell:
       type: item
       item:
@@ -80,7 +120,7 @@ weapons_tools:
         quantity: 1
       buyPrice: -1
       sellPrice: 152
-      slot: 18
+      slot: 27
     golden_axe_buy:
       type: item
       item:
@@ -88,7 +128,7 @@ weapons_tools:
         quantity: 1
       buyPrice: 760
       sellPrice: -1
-      slot: 10
+      slot: 19
     golden_axe_sell:
       type: item
       item:
@@ -96,7 +136,7 @@ weapons_tools:
         quantity: 1
       buyPrice: -1
       sellPrice: 228
-      slot: 19
+      slot: 28
     golden_pickaxe_buy:
       type: item
       item:
@@ -104,7 +144,7 @@ weapons_tools:
         quantity: 1
       buyPrice: 760
       sellPrice: -1
-      slot: 11
+      slot: 20
     golden_pickaxe_sell:
       type: item
       item:
@@ -112,7 +152,7 @@ weapons_tools:
         quantity: 1
       buyPrice: -1
       sellPrice: 228
-      slot: 20
+      slot: 29
     golden_shovel_buy:
       type: item
       item:
@@ -120,7 +160,7 @@ weapons_tools:
         quantity: 1
       buyPrice: 260
       sellPrice: -1
-      slot: 12
+      slot: 21
     golden_shovel_sell:
       type: item
       item:
@@ -128,7 +168,7 @@ weapons_tools:
         quantity: 1
       buyPrice: -1
       sellPrice: 78
-      slot: 21
+      slot: 30
     golden_hoe_buy:
       type: item
       item:
@@ -136,7 +176,7 @@ weapons_tools:
         quantity: 1
       buyPrice: 510
       sellPrice: -1
-      slot: 13
+      slot: 22
     golden_hoe_sell:
       type: item
       item:
@@ -144,7 +184,7 @@ weapons_tools:
         quantity: 1
       buyPrice: -1
       sellPrice: 153
-      slot: 22
+      slot: 31
   #   2:
   #     type: item
   #     item:

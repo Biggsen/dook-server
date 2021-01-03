@@ -625,7 +625,7 @@ permissions:
       item:
         material: WOODEN_SWORD
         quantity: 1
-        name: "Buy and sell wooden swords and axes in the weapons and tools shop"
+        name: "Buy and sell wooden swords and axes"
       buyPrice: 1000
       sellPrice: -1
       slot: 0
@@ -639,10 +639,37 @@ permissions:
       item:
         material: WOODEN_PICKAXE
         quantity: 1
-        name: "Buy and sell wooden pickaxes, shovels and hoes in the weapons and tools shop"
+        name: "Buy and sell wooden pickaxes, shovels and hoes"
       buyPrice: 1000
       sellPrice: -1
       slot: 1
+      page: 7
+    703:
+      type: permission
+      permissions:
+        - "shopguiplus.item.weapons_tools.stone_sword"
+        - "shopguiplus.item.weapons_tools.stone_axe"
+      item:
+        material: STONE_SWORD
+        quantity: 1
+        name: "Buy and sell stone swords and axes"
+      buyPrice: 1000
+      sellPrice: -1
+      slot: 2
+      page: 7
+    704:
+      type: permission
+      permissions:
+        - "shopguiplus.item.weapons_tools.stone_pickaxe"
+        - "shopguiplus.item.weapons_tools.stone_shovel"
+        - "shopguiplus.item.weapons_tools.stone_hoe"
+      item:
+        material: STONE_PICKAXE
+        quantity: 1
+        name: "Buy and sell stone pickaxes, shovels and hoes"
+      buyPrice: 1000
+      sellPrice: -1
+      slot: 3
       page: 7
     705:
       type: permission
@@ -653,7 +680,7 @@ permissions:
         name: "Buy and sell bows in the weapons and tools shop"
       buyPrice: 1000
       sellPrice: -1
-      slot: 2
+      slot: 4
       page: 7
     706:
       type: permission
@@ -664,7 +691,7 @@ permissions:
         name: "Buy and sell fishing rods in the weapons and tools shop"
       buyPrice: 1000
       sellPrice: -1
-      slot: 3
+      slot: 5
       page: 7
     7010:
       type: permission
