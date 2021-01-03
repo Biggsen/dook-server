@@ -701,36 +701,36 @@ Jobs:
       andesite_breaker:
         Name: Andesite Breaker
         Objectives:
-        - Break;andesite;50
+        - Break;andesite;100
         RewardCommands:
         - eco give [playerName] 1000
         - msg [playerName] Completed quest!
         RewardDesc:
-        - Break 50 andesite blocks and get $1000
+        - Break 100 andesite blocks and get $1000
         Chance: 50
         toLevel: 50
         fromLevel: 1
       diorite_breaker:
         Name: Diorite Breaker
         Objectives:
-        - Break;diorite;50
+        - Break;diorite;100
         RewardCommands:
         - eco give [playerName] 1000
         - msg [playerName] Completed quest!
         RewardDesc:
-        - Break 50 diorite blocks and get $1000
+        - Break 100 diorite blocks and get $1000
         Chance: 50
         toLevel: 50
         fromLevel: 1
       granite_breaker:
         Name: Granite Breaker
         Objectives:
-        - Break;granite;50
+        - Break;granite;100
         RewardCommands:
         - eco give [playerName] 1000
         - msg [playerName] Completed quest!
         RewardDesc:
-        - Break 50 granite blocks and get $1000
+        - Break 100 granite blocks and get $1000
         Chance: 50
         toLevel: 50
         fromLevel: 1
