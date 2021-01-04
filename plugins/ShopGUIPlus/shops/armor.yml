@@ -41,6 +41,70 @@ armor:
       buyPrice: 120
       sellPrice: 36
       slot: 3
+    iron_helmet_buy:
+      type: item
+      item:
+        material: IRON_HELMET
+        quantity: 1
+      buyPrice: 500
+      sellPrice: -1
+      slot: 4
+    iron_helmet_sell:
+      type: item
+      item:
+        material: IRON_HELMET
+        quantity: 1
+      buyPrice: -1
+      sellPrice: 150
+      slot: 13
+    iron_chestplate_buy:
+      type: item
+      item:
+        material: IRON_CHESTPLATE
+        quantity: 1
+      buyPrice: 800
+      sellPrice: -1
+      slot: 5
+    iron_chestplate_sell:
+      type: item
+      item:
+        material: IRON_CHESTPLATE
+        quantity: 1
+      buyPrice: -1
+      sellPrice: 240
+      slot: 14
+    iron_leggings_buy:
+      type: item
+      item:
+        material: IRON_LEGGINGS
+        quantity: 1
+      buyPrice: 700
+      sellPrice: -1
+      slot: 6
+    iron_leggings_sell:
+      type: item
+      item:
+        material: IRON_LEGGINGS
+        quantity: 1
+      buyPrice: -1
+      sellPrice: 210
+      slot: 15
+    iron_boots_buy:
+      type: item
+      item:
+        material: IRON_BOOTS
+        quantity: 1
+      buyPrice: 400
+      sellPrice: -1
+      slot: 7
+    iron_boots_sell:
+      type: item
+      item:
+        material: IRON_BOOTS
+        quantity: 1
+      buyPrice: -1
+      sellPrice: 120
+      slot: 16
     golden_helmet_buy:
       type: item
       item:
@@ -48,7 +112,7 @@ armor:
         quantity: 1
       buyPrice: 1250
       sellPrice: -1
-      slot: 4
+      slot: 18
     golden_helmet_sell:
       type: item
       item:
@@ -56,7 +120,7 @@ armor:
         quantity: 1
       buyPrice: -1
       sellPrice: 375
-      slot: 13
+      slot: 27
     golden_chestplate_buy:
       type: item
       item:
@@ -64,7 +128,7 @@ armor:
         quantity: 1
       buyPrice: 2000
       sellPrice: -1
-      slot: 5
+      slot: 19
     golden_chestplate_sell:
       type: item
       item:
@@ -72,7 +136,7 @@ armor:
         quantity: 1
       buyPrice: -1
       sellPrice: 600
-      slot: 14
+      slot: 28
     golden_leggings_buy:
       type: item
       item:
@@ -80,7 +144,7 @@ armor:
         quantity: 1
       buyPrice: 1750
       sellPrice: -1
-      slot: 6
+      slot: 20
     golden_leggings_sell:
       type: item
       item:
@@ -88,7 +152,7 @@ armor:
         quantity: 1
       buyPrice: -1
       sellPrice: 525
-      slot: 15
+      slot: 29
     golden_boots_buy:
       type: item
       item:
@@ -96,7 +160,7 @@ armor:
         quantity: 1
       buyPrice: 1000
       sellPrice: -1
-      slot: 7
+      slot: 21
     golden_boots_sell:
       type: item
       item:
@@ -104,7 +168,7 @@ armor:
         quantity: 1
       buyPrice: -1
       sellPrice: 300
-      slot: 16
+      slot: 30
     # 3:
     #   type: item
     #   item:

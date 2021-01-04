@@ -582,6 +582,37 @@ permissions:
     6010:
       type: permission
       permissions:
+        - "shopguiplus.item.armor.iron_helmet_buy"
+        - "shopguiplus.item.armor.iron_chestplate_buy"
+        - "shopguiplus.item.armor.iron_leggings_buy"
+        - "shopguiplus.item.armor.iron_boots_buy"
+      item:
+        material: IRON_CHESTPLATE
+        quantity: 1
+        name: "Buy iron armor in the armor shop"
+      buyPrice: 1000
+      sellPrice: -1
+      slot: 1
+      page: 6
+    6011:
+      type: command
+      item:
+        material: IRON_CHESTPLATE
+        quantity: 1
+        name: "Sell iron armor in the armor shop"
+        lore:
+          - "This permission will expire in 1 day"
+      commands:
+        - "lp user %PLAYER% permission settemp shopguiplus.item.armor.iron_helmet_sell true 1d"
+        - "lp user %PLAYER% permission settemp shopguiplus.item.armor.iron_chestplate_sell true 1d"
+        - "lp user %PLAYER% permission settemp shopguiplus.item.armor.iron_leggings_sell true 1d"
+        - "lp user %PLAYER% permission settemp shopguiplus.item.armor.iron_boots_sell true 1d"
+      buyPrice: 1000
+      slot: 10
+      page: 6
+    6012:
+      type: permission
+      permissions:
         - "shopguiplus.item.armor.golden_helmet_buy"
         - "shopguiplus.item.armor.golden_chestplate_buy"
         - "shopguiplus.item.armor.golden_leggings_buy"
@@ -592,9 +623,9 @@ permissions:
         name: "Buy golden armor in the armor shop"
       buyPrice: 1000
       sellPrice: -1
-      slot: 1
+      slot: 2
       page: 6
-    6011:
+    6013:
       type: command
       item:
         material: GOLDEN_CHESTPLATE
@@ -608,7 +639,7 @@ permissions:
         - "lp user %PLAYER% permission settemp shopguiplus.item.armor.golden_leggings_sell true 1d"
         - "lp user %PLAYER% permission settemp shopguiplus.item.armor.golden_boots_sell true 1d"
       buyPrice: 1000
-      slot: 10
+      slot: 11
       page: 6
     money6:
       type: special
@@ -696,6 +727,62 @@ permissions:
     7010:
       type: permission
       permissions:
+        - "shopguiplus.item.weapons_tools.iron_sword_buy"
+        - "shopguiplus.item.weapons_tools.iron_axe_buy"
+      item:
+        material: IRON_SWORD
+        quantity: 1
+        name: "Buy iron swords and axes in the weapons and tools shop"
+      buyPrice: 1000
+      sellPrice: -1
+      slot: 9
+      page: 7
+    7011:
+      type: command
+      item:
+        material: IRON_SWORD
+        quantity: 1
+        name: "Sell iron swords and axes in the weapons and tools shop"
+        lore:
+          - "This permission will expire in 2 days"
+      commands:
+        - "lp user %PLAYER% permission settemp shopguiplus.item.weapons_tools.iron_sword_sell true 2d"
+        - "lp user %PLAYER% permission settemp shopguiplus.item.weapons_tools.iron_axe_sell true 2d"
+      buyPrice: 1000
+      slot: 18
+      page: 7
+    7020:
+      type: permission
+      permissions:
+        - "shopguiplus.item.weapons_tools.iron_pickaxe_buy"
+        - "shopguiplus.item.weapons_tools.iron_shovel_buy"
+        - "shopguiplus.item.weapons_tools.iron_hoe_buy"
+      item:
+        material: IRON_PICKAXE
+        quantity: 1
+        name: "Buy iron pickaxes, shovels and hoes in the weapons and tools shop"
+      buyPrice: 1000
+      sellPrice: -1
+      slot: 10
+      page: 7
+    7021:
+      type: command
+      item:
+        material: IRON_PICKAXE
+        quantity: 1
+        name: "Sell iron pickaxes, shovels and hoes in the weapons and tools shop"
+        lore:
+          - "This permission will expire in 2 days"
+      commands:
+        - "lp user %PLAYER% permission settemp shopguiplus.item.weapons_tools.iron_pickaxe_sell true 2d"
+        - "lp user %PLAYER% permission settemp shopguiplus.item.weapons_tools.iron_shovel_sell true 2d"
+        - "lp user %PLAYER% permission settemp shopguiplus.item.weapons_tools.iron_hoe_sell true 2d"
+      buyPrice: 1000
+      slot: 19
+      page: 7
+    7030:
+      type: permission
+      permissions:
         - "shopguiplus.item.weapons_tools.golden_sword_buy"
         - "shopguiplus.item.weapons_tools.golden_axe_buy"
       item:
@@ -704,9 +791,9 @@ permissions:
         name: "Buy golden swords and axes in the weapons and tools shop"
       buyPrice: 1000
       sellPrice: -1
-      slot: 9
+      slot: 11
       page: 7
-    7011:
+    7031:
       type: command
       item:
         material: GOLDEN_SWORD
@@ -718,9 +805,9 @@ permissions:
         - "lp user %PLAYER% permission settemp shopguiplus.item.weapons_tools.golden_sword_sell true 2d"
         - "lp user %PLAYER% permission settemp shopguiplus.item.weapons_tools.golden_axe_sell true 2d"
       buyPrice: 1000
-      slot: 18
+      slot: 20
       page: 7
-    7020:
+    7040:
       type: permission
       permissions:
         - "shopguiplus.item.weapons_tools.golden_pickaxe_buy"
@@ -732,9 +819,9 @@ permissions:
         name: "Buy golden pickaxes, shovels and hoes in the weapons and tools shop"
       buyPrice: 1000
       sellPrice: -1
-      slot: 10
+      slot: 12
       page: 7
-    7021:
+    7041:
       type: command
       item:
         material: GOLDEN_PICKAXE
@@ -747,7 +834,7 @@ permissions:
         - "lp user %PLAYER% permission settemp shopguiplus.item.weapons_tools.golden_shovel_sell true 2d"
         - "lp user %PLAYER% permission settemp shopguiplus.item.weapons_tools.golden_hoe_sell true 2d"
       buyPrice: 1000
-      slot: 19
+      slot: 21
       page: 7
     money7:
       type: special
@@ -793,4 +880,4 @@ permissions:
       type: special
       special: BALANCE
       slot: 44
-      page: 7
+      page: 8

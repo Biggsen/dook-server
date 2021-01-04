@@ -1,13 +1,17 @@
 weapons_tools:
   name: "&6&lWeapons and tools (page %page%)"
-  size: 54
+  size: 45
   enablePerItemPermissions: true
   fillItem:
     material: BLACK_STAINED_GLASS_PANE
     name: " "
   buttons:
     goBack:
-      slot: 49
+      slot: 40
+    previousPage:
+      slot: 39
+    nextPage:
+      slot: 41
   items:
     wooden_sword:
       type: item
@@ -105,6 +109,92 @@ weapons_tools:
       buyPrice: 18
       sellPrice: 5
       slot: 13
+    iron_sword_buy:
+      type: item
+      item:
+        material: IRON_SWORD
+        quantity: 1
+      buyPrice: 205
+      sellPrice: -1
+      slot: 18
+    iron_sword_sell:
+      type: item
+      item:
+        material: IRON_SWORD
+        quantity: 1
+      buyPrice: -1
+      sellPrice: 62
+      slot: 27
+    iron_axe_buy:
+      type: item
+      item:
+        material: IRON_AXE
+        quantity: 1
+      buyPrice: 310
+      sellPrice: -1
+      slot: 19
+    iron_axe_sell:
+      type: item
+      item:
+        material: IRON_AXE
+        quantity: 1
+      buyPrice: -1
+      sellPrice: 93
+      slot: 28
+    iron_pickaxe_buy:
+      type: item
+      item:
+        material: IRON_PICKAXE
+        quantity: 1
+      buyPrice: 310
+      sellPrice: -1
+      slot: 20
+    iron_pickaxe_sell:
+      type: item
+      item:
+        material: IRON_PICKAXE
+        quantity: 1
+      buyPrice: -1
+      sellPrice: 93
+      slot: 29
+    iron_shovel_buy:
+      type: item
+      item:
+        material: IRON_SHOVEL
+        quantity: 1
+      buyPrice: 110
+      sellPrice: -1
+      slot: 21
+    iron_shovel_sell:
+      type: item
+      item:
+        material: IRON_SHOVEL
+        quantity: 1
+      buyPrice: -1
+      sellPrice: 33
+      slot: 30
+    iron_hoe_buy:
+      type: item
+      item:
+        material: IRON_HOE
+        quantity: 1
+      buyPrice: 210
+      sellPrice: -1
+      slot: 22
+    iron_hoe_sell:
+      type: item
+      item:
+        material: IRON_HOE
+        quantity: 1
+      buyPrice: -1
+      sellPrice: 63
+      slot: 31
+    money:
+      type: special
+      special: BALANCE
+      slot: 44
+
+    #page 2
     golden_sword_buy:
       type: item
       item:
@@ -112,7 +202,8 @@ weapons_tools:
         quantity: 1
       buyPrice: 505
       sellPrice: -1
-      slot: 18
+      slot: 0
+      page: 2
     golden_sword_sell:
       type: item
       item:
@@ -120,7 +211,8 @@ weapons_tools:
         quantity: 1
       buyPrice: -1
       sellPrice: 152
-      slot: 27
+      slot: 9
+      page: 2
     golden_axe_buy:
       type: item
       item:
@@ -128,7 +220,8 @@ weapons_tools:
         quantity: 1
       buyPrice: 760
       sellPrice: -1
-      slot: 19
+      slot: 1
+      page: 2
     golden_axe_sell:
       type: item
       item:
@@ -136,7 +229,8 @@ weapons_tools:
         quantity: 1
       buyPrice: -1
       sellPrice: 228
-      slot: 28
+      slot: 10
+      page: 2
     golden_pickaxe_buy:
       type: item
       item:
@@ -144,7 +238,8 @@ weapons_tools:
         quantity: 1
       buyPrice: 760
       sellPrice: -1
-      slot: 20
+      slot: 2
+      page: 2
     golden_pickaxe_sell:
       type: item
       item:
@@ -152,7 +247,8 @@ weapons_tools:
         quantity: 1
       buyPrice: -1
       sellPrice: 228
-      slot: 29
+      slot: 11
+      page: 2
     golden_shovel_buy:
       type: item
       item:
@@ -160,7 +256,8 @@ weapons_tools:
         quantity: 1
       buyPrice: 260
       sellPrice: -1
-      slot: 21
+      slot: 3
+      page: 2
     golden_shovel_sell:
       type: item
       item:
@@ -168,7 +265,8 @@ weapons_tools:
         quantity: 1
       buyPrice: -1
       sellPrice: 78
-      slot: 30
+      slot: 12
+      page: 2
     golden_hoe_buy:
       type: item
       item:
@@ -176,7 +274,8 @@ weapons_tools:
         quantity: 1
       buyPrice: 510
       sellPrice: -1
-      slot: 22
+      slot: 4
+      page: 2
     golden_hoe_sell:
       type: item
       item:
@@ -184,7 +283,8 @@ weapons_tools:
         quantity: 1
       buyPrice: -1
       sellPrice: 153
-      slot: 31
+      slot: 13
+      page: 2
   #   2:
   #     type: item
   #     item:
@@ -265,7 +365,8 @@ weapons_tools:
   #     buyPrice: 100
   #     sellPrice: 20
   #     slot: 25
-    money:
+    money2:
       type: special
       special: BALANCE
-      slot: 53
+      slot: 44
+      page: 2
