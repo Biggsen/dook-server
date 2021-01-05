@@ -639,6 +639,13 @@ shopMenuItems:
       name: "&9&lClaimblocks"
     shop: "claimblocks"
     slot: 20
+  13:
+    item:
+      material: IRON_SHOVEL
+      quantity: 1
+      name: "&9&lJobs"
+    shop: "jobs"
+    slot: 21
   # vote_rewards:
   #   item:
   #     material: GOLD_INGOT

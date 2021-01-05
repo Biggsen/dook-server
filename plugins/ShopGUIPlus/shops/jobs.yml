@@ -1,0 +1,47 @@
+jobs:
+  name: "&9&lJobs"
+  size: 45
+  enablePerItemPermissions: true
+  fillItem:
+    material: BLACK_STAINED_GLASS_PANE
+    name: " "
+  buttons:
+    goBack:
+      slot: 40
+    previousPage:
+      slot: 36
+    nextPage:
+      slot: 45
+  items:
+    jobs_3:
+      type: permission
+      permissions:
+        - "jobs.max.3"
+        - "shopguiplus.item.jobs.jobs_4"
+      item:
+        material: IRON_SHOVEL
+        quantity: 3
+        name: "Get the third job"
+        lore:
+        - "Get a total of 3 jobs"
+      buyPrice: 200000
+      sellPrice: -1
+      slot: 0
+    jobs_4:
+      type: permission
+      permissions:
+        - "jobs.max.4"
+        - "shopguiplus.item.jobs.jobs_5"
+      item:
+        material: IRON_SHOVEL
+        quantity: 4
+        name: "Get the fourth job"
+        lore:
+        - "Get a total of 4 jobs"
+      buyPrice: 500000
+      sellPrice: -1
+      slot: 1
+    money:
+      type: special
+      special: BALANCE
+      slot: 44
