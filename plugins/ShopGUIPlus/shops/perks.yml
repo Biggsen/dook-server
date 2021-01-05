@@ -1,5 +1,5 @@
 perks:
-  name: "&9&lPerks (page %page%)"
+  name: "&9&lPerks"
   size: 45
   enablePerItemPermissions: true
   fillItem:
@@ -102,7 +102,7 @@ perks:
         name: "Second backpack row"
         lore:
           - "Get 9 more slots in your backpack"
-      buyPrice: 20000
+      buyPrice: 60000
       sellPrice: -1
       slot: 19
     perms_bp_3:
@@ -116,7 +116,7 @@ perks:
         name: "Third backpack row"
         lore:
           - "Get 9 more slots in your backpack"
-      buyPrice: 25000
+      buyPrice: 80000
       sellPrice: -1
       slot: 20
     perms_bp_4:
@@ -130,7 +130,7 @@ perks:
         name: "Fourth backpack row"
         lore:
           - "Get 9 more slots in your backpack"
-      buyPrice: 30000
+      buyPrice: 100000
       sellPrice: -1
       slot: 21
     perms_bp_5:
@@ -144,9 +144,22 @@ perks:
         name: "Fifth backpack row"
         lore:
           - "Get 9 more slots in your backpack"
-      buyPrice: 35000
+      buyPrice: 150000
       sellPrice: -1
       slot: 22
+    perms_bp_6:
+      type: permission
+      permissions:
+        - "backpack.size.6"
+      item:
+        material: CHEST
+        quantity: 1
+        name: "Sixth backpack row"
+        lore:
+          - "Get 9 more slots in your backpack"
+      buyPrice: 200000
+      sellPrice: -1
+      slot: 23
     perms_home_3:
       type: permission
       permissions:
@@ -158,7 +171,7 @@ perks:
         name: "Get 3 homes"
         lore:
           - "Get a total of 3 homes"
-      buyPrice: 30000
+      buyPrice: 40000
       sellPrice: -1
       slot: 27
     perms_home_4:
@@ -172,7 +185,7 @@ perks:
         name: "Get 4 homes"
         lore:
           - "Get a total of 4 homes"
-      buyPrice: 35000
+      buyPrice: 50000
       sellPrice: -1
       slot: 28
     perms_home_5:
@@ -186,7 +199,7 @@ perks:
         name: "Get 5 homes"
         lore:
           - "Get a total of 5 homes"
-      buyPrice: 40000
+      buyPrice: 70000
       sellPrice: -1
       slot: 29
     perms_home_6:
@@ -200,7 +213,7 @@ perks:
         name: "Get 6 homes"
         lore:
           - "Get a total of 6 homes"
-      buyPrice: 45000
+      buyPrice: 100000
       sellPrice: -1
       slot: 30
     perms_home_7:
@@ -214,7 +227,7 @@ perks:
         name: "Get 7 homes"
         lore:
           - "Get a total of 7 homes"
-      buyPrice: 50000
+      buyPrice: 140000
       sellPrice: -1
       slot: 31
     money:

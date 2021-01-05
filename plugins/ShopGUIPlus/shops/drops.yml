@@ -117,14 +117,6 @@ drops:
     #   buyPrice: 50
     #   sellPrice: 5
     #   slot: 15
-    # 7:
-    #   type: item
-    #   item:
-    #     material: SLIME_BALL
-    #     quantity: 16
-    #   buyPrice: 40
-    #   sellPrice: 4
-    #   slot: 16
     # 8:
     #   type: item
     #   item:
