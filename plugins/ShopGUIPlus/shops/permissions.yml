@@ -103,6 +103,36 @@ permissions:
       buyPrice: 1000
       sellPrice: -1
       slot: 7
+    sand:
+      type: permission
+      permission: "shopguiplus.item.blocks.sand"
+      item:
+        material: SAND
+        quantity: 1
+        name: "Buy and sell sand in the blocks shop"
+      buyPrice: 1000
+      sellPrice: -1
+      slot: 9
+    red_sand:
+      type: permission
+      permission: "shopguiplus.item.blocks.red_sand"
+      item:
+        material: RED_SAND
+        quantity: 1
+        name: "Buy and sell red sand in the blocks shop"
+      buyPrice: 1000
+      sellPrice: -1
+      slot: 10
+    glass:
+      type: permission
+      permission: "shopguiplus.item.blocks.glass"
+      item:
+        material: GLASS
+        quantity: 1
+        name: "Buy and sell glass in the blocks shop"
+      buyPrice: 1000
+      sellPrice: -1
+      slot: 11
     money1:
       type: special
       special: BALANCE

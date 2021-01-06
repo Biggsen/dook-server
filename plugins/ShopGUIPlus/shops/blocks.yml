@@ -90,6 +90,36 @@ blocks:
       buyPrice: 96
       sellPrice: 29
       slot: 7
+    sand:
+      type: item
+      item:
+        material: SAND
+        quantity: 32
+        lore:
+          - "$3.00/$0.91 each"
+      buyPrice: 96
+      sellPrice: 29
+      slot: 9
+    red_sand:
+      type: item
+      item:
+        material: RED_SAND
+        quantity: 32
+        lore:
+          - "$4.00/$1.19 each"
+      buyPrice: 128
+      sellPrice: 38
+      slot: 10
+    glass:
+      type: item
+      item:
+        material: GLASS
+        quantity: 16
+        lore:
+          - "$7.00/$2.13 each"
+      buyPrice: 112
+      sellPrice: 34
+      slot: 11
     # 5:
     #   type: item
     #   item:
