@@ -45,7 +45,7 @@ general:
   # => global    | Protect all
   # => custom    | Select mobs to protect and use /sv protect
   # => factions  | Protect mobs in your lands from other player attacks
-  protection-type: global
+  protection-type: custom
 
   # [Damage settings]
   # General settings for damage protection of mobs
@@ -188,16 +188,16 @@ mobs:
 damage:
   # Protection against these mobs
   mobs:
-    evoker: false
-    illusioner: false
-    pillager: false
-    ravager: false
-    skeleton: false
-    vex: false
-    vindicator: false
-    witch: false
-    wither: false
-    zombie: false
+    evoker: true
+    illusioner: true
+    pillager: true
+    ravager: true
+    skeleton: true
+    vex: true
+    vindicator: true
+    witch: true
+    wither: true
+    zombie: true
 
   # Misc damages
   other:
