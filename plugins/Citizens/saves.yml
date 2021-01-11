@@ -1,0 +1,131 @@
+# Citizens NPC Storage
+
+last-created-npc-id: 2
+npc:
+  '1':
+    metadata:
+      cached-skin-uuid-name: fc42b649-20df-4df2-ab7c-4e6a6c4d9bd9
+      cached-skin-uuid: 444a0244-5219-465b-8635-167e7820be94
+    name: Quests
+    uuid: 852cce0f-e39a-46e0-bf28-669482b0ed6a
+    traits:
+      type: PLAYER
+      spawned: true
+      lookclose:
+        range: '5.0'
+        enabled: true
+        enableRandomLook: false
+        randomLookDelay: 60
+        realisticlooking: false
+        randomPitchRange:
+          '0': -10.0
+          '1': 0.0
+        randomYawRange:
+          '0': 0.0
+          '1': 360.0
+      skintrait:
+        fetchDefaultSkin: true
+        signature: bgj/Ug5UZ1aBD3KxAKgT8tqXRgdkYfr/YaZttsAwOkM5aFHCOCeyOzVu5q4rA+JwqbWHRXwnxiJnPV/lHBBDQzhjXO8zWwsU3v64HYi6VTAegPuENhgC0rNKhr4sl1z6toT89mfOfdy492cqi1r6zrTHogvSY9GYIqyLyyBzyG2wk9exZ9/zpUBPjSQ7tnujv3hGZ9csQ79F+2/i4T2CsiUUlNNvfaVDFFzkhlaVlGIq76ReDJ4BCo2imZZJ9u8N7DlYOBhnhVls0oBNwEqtv2tQj0a0UAzF4tPGn681SMwB/xmFdeYgVHLzN+wM1S4fkRh6OUQAkMK1c+gyvYm/XbvhgSS0WUMhEoK4uqN+ituh9+6JDdBspsH9orB0m7AnhgtmjmEkMA2mfGeUzfkZ4khjlVqhpOZMC4uV26tiRi/vET3gHdjGkHHqHTgrsWDBFOfvvqcgerutpuNdrPkWIPO5s+Rcnh2541ny0qvk/2vl49CeCnBrLDWVPTb4Oju8XlZ+D7D01uohH2T21y29yOaxgLwZPcqqg04niC7Gs0/T20+tepLvkGTxm5uecHXfpRedsdTlPFgyqipODT5HrPnAL7JW/eXx09ItUbknadoNgwHAxmJVXuLpE9xcwjPPS30gLIaKTt4mmGnrUgY2AolYshzVnIcZzEWnvAlOMeg=
+        skinName: fc42b649-20df-4df2-ab7c-4e6a6c4d9bd9
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTYxMDIyMzgxMTU1MiwKICAicHJvZmlsZUlkIiA6ICIzM2ViZDMyYmIzMzk0YWQ5YWM2NzBjOTZjNTQ5YmE3ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJEYW5ub0JhbmFubm9YRCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84ZTgxNTUzNTc5M2U3YWM0Nzk1MjYwNDI2YjQwNjA4YTkzMTI4MmFkYzMxYWM0YTFkNDZjMDNjMDYzYTdlYTg3IgogICAgfQogIH0KfQ==
+        updateSkins: false
+      location:
+        bodyYaw: -110.01404
+        world: world
+        x: '-262.0185'
+        y: '67.0'
+        z: '115.0091'
+        yaw: '-155.014'
+        pitch: '0.0'
+      owner:
+        owner: verzion
+        uuid: f7d0c52a-f9cd-49f4-9f21-16e988fdf4fc
+    traitnames: mounttrait,spawned,location,owner,type,inventory,equipment,scoreboardtrait,skintrait,lookclose
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '0':
+    metadata:
+      cached-skin-uuid-name: b257ce1f-e047-4872-b913-9b9d48016967
+    name: Mayor Dannet
+    uuid: aedc3a53-e947-4b13-89fe-752c5ba9121f
+    traits:
+      type: PLAYER
+      spawned: true
+      lookclose:
+        range: '5.0'
+        enabled: true
+        enableRandomLook: false
+        randomLookDelay: 60
+        realisticlooking: false
+        randomPitchRange:
+          '0': -10.0
+          '1': 0.0
+        randomYawRange:
+          '0': 0.0
+          '1': 360.0
+      skintrait:
+        fetchDefaultSkin: true
+        signature: ckd4177xr5BSRw5M9FKq7UXyerFMv/DAiC6GmkNhiiYAW8VR4BTfgkpCWDH3NXvGBYtASGCGWrKYOWB94/5qaxlJe4W9fwQsMGweWWmPu7ocrDX8+EhZ/tznnwmq4ufynWOzxbrG2izsK0DnuNuY2Bsr/OF7skPXLvjgcYaYY1cAsfI2Waiy9DaJuPUTlvDs0jbQw/r7O2EgeQ9rWTJgosL8ErV7Jn7uoVEdQWgqiX9gs0BDvtW5gPbdQ4AGnpsgmd83Fd3EGfg9U6SwrEdmpb0fYJHPnXlTbBhIVNtglYguAWANTqD1BU5qUXvxig/VE/fXeP60jTtoM3O7C19W+5NubWSrDhpQYdBo10uuRjNTpJaUqoiMjltXCa2peAgY8MUTKIftKMdAIYZkg1FqUSqe4XhLS0ck/tOMUgnjkQtarzYIwrQORS3cp9rHMm9HfO/u1V+Dk6ntC81pNNys9BkeYUeRPFVTdf8TkG7HYU6iUNT55sZRHk/0okO8RJlNYmzomvRl0DaERPKai7jKVEhSPhg1wAWBORlcS6fkODVkXwToPmmmXvjHg3ujoFeHjmMyloWzNd/KSW2WmpvT2BHQWa2YAcCMO8KwW5DJvVd4wpuz9I+QQIyjNLjV8zBbFlmu/RmdPLGkxoG416oUoxb+wA+WvvI+7BIc8JIPNYU=
+        skinName: b257ce1f-e047-4872-b913-9b9d48016967
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTYxMDIxNjg0OTAxOCwKICAicHJvZmlsZUlkIiA6ICJkMGI4MjE1OThmMTE0NzI1ODBmNmNiZTliOGUxYmU3MCIsCiAgInByb2ZpbGVOYW1lIiA6ICJqYmFydHl5IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzlhMjdhZWVlMzg0MjkyNDFlY2NkNzJhNzVlODAzMGU1ZjA5ZGRhMDRiMjU1NWI3YjkzYTBlNzU3OTVmMDI0ZjUiCiAgICB9CiAgfQp9
+        updateSkins: false
+      location:
+        bodyYaw: 87.43573
+        world: world
+        x: '-205.4836'
+        y: '67.0'
+        z: '-210.3'
+        yaw: '53.5818'
+        pitch: '-28.1864'
+      owner:
+        owner: verzion
+        uuid: f7d0c52a-f9cd-49f4-9f21-16e988fdf4fc
+    traitnames: mounttrait,spawned,location,owner,type,inventory,equipment,scoreboardtrait,skintrait,lookclose
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '2':
+    metadata:
+      cached-skin-uuid-name: b257ce1f-e047-4872-b913-9b9d48016967
+    name: Mayor Sanses
+    uuid: 7ee41e90-dfa5-4616-8884-4ddf098e117e
+    traits:
+      type: PLAYER
+      spawned: true
+      lookclose:
+        range: '5.0'
+        enabled: true
+        enableRandomLook: false
+        randomLookDelay: 60
+        realisticlooking: false
+        randomPitchRange:
+          '0': -10.0
+          '1': 0.0
+        randomYawRange:
+          '0': 0.0
+          '1': 360.0
+      skintrait:
+        fetchDefaultSkin: true
+        signature: ckd4177xr5BSRw5M9FKq7UXyerFMv/DAiC6GmkNhiiYAW8VR4BTfgkpCWDH3NXvGBYtASGCGWrKYOWB94/5qaxlJe4W9fwQsMGweWWmPu7ocrDX8+EhZ/tznnwmq4ufynWOzxbrG2izsK0DnuNuY2Bsr/OF7skPXLvjgcYaYY1cAsfI2Waiy9DaJuPUTlvDs0jbQw/r7O2EgeQ9rWTJgosL8ErV7Jn7uoVEdQWgqiX9gs0BDvtW5gPbdQ4AGnpsgmd83Fd3EGfg9U6SwrEdmpb0fYJHPnXlTbBhIVNtglYguAWANTqD1BU5qUXvxig/VE/fXeP60jTtoM3O7C19W+5NubWSrDhpQYdBo10uuRjNTpJaUqoiMjltXCa2peAgY8MUTKIftKMdAIYZkg1FqUSqe4XhLS0ck/tOMUgnjkQtarzYIwrQORS3cp9rHMm9HfO/u1V+Dk6ntC81pNNys9BkeYUeRPFVTdf8TkG7HYU6iUNT55sZRHk/0okO8RJlNYmzomvRl0DaERPKai7jKVEhSPhg1wAWBORlcS6fkODVkXwToPmmmXvjHg3ujoFeHjmMyloWzNd/KSW2WmpvT2BHQWa2YAcCMO8KwW5DJvVd4wpuz9I+QQIyjNLjV8zBbFlmu/RmdPLGkxoG416oUoxb+wA+WvvI+7BIc8JIPNYU=
+        skinName: b257ce1f-e047-4872-b913-9b9d48016967
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTYxMDIxNjg0OTAxOCwKICAicHJvZmlsZUlkIiA6ICJkMGI4MjE1OThmMTE0NzI1ODBmNmNiZTliOGUxYmU3MCIsCiAgInByb2ZpbGVOYW1lIiA6ICJqYmFydHl5IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzlhMjdhZWVlMzg0MjkyNDFlY2NkNzJhNzVlODAzMGU1ZjA5ZGRhMDRiMjU1NWI3YjkzYTBlNzU3OTVmMDI0ZjUiCiAgICB9CiAgfQp9
+        updateSkins: false
+      location:
+        bodyYaw: -37.138092
+        world: world
+        x: '-355.3'
+        y: '70.0'
+        z: '585.9935'
+        yaw: '-76.1519'
+        pitch: '0.0'
+      owner:
+        owner: verzion
+        uuid: f7d0c52a-f9cd-49f4-9f21-16e988fdf4fc
+    traitnames: mounttrait,spawned,location,owner,type,inventory,equipment,scoreboardtrait,skintrait,lookclose
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true

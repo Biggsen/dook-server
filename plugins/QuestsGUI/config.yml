@@ -1,0 +1,407 @@
+# QuestsGUI configuration
+all:
+  blank-slots:
+  - AIR
+  next-slot:
+  - ARROW
+  next-text: Next >
+  previous-slot:
+  - ARROW
+  previous-text: < Prev
+command:
+  journal:
+    enable: false
+    esc-to-close: false
+    force-inventory-size: 0
+    gui:
+    - CAULDRON
+    - BOOK
+    - BARRIER
+    use-item-displays: true
+  list:
+    click-to-take: false
+    enable: true
+    esc-to-close: false
+    force-inventory-size: 0
+    text: Click to take
+    gui:
+    - CAULDRON
+    - BOOK
+    - BARRIER
+    use-item-displays: true
+npc:
+  display:
+    enable: true
+    esc-to-close: false
+    force-inventory-size: 0
+    gui:
+    - CAULDRON
+    - BOOK
+    - BARRIER
+questseditor:
+  questfactory:
+    anvilgui:
+      selectcreate:
+        enable: true
+        first-slot:
+        - BOOK
+        scoreboard-limit: 9
+        text: Enter quest name
+    menu:
+    - NETHER_STAR
+    - ANVIL
+    - LAVA_BUCKET
+    - BARRIER
+    main:
+    - NAME_TAG
+    - FISHING_ROD
+    - EYE_OF_ENDER
+    - ARMOR_STAND
+    - BRICK
+    - WOOD_AXE
+    - CHEST
+    - FEATHER
+    - WATCH
+    - BOOK
+    - DIAMOND
+    - BONE
+    - SLIME_BALL
+    - BARRIER
+    guidisplay:
+    - APPLE
+    - THIN_GLASS
+    - SLIME_BALL
+    save:
+    - SLIME_BALL
+    - BARRIER
+    exit:
+    - SLIME_BALL
+    - BARRIER
+  options:
+    main:
+    - STONE
+    - ARMOR_STAND
+    - SLIME_BALL
+    general:
+    - COMMAND
+    - LAVA_BUCKET
+    - DIAMOND_PICKAXE
+    - SLIME_BALL
+    level:
+    - IRON_FENCE
+    - IRON_FENCE
+    - IRON_FENCE
+    - IRON_FENCE
+    - THIN_GLASS
+    - BARRIER
+    multiplayer:
+    - SIGN
+    - IRON_SWORD
+    - LADDER
+    - BOOK
+    - SLIME_BALL
+    truefalse:
+    - ENDER_PEARL
+    - BRICK
+    - THIN_GLASS
+    - BARRIER
+  planner:
+    main:
+    - FISHING_ROD
+    - EYE_OF_ENDER
+    - DIODE
+    - WATCH
+    - BONE
+    - SLIME_BALL
+    datetime:
+    - COMMAND
+    - CLOCK
+    - CLOCK
+    - CLOCK
+    - COMPASS
+    - COMPASS
+    - COMPASS
+    - ITEM_FRAME
+    - BARRIER
+    - SLIME_BALL
+    override:
+    - ENDER_PEARL
+    - BRICK
+    - THIN_GLASS
+    - BARRIER
+  requirements:
+    main:
+    - EMERALD
+    - STICK
+    - APPLE
+    - BUCKET
+    - BOOK
+    - WOOD_DOOR
+    - DIAMOND_SWORD
+    - IRON_SWORD
+    - FEATHER
+    - SADDLE
+    - SLIME_BALL
+    itemlist:
+    - APPLE
+    - CHEST
+    - THIN_GLASS
+    - SLIME_BALL
+    mcmmolist:
+    - DIMAOND_SWORD
+    - STICK
+    - SLIME_BALL
+    heroeslist:
+    - IRON_SWORD
+    - STICK
+    - SLIME_BALL
+  rewards:
+    main:
+    - EMERALD
+    - STICK
+    - APPLE
+    - EXP_BOTTLE
+    - COMMAND
+    - BUCKET
+    - DIAMOND_SWORD
+    - IRON_SWORD
+    - CHEST
+    - DIAMOND
+    - SADDLE
+    - SLIME_BALL
+    itemlist:
+    - APPLE
+    - THIN_GLASS
+    - SLIME_BALL
+    permissionslist:
+    - BUCKET
+    - BEACON
+    - THIN_GLASS
+    - SLIME_BALL
+    mcmmolist:
+    - DIMAOND_SWORD
+    - STICK
+    - THIN_GLASS
+    - SLIME_BALL
+    heroeslist:
+    - IRON_SWORD
+    - STICK
+    - THIN_GLASS
+    - SLIME_BALL
+  stages:
+    menu:
+    - IRON_FENCE
+    - NETHER_STAR
+    - SLIME_BALL
+    main:
+    - BRICK
+    - APPLE
+    - ARMOR_STAND
+    - SKULL_ITEM|2
+    - GOLD_SWORD
+    - BEACON
+    - PAPER
+    - BOOK
+    - FLINT_AND_STEEL
+    - TRIPWIRE_HOOK
+    - WATCH
+    - ITEM_FRAME
+    - FISHING_ROD
+    - EYE_OF_ENDER
+    - SADDLE
+    - BARRIER
+    - SLIME_BALL
+    delete:
+    - SLIME_BALL
+    - BARRIER
+  objectives:
+    blocks:
+    - DIAMOND_PICKAXE
+    - STONE_PICKAXE
+    - COBBLESTONE
+    - LEVER
+    - SLIME_BALL
+    blocks_break:
+    - NAME_TAG
+    - STICK
+    - ANVIL
+    - THIN_GLASS
+    - SLIME_BALL
+    blocks_damage:
+    - NAME_TAG
+    - STICK
+    - ANVIL
+    - THIN_GLASS
+    - SLIME_BALL
+    blocks_place:
+    - NAME_TAG
+    - STICK
+    - ANVIL
+    - THIN_GLASS
+    - SLIME_BALL
+    blocks_use:
+    - NAME_TAG
+    - STICK
+    - ANVIL
+    - THIN_GLASS
+    - SLIME_BALL
+    items:
+    - LEATHER
+    - FURNACE
+    - BOOKSHELF
+    - BREWING_STAND
+    - POTATO
+    - SLIME_BALL
+    items_craft:
+    - APPLE
+    - THIN_GLASS
+    - SLIME_BALL
+    items_smelt:
+    - APPLE
+    - THIN_GLASS
+    - SLIME_BALL
+    items_enchant:
+    - APPLE
+    - THIN_GLASS
+    - SLIME_BALL
+    items_brew:
+    - APPLE
+    - THIN_GLASS
+    - SLIME_BALL
+    items_consume:
+    - APPLE
+    - THIN_GLASS
+    - SLIME_BALL
+    npcs:
+    - EMERALD
+    - JACK_O_LANTERN
+    - GOLD_SWORD
+    - SLIME_BALL
+    npcs_delivery:
+    - APPLE
+    - ARMOR_STAND
+    - FISHING_ROD
+    - THIN_GLASS
+    - SLIME_BALL
+    npcs_kill:
+    - NAME_TAG
+    - STICK
+    - THIN_GLASS
+    - SLIME_BALL
+    mobs:
+    - GOLD_SWORD
+    - BONE
+    - FISHING_ROD
+    - MILK_BUCKET
+    - SHEARS
+    - SLIME_BALL
+    mobs_kill:
+    - SKULL_ITEM|2
+    - STICK
+    - BEACON
+    - BOW
+    - NAME_TAG
+    - THIN_GLASS
+    - SLIME_BALL
+    mobs_tame:
+    - BONE
+    - STICK
+    - THIN_GLASS
+    - SLIME_BALL
+    mobs_shear:
+    - BONE
+    - STICK
+    - THIN_GLASS
+    - SLIME_BALL
+    reachlist:
+    - BEACON
+    - BOW
+    - NAME_TAG
+    - THIN_GLASS
+    - SLIME_BALL
+    passwordlist:
+    - SADDLE
+    - CARROT
+    - THIN_GLASS
+    - SLIME_BALL
+    actionlist:
+    - FISHING_ROD
+    - EYE_OF_ENDER
+    - TNT
+    - SKULL_ITEM
+    - SHEARS
+    - DISPENSER
+    - LEASH
+    - SLIME_BALL
+actionseditor:
+  actionfactory:
+    anvilgui:
+      selectcreate:
+        enable: true
+        first-slot:
+        - FLINT_AND_STEEL
+        scoreboard-limit: 9
+        text: Enter action name
+    menu:
+    - NETHER_STAR
+    - ANVIL
+    - LAVA_BUCKET
+    - BARRIER
+    main:
+    - NAME_TAG
+    - GOLD_SWORD
+    - WATCH
+    - NOTE_BLOCK
+    - WATER_BUCKET
+    - SKULL_ITEM|2
+    - PAPER
+    - TNT
+    - SLIME_BALL
+    - BARRIER
+    save:
+    - SLIME_BALL
+    - BARRIER
+    exit:
+    - SLIME_BALL
+    - BARRIER
+conditionseditor:
+  conditionfactory:
+    anvilgui:
+      selectcreate:
+        enable: true
+        first-slot:
+        - TRIPWIRE_HOOK
+        scoreboard-limit: 9
+        text: Enter condition name
+    menu:
+    - NETHER_STAR
+    - ANVIL
+    - LAVA_BUCKET
+    - BARRIER
+    main:
+    - NAME_TAG
+    - SKULL_ITEM|2
+    - GOLD_SWORD
+    - WATCH
+    - PAINTING
+    - TNT
+    - SLIME_BALL
+    - BARRIER
+    save:
+    - SLIME_BALL
+    - BARRIER
+    exit:
+    - SLIME_BALL
+    - BARRIER
+generic:
+  itemstack:
+  - COMMAND
+  - NAME_TAG
+  - STICK
+  - ANVIL
+  - ENCHANTED_BOOK
+  - SADDLE
+  - CARROT
+  - GLASS_BOTTLE
+  - BARRIER
+  - SLIME_BALL
