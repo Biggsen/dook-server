@@ -1,87 +1,89 @@
 # For non-English characters, this file MUST stay encoded in UTF-8
 quests:
   default1:
-    name: 'Iron Miner'
-    ask-message: '<yellow>Mine <pink>2<yellow> blocks of <pink>Iron Ore<yellow>.'
-    finish-message: '<yellow>Well done. Here is your reward.'
+    name: Iron Miner
+    ask-message: <yellow>Mine <pink>2<yellow> blocks of <pink>Iron Ore<yellow>.
+    finish-message: <yellow>Well done. Here is your reward.
     redo-delay: 1800
     requirements:
       items:
-        - name-stone_pickaxe:amount-1
+      - name-stone_pickaxe:amount-1
       remove-items:
-        - false
-      fail-requirement-message: '<red>You must have a <pink>Stone Pickaxe<red> first.'
+      - false
+      fail-requirement-message: <red>You must have a <pink>Stone Pickaxe<red> first.
     stages:
       ordered:
-        1:
+        '1':
           break-block-names:
-            - IRON_ORE
+          - IRON_ORE
           break-block-amounts:
-            - 2
+          - 2
           break-block-durability:
-            - 0
+          - 0
     rewards:
       money: 1000
       quest-points: 1
   default2:
-    name: 'Mob Hunter'
-    ask-message: '<yellow>Kill an assortment of Mobs.'
-    finish-message: '<yellow>Excellent. Here is a <pink>Diamond Sword<yellow>.'
+    name: Mob Hunter
+    ask-message: <yellow>Kill an assortment of Mobs.
+    finish-message: <yellow>Excellent. Here is a <pink>Diamond Sword<yellow>.
     requirements:
       quests:
-        - Iron Miner
-      fail-requirement-message: '<red>Complete <pink>Iron Miner<red> first.'
+      - Iron Miner
+      fail-requirement-message: <red>Complete <pink>Iron Miner<red> first.
     stages:
       ordered:
-        1:
+        '1':
           death-event: DeathFail
           mobs-to-kill:
-            - Pig
+          - Pig
           mob-amounts:
-            - 3
+          - 3
           finish-event: NiceFinish
-        2:
+        '2':
           death-event: DeathFail
           mobs-to-kill:
-            - Zombie
+          - Zombie
           mob-amounts:
-            - 2
+          - 2
           finish-event: NiceFinish
-        3:
+        '3':
           death-event: DeathFail
           mobs-to-kill:
-            - Skeleton
+          - Skeleton
           mob-amounts:
-            - 1
+          - 1
     rewards:
       items:
-        - name-DIAMOND_SWORD:amount-1
+      - name-DIAMOND_SWORD:amount-1
       exp: 100
       quest-points: 1
   default3:
-    name: 'Catch Fish'
-    ask-message: '<yellow>Catch some fish!'
-    finish-message: '<yellow>Good job. Here is some <green>experience<yellow>.'
+    name: Catch Fish
+    ask-message: <yellow>Catch some fish!
+    finish-message: <yellow>Good job. Here is some <green>experience<yellow>.
     requirements:
       quests:
-        - Iron Miner
-      fail-requirement-message: '<red>Complete <pink>Iron Miner<red> first.'
+      - Iron Miner
+      fail-requirement-message: <red>Complete <pink>Iron Miner<red> first.
     stages:
       ordered:
-        1:
+        '1':
           start-event: RodStart
           death-event: DeathFail
           chat-events:
-            - "GiveRod"
+          - GiveRod
           chat-event-triggers:
-            - "rod"
+          - rod
           fish-to-catch: 5
     rewards:
       exp: 250
   default4:
-    name: 'Timed Quest'
-    ask-message: '<yellow>Dig up <pink>10<yellow> blocks of <pink>Dirt<yellow> before time runs out!'
-    finish-message: '<yellow>You did it in time! Have an <pink>Iron Shovel<yellow> and some <green>experience<yellow>.'
+    name: Timed Quest
+    ask-message: <yellow>Dig up <pink>10<yellow> blocks of <pink>Dirt<yellow> before
+      time runs out!
+    finish-message: <yellow>You did it in time! Have an <pink>Iron Shovel<yellow>
+      and some <green>experience<yellow>.
     stages:
       ordered:
         '1':
@@ -95,5 +97,57 @@ quests:
           finish-event: CancelTimer
     rewards:
       items:
-        - name-GOLD_INGOT:amount-1
+      - name-GOLD_INGOT:amount-1
       exp: 150
+  custom1:
+    name: Explore the area around Spawn
+    ask-message: Hey! Why not get a little bit familiar with this world? You ready
+      to explore the surrounding area?
+    finish-message: Great! You have explored the area around Spawn! You visited Templeside
+      village and said hello to the mayor. You trudged across the Noryn desert, smelled
+      the Soundless Swamp, saw the north side of Marasor Woods. Then you gazed at
+      the great Mt. Clarenburn, entered The Shield and came back to Spawn. Nicely
+      done!
+    stages:
+      ordered:
+        '1':
+          locations-to-reach:
+          - world -213.0 72.0 -7.0
+          reach-location-radii:
+          - 4
+          reach-location-names:
+          - Chilvern Wayfinding Tower
+        '2':
+          locations-to-reach:
+          - world -210.0 66.0 -204.0
+          reach-location-radii:
+          - 40
+          reach-location-names:
+          - Templeside Village
+        '3':
+          npc-ids-to-talk-to:
+          - 0
+        '4':
+          locations-to-reach:
+          - world -14.0 73.0 -249.0
+          reach-location-radii:
+          - 40
+          reach-location-names:
+          - Noryn desert
+        '5':
+          locations-to-reach:
+          - world 9.0 59.0 75.0
+          reach-location-radii:
+          - 40
+          reach-location-names:
+          - Soundless swamp
+    planner:
+      override: false
+    options:
+      allow-commands: true
+      allow-quitting: true
+      ignore-silk-touch: true
+      use-dungeonsxl-plugin: false
+      use-parties-plugin: true
+      share-progress-level: 1
+      require-same-quest: true
