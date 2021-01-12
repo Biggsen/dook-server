@@ -543,7 +543,7 @@ amountSelectionGUI:
 
 shopMenuItems:
   # Has to be unique, value doesn't matter
-  1:
+  blocks:
     item:
       # The same rules apply for material, amount, damage and lore as for goBackButton
       material: GRASS_BLOCK
@@ -553,7 +553,7 @@ shopMenuItems:
     shop: "blocks"
     # Slot in shops menu, counting from 0 to 53
     slot: 0
-  2:
+  food:
     item:
       material: APPLE
       quantity: 1
@@ -561,85 +561,77 @@ shopMenuItems:
       name: "&9&lFood"
     shop: "food"
     slot: 1
-  3:
+  farming:
     item:
       material: WHEAT
       quantity: 1
       name: "&a&lFarming"
     shop: "farming"
     slot: 2
-  4:
+  wood:
+    item:
+      material: OAK_LOG
+      quantity: 1
+      name: "&4&lWood"
+    shop: "wood"
+    slot: 3
+  mob_drops:
     item:
       material: ROTTEN_FLESH
       quantity: 1
       name: "&3&lMob drops"
     shop: "drops"
-    slot: 3
-  5:
+    slot: 4
+  ores:
     item:
       material: DIAMOND
       quantity: 1
       name: "&8&lOres"
     shop: "ores"
-    slot: 4
-  6:
+    slot: 5
+  armor:
     item:
       material: IRON_CHESTPLATE
       quantity: 1
       name: "&d&lArmor"
     shop: "armor"
-    slot: 5
-  7:
+    slot: 6
+  weapons_tools:
     item:
       material: IRON_AXE
       quantity: 1
       name: "&6&lWeapons and tools"
     shop: "weapons_tools"
-    slot: 6
-  8:
+    slot: 7
+  utilities:
     item:
       material: LANTERN
       quantity: 1
       name: "&e&lUtilities"
     shop: "utilities"
-    slot: 7
-  # 8:
-  #   item:
-  #     material: LIGHT_BLUE_DYE
-  #     quantity: 1
-  #     name: "&2&lDyes"
-  #   shop: "dyes"
-  #   slot: 23
-  # 9:
-  #   item:
-  #     material: SADDLE
-  #     quantity: 1
-  #     name: "&3&lMiscellaneous"
-  #   shop: "miscellaneous"
-  #   slot: 31
-
-  10:
+    slot: 8
+  permissions:
     item:
       material: CHEST
       quantity: 1
       name: "&9&lShop Permissions"
     shop: "permissions"
     slot: 18
-  11:
+  perks:
     item:
       material: PAPER
       quantity: 1
       name: "&9&lPerks"
     shop: "perks"
     slot: 19
-  12:
+  claim_blocks:
     item:
       material: GRASS_BLOCK
       quantity: 1
-      name: "&9&lClaimblocks"
+      name: "&9&lClaim blocks"
     shop: "claimblocks"
     slot: 20
-  13:
+  jobs:
     item:
       material: IRON_SHOVEL
       quantity: 1

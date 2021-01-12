@@ -1,0 +1,75 @@
+wood:
+  name: "&4&lWood (page %page%)"
+  size: 45
+  enablePerItemPermissions: true
+  fillItem:
+    material: BLACK_STAINED_GLASS_PANE
+    name: " "
+  buttons:
+    goBack:
+      slot: 40
+  items:
+    oak_log:
+      type: item
+      item:
+        material: OAK_LOG
+        quantity: 4
+        lore:
+          - "$30.00/$9 each"
+      buyPrice: 120
+      sellPrice: 36
+      slot: 0
+    birch_log:
+      type: item
+      item:
+        material: BIRCH_LOG
+        quantity: 4
+        lore:
+          - "$30.00/$9 each"
+      buyPrice: 120
+      sellPrice: 36
+      slot: 1
+    spruce_log:
+      type: item
+      item:
+        material: SPRUCE_LOG
+        quantity: 4
+        lore:
+          - "$30.00/$9 each"
+      buyPrice: 120
+      sellPrice: 36
+      slot: 2
+    acacia_log:
+      type: item
+      item:
+        material: ACACIA_LOG
+        quantity: 4
+        lore:
+          - "$30.00/$9 each"
+      buyPrice: 120
+      sellPrice: 36
+      slot: 3
+    dark_oak_log:
+      type: item
+      item:
+        material: DARK_OAK_LOG
+        quantity: 4
+        lore:
+          - "$30.00/$9 each"
+      buyPrice: 120
+      sellPrice: 36
+      slot: 4
+    jungle_log:
+      type: item
+      item:
+        material: JUNGLE_LOG
+        quantity: 4
+        lore:
+          - "$30.00/$9 each"
+      buyPrice: 120
+      sellPrice: 36
+      slot: 5
+    money:
+      type: special
+      special: BALANCE
+      slot: 44

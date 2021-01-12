@@ -5,11 +5,12 @@ permissions:
     1: "&2&lBlocks"
     2: "&9&lFood"
     3: "&a&lFarming"
-    4: "&3&lMob drops"
-    5: "&8&lOres"
-    6: "&d&lArmor"
-    7: "&6&lWeapons and tools"
-    8: "&e&lUtilities"
+    4: "&4&lWood"
+    5: "&3&lMob drops"
+    6: "&8&lOres"
+    7: "&d&lArmor"
+    8: "&6&lWeapons and tools"
+    9: "&e&lUtilities"
   size: 45
   fillItem:
     material: BLACK_STAINED_GLASS_PANE
@@ -339,6 +340,79 @@ permissions:
       slot: 44
       page: 3
 
+    # wood
+    oak_log:
+      type: permission
+      permission: "shopguiplus.item.wood.oak_log"
+      item:
+        material: OAK_LOG
+        quantity: 1
+        name: "Buy and sell oak logs in the wood shop"
+      buyPrice: 1000
+      sellPrice: -1
+      slot: 0
+      page: 4
+    birch_log:
+      type: permission
+      permission: "shopguiplus.item.wood.birch_log"
+      item:
+        material: BIRCH_LOG
+        quantity: 1
+        name: "Buy and sell birch logs in the wood shop"
+      buyPrice: 1000
+      sellPrice: -1
+      slot: 1
+      page: 4
+    spruce_log:
+      type: permission
+      permission: "shopguiplus.item.wood.spruce_log"
+      item:
+        material: SPRUCE_LOG
+        quantity: 1
+        name: "Buy and sell spruce logs in the wood shop"
+      buyPrice: 1000
+      sellPrice: -1
+      slot: 2
+      page: 4
+    acacia_log:
+      type: permission
+      permission: "shopguiplus.item.wood.acacia_log"
+      item:
+        material: ACACIA_LOG
+        quantity: 1
+        name: "Buy and sell acacia logs in the wood shop"
+      buyPrice: 1000
+      sellPrice: -1
+      slot: 3
+      page: 4
+    dark_oak_log:
+      type: permission
+      permission: "shopguiplus.item.wood.dark_oak_log"
+      item:
+        material: DARK_OAK_LOG
+        quantity: 1
+        name: "Buy and sell dark oak logs in the wood shop"
+      buyPrice: 1000
+      sellPrice: -1
+      slot: 4
+      page: 4
+    jungle_log:
+      type: permission
+      permission: "shopguiplus.item.wood.jungle_log"
+      item:
+        material: JUNGLE_LOG
+        quantity: 1
+        name: "Buy and sell jungle logs in the wood shop"
+      buyPrice: 1000
+      sellPrice: -1
+      slot: 5
+      page: 4
+    wood_money:
+      type: special
+      special: BALANCE
+      slot: 44
+      page: 4
+
     # drops
     400:
       type: permission
@@ -350,7 +424,7 @@ permissions:
       buyPrice: 1000
       sellPrice: -1
       slot: 0
-      page: 4
+      page: 5
     401:
       type: permission
       permission: "shopguiplus.item.drops.2"
@@ -361,7 +435,7 @@ permissions:
       buyPrice: 1000
       sellPrice: -1
       slot: 1
-      page: 4
+      page: 5
     402:
       type: permission
       permission: "shopguiplus.item.drops.3"
@@ -372,7 +446,7 @@ permissions:
       buyPrice: 1000
       sellPrice: -1
       slot: 2
-      page: 4
+      page: 5
     403:
       type: permission
       permission: "shopguiplus.item.drops.4"
@@ -383,7 +457,7 @@ permissions:
       buyPrice: 1000
       sellPrice: -1
       slot: 3
-      page: 4
+      page: 5
     404:
       type: permission
       permission: "shopguiplus.item.drops.5"
@@ -394,7 +468,7 @@ permissions:
       buyPrice: 1000
       sellPrice: -1
       slot: 4
-      page: 4
+      page: 5
     405:
       type: permission
       permission: "shopguiplus.item.drops.7"
@@ -405,7 +479,7 @@ permissions:
       buyPrice: 1000
       sellPrice: -1
       slot: 5
-      page: 4
+      page: 5
     406:
       type: permission
       permission: "shopguiplus.item.drops.8"
@@ -416,7 +490,7 @@ permissions:
       buyPrice: 1000
       sellPrice: -1
       slot: 6
-      page: 4
+      page: 5
     407:
       type: permission
       permission: "shopguiplus.item.drops.6"
@@ -427,7 +501,7 @@ permissions:
       buyPrice: 1000
       sellPrice: -1
       slot: 7
-      page: 4
+      page: 5
     408:
       type: permission
       permission: "shopguiplus.item.drops.9"
@@ -438,7 +512,7 @@ permissions:
       buyPrice: 1000
       sellPrice: -1
       slot: 8
-      page: 4
+      page: 5
     409:
       type: permission
       permission: "shopguiplus.item.drops.10"
@@ -449,12 +523,12 @@ permissions:
       buyPrice: 1000
       sellPrice: -1
       slot: 9
-      page: 4
+      page: 5
     money4:
       type: special
       special: BALANCE
       slot: 44
-      page: 4
+      page: 5
 
     # ores
     500:
@@ -467,7 +541,7 @@ permissions:
       buyPrice: 2000
       sellPrice: -1
       slot: 0
-      page: 5
+      page: 6
     501:
       type: permission
       permission: "shopguiplus.item.ores.2"
@@ -478,7 +552,7 @@ permissions:
       buyPrice: 2000
       sellPrice: -1
       slot: 1
-      page: 5
+      page: 6
     502:
       type: permission
       permission: "shopguiplus.item.ores.3"
@@ -489,7 +563,7 @@ permissions:
       buyPrice: 2000
       sellPrice: -1
       slot: 2
-      page: 5
+      page: 6
     5040:
       type: permission
       permission: "shopguiplus.item.ores.40"
@@ -500,7 +574,7 @@ permissions:
       buyPrice: 2000
       sellPrice: -1
       slot: 3
-      page: 5
+      page: 6
     5041:
       type: command
       item:
@@ -513,7 +587,7 @@ permissions:
         - "lp user %PLAYER% permission settemp shopguiplus.item.ores.41 true 1d"
       buyPrice: 2500
       slot: 12
-      page: 5
+      page: 6
     5050:
       type: permission
       permission: "shopguiplus.item.ores.50"
@@ -524,7 +598,7 @@ permissions:
       buyPrice: 2000
       sellPrice: -1
       slot: 4
-      page: 5
+      page: 6
     5051:
       type: command
       item:
@@ -537,7 +611,7 @@ permissions:
         - "lp user %PLAYER% permission settemp shopguiplus.item.ores.51 true 1d"
       buyPrice: 2500
       slot: 13
-      page: 5
+      page: 6
     5060:
       type: permission
       permission: "shopguiplus.item.ores.60"
@@ -548,7 +622,7 @@ permissions:
       buyPrice: 2000
       sellPrice: -1
       slot: 5
-      page: 5
+      page: 6
     # 5061:
     #   type: command
     #   item:
@@ -561,7 +635,7 @@ permissions:
     #     - "lp user %PLAYER% permission settemp shopguiplus.item.ores.61 true 1d"
     #   buyPrice: 2500
     #   slot: 14
-    #   page: 5
+    #   page: 6
     5070:
       type: permission
       permission: "shopguiplus.item.ores.70"
@@ -572,7 +646,7 @@ permissions:
       buyPrice: 2000
       sellPrice: -1
       slot: 6
-      page: 5
+      page: 6
     # 5071:
     #   type: command
     #   item:
@@ -586,12 +660,12 @@ permissions:
     #   buyPrice: 2500
     #   sellPrice: -1
     #   slot: 15
-    #   page: 5
+    #   page: 6
     money5:
       type: special
       special: BALANCE
       slot: 44
-      page: 5
+      page: 6
 
     # armor
     600:
@@ -608,7 +682,7 @@ permissions:
       buyPrice: 1000
       sellPrice: -1
       slot: 0
-      page: 6
+      page: 7
     6010:
       type: permission
       permissions:
@@ -623,7 +697,7 @@ permissions:
       buyPrice: 1000
       sellPrice: -1
       slot: 1
-      page: 6
+      page: 7
     6011:
       type: command
       item:
@@ -639,7 +713,7 @@ permissions:
         - "lp user %PLAYER% permission settemp shopguiplus.item.armor.iron_boots_sell true 1d"
       buyPrice: 1000
       slot: 10
-      page: 6
+      page: 7
     6012:
       type: permission
       permissions:
@@ -654,7 +728,7 @@ permissions:
       buyPrice: 1000
       sellPrice: -1
       slot: 2
-      page: 6
+      page: 7
     6013:
       type: command
       item:
@@ -670,12 +744,12 @@ permissions:
         - "lp user %PLAYER% permission settemp shopguiplus.item.armor.golden_boots_sell true 1d"
       buyPrice: 1000
       slot: 11
-      page: 6
+      page: 7
     money6:
       type: special
       special: BALANCE
       slot: 44
-      page: 6
+      page: 7
 
     # weapons and tools
     700:
@@ -690,7 +764,7 @@ permissions:
       buyPrice: 1000
       sellPrice: -1
       slot: 0
-      page: 7
+      page: 8
     702:
       type: permission
       permissions:
@@ -704,7 +778,7 @@ permissions:
       buyPrice: 1000
       sellPrice: -1
       slot: 1
-      page: 7
+      page: 8
     703:
       type: permission
       permissions:
@@ -717,7 +791,7 @@ permissions:
       buyPrice: 1000
       sellPrice: -1
       slot: 2
-      page: 7
+      page: 8
     704:
       type: permission
       permissions:
@@ -731,7 +805,7 @@ permissions:
       buyPrice: 1000
       sellPrice: -1
       slot: 3
-      page: 7
+      page: 8
     705:
       type: permission
       permission: "shopguiplus.item.weapons_tools.bow"
@@ -742,7 +816,7 @@ permissions:
       buyPrice: 1000
       sellPrice: -1
       slot: 4
-      page: 7
+      page: 8
     706:
       type: permission
       permission: "shopguiplus.item.weapons_tools.fishing_rod"
@@ -753,7 +827,7 @@ permissions:
       buyPrice: 1000
       sellPrice: -1
       slot: 5
-      page: 7
+      page: 8
     7010:
       type: permission
       permissions:
@@ -766,7 +840,7 @@ permissions:
       buyPrice: 1000
       sellPrice: -1
       slot: 9
-      page: 7
+      page: 8
     7011:
       type: command
       item:
@@ -780,7 +854,7 @@ permissions:
         - "lp user %PLAYER% permission settemp shopguiplus.item.weapons_tools.iron_axe_sell true 2d"
       buyPrice: 1000
       slot: 18
-      page: 7
+      page: 8
     7020:
       type: permission
       permissions:
@@ -794,7 +868,7 @@ permissions:
       buyPrice: 1000
       sellPrice: -1
       slot: 10
-      page: 7
+      page: 8
     7021:
       type: command
       item:
@@ -809,7 +883,7 @@ permissions:
         - "lp user %PLAYER% permission settemp shopguiplus.item.weapons_tools.iron_hoe_sell true 2d"
       buyPrice: 1000
       slot: 19
-      page: 7
+      page: 8
     7030:
       type: permission
       permissions:
@@ -822,7 +896,7 @@ permissions:
       buyPrice: 1000
       sellPrice: -1
       slot: 11
-      page: 7
+      page: 8
     7031:
       type: command
       item:
@@ -836,7 +910,7 @@ permissions:
         - "lp user %PLAYER% permission settemp shopguiplus.item.weapons_tools.golden_axe_sell true 2d"
       buyPrice: 1000
       slot: 20
-      page: 7
+      page: 8
     7040:
       type: permission
       permissions:
@@ -850,7 +924,7 @@ permissions:
       buyPrice: 1000
       sellPrice: -1
       slot: 12
-      page: 7
+      page: 8
     7041:
       type: command
       item:
@@ -865,12 +939,12 @@ permissions:
         - "lp user %PLAYER% permission settemp shopguiplus.item.weapons_tools.golden_hoe_sell true 2d"
       buyPrice: 1000
       slot: 21
-      page: 7
+      page: 8
     money7:
       type: special
       special: BALANCE
       slot: 44
-      page: 7
+      page: 8
 
     # utilities
     800:
@@ -883,7 +957,7 @@ permissions:
       buyPrice: 1000
       sellPrice: -1
       slot: 0
-      page: 8
+      page: 9
     801:
       type: permission
       permission: "shopguiplus.item.utilities.lantern"
@@ -894,7 +968,7 @@ permissions:
       buyPrice: 1000
       sellPrice: -1
       slot: 1
-      page: 8
+      page: 9
     802:
       type: permission
       permission: "shopguiplus.item.utilities.saddle"
@@ -905,9 +979,9 @@ permissions:
       buyPrice: 1000
       sellPrice: -1
       slot: 2
-      page: 8
+      page: 9
     money8:
       type: special
       special: BALANCE
       slot: 44
-      page: 8
+      page: 9
