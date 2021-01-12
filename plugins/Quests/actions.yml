@@ -28,3 +28,9 @@ actions:
     message: "<red>Did you mean 'help'?"
     commands:
     - help
+  DannetGift:
+    message: "<yellow>Dannet gave you some bread, leather cap and boots!"
+    items:
+      - name-bread:amount-40
+      - name-leather_boots:amount-1
+      - name-leather_helmet:amount-1
