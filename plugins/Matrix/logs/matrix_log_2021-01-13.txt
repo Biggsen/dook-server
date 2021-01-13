@@ -1,0 +1,7 @@
+(00:12:18) vanism failed Jesus check | liquid speed (speed: 0.121, expect:0.12, dmg: false, flw:false, module: in) (+3) | vl:3 ping:30 tps:20.0 lp:6 component: jesus.speed.in ver: 1.16.x
+(00:15:59) vanism failed Speed check | t: spin (133.63799->124.637985) (+10) | vl:10 ping:30 tps:20.0 lp:7 component: speed.spin ver: 1.16.x
+(07:00:30) Matrix Enabled!
+(07:00:30) Version: 5.6.3
+(10:08:07) vanism failed Block check | break block without delay (+4) | vl:4 ping:20 tps:20.0 lp:14 component: blk.fb.dly ver: 1.16.x
+(10:09:07) vanism failed Block check | break block without delay (+4) | vl:4 ping:47 tps:20.0 lp:11 component: blk.fb.dly ver: 1.16.x
+(15:36:11) vanism failed Speed check | t: spin (-121.99521->-115.99521) (+10) | vl:10 ping:32 tps:19.99 lp:0 component: speed.spin ver: 1.16.x

@@ -1,8 +1,8 @@
-lastAccountName: ImJarHed
+lastAccountName: JarodRuns
 timestamps:
-  login: 1609480050103
+  login: 1610137152876
   lastteleport: 1609479335053
-  logout: 1609480067021
+  logout: 1610137187938
 ipAddress: 98.160.214.120
 lastlocation:
   world: world
@@ -28,10 +28,10 @@ homes:
     pitch: 30.711288
 logoutlocation:
   world: world
-  x: -1120.5
-  y: 71.0
-  z: -1050.5
-  yaw: 212.27612
-  pitch: 24.413157
+  x: -1125.7605684109976
+  y: 76.0
+  z: -1056.5252621181228
+  yaw: -319.73343
+  pitch: 33.591145
 money: '22230.10100000000051624'
 afk: false

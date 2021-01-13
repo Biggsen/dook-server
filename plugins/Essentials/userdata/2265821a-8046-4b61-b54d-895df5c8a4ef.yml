@@ -1,0 +1,29 @@
+lastAccountName: PedanticPorpoise
+timestamps:
+  login: 1610488750429
+  logout: 1610490845344
+  lastteleport: 1610490680731
+ipAddress: 82.33.185.43
+lastlocation:
+  world: world
+  x: -1976.4479369883552
+  y: 68.0
+  z: 336.8885828311464
+  yaw: -257.2313
+  pitch: 20.336258
+logoutlocation:
+  world: world
+  x: -377.63396645336184
+  y: 70.0
+  z: -448.7230854810804
+  yaw: -39.051804
+  pitch: 11.198966
+money: '1271.7150000000000244'
+homes:
+  home:
+    world: world
+    x: -838.0656745987842
+    y: 69.0
+    z: 652.9885517625829
+    yaw: 18.647217
+    pitch: 39.185883

@@ -1,0 +1,670 @@
+(02:25:20) Zonelesi failed Speed check | suspicious movement (move: 0.63, predict: 0.609, friction: 0.6, ground:true, motY: 0.42, increase:0.357, preMove:0.252, motion: 0.02,0.42,-0.63, attribute: 0.182, cm: false, di: false, st: true, tag: pred) (+5) | vl:5 ping:32 tps:20.0 lp:8 component: move.xz ver: 1.16.x
+(02:26:33) Zonelesi failed Interact check | interact block through solid (through: WHITE_CONCRETE, block:CHEST) (+1) | vl:1 ping:33 tps:20.0 lp:17 component: interact.through ver: 1.16.x
+(02:36:21) Zonelesi failed Block check | break block without delay (+4) | vl:4 ping:22 tps:20.0 lp:17 component: blk.fb.dly ver: 1.16.x
+(02:40:32) Zonelesi failed Speed check | suspicious movement (move: 0.626, predict: 0.605, friction: 0.6, ground:true, motY: 0.42, increase:0.357, preMove:0.248, motion: 0.031,0.42,-0.625, attribute: 0.182, cm: false, di: false, st: true, tag: pred) (+5) | vl:5 ping:51 tps:20.0 lp:17 component: move.xz ver: 1.16.x
+(02:52:54) Zonelesi failed Interact check | interact block through solid (through: WHITE_CONCRETE, block:CHEST) (+1) | vl:1 ping:31 tps:19.99 lp:18 component: interact.through ver: 1.16.x
+(02:53:05) Zonelesi failed Speed check | suspicious movement (move: 0.621, predict: 0.6, friction: 0.6, ground:true, motY: 0.42, increase:0.357, preMove:0.243, motion: 0.62,0.42,-0.042, attribute: 0.182, cm: false, di: false, st: true, tag: pred) (+5) | vl:5 ping:25 tps:20.0 lp:23 component: move.xz ver: 1.16.x
+(03:05:57) Zonelesi failed Block check | break block without delay (+4) | vl:4 ping:27 tps:20.0 lp:12 component: blk.fb.dly ver: 1.16.x
+(03:06:52) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 40) (+1) | vl:1 ping:24 tps:20.0 lp:8 component: delay.inv ver: 1.16.x
+(03:06:52) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 0) (+1) | vl:2 ping:24 tps:19.99 lp:8 component: delay.inv ver: 1.16.x
+(03:06:52) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 0) (+1) | vl:3 ping:24 tps:19.99 lp:8 component: delay.inv ver: 1.16.x
+(03:06:52) Execute command: matrix notify Zonelesi tring to speeding up actions (Delay) #1
+(03:06:52) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 1) (+1) | vl:4 ping:24 tps:19.99 lp:8 component: delay.inv ver: 1.16.x
+(03:06:52) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 0) (+1) | vl:5 ping:24 tps:19.99 lp:8 component: delay.inv ver: 1.16.x
+(03:06:52) Execute command: matrix notify Zonelesi tring to speeding up actions (Delay) #2
+(03:07:41) Zonelesi failed Speed check | suspicious movement:0.212 vet:-0.05 tag:gsf (+10) | vl:10 ping:34 tps:20.0 lp:19 component: speed.ground ver: 1.16.x
+(03:07:56) Zonelesi failed Interact check | interact block through solid (through: WHITE_CONCRETE, block:CHEST) (+1) | vl:1 ping:26 tps:19.99 lp:14 component: interact.through ver: 1.16.x
+(03:11:43) Zonelesi failed Speed check | suspicious movement (move: 0.616, predict: 0.606, friction: 0.6, ground:true, motY: 0.42, increase:0.357, preMove:0.249, motion: -0.374,0.42,-0.49, attribute: 0.182, cm: false, di: false, st: true, tag: pred) (+5) | vl:5 ping:23 tps:20.0 lp:8 component: move.xz ver: 1.16.x
+(03:12:46) Zonelesi failed Speed check | suspicious movement (move: 0.62, predict: 0.598, friction: 0.6, ground:true, motY: 0.42, increase:0.357, preMove:0.241, motion: 0.21,0.42,0.583, attribute: 0.182, cm: false, di: false, st: true, tag: pred) (+5) | vl:5 ping:21 tps:20.0 lp:6 component: move.xz ver: 1.16.x
+(03:16:32) Zonelesi failed Interact check | interact block through solid (through: NETHERRACK, block:CHEST) (+1) | vl:1 ping:44 tps:19.99 lp:21 component: interact.through ver: 1.16.x
+(03:17:01) Zonelesi failed Interact check | interact block through solid (through: GRASS_BLOCK, block:CHEST) (+1) | vl:1 ping:34 tps:20.0 lp:21 component: interact.through ver: 1.16.x
+(03:17:04) Zonelesi failed Interact check | interact block through solid (through: DIRT, block:CHEST) (+1) | vl:2 ping:34 tps:20.0 lp:21 component: interact.through ver: 1.16.x
+(03:19:22) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 71) (+1) | vl:1 ping:43 tps:19.99 lp:8 component: delay.inv ver: 1.16.x
+(03:19:22) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 0) (+1) | vl:2 ping:43 tps:19.99 lp:8 component: delay.inv ver: 1.16.x
+(03:19:22) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 1) (+1) | vl:3 ping:43 tps:19.99 lp:8 component: delay.inv ver: 1.16.x
+(03:19:22) Execute command: matrix notify Zonelesi tring to speeding up actions (Delay) #1
+(03:19:22) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 0) (+1) | vl:4 ping:43 tps:19.99 lp:8 component: delay.inv ver: 1.16.x
+(03:19:22) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 0) (+1) | vl:5 ping:43 tps:19.99 lp:8 component: delay.inv ver: 1.16.x
+(03:19:22) Execute command: matrix notify Zonelesi tring to speeding up actions (Delay) #2
+(03:19:22) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 1) (+1) | vl:6 ping:43 tps:19.99 lp:8 component: delay.inv ver: 1.16.x
+(03:20:31) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 42) (+1) | vl:3 ping:44 tps:20.0 lp:21 component: delay.inv ver: 1.16.x
+(03:20:31) Execute command: matrix notify Zonelesi tring to speeding up actions (Delay) #1
+(03:20:31) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 1) (+1) | vl:4 ping:44 tps:20.0 lp:21 component: delay.inv ver: 1.16.x
+(03:20:31) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 0) (+1) | vl:5 ping:44 tps:20.0 lp:21 component: delay.inv ver: 1.16.x
+(03:20:31) Execute command: matrix notify Zonelesi tring to speeding up actions (Delay) #2
+(03:20:31) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 0) (+1) | vl:6 ping:44 tps:20.0 lp:21 component: delay.inv ver: 1.16.x
+(03:20:31) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 0) (+1) | vl:7 ping:44 tps:20.0 lp:21 component: delay.inv ver: 1.16.x
+(03:20:31) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 1) (+1) | vl:8 ping:44 tps:20.0 lp:21 component: delay.inv ver: 1.16.x
+(03:20:31) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 0) (+1) | vl:9 ping:44 tps:20.0 lp:21 component: delay.inv ver: 1.16.x
+(03:25:03) Zonelesi failed Speed check | suspicious movement (move: 0.625, predict: 0.604, friction: 0.6, ground:true, motY: 0.42, increase:0.357, preMove:0.247, motion: -0.624,0.42,0.014, attribute: 0.182, cm: false, di: false, st: true, tag: pred) (+5) | vl:5 ping:27 tps:20.0 lp:19 component: move.xz ver: 1.16.x
+(03:26:20) Zonelesi failed Interact check | interact block through solid (through: BEDROCK, block:CHEST) (+1) | vl:1 ping:37 tps:20.0 lp:31 component: interact.through ver: 1.16.x
+(03:36:45) Zonelesi failed BadPackets check | (tiny-timer) moved too many times: 1.02 (5) (+0) | vl:0 ping:42 tps:20.0 lp:7 component: net.timer ver: 1.16.x
+(03:38:09) Zonelesi failed Speed check | suspicious movement (move: 0.629, predict: 0.608, friction: 0.6, ground:true, motY: 0.42, increase:0.357, preMove:0.251, motion: -0.354,0.42,-0.52, attribute: 0.182, cm: false, di: false, st: true, tag: pred) (+5) | vl:5 ping:26 tps:20.0 lp:13 component: move.xz ver: 1.16.x
+(03:39:19) Zonelesi failed Interact check | interact block through solid (through: WHITE_CONCRETE, block:CHEST) (+1) | vl:1 ping:31 tps:19.99 lp:5 component: interact.through ver: 1.16.x
+(03:41:11) Zonelesi failed Speed check | suspicious movement (move: 0.627, predict: 0.606, friction: 0.6, ground:true, motY: 0.42, increase:0.357, preMove:0.249, motion: -0.626,0.42,0.014, attribute: 0.182, cm: false, di: false, st: true, tag: pred) (+5) | vl:5 ping:27 tps:19.99 lp:5 component: move.xz ver: 1.16.x
+(03:47:04) Zonelesi failed Speed check | suspicious movement (move: 0.688, expect: 0.6875, tag: c) (+10) | vl:10 ping:33 tps:20.0 lp:7 component: speed.main ver: 1.16.x
+(03:51:48) Zonelesi failed Fly check | suspicious movement:0.0 predict:-0.228 vel:-0.228 air_t:12 tag:m4 (+10) | vl:10 ping:40 tps:20.0 lp:16 component: fly.main ver: 1.16.x
+(03:57:34) Zonelesi failed Speed check | suspicious movement (move: 0.617, predict: 0.595, friction: 0.6, ground:true, motY: 0.42, increase:0.357, preMove:0.238, motion: -0.027,0.42,0.616, attribute: 0.182, cm: false, di: false, st: true, tag: pred) (+5) | vl:5 ping:35 tps:19.99 lp:6 component: move.xz ver: 1.16.x
+(03:58:08) Zonelesi failed Speed check | suspicious movement (move: 0.628, predict: 0.607, friction: 0.6, ground:true, motY: 0.42, increase:0.357, preMove:0.25, motion: 0.045,0.42,-0.627, attribute: 0.182, cm: false, di: false, st: true, tag: pred) (+5) | vl:5 ping:32 tps:20.0 lp:5 component: move.xz ver: 1.16.x
+(04:01:30) Zonelesi failed Scaffold check | scaffold-like placement | type A (+1) | vl:1 ping:28 tps:20.0 lp:7 component: sfd.place.a ver: 1.16.x
+(04:09:17) Zonelesi failed Speed check | suspicious movement (move: 0.629, predict: 0.608, friction: 0.6, ground:true, motY: 0.42, increase:0.357, preMove:0.251, motion: -0.624,0.42,-0.078, attribute: 0.182, cm: false, di: false, st: true, tag: pred) (+5) | vl:5 ping:24 tps:20.0 lp:7 component: move.xz ver: 1.16.x
+(04:09:25) Zonelesi failed Velocity check | (analyser) knockback reducement (vx: -0.084, vz: -0.1, cs: 0.008826764433427751) (+3) | vl:3 ping:29 tps:19.99 lp:10 component: vel.ana ver: 1.16.x
+(04:43:12) vanism failed Speed check | t: spin (-412.54434->-28.544342) (+10) | vl:10 ping:18 tps:20.0 lp:20 component: speed.spin ver: 1.16.x
+(07:00:31) Matrix Enabled!
+(07:00:31) Version: 5.6.3
+(14:31:17) Bl4zeBoy failed Speed check | suspicious movement (move: 0.628, predict: 0.607, friction: 0.6, ground:true, motY: 0.42, increase:0.357, preMove:0.25, motion: 0.628,0.42,0.01, attribute: 0.182, cm: false, di: false, st: true, tag: pred) (+5) | vl:5 ping:86 tps:19.99 lp:28 component: move.xz ver: 1.16.x
+(14:32:28) Bl4zeBoy failed Speed check | suspicious movement (move: 0.536, expect: 0.533, g_tk:1, tag: b) (+8) | vl:8 ping:86 tps:19.99 lp:21 component: speed.main ver: 1.16.x
+(14:36:51) Bl4zeBoy failed Speed check | suspicious movement (move: 0.613, predict: 0.597, friction: 0.6, ground:true, motY: 0.42, increase:0.357, preMove:0.24, motion: 0.569,0.42,-0.23, attribute: 0.182, cm: false, di: false, st: true, tag: pred) (+5) | vl:5 ping:85 tps:20.0 lp:16 component: move.xz ver: 1.16.x
+(14:40:24) Bl4zeBoy failed Fly check | suspicious movement:0.05 predict:-0.155 pmv:0.05 tag:ground (+5) | vl:5 ping:346 tps:20.0 lp:26 component: fly.main ver: 1.16.x
+(14:40:24) Bl4zeBoy failed Fly check | suspicious movement:0.05 predict:-0.231 pmv:0.05 tag:ground (+5) | vl:10 ping:346 tps:20.0 lp:26 component: fly.main ver: 1.16.x
+(14:42:03) Bl4zeBoy failed Speed check | suspicious movement (move: 0.614, predict: 0.595, friction: 0.6, ground:true, motY: 0.42, increase:0.357, preMove:0.238, motion: -0.597,0.42,-0.144, attribute: 0.182, cm: false, di: false, st: true, tag: pred) (+5) | vl:5 ping:356 tps:20.0 lp:19 component: move.xz ver: 1.16.x
+(14:42:30) Bl4zeBoy failed BadPackets check | (timer) send 54 moving packets in 1580ms | tag: limit (+5) | vl:5 ping:165 tps:20.0 lp:35 component: net.timer ver: 1.16.x
+(14:45:09) Bl4zeBoy failed Interact check | interact block through solid (through: WHITE_CONCRETE, block:CHEST) (+0) | vl:0 ping:350 tps:20.0 lp:20 component: interact.through ver: 1.16.x
+(14:45:31) Bl4zeBoy failed Speed check | suspicious movement (move: 0.617, predict: 0.599, friction: 0.6, ground:true, motY: 0.42, increase:0.357, preMove:0.242, motion: 0.617,0.42,-0.01, attribute: 0.182, cm: false, di: false, st: true, tag: pred) (+5) | vl:5 ping:210 tps:20.0 lp:33 component: move.xz ver: 1.16.x
+(14:46:19) Bl4zeBoy failed BadPackets check | (timer) moved too many times (timer: 14.286, t:70, buffer:20, tag: timer) (+5) | vl:5 ping:3882 tps:20.0 lp:41 component: net.timer ver: 1.16.x
+(14:46:20) Bl4zeBoy failed BadPackets check | (timer) send 94 moving packets in 1000ms | tag: limit (+5) | vl:10 ping:3882 tps:20.0 lp:40 component: net.timer ver: 1.16.x
+(14:46:37) Bl4zeBoy failed Block check | break block too fast (digs: 9/10, block: white_concrete, j: false) (+4) | vl:4 ping:105 tps:20.0 lp:30 component: block.fastbreak.expect ver: 1.16.x
+(14:46:48) Bl4zeBoy failed BadPackets check | (timer) send 48 moving packets in 1035ms | tag: limit (+10) | vl:10 ping:436 tps:20.0 lp:19 component: net.timer ver: 1.16.x
+(14:46:48) Bl4zeBoy failed Speed check | suspicious movement (move: 1.692, expect: 0.40149999999999997, tag: ea) (+20) | vl:20 ping:436 tps:20.0 lp:19 component: speed.main ver: 1.16.x
+(14:46:48) Bl4zeBoy failed Speed check | suspicious movement (move: 1.692, predict: 0.295, friction: 0.6, ground:false, motY: -4.166, increase:0.126, preMove:0.169, motion: -1.636,-4.166,0.432, attribute: 0.182, cm: false, di: false, st: false, tag: pred) (+5) | vl:25 ping:436 tps:20.0 lp:19 component: move.xz ver: 1.16.x
+(14:47:18) Bl4zeBoy failed Speed check | suspicious movement (move: 0.586, expect:0.297, t:71, sprint: false, attr: 0.14, tag: a,noslow) (+9) | vl:9 ping:0 tps:20.0 lp:13 component: speed.main ver: 1.16.x
+(14:47:18) Bl4zeBoy failed Speed check | suspicious movement (move: 0.586, predict: 0.229, friction: 0.6, ground:true, motY: 0.0, increase:0.182, preMove:0.047, motion: 0.496,0.0,-0.312, attribute: 0.182, cm: false, di: false, st: false, tag: pred) (+5) | vl:14 ping:0 tps:20.0 lp:13 component: move.xz ver: 1.16.x
+(14:50:03) Bl4zeBoy failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: 6129.196,148.42,-967.209, type: air, pkt: true) (+5) | vl:5 ping:340 tps:20.0 lp:27 component: fly.gf ver: 1.16.x
+(14:50:51) Bl4zeBoy failed Fly check | suspicious movement:0.05 predict:-0.078 pmv:0.086 tag:ground (+5) | vl:5 ping:830 tps:19.99 lp:18 component: fly.main ver: 1.16.x
+(14:51:32) Bl4zeBoy failed Speed check | suspicious movement (move: 0.628, predict: 0.614, friction: 0.6, ground:true, motY: 0.42, increase:0.357, preMove:0.257, motion: 0.555,0.42,-0.294, attribute: 0.182, cm: false, di: false, st: true, tag: pred) (+5) | vl:5 ping:130 tps:20.0 lp:18 component: move.xz ver: 1.16.x
+(14:52:03) Zonelesi failed Speed check | suspicious movement (move: 0.626, predict: 0.605, friction: 0.6, ground:true, motY: 0.42, increase:0.357, preMove:0.248, motion: 0.557,0.42,-0.285, attribute: 0.182, cm: false, di: false, st: true, tag: pred) (+5) | vl:5 ping:20 tps:20.0 lp:7 component: move.xz ver: 1.16.x
+(14:52:06) Bl4zeBoy failed BadPackets check | (timer) send 46 moving packets in 1565ms | tag: limit (+5) | vl:5 ping:130 tps:20.0 lp:43 component: net.timer ver: 1.16.x
+(14:52:14) Zonelesi failed Speed check | suspicious movement (move: 0.619, predict: 0.599, friction: 0.6, ground:true, motY: 0.42, increase:0.357, preMove:0.242, motion: -0.569,0.42,-0.244, attribute: 0.182, cm: false, di: false, st: true, tag: pred) (+5) | vl:10 ping:33 tps:19.99 lp:8 component: move.xz ver: 1.16.x
+(14:52:15) Zonelesi failed Speed check | suspicious movement (move: 0.628, predict: 0.607, friction: 0.6, ground:true, motY: 0.42, increase:0.357, preMove:0.25, motion: -0.625,0.42,-0.057, attribute: 0.182, cm: false, di: false, st: true, tag: pred) (+5) | vl:5 ping:33 tps:19.99 lp:8 component: move.xz ver: 1.16.x
+(14:52:41) Bl4zeBoy failed BadPackets check | (timer) moved too many times (timer: 9.223372036854776E15, t:0, buffer:20, tag: timer) (+5) | vl:5 ping:569 tps:20.0 lp:48 component: net.timer ver: 1.16.x
+(14:52:44) Bl4zeBoy failed BadPackets check | (timer) send 88 moving packets in 1175ms | tag: limit (+5) | vl:10 ping:569 tps:19.99 lp:47 component: net.timer ver: 1.16.x
+(14:56:12) Zonelesi failed Speed check | suspicious movement (move: 0.629, predict: 0.607, friction: 0.6, ground:true, motY: 0.42, increase:0.357, preMove:0.25, motion: -0.619,0.42,-0.109, attribute: 0.182, cm: false, di: false, st: true, tag: pred) (+5) | vl:5 ping:41 tps:20.0 lp:8 component: move.xz ver: 1.16.x
+(14:57:43) Bl4zeBoy failed Speed check | suspicious movement (move: 0.622, predict: 0.601, friction: 0.6, ground:true, motY: 0.42, increase:0.357, preMove:0.244, motion: -0.241,0.42,-0.573, attribute: 0.182, cm: false, di: false, st: true, tag: pred) (+5) | vl:5 ping:755 tps:20.0 lp:26 component: move.xz ver: 1.16.x
+(14:58:44) Bl4zeBoy failed Speed check | suspicious movement (move: 0.616, predict: 0.598, friction: 0.6, ground:true, motY: 0.42, increase:0.357, preMove:0.241, motion: 0.614,0.42,0.046, attribute: 0.182, cm: false, di: false, st: true, tag: pred) (+5) | vl:5 ping:116 tps:20.0 lp:23 component: move.xz ver: 1.16.x
+(14:59:14) Bl4zeBoy failed Speed check | suspicious movement (move: 0.626, predict: 0.605, friction: 0.6, ground:true, motY: 0.42, increase:0.357, preMove:0.248, motion: -0.576,0.42,0.246, attribute: 0.182, cm: false, di: false, st: true, tag: pred) (+5) | vl:5 ping:185 tps:20.0 lp:14 component: move.xz ver: 1.16.x
+(15:06:39) Bl4zeBoy failed Delay check | perform actions faster than expected // inventory (type C, d: 1) (+1) | vl:1 ping:1246 tps:19.99 lp:10 component: delay.inv ver: 1.16.x
+(15:07:46) Bl4zeBoy failed BadPackets check | (timer) send 45 moving packets in 1045ms | tag: limit (+5) | vl:5 ping:6266 tps:20.0 lp:36 component: net.timer ver: 1.16.x
+(15:08:24) Bl4zeBoy failed Speed check | suspicious movement (move: 3.034, expect:0.409, t:0, sprint: false, attr: 0.14, tag: a) (+9) | vl:9 ping:1076 tps:19.99 lp:23 component: speed.main ver: 1.16.x
+(15:08:24) Bl4zeBoy failed Speed check | suspicious movement (move: 3.034, predict: 0.271, friction: 0.6, ground:true, motY: 0.0, increase:0.182, preMove:0.089, motion: -2.943,0.0,0.738, attribute: 0.182, cm: false, di: false, st: false, tag: pred) (+5) | vl:14 ping:1076 tps:19.99 lp:23 component: move.xz ver: 1.16.x
+(15:09:08) Bl4zeBoy failed Speed check | suspicious movement (move: 0.617, predict: 0.6, friction: 0.6, ground:true, motY: 0.42, increase:0.357, preMove:0.243, motion: 0.502,0.42,-0.358, attribute: 0.182, cm: false, di: false, st: true, tag: pred) (+5) | vl:5 ping:4101 tps:20.0 lp:24 component: move.xz ver: 1.16.x
+(15:09:25) Zonelesi failed Speed check | suspicious movement (move: 0.628, predict: 0.607, friction: 0.6, ground:true, motY: 0.42, increase:0.357, preMove:0.25, motion: -0.219,0.42,0.589, attribute: 0.182, cm: false, di: false, st: true, tag: pred) (+5) | vl:5 ping:36 tps:20.0 lp:22 component: move.xz ver: 1.16.x
+(15:10:17) Zonelesi failed Speed check | suspicious movement (move: 0.627, predict: 0.605, friction: 0.6, ground:true, motY: 0.42, increase:0.357, preMove:0.248, motion: 0.181,0.42,-0.6, attribute: 0.182, cm: false, di: false, st: true, tag: pred) (+5) | vl:5 ping:37 tps:20.0 lp:15 component: move.xz ver: 1.16.x
+(15:11:17) Zonelesi failed Speed check | suspicious movement (move: 0.629, predict: 0.608, friction: 0.6, ground:true, motY: 0.42, increase:0.357, preMove:0.251, motion: -0.589,0.42,-0.22, attribute: 0.182, cm: false, di: false, st: true, tag: pred) (+5) | vl:5 ping:27 tps:20.0 lp:25 component: move.xz ver: 1.16.x
+(15:11:22) Zonelesi failed Speed check | suspicious movement (move: 0.614, predict: 0.599, friction: 0.6, ground:true, motY: 0.42, increase:0.357, preMove:0.242, motion: -0.329,0.42,-0.518, attribute: 0.182, cm: false, di: false, st: true, tag: pred) (+5) | vl:10 ping:27 tps:20.0 lp:8 component: move.xz ver: 1.16.x
+(15:11:40) Zonelesi failed Speed check | suspicious movement (move: 0.451, expect: 0.429, g_tk:1, tag: b) (+8) | vl:18 ping:26 tps:20.0 lp:4 component: speed.main ver: 1.16.x
+(15:12:57) Bl4zeBoy failed Fly check | suspicious movement:0.5 predict:0.412 air:1 tag:dmj (+5) | vl:5 ping:3416 tps:20.0 lp:25 component: fly.main ver: 1.16.x
+(15:13:40) Bl4zeBoy failed BadPackets check | (timer) moved too many times (timer: 1.344, t:744, buffer:20, tag: timer) (+5) | vl:5 ping:5271 tps:20.0 lp:35 component: net.timer ver: 1.16.x
+(15:13:41) Bl4zeBoy failed BadPackets check | (timer) send 77 moving packets in 1000ms | tag: limit (+5) | vl:10 ping:5271 tps:20.0 lp:35 component: net.timer ver: 1.16.x
+(15:17:05) Zonelesi failed Fly check | suspicious movement:0.086 predict:-0.078 air:6 tag:dmf (+10) | vl:10 ping:23 tps:20.0 lp:6 component: fly.main ver: 1.16.x
+(15:18:24) Bl4zeBoy failed Chat check | chat too fast | delay: 2760 (+1) | vl:1 ping:1451 tps:20.0 lp:12 component: chat.delay ver: 1.16.x
+(15:20:51) Bl4zeBoy failed BadPackets check | (timer) send 41 moving packets in 1020ms | tag: limit (+5) | vl:5 ping:321 tps:20.0 lp:29 component: net.timer ver: 1.16.x
+(15:20:51) Bl4zeBoy failed Jesus check | liquid speed (speed: 1.592, expect:0.96, dmg: false, flow:false, module: out) (+4) | vl:4 ping:321 tps:20.0 lp:29 component: jesus.out ver: 1.16.x
+(15:22:07) Bl4zeBoy failed BadPackets check | (timer) send 49 moving packets in 1806ms | tag: limit (+10) | vl:10 ping:76 tps:19.99 lp:40 component: net.timer ver: 1.16.x
+(15:22:08) Bl4zeBoy failed BadPackets check | (timer) send 43 moving packets in 1644ms | tag: limit (+10) | vl:20 ping:76 tps:20.0 lp:41 component: net.timer ver: 1.16.x
+(15:24:34) Bl4zeBoy failed Speed check | suspicious movement (move: 0.434, expect: 0.429, g_tk:1, tag: b) (+8) | vl:8 ping:76 tps:19.99 lp:17 component: speed.main ver: 1.16.x
+(15:25:49) Bl4zeBoy failed Speed check | suspicious movement (0.308, air_t: 12, lm:0.275 acc: 0.032167942343407696, tag: ed) (+15) | vl:15 ping:161 tps:20.0 lp:18 component: speed.main ver: 1.16.x
+(15:27:11) Bl4zeBoy failed BadPackets check | (timer) send 56 moving packets in 9751ms | tag: limit (+5) | vl:5 ping:0 tps:20.0 lp:42 component: net.timer ver: 1.16.x
+(15:27:45) Bl4zeBoy failed HitBox check | missed entity hitbox (entity: zombie, angle: 135.706, move: true) (+2) | vl:2 ping:141 tps:20.0 lp:13 component: hb.mis ver: 1.16.x
+(15:27:46) Bl4zeBoy failed HitBox check | missed entity hitbox (entity: zombie, angle: 36.374, move: true) (+1) | vl:3 ping:141 tps:20.0 lp:11 component: hb.mis ver: 1.16.x
+(15:27:48) Bl4zeBoy failed HitBox check | missed entity hitbox (entity: zombie, angle: 70.041, move: true) (+2) | vl:5 ping:141 tps:20.0 lp:11 component: hb.mis ver: 1.16.x
+(15:28:14) Bl4zeBoy failed BadPackets check | (timer) send 41 moving packets in 1040ms | tag: limit (+10) | vl:10 ping:70 tps:20.0 lp:33 component: net.timer ver: 1.16.x
+(15:28:14) Bl4zeBoy failed Speed check | suspicious movement (move: 1.385, expect:0.498, t:0, sprint: false, attr: 0.1, tag: a) (+9) | vl:9 ping:70 tps:20.0 lp:33 component: speed.main ver: 1.16.x
+(15:28:14) Bl4zeBoy failed Speed check | suspicious movement (move: 1.385, predict: 0.563, friction: 0.6, ground:true, motY: 0.0, increase:0.43, preMove:0.133, motion: -1.119,0.0,-0.816, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:14 ping:70 tps:20.0 lp:33 component: move.xz ver: 1.16.x
+(15:29:12) Bl4zeBoy failed Velocity check | (respond) ignore server velocity: 0.0,0.118,0.02 (+5) | vl:5 ping:0 tps:20.0 lp:20 component: vel.expect ver: 1.16.x
+(15:29:13) Bl4zeBoy failed Velocity check | (respond) ignore server velocity: -0.007,0.118,-0.131 (+5) | vl:10 ping:0 tps:20.0 lp:20 component: vel.expect ver: 1.16.x
+(15:29:13) Execute command: matrix notify Bl4zeBoy tried to ignore server velocity (Velocity)
+(15:30:45) Bl4zeBoy failed BadPackets check | (timer) send 45 moving packets in 1025ms | tag: limit (+5) | vl:5 ping:106 tps:20.0 lp:25 component: net.timer ver: 1.16.x
+(15:30:45) Bl4zeBoy failed Speed check | suspicious movement (move: 1.386, expect: 0.6235, tag: c) (+18) | vl:18 ping:106 tps:20.0 lp:25 component: speed.main ver: 1.16.x
+(15:30:45) Bl4zeBoy failed Speed check | suspicious movement (move: 1.386, predict: 0.58, friction: 0.6, ground:true, motY: 1.252, increase:0.58, preMove:0.0, motion: 0.782,1.252,-1.145, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:23 ping:106 tps:20.0 lp:25 component: move.xz ver: 1.16.x
+(15:30:45) Bl4zeBoy failed Fly check | step | p: 1 | m:1.252 ev:0.42 lm:0.99 (+8) | vl:8 ping:106 tps:20.0 lp:25 component: speed.step ver: 1.16.x
+(15:30:51) Bl4zeBoy failed BadPackets check | (timer) send 48 moving packets in 2735ms | tag: limit (+5) | vl:10 ping:106 tps:20.0 lp:30 component: net.timer ver: 1.16.x
+(15:30:51) Bl4zeBoy failed Speed check | suspicious movement (move: 0.365, predict: 0.343, friction: 0.6, ground:false, motY: 0.0, increase:0.026, preMove:0.317, motion: 0.263,0.0,-0.253, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:28 ping:106 tps:20.0 lp:30 component: move.xz ver: 1.16.x
+(15:30:53) Bl4zeBoy failed BadPackets check | (timer) send 58 moving packets in 2300ms | tag: limit (+5) | vl:15 ping:2126 tps:20.0 lp:32 component: net.timer ver: 1.16.x
+(15:30:53) Bl4zeBoy failed Speed check | suspicious movement (move: 2.388, tag: gv-) (+10) | vl:38 ping:2126 tps:20.0 lp:32 component: speed.main ver: 1.16.x
+(15:30:53) Bl4zeBoy failed Speed check | suspicious movement (move: 2.388, predict: 0.582, friction: 0.6, ground:true, motY: -2.324, increase:0.43, preMove:0.152, motion: 1.509,-2.324,-1.851, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:43 ping:2126 tps:20.0 lp:32 component: move.xz ver: 1.16.x
+(15:31:04) Bl4zeBoy failed BadPackets check | (timer) moved too many times (timer: 1.124, t:890, buffer:20, tag: timer) (+5) | vl:20 ping:1546 tps:19.99 lp:37 component: net.timer ver: 1.16.x
+(15:32:30) Bl4zeBoy failed BadPackets check | (timer) send 40 moving packets in 13400ms | tag: limit (+5) | vl:5 ping:586 tps:20.0 lp:38 component: net.timer ver: 1.16.x
+(15:32:31) Bl4zeBoy failed BadPackets check | (timer) send 65 moving packets in 1254ms | tag: limit (+5) | vl:10 ping:586 tps:19.99 lp:42 component: net.timer ver: 1.16.x
+(15:33:22) Bl4zeBoy failed Fly check | suspicious movement:0.5 predict:0.42 air:0 tag:dmj (+5) | vl:5 ping:456 tps:19.99 lp:0 component: fly.main ver: 1.16.x
+(15:34:16) Bl4zeBoy failed HitBox check | missed entity hitbox (entity: zombie, angle: 68.796, move: false) (+2) | vl:2 ping:81 tps:20.0 lp:14 component: hb.mis ver: 1.16.x
+(15:34:45) Bl4zeBoy failed Fly check | suspicious movement:-0.304 predict:-0.152 lm:-0.075 hard_pred:-0.152 sev_pred:-0.304 air_t:3 fall_t:3 g:-- tag:gn (+5) | vl:5 ping:76 tps:20.0 lp:25 component: fly.main ver: 1.16.x
+(15:35:46) Bl4zeBoy failed HitBox check | missed entity hitbox (entity: zombie, angle: 61.234, move: true) (+2) | vl:2 ping:156 tps:20.0 lp:20 component: hb.mis ver: 1.16.x
+(15:36:32) Bl4zeBoy failed BadPackets check | (timer) send 63 moving packets in 1025ms | tag: limit (+5) | vl:5 ping:446 tps:20.0 lp:28 component: net.timer ver: 1.16.x
+(15:38:52) Bl4zeBoy failed HitBox check | missed entity hitbox (entity: skeleton, angle: 40.906, move: true) (+1) | vl:1 ping:106 tps:20.0 lp:19 component: hb.mis ver: 1.16.x
+(15:40:15) Bl4zeBoy failed BadPackets check | (timer) send 45 moving packets in 1155ms | tag: limit (+5) | vl:5 ping:181 tps:20.0 lp:29 component: net.timer ver: 1.16.x
+(15:43:37) Bl4zeBoy failed HitBox check | missed entity hitbox (entity: enderman, angle: 42.526, move: true) (+1) | vl:1 ping:240 tps:20.0 lp:14 component: hb.mis ver: 1.16.x
+(15:43:40) Bl4zeBoy failed Velocity check | (respond) ignore server velocity: 0.09,0.118,0.095 (+5) | vl:5 ping:240 tps:20.0 lp:17 component: vel.expect ver: 1.16.x
+(15:43:42) Bl4zeBoy failed HitBox check | missed entity hitbox (entity: enderman, angle: 107.594, move: true) (+2) | vl:3 ping:240 tps:20.0 lp:15 component: hb.mis ver: 1.16.x
+(15:44:18) Bl4zeBoy failed HitBox check | missed entity hitbox (entity: enderman, angle: 71.349, move: true) (+2) | vl:2 ping:86 tps:20.0 lp:10 component: hb.mis ver: 1.16.x
+(15:45:25) Bl4zeBoy failed BadPackets check | (timer) moved too many times (timer: 7.463, t:134, buffer:20, tag: timer) (+10) | vl:10 ping:8931 tps:20.0 lp:46 component: net.timer ver: 1.16.x
+(15:45:25) Bl4zeBoy failed BadPackets check | (timer) moved too many times (timer: 50.0, t:20, buffer:20, tag: timer) (+10) | vl:20 ping:8931 tps:20.0 lp:46 component: net.timer ver: 1.16.x
+(15:45:25) Bl4zeBoy failed BadPackets check | (timer) moved too many times (timer: 9.223372036854776E15, t:0, buffer:20, tag: timer) (+10) | vl:30 ping:8931 tps:20.0 lp:46 component: net.timer ver: 1.16.x
+(15:45:27) Bl4zeBoy failed BadPackets check | (timer) send 123 moving packets in 1195ms | tag: limit (+5) | vl:35 ping:8931 tps:20.0 lp:46 component: net.timer ver: 1.16.x
+(15:46:47) Bl4zeBoy failed HitBox check | missed entity hitbox (entity: enderman, angle: 39.88, move: true) (+1) | vl:1 ping:76 tps:20.0 lp:24 component: hb.mis ver: 1.16.x
+(15:47:00) Bl4zeBoy failed Chat check | chat too fast | delay: 1005 (+1) | vl:1 ping:141 tps:19.99 lp:9 component: chat.delay ver: 1.16.x
+(15:47:23) Bl4zeBoy failed HitBox check | missed entity hitbox (entity: enderman, angle: 105.06, move: true) (+2) | vl:2 ping:86 tps:19.99 lp:9 component: hb.mis ver: 1.16.x
+(15:47:25) Bl4zeBoy failed HitBox check | missed entity hitbox (entity: enderman, angle: 127.763, move: true) (+2) | vl:4 ping:86 tps:20.0 lp:9 component: hb.mis ver: 1.16.x
+(15:49:19) Bl4zeBoy failed HitBox check | missed entity hitbox (entity: enderman, angle: 174.275, move: true) (+2) | vl:2 ping:106 tps:20.0 lp:15 component: hb.mis ver: 1.16.x
+(15:50:40) Bl4zeBoy failed Chat check | chat too fast | delay: 1385 (+1) | vl:1 ping:90 tps:20.0 lp:9 component: chat.delay ver: 1.16.x
+(15:51:20) Bl4zeBoy failed HitBox check | missed entity hitbox (entity: enderman, angle: 116.813, move: true) (+2) | vl:2 ping:61 tps:20.0 lp:11 component: hb.mis ver: 1.16.x
+(15:51:24) Bl4zeBoy failed HitBox check | missed entity hitbox (entity: enderman, angle: 52.576, move: true) (+1) | vl:3 ping:61 tps:19.99 lp:10 component: hb.mis ver: 1.16.x
+(15:52:58) Zonelesi failed Speed check | suspicious movement (move: 0.629, predict: 0.608, friction: 0.6, ground:true, motY: 0.42, increase:0.357, preMove:0.251, motion: 0.26,0.42,0.573, attribute: 0.182, cm: false, di: false, st: true, tag: pred) (+5) | vl:5 ping:21 tps:20.0 lp:10 component: move.xz ver: 1.16.x
+(15:53:01) Zonelesi failed Speed check | suspicious movement (move: 0.617, predict: 0.596, friction: 0.6, ground:true, motY: 0.42, increase:0.357, preMove:0.239, motion: 0.312,0.42,0.533, attribute: 0.182, cm: false, di: false, st: true, tag: pred) (+5) | vl:10 ping:21 tps:20.0 lp:9 component: move.xz ver: 1.16.x
+(15:54:23) Zonelesi failed Delay check | perform actions faster than expected // fast_throw (d: 0, t: egg) (+1) | vl:1 ping:36 tps:20.0 lp:13 component: delay.throw ver: 1.16.x
+(15:54:23) Zonelesi failed Delay check | perform actions faster than expected // fast_throw (d: 41, t: egg) (+1) | vl:2 ping:36 tps:20.0 lp:13 component: delay.throw ver: 1.16.x
+(15:54:27) Bl4zeBoy failed Fly check | suspicious movement:0.333 predict:0.253 vel:0.248 air_t:2 tag:vt (+5) | vl:5 ping:0 tps:19.97 lp:0 component: fly.main ver: 1.16.x
+(15:54:27) Bl4zeBoy failed Fly check | suspicious movement:0.248 predict:0.17 vel:0.165 air_t:3 tag:vt (+5) | vl:10 ping:0 tps:19.97 lp:0 component: fly.main ver: 1.16.x
+(15:54:27) Bl4zeBoy failed Fly check | suspicious movement:0.165 predict:0.088 vel:0.083 air_t:4 tag:vt (+5) | vl:15 ping:0 tps:19.97 lp:0 component: fly.main ver: 1.16.x
+(15:54:52) Zonelesi failed Delay check | perform actions faster than expected // fast_throw (d: 0, t: egg) (+1) | vl:1 ping:18 tps:20.0 lp:6 component: delay.throw ver: 1.16.x
+(15:54:52) Zonelesi failed Delay check | perform actions faster than expected // fast_throw (d: 24, t: egg) (+1) | vl:2 ping:18 tps:20.0 lp:6 component: delay.throw ver: 1.16.x
+(15:54:53) Zonelesi failed Delay check | perform actions faster than expected // fast_throw (d: 1, t: egg) (+1) | vl:3 ping:18 tps:20.0 lp:14 component: delay.throw ver: 1.16.x
+(15:54:53) Execute command: matrix notify Zonelesi tring to speeding up actions (Delay) #1
+(15:54:53) Zonelesi failed Delay check | perform actions faster than expected // fast_throw (d: 1, t: egg) (+1) | vl:4 ping:18 tps:20.0 lp:14 component: delay.throw ver: 1.16.x
+(15:56:19) Zonelesi failed Chat check | send the same chat content (+1) | vl:1 ping:31 tps:20.0 lp:20 component: chat.same ver: 1.16.x
+(15:56:21) Zonelesi failed Chat check | chat too fast | delay: 1904 (+1) | vl:2 ping:31 tps:20.0 lp:20 component: chat.delay ver: 1.16.x
+(15:56:32) Bl4zeBoy failed Speed check | suspicious movement (move: 0.359, predict: 0.325, friction: 0.6, ground:false, motY: 0.248, increase:0.026, preMove:0.299, motion: -0.359,0.248,0.011, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:5 ping:61 tps:20.0 lp:13 component: move.xz ver: 1.16.x
+(15:57:34) Bl4zeBoy failed Velocity check | (respond) ignore server velocity: -0.122,0.118,0.047 (+5) | vl:5 ping:0 tps:20.0 lp:6 component: vel.expect ver: 1.16.x
+(15:57:35) Bl4zeBoy failed Velocity check | (respond) ignore server velocity: -0.087,0.118,0.098 (+5) | vl:10 ping:0 tps:20.0 lp:6 component: vel.expect ver: 1.16.x
+(15:57:35) Execute command: matrix notify Bl4zeBoy tried to ignore server velocity (Velocity)
+(15:58:04) Zonelesi failed Speed check | suspicious movement (move: 0.668, expect: 0.6235, tag: c) (+10) | vl:10 ping:30 tps:19.99 lp:9 component: speed.main ver: 1.16.x
+(15:58:05) Zonelesi failed Speed check | suspicious movement (move: 0.628, expect: 0.6235, tag: c) (+10) | vl:20 ping:30 tps:19.99 lp:11 component: speed.main ver: 1.16.x
+(16:00:13) Bl4zeBoy failed Fly check | (levitation) move unexpected: 0.0 <> 0.12 level:1 (+5) | vl:5 ping:131 tps:20.0 lp:14 component: fly.levitation ver: 1.16.x
+(16:00:57) Bl4zeBoy failed Fly check | (levitation) move unexpected: 0.0 <> 0.12 level:1 (+5) | vl:5 ping:81 tps:20.0 lp:18 component: fly.levitation ver: 1.16.x
+(16:02:31) Zonelesi failed Chat check | send the same chat content (+1) | vl:1 ping:36 tps:20.0 lp:7 component: chat.same ver: 1.16.x
+(16:02:33) Zonelesi failed Chat check | chat too fast | delay: 1867 (+1) | vl:2 ping:36 tps:19.99 lp:7 component: chat.delay ver: 1.16.x
+(16:03:06) Zonelesi failed Speed check | suspicious movement (move: 0.623, predict: 0.603, friction: 0.6, ground:true, motY: 0.42, increase:0.357, preMove:0.246, motion: -0.62,0.42,-0.056, attribute: 0.182, cm: false, di: false, st: true, tag: pred) (+5) | vl:5 ping:38 tps:19.99 lp:7 component: move.xz ver: 1.16.x
+(16:03:27) Zonelesi failed Speed check | suspicious movement (move: 0.618, predict: 0.599, friction: 0.6, ground:true, motY: 0.42, increase:0.357, preMove:0.242, motion: 0.599,0.42,-0.149, attribute: 0.182, cm: false, di: false, st: true, tag: pred) (+5) | vl:5 ping:19 tps:19.99 lp:10 component: move.xz ver: 1.16.x
+(16:04:14) Bl4zeBoy failed BadPackets check | (timer) send 43 moving packets in 1045ms | tag: limit (+10) | vl:10 ping:0 tps:20.0 lp:24 component: net.timer ver: 1.16.x
+(16:05:22) Bl4zeBoy failed BadPackets check | (timer) send 40 moving packets in 1430ms | tag: limit (+10) | vl:10 ping:0 tps:20.0 lp:21 component: net.timer ver: 1.16.x
+(16:05:39) Zonelesi failed BadPackets check | (tiny-timer) moved too many times: 1.064 (5) (+0) | vl:0 ping:37 tps:20.0 lp:18 component: net.timer ver: 1.16.x
+(16:06:53) Zonelesi failed BadPackets check | (tiny-timer) moved too many times: 1.02 (5) (+0) | vl:0 ping:66 tps:20.0 lp:12 component: net.timer ver: 1.16.x
+(16:07:04) Bl4zeBoy failed BadPackets check | (timer) send 68 moving packets in 1030ms | tag: limit (+10) | vl:10 ping:0 tps:20.0 lp:27 component: net.timer ver: 1.16.x
+(16:07:04) Bl4zeBoy failed Fly check | (levitation) move faster than expected: 0.8883467859883555 (+5) | vl:5 ping:0 tps:20.0 lp:27 component: fly.levitation ver: 1.16.x
+(16:07:40) Zonelesi failed BadPackets check | (tiny-timer) moved too many times: 1.163 (5) (+0) | vl:0 ping:30 tps:20.0 lp:11 component: net.timer ver: 1.16.x
+(16:08:40) Bl4zeBoy failed BadPackets check | (timer) moved too many times (timer: 9.223372036854776E15, t:0, buffer:20, tag: timer) (+10) | vl:10 ping:8992 tps:20.0 lp:45 component: net.timer ver: 1.16.x
+(16:08:40) Bl4zeBoy failed BadPackets check | (timer) moved too many times (timer: 52.632, t:19, buffer:20, tag: timer) (+10) | vl:20 ping:8992 tps:20.0 lp:45 component: net.timer ver: 1.16.x
+(16:08:40) Bl4zeBoy failed BadPackets check | (timer) moved too many times (timer: 2.538, t:394, buffer:20, tag: timer) (+5) | vl:25 ping:8992 tps:20.0 lp:45 component: net.timer ver: 1.16.x
+(16:08:41) Bl4zeBoy failed BadPackets check | (timer) send 128 moving packets in 995ms | tag: limit (+5) | vl:30 ping:8992 tps:20.0 lp:40 component: net.timer ver: 1.16.x
+(16:11:07) Bl4zeBoy failed Delay check | perform actions faster than expected // heal (difficulty: easy, delay: 0.324, ver: V1_16_X, ver_p: 1.16.x) (+1) | vl:1 ping:0 tps:20.0 lp:13 component: delay.heal ver: 1.16.x
+(16:12:29) Zonelesi failed HitBox check | missed entity hitbox (entity: skeleton, angle: 38.977, move: true) (+1) | vl:1 ping:32 tps:20.0 lp:13 component: hb.mis ver: 1.16.x
+(16:12:50) Bl4zeBoy failed BadPackets check | (timer) send 37 moving packets in 1050ms | tag: limit (+5) | vl:5 ping:6131 tps:19.99 lp:25 component: net.timer ver: 1.16.x
+(16:13:38) Zonelesi failed HitBox check | missed entity hitbox (entity: enderman, angle: 103.338, move: true) (+2) | vl:2 ping:22 tps:20.0 lp:9 component: hb.mis ver: 1.16.x
+(16:14:05) Bl4zeBoy failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: -631.125,88.177,-1827.509, type: air, pkt: true) (+5) | vl:5 ping:66 tps:20.0 lp:20 component: fly.gf ver: 1.16.x
+(16:14:17) Zonelesi failed Interact check | interact block through solid (through: NETHERRACK, block:CHEST) (+1) | vl:1 ping:30 tps:20.0 lp:26 component: interact.through ver: 1.16.x
+(16:14:35) Bl4zeBoy failed Fly check | suspicious movement:-0.078 predict:-0.445 lm:-0.374 hard_pred:-0.445 sev_pred:-0.377 air_t:12 fall_t:6 g:-- tag:gn (+5) | vl:5 ping:86 tps:20.0 lp:19 component: fly.main ver: 1.16.x
+(16:16:03) Bl4zeBoy failed BadPackets check | (timer) moved too many times (timer: 10.0, t:100, buffer:20, tag: timer) (+5) | vl:5 ping:3936 tps:20.0 lp:43 component: net.timer ver: 1.16.x
+(16:16:03) Bl4zeBoy failed BadPackets check | (timer) moved too many times (timer: 9.223372036854776E15, t:0, buffer:20, tag: timer) (+5) | vl:10 ping:3936 tps:20.0 lp:43 component: net.timer ver: 1.16.x
+(16:16:04) Bl4zeBoy failed BadPackets check | (timer) send 103 moving packets in 1270ms | tag: limit (+5) | vl:15 ping:3936 tps:19.99 lp:43 component: net.timer ver: 1.16.x
+(16:16:18) Polnare failed Velocity check | (respond) ignore server velocity: 0.174,0.275,0.132 (+5) | vl:5 ping:140 tps:20.0 lp:1 component: vel.expect ver: 1.16.x
+(16:17:49) Zonelesi failed Speed check | suspicious movement (move: 0.252, predict: 0.231, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.101, motion: -0.091,0.0,0.235, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:5 ping:26 tps:20.0 lp:8 component: move.xz ver: 1.16.x
+(16:21:21) Zonelesi failed Speed check | suspicious movement (move: 0.637, expect: 0.6235, tag: c) (+10) | vl:10 ping:52 tps:20.0 lp:13 component: speed.main ver: 1.16.x
+(16:21:24) Bl4zeBoy failed Chat check | chat too fast | delay: 1350 (+1) | vl:1 ping:71 tps:20.0 lp:15 component: chat.delay ver: 1.16.x
+(16:21:45) STra1z failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:54 tps:20.0 lp:35 component: interact.through ver: 1.16.x
+(16:21:55) Bl4zeBoy failed Chat check | chat too fast | delay: 1165 (+1) | vl:1 ping:71 tps:19.99 lp:12 component: chat.delay ver: 1.16.x
+(16:22:04) Bl4zeBoy failed BadPackets check | (timer) send 45 moving packets in 2755ms | tag: limit (+10) | vl:10 ping:71 tps:19.99 lp:33 component: net.timer ver: 1.16.x
+(16:22:04) Bl4zeBoy failed Delay check | perform actions faster than expected // fast_bow (34, force: 1.0) (+1) | vl:1 ping:71 tps:19.99 lp:33 component: delay.splash ver: 1.16.x
+(16:22:42) Zonelesi failed Speed check | suspicious movement (move: 0.496, expect: 0.493, g_tk:1, tag: b) (+8) | vl:8 ping:18 tps:20.0 lp:8 component: speed.main ver: 1.16.x
+(16:22:54) STra1z failed Block check | break block without delay (+4) | vl:4 ping:38 tps:19.99 lp:23 component: blk.fb.dly ver: 1.16.x
+(16:23:09) Zonelesi failed KillAura check | combat not following the vanilla protocol: #06 (val: 99.408) (+5) | vl:5 ping:39 tps:20.0 lp:15 component: ka.prot.6 ver: 1.16.x
+(16:23:25) Zonelesi failed Block check | break block too fast (digs: 17/18, block: grass_block, j: false) (+4) | vl:4 ping:33 tps:20.0 lp:13 component: block.fastbreak.expect ver: 1.16.x
+(16:23:40) STra1z failed Block check | break block without delay (+4) | vl:4 ping:50 tps:19.99 lp:19 component: blk.fb.dly ver: 1.16.x
+(16:23:44) Polnare failed HitBox check | missed entity hitbox (entity: cow, angle: 42.277, move: true) (+1) | vl:1 ping:148 tps:19.99 lp:1 component: hb.mis ver: 1.16.x
+(16:23:51) Polnare failed HitBox check | missed entity hitbox (entity: cow, angle: 36.198, move: true) (+1) | vl:1 ping:144 tps:20.0 lp:0 component: hb.mis ver: 1.16.x
+(16:25:22) Polnare failed HitBox check | missed entity hitbox (entity: pig, angle: 49.919, move: true) (+1) | vl:1 ping:144 tps:19.89 lp:2 component: hb.mis ver: 1.16.x
+(16:25:22) Bl4zeBoy failed BadPackets check | (timer) send 44 moving packets in 995ms | tag: limit (+5) | vl:5 ping:111 tps:19.89 lp:34 component: net.timer ver: 1.16.x
+(16:25:22) Bl4zeBoy failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: -473.717,66.166,-1452.499, type: air, pkt: true) (+5) | vl:5 ping:111 tps:19.89 lp:34 component: fly.gf ver: 1.16.x
+(16:25:22) Bl4zeBoy failed Speed check | suspicious movement (move: 1.892, predict: 0.627, friction: 0.6, ground:false, motY: -1.166, increase:0.376, preMove:0.251, motion: 1.663,-1.166,-0.901, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:5 ping:111 tps:19.89 lp:34 component: move.xz ver: 1.16.x
+(16:26:01) Zonelesi failed Interact check | interact block through solid (through: NETHERRACK, block:CHEST) (+1) | vl:1 ping:26 tps:20.0 lp:28 component: interact.through ver: 1.16.x
+(16:27:02) Bl4zeBoy failed Chat check | chat too fast | delay: 2554 (+1) | vl:1 ping:376 tps:20.0 lp:24 component: chat.delay ver: 1.16.x
+(16:27:11) Polnare failed HitBox check | missed entity hitbox (entity: pig, angle: 64.267, move: true) (+2) | vl:2 ping:137 tps:20.0 lp:1 component: hb.mis ver: 1.16.x
+(16:28:22) Bl4zeBoy failed Speed check | change direction in mid-air (dist: 0.305, angle:58.045, pre:0.253) (+5) | vl:5 ping:70 tps:20.0 lp:10 component: speed.strafe ver: 1.16.x
+(16:28:28) Polnare failed HitBox check | missed entity hitbox (entity: sheep, angle: 42.175, move: true) (+1) | vl:1 ping:147 tps:19.99 lp:3 component: hb.mis ver: 1.16.x
+(16:28:29) Polnare failed HitBox check | missed entity hitbox (entity: sheep, angle: 48.793, move: false) (+1) | vl:2 ping:147 tps:20.0 lp:3 component: hb.mis ver: 1.16.x
+(16:28:30) Polnare failed HitBox check | missed entity hitbox (entity: sheep, angle: 56.797, move: true) (+1) | vl:3 ping:147 tps:20.0 lp:5 component: hb.mis ver: 1.16.x
+(16:28:42) Polnare failed HitBox check | missed entity hitbox (entity: pig, angle: 72.747, move: true) (+2) | vl:5 ping:140 tps:20.0 lp:5 component: hb.mis ver: 1.16.x
+(16:28:45) Polnare failed HitBox check | missed entity hitbox (entity: pig, angle: 68.632, move: true) (+2) | vl:2 ping:140 tps:20.0 lp:2 component: hb.mis ver: 1.16.x
+(16:28:50) Polnare failed HitBox check | missed entity hitbox (entity: pig, angle: 36.423, move: true) (+1) | vl:3 ping:136 tps:20.0 lp:4 component: hb.mis ver: 1.16.x
+(16:29:40) Bl4zeBoy failed Fly check | suspicious movement: 0.169 vel: -0.517 tag: els (+10) | vl:10 ping:66 tps:20.0 lp:12 component: fly.els ver: 1.16.x
+(16:29:40) Bl4zeBoy failed Fly check | suspicious movement: 0.135 vel: -0.652 tag: els (+10) | vl:20 ping:66 tps:20.0 lp:12 component: fly.els ver: 1.16.x
+(16:29:40) Bl4zeBoy failed Fly check | suspicious movement: 0.103 vel: -0.652 tag: els (+10) | vl:30 ping:66 tps:20.0 lp:12 component: fly.els ver: 1.16.x
+(16:29:42) Bl4zeBoy failed Fly check | suspicious movement:0.197 predict:0.17 vel:0.165 air_t:3 tag:vt (+5) | vl:35 ping:66 tps:20.0 lp:13 component: fly.main ver: 1.16.x
+(16:29:42) Bl4zeBoy failed Fly check | suspicious movement:0.135 predict:0.088 vel:0.083 air_t:4 tag:vt (+5) | vl:40 ping:66 tps:20.0 lp:13 component: fly.main ver: 1.16.x
+(16:30:32) Polnare failed HitBox check | missed entity hitbox (entity: cow, angle: 164.163, move: true) (+2) | vl:2 ping:136 tps:20.0 lp:2 component: hb.mis ver: 1.16.x
+(16:31:35) Zonelesi failed Chat check | chat too fast | delay: 2849 (+1) | vl:1 ping:36 tps:19.99 lp:29 component: chat.delay ver: 1.16.x
+(16:33:03) Zonelesi failed Interact check | interact block through solid (through: WHITE_CONCRETE, block:CHEST) (+1) | vl:1 ping:41 tps:20.0 lp:14 component: interact.through ver: 1.16.x
+(16:33:17) Bl4zeBoy failed Speed check | suspicious movement (move: 0.535, expect: 0.533, g_tk:1, tag: b) (+8) | vl:8 ping:321 tps:20.0 lp:24 component: speed.main ver: 1.16.x
+(16:34:03) Bl4zeBoy failed Chat check | chat too fast | delay: 2575 (+1) | vl:1 ping:166 tps:20.0 lp:23 component: chat.delay ver: 1.16.x
+(16:34:08) Bl4zeBoy failed Speed check | (sneak) send sneak packet frequently (+2) | vl:2 ping:166 tps:20.0 lp:23 component: speed.noslow.a ver: 1.16.x
+(16:34:08) Bl4zeBoy failed Speed check | (sneak) send sneak packet frequently (+2) | vl:4 ping:166 tps:20.0 lp:23 component: speed.noslow.a ver: 1.16.x
+(16:34:08) Bl4zeBoy failed Speed check | (sneak) send sneak packet frequently (+2) | vl:6 ping:166 tps:20.0 lp:23 component: speed.noslow.a ver: 1.16.x
+(16:34:08) Bl4zeBoy failed Speed check | (sneak) send sneak packet frequently (+2) | vl:8 ping:166 tps:20.0 lp:23 component: speed.noslow.a ver: 1.16.x
+(16:34:08) Bl4zeBoy failed Speed check | (sneak) send sneak packet frequently (+2) | vl:10 ping:166 tps:20.0 lp:23 component: speed.noslow.a ver: 1.16.x
+(16:34:17) Zonelesi failed Interact check | interact block through solid (through: WHITE_CONCRETE, block:CHEST) (+1) | vl:1 ping:39 tps:20.0 lp:22 component: interact.through ver: 1.16.x
+(16:34:49) Zonelesi failed Speed check | suspicious movement (move: 0.629, predict: 0.608, friction: 0.6, ground:true, motY: 0.42, increase:0.357, preMove:0.251, motion: 0.629,0.42,-0.017, attribute: 0.182, cm: false, di: false, st: true, tag: pred) (+5) | vl:5 ping:32 tps:20.0 lp:11 component: move.xz ver: 1.16.x
+(16:36:19) Bl4zeBoy failed Fly check | suspicious movement:0.049 predict:-0.006 vel:-0.302 air_t:12 tag:m4 (+10) | vl:10 ping:66 tps:20.0 lp:8 component: fly.main ver: 1.16.x
+(16:36:19) Bl4zeBoy failed Fly check | suspicious movement:0.024 predict:-0.031 vel:-0.374 air_t:12 tag:m4 (+10) | vl:20 ping:66 tps:20.0 lp:8 component: fly.main ver: 1.16.x
+(16:36:19) Bl4zeBoy failed Fly check | suspicious movement:-0.166 predict:-0.234 lm:-0.159 hard_pred:-0.234 sev_pred:-0.231 air_t:12 fall_t:13 g:-- tag:gn (+5) | vl:25 ping:66 tps:20.0 lp:8 component: fly.main ver: 1.16.x
+(16:36:19) Bl4zeBoy failed Fly check | suspicious movement:-0.17 predict:-0.241 lm:-0.166 hard_pred:-0.241 sev_pred:-0.304 air_t:12 fall_t:14 g:-- tag:gn (+5) | vl:30 ping:66 tps:20.0 lp:8 component: fly.main ver: 1.16.x
+(16:36:19) Bl4zeBoy failed Fly check | suspicious movement:-0.173 predict:-0.245 lm:-0.17 hard_pred:-0.245 sev_pred:-0.377 air_t:12 fall_t:15 g:-- tag:gn (+5) | vl:35 ping:66 tps:20.0 lp:8 component: fly.main ver: 1.16.x
+(16:36:19) Bl4zeBoy failed Fly check | suspicious movement:-0.176 predict:-0.248 lm:-0.173 hard_pred:-0.248 sev_pred:-0.447 air_t:12 fall_t:16 g:-- tag:gn (+5) | vl:40 ping:66 tps:20.0 lp:8 component: fly.main ver: 1.16.x
+(16:36:21) Bl4zeBoy failed Fly check | suspicious movement:0.269 predict:0.088 vel:0.083 air_t:4 tag:vt (+5) | vl:45 ping:66 tps:19.99 lp:8 component: fly.main ver: 1.16.x
+(16:37:15) Bl4zeBoy failed Speed check | suspicious movement (move: 0.43, vet: 0.379, tag: d) (+8) | vl:8 ping:66 tps:20.0 lp:17 component: speed.main ver: 1.16.x
+(16:37:15) Bl4zeBoy failed Speed check | suspicious movement (move: 0.424, expect: 0.3665, tag: ea) (+5) | vl:13 ping:66 tps:20.0 lp:17 component: speed.main ver: 1.16.x
+(16:37:15) Bl4zeBoy failed Speed check | suspicious movement (move: 0.418, expect: 0.3665, tag: ea) (+5) | vl:18 ping:66 tps:20.0 lp:17 component: speed.main ver: 1.16.x
+(16:37:15) Bl4zeBoy failed Fly check | suspicious movement:0.299 predict:0.253 vel:0.248 air_t:2 tag:vt (+5) | vl:5 ping:66 tps:20.0 lp:17 component: fly.main ver: 1.16.x
+(16:37:20) Bl4zeBoy failed Speed check | suspicious movement (move: 0.401, vet: 0.379, tag: d) (+8) | vl:26 ping:66 tps:20.0 lp:14 component: speed.main ver: 1.16.x
+(16:37:20) Bl4zeBoy failed Speed check | suspicious movement (move: 0.397, expect: 0.3665, tag: ea) (+5) | vl:31 ping:66 tps:20.0 lp:14 component: speed.main ver: 1.16.x
+(16:37:20) Bl4zeBoy failed Speed check | suspicious movement (move: 0.404, expect: 0.3665, tag: ea) (+5) | vl:36 ping:66 tps:20.0 lp:14 component: speed.main ver: 1.16.x
+(16:37:20) Bl4zeBoy failed Speed check | suspicious movement (move: 0.404, predict: 0.387, friction: 0.6, ground:false, motY: 0.339, increase:0.026, preMove:0.361, motion: 0.0,0.339,0.404, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:41 ping:66 tps:20.0 lp:14 component: move.xz ver: 1.16.x
+(16:37:20) Bl4zeBoy failed Fly check | suspicious movement:0.339 predict:0.254 air_t:2 tag:sam (+5) | vl:10 ping:66 tps:20.0 lp:14 component: fly.main ver: 1.16.x
+(16:37:20) Bl4zeBoy failed Fly check | suspicious movement:0.339 predict:0.253 vel:0.248 air_t:2 tag:vt (+5) | vl:15 ping:66 tps:20.0 lp:14 component: fly.main ver: 1.16.x
+(16:38:49) Bl4zeBoy failed Fly check | suspicious movement: 0.237 vel: -0.517 tag: els (+10) | vl:10 ping:201 tps:20.0 lp:8 component: fly.els ver: 1.16.x
+(16:39:22) Polnare failed Speed check | suspicious movement (move: 0.62, predict: 0.598, friction: 0.6, ground:true, motY: 0.42, increase:0.305, preMove:0.293, motion: 0.039,0.42,0.619, attribute: 0.13, cm: false, di: false, st: true, tag: pred) (+5) | vl:5 ping:148 tps:20.0 lp:1 component: move.xz ver: 1.16.x
+(16:39:32) Bl4zeBoy failed Fly check | suspicious movement: 0.135 vel: -0.374 tag: els (+10) | vl:10 ping:91 tps:20.0 lp:9 component: fly.els ver: 1.16.x
+(16:39:32) Bl4zeBoy failed Fly check | suspicious movement: 0.112 vel: -0.445 tag: els (+10) | vl:20 ping:91 tps:20.0 lp:9 component: fly.els ver: 1.16.x
+(16:39:32) Bl4zeBoy failed Fly check | suspicious movement:-0.031 predict:-0.093 lm:-0.015 hard_pred:-0.093 sev_pred:-0.903 air_t:12 fall_t:2 g:-- tag:gn (+5) | vl:25 ping:91 tps:19.99 lp:9 component: fly.main ver: 1.16.x
+(16:39:32) Bl4zeBoy failed Fly check | suspicious movement:-0.046 predict:-0.109 lm:-0.031 hard_pred:-0.109 sev_pred:-0.963 air_t:12 fall_t:3 g:-- tag:gn (+5) | vl:30 ping:91 tps:19.99 lp:9 component: fly.main ver: 1.16.x
+(16:39:32) Bl4zeBoy failed Fly check | suspicious movement:-0.059 predict:-0.124 lm:-0.046 hard_pred:-0.124 sev_pred:-1.023 air_t:12 fall_t:4 g:-- tag:gn (+5) | vl:35 ping:91 tps:19.99 lp:9 component: fly.main ver: 1.16.x
+(16:39:57) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 0) (+1) | vl:1 ping:47 tps:20.0 lp:32 component: delay.inv ver: 1.16.x
+(16:39:57) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 0) (+1) | vl:2 ping:47 tps:20.0 lp:32 component: delay.inv ver: 1.16.x
+(16:39:57) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 1) (+1) | vl:3 ping:47 tps:20.0 lp:32 component: delay.inv ver: 1.16.x
+(16:39:57) Execute command: matrix notify Zonelesi tring to speeding up actions (Delay) #1
+(16:39:57) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 0) (+1) | vl:4 ping:47 tps:20.0 lp:32 component: delay.inv ver: 1.16.x
+(16:40:09) Bl4zeBoy failed Fly check | suspicious movement: 0.127 vel: -0.517 tag: els (+10) | vl:10 ping:65 tps:19.99 lp:9 component: fly.els ver: 1.16.x
+(16:40:09) Bl4zeBoy failed Fly check | suspicious movement: 0.096 vel: -0.585 tag: els (+10) | vl:20 ping:65 tps:19.99 lp:9 component: fly.els ver: 1.16.x
+(16:40:10) Bl4zeBoy failed Fly check | suspicious movement:-0.223 predict:-0.292 lm:-0.218 hard_pred:-0.292 sev_pred:-0.078 air_t:12 fall_t:17 g:-- tag:gn (+5) | vl:25 ping:65 tps:19.99 lp:9 component: fly.main ver: 1.16.x
+(16:42:27) Polnare failed HitBox check | missed entity hitbox (entity: cow, angle: 56.279, move: true) (+1) | vl:1 ping:147 tps:20.0 lp:6 component: hb.mis ver: 1.16.x
+(16:42:54) Bl4zeBoy failed BadPackets check | (timer) send 39 moving packets in 2709ms | tag: limit (+5) | vl:5 ping:331 tps:20.0 lp:33 component: net.timer ver: 1.16.x
+(16:43:39) Polnare failed Block check | break block without delay (+4) | vl:4 ping:141 tps:19.99 lp:1 component: blk.fb.dly ver: 1.16.x
+(16:43:47) Zonelesi failed Fly check | suspicious movement:0.1 predict:0.088 vel:-0.078 air_t:4 tag:vt (+5) | vl:5 ping:24 tps:20.0 lp:20 component: fly.main ver: 1.16.x
+(16:43:57) Polnare failed Jesus check | liquid speed (speed: 0.125, expect:0.12, dmg: false, flw:false, module: in) (+3) | vl:3 ping:151 tps:19.99 lp:1 component: jesus.speed.in ver: 1.16.x
+(16:43:58) Polnare failed Jesus check | liquid speed (speed: 0.124, expect:0.12, dmg: false, flw:false, module: in) (+3) | vl:6 ping:151 tps:20.0 lp:0 component: jesus.speed.in ver: 1.16.x
+(16:44:02) Polnare failed Jesus check | liquid speed (speed: 0.124, expect:0.12, dmg: false, flw:false, module: in) (+3) | vl:9 ping:147 tps:20.0 lp:0 component: jesus.speed.in ver: 1.16.x
+(16:45:02) Bl4zeBoy failed Elytra check | (elytra) move too fast: 0.589 | val: 0.207, et: 3 (+5) | vl:5 ping:411 tps:20.0 lp:0 component: ely.ace ver: 1.16.x
+(16:46:46) Bl4zeBoy failed Fly check | suspicious movement:-0.14 predict:-0.21 lm:-0.134 hard_pred:-0.21 sev_pred:-0.078 air_t:12 fall_t:13 g:-- tag:gn (+5) | vl:5 ping:76 tps:20.0 lp:15 component: fly.main ver: 1.16.x
+(16:46:46) Bl4zeBoy failed Fly check | suspicious movement:-0.145 predict:-0.216 lm:-0.14 hard_pred:-0.216 sev_pred:-0.155 air_t:12 fall_t:14 g:-- tag:gn (+5) | vl:10 ping:76 tps:20.0 lp:12 component: fly.main ver: 1.16.x
+(16:46:47) Bl4zeBoy failed Fly check | suspicious movement:-0.15 predict:-0.221 lm:-0.145 hard_pred:-0.221 sev_pred:-0.231 air_t:12 fall_t:15 g:-- tag:gn (+5) | vl:15 ping:76 tps:20.0 lp:12 component: fly.main ver: 1.16.x
+(16:46:47) Bl4zeBoy failed Fly check | suspicious movement:-0.154 predict:-0.225 lm:-0.15 hard_pred:-0.225 sev_pred:-0.304 air_t:12 fall_t:16 g:-- tag:gn (+5) | vl:20 ping:76 tps:20.0 lp:12 component: fly.main ver: 1.16.x
+(16:46:48) Bl4zeBoy failed Speed check | suspicious movement (move: 0.489, expect:0.289, t:0, sprint: false, attr: 0.1, tag: a) (+9) | vl:9 ping:76 tps:20.0 lp:12 component: speed.main ver: 1.16.x
+(16:46:48) Bl4zeBoy failed Speed check | suspicious movement (move: 0.485, expect:0.289, t:0, sprint: false, attr: 0.1, tag: a) (+9) | vl:18 ping:76 tps:20.0 lp:12 component: speed.main ver: 1.16.x
+(16:46:48) Bl4zeBoy failed Speed check | suspicious movement (move: 0.481, expect:0.289, t:0, sprint: false, attr: 0.1, tag: a) (+9) | vl:27 ping:76 tps:20.0 lp:12 component: speed.main ver: 1.16.x
+(16:46:48) Bl4zeBoy failed Speed check | suspicious movement (move: 0.477, expect:0.289, t:0, sprint: false, attr: 0.1, tag: a) (+9) | vl:36 ping:76 tps:20.0 lp:12 component: speed.main ver: 1.16.x
+(16:46:48) Bl4zeBoy failed Speed check | suspicious movement (move: 0.473, expect:0.289, t:0, sprint: false, attr: 0.1, tag: a) (+9) | vl:45 ping:76 tps:20.0 lp:12 component: speed.main ver: 1.16.x
+(16:50:50) Bl4zeBoy failed Fly check | suspicious movement:0.392 predict:0.306 air_t:1 tag:sam (+5) | vl:5 ping:76 tps:20.0 lp:16 component: fly.main ver: 1.16.x
+(16:50:50) Bl4zeBoy failed Fly check | suspicious movement:0.392 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:10 ping:76 tps:20.0 lp:16 component: fly.main ver: 1.16.x
+(16:50:51) Zonelesi failed Interact check | interact block through solid (through: SPRUCE_LOG, block:CHEST) (+1) | vl:1 ping:33 tps:20.0 lp:33 component: interact.through ver: 1.16.x
+(16:50:55) Bl4zeBoy failed Speed check | suspicious movement (move: 0.49, vet: 0.388, tag: d) (+2) | vl:2 ping:316 tps:20.0 lp:12 component: speed.main ver: 1.16.x
+(16:50:55) Bl4zeBoy failed Speed check | suspicious movement (move: 0.485, expect: 0.3665, tag: ea) (+5) | vl:7 ping:316 tps:20.0 lp:11 component: speed.main ver: 1.16.x
+(16:50:55) Bl4zeBoy failed Fly check | suspicious movement:0.357 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:15 ping:316 tps:20.0 lp:11 component: fly.main ver: 1.16.x
+(16:51:46) Bl4zeBoy failed Fly check | suspicious movement:-0.019 predict:-0.078 lm:0.0 hard_pred:-0.078 sev_pred:-0.228 air_t:9 fall_t:1 g:-- tag:gn (+5) | vl:5 ping:106 tps:20.0 lp:26 component: fly.main ver: 1.16.x
+(16:51:46) Bl4zeBoy failed Fly check | suspicious movement:-0.077 predict:-0.13 lm:-0.053 hard_pred:-0.13 sev_pred:-0.374 air_t:11 fall_t:3 g:-- tag:gn (+5) | vl:10 ping:106 tps:20.0 lp:26 component: fly.main ver: 1.16.x
+(16:51:46) Bl4zeBoy failed Fly check | suspicious movement:-0.099 predict:-0.154 lm:-0.077 hard_pred:-0.154 sev_pred:-0.445 air_t:12 fall_t:4 g:-- tag:gn (+5) | vl:15 ping:106 tps:20.0 lp:26 component: fly.main ver: 1.16.x
+(16:51:46) Bl4zeBoy failed Fly check | suspicious movement:-0.119 predict:-0.176 lm:-0.099 hard_pred:-0.176 sev_pred:-0.514 air_t:12 fall_t:5 g:-- tag:gn (+5) | vl:20 ping:106 tps:20.0 lp:26 component: fly.main ver: 1.16.x
+(16:51:46) Bl4zeBoy failed Fly check | suspicious movement:-0.137 predict:-0.195 lm:-0.119 hard_pred:-0.195 sev_pred:-0.582 air_t:12 fall_t:6 g:-- tag:gn (+5) | vl:25 ping:106 tps:20.0 lp:26 component: fly.main ver: 1.16.x
+(16:51:46) Bl4zeBoy failed Fly check | suspicious movement:-0.153 predict:-0.212 lm:-0.137 hard_pred:-0.212 sev_pred:-0.649 air_t:12 fall_t:7 g:-- tag:gn (+5) | vl:30 ping:106 tps:20.0 lp:26 component: fly.main ver: 1.16.x
+(16:51:46) Bl4zeBoy failed Fly check | suspicious movement:-0.167 predict:-0.228 lm:-0.153 hard_pred:-0.228 sev_pred:-0.779 air_t:12 fall_t:8 g:-- tag:gn (+5) | vl:35 ping:106 tps:20.0 lp:26 component: fly.main ver: 1.16.x
+(16:51:46) Bl4zeBoy failed Fly check | suspicious movement:-0.181 predict:-0.243 lm:-0.167 hard_pred:-0.243 sev_pred:-0.779 air_t:12 fall_t:9 g:-- tag:gn (+5) | vl:40 ping:106 tps:20.0 lp:26 component: fly.main ver: 1.16.x
+(16:51:46) Bl4zeBoy failed Fly check | suspicious movement:-0.193 predict:-0.256 lm:-0.181 hard_pred:-0.256 sev_pred:-0.078 air_t:12 fall_t:10 g:-- tag:gn (+5) | vl:45 ping:106 tps:20.0 lp:26 component: fly.main ver: 1.16.x
+(16:51:47) Bl4zeBoy failed Fly check | suspicious movement:-0.204 predict:-0.268 lm:-0.193 hard_pred:-0.268 sev_pred:-0.231 air_t:12 fall_t:11 g:-- tag:gn (+5) | vl:50 ping:106 tps:20.0 lp:26 component: fly.main ver: 1.16.x
+(16:51:47) Execute command: matrix notify Bl4zeBoy tried to fly (Fly) #1
+(16:51:47) Bl4zeBoy failed Fly check | suspicious movement:0.339 predict:0.338 vel:0.248 air_t:1 tag:vt (+5) | vl:55 ping:106 tps:20.0 lp:23 component: fly.main ver: 1.16.x
+(16:53:14) Polnare failed HitBox check | missed entity hitbox (entity: pig, angle: 47.508, move: true) (+1) | vl:1 ping:154 tps:20.0 lp:2 component: hb.mis ver: 1.16.x
+(16:53:23) Polnare failed HitBox check | missed entity hitbox (entity: pig, angle: 42.429, move: true) (+1) | vl:1 ping:148 tps:20.0 lp:1 component: hb.mis ver: 1.16.x
+(16:54:25) Polnare failed HitBox check | missed entity hitbox (entity: cow, angle: 40.545, move: true) (+1) | vl:1 ping:143 tps:19.99 lp:0 component: hb.mis ver: 1.16.x
+(16:54:26) Polnare failed HitBox check | missed entity hitbox (entity: cow, angle: 68.761, move: true) (+2) | vl:3 ping:143 tps:19.99 lp:0 component: hb.mis ver: 1.16.x
+(16:54:28) Polnare failed HitBox check | missed entity hitbox (entity: cow, angle: 123.284, move: true) (+2) | vl:5 ping:143 tps:19.99 lp:0 component: hb.mis ver: 1.16.x
+(16:55:04) Polnare failed Jesus check | suspicious movement in liquid (motion: -0.224,-0.078,-0.294, down: WATER, vel: -0.231, module: solid) (+5) | vl:5 ping:149 tps:19.99 lp:1 component: jesus.solid ver: 1.16.x
+(16:55:19) Polnare failed Jesus check | liquid speed (speed: 0.124, expect:0.12, dmg: false, flw:false, module: in) (+3) | vl:3 ping:142 tps:20.0 lp:2 component: jesus.speed.in ver: 1.16.x
+(16:56:39) Zonelesi failed Interact check | interact block through solid (through: WHITE_CONCRETE, block:CHEST) (+1) | vl:1 ping:48 tps:20.0 lp:19 component: interact.through ver: 1.16.x
+(16:56:41) Zonelesi failed Interact check | interact block through solid (through: WHITE_CONCRETE, block:CHEST) (+1) | vl:2 ping:48 tps:19.99 lp:25 component: interact.through ver: 1.16.x
+(16:57:17) Bl4zeBoy failed HitBox check | missed entity hitbox (entity: zombie, angle: 123.823, move: true) (+2) | vl:2 ping:86 tps:20.0 lp:11 component: hb.mis ver: 1.16.x
+(16:58:21) Zonelesi failed Interact check | interact block through solid (through: SPRUCE_LOG, block:CHEST) (+1) | vl:1 ping:46 tps:20.0 lp:7 component: interact.through ver: 1.16.x
+(16:59:03) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 0) (+1) | vl:1 ping:25 tps:20.0 lp:19 component: delay.inv ver: 1.16.x
+(16:59:03) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 0) (+1) | vl:2 ping:25 tps:20.0 lp:19 component: delay.inv ver: 1.16.x
+(16:59:03) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 1) (+1) | vl:3 ping:25 tps:20.0 lp:19 component: delay.inv ver: 1.16.x
+(16:59:03) Execute command: matrix notify Zonelesi tring to speeding up actions (Delay) #1
+(16:59:03) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 0) (+1) | vl:4 ping:25 tps:20.0 lp:19 component: delay.inv ver: 1.16.x
+(16:59:03) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 0) (+1) | vl:5 ping:25 tps:20.0 lp:19 component: delay.inv ver: 1.16.x
+(16:59:03) Execute command: matrix notify Zonelesi tring to speeding up actions (Delay) #2
+(16:59:03) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 1) (+1) | vl:6 ping:25 tps:20.0 lp:19 component: delay.inv ver: 1.16.x
+(16:59:04) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 0) (+1) | vl:7 ping:25 tps:20.0 lp:19 component: delay.inv ver: 1.16.x
+(16:59:04) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 0) (+1) | vl:8 ping:25 tps:20.0 lp:19 component: delay.inv ver: 1.16.x
+(16:59:04) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 0) (+1) | vl:9 ping:25 tps:20.0 lp:19 component: delay.inv ver: 1.16.x
+(16:59:04) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 0) (+1) | vl:10 ping:25 tps:20.0 lp:19 component: delay.inv ver: 1.16.x
+(16:59:04) Execute command: matrix kick Zonelesi Speeding Up Operations
+(16:59:04) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 0) (+1) | vl:11 ping:25 tps:20.0 lp:19 component: delay.inv ver: 1.16.x
+(16:59:04) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 0) (+1) | vl:12 ping:25 tps:20.0 lp:19 component: delay.inv ver: 1.16.x
+(16:59:04) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 0) (+1) | vl:13 ping:25 tps:20.0 lp:19 component: delay.inv ver: 1.16.x
+(16:59:04) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 55) (+1) | vl:14 ping:25 tps:20.0 lp:19 component: delay.inv ver: 1.16.x
+(16:59:12) Bl4zeBoy failed Fly check | suspicious movement: 1.494 vel: -0.078 tag: els (+10) | vl:10 ping:146 tps:20.0 lp:24 component: fly.els ver: 1.16.x
+(17:01:12) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 1) (+1) | vl:1 ping:32 tps:19.99 lp:21 component: delay.inv ver: 1.16.x
+(17:01:12) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 1) (+1) | vl:2 ping:32 tps:19.99 lp:21 component: delay.inv ver: 1.16.x
+(17:01:13) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 0) (+1) | vl:3 ping:32 tps:19.99 lp:21 component: delay.inv ver: 1.16.x
+(17:01:13) Execute command: matrix notify Zonelesi tring to speeding up actions (Delay) #1
+(17:01:13) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 0) (+1) | vl:4 ping:32 tps:19.99 lp:21 component: delay.inv ver: 1.16.x
+(17:01:13) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 44) (+1) | vl:5 ping:32 tps:19.99 lp:21 component: delay.inv ver: 1.16.x
+(17:01:13) Execute command: matrix notify Zonelesi tring to speeding up actions (Delay) #2
+(17:05:06) Bl4zeBoy failed BadPackets check | (timer) send 38 moving packets in 1015ms | tag: limit (+10) | vl:10 ping:1962 tps:20.0 lp:24 component: net.timer ver: 1.16.x
+(17:05:48) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 76) (+1) | vl:1 ping:50 tps:20.0 lp:15 component: delay.inv ver: 1.16.x
+(17:05:48) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 1) (+1) | vl:2 ping:50 tps:20.0 lp:15 component: delay.inv ver: 1.16.x
+(17:05:48) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 1) (+1) | vl:3 ping:50 tps:20.0 lp:15 component: delay.inv ver: 1.16.x
+(17:05:48) Execute command: matrix notify Zonelesi tring to speeding up actions (Delay) #1
+(17:05:48) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 0) (+1) | vl:4 ping:50 tps:20.0 lp:15 component: delay.inv ver: 1.16.x
+(17:06:32) Bl4zeBoy failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: -475.7,66.482,-1459.603, type: air, pkt: true) (+5) | vl:5 ping:146 tps:19.99 lp:24 component: fly.gf ver: 1.16.x
+(17:06:34) Polnare failed Block check | break block without delay (+4) | vl:4 ping:139 tps:20.0 lp:19 component: blk.fb.dly ver: 1.16.x
+(17:07:12) Bl4zeBoy failed Speed check | suspicious movement (move: 0.48, vet: 0.389, tag: d) (+2) | vl:2 ping:4296 tps:19.99 lp:33 component: speed.main ver: 1.16.x
+(17:07:12) Bl4zeBoy failed Speed check | suspicious movement (move: 0.487, expect: 0.3665, tag: ea) (+5) | vl:7 ping:4296 tps:19.99 lp:33 component: speed.main ver: 1.16.x
+(17:07:12) Bl4zeBoy failed Fly check | suspicious movement:0.389 predict:0.303 air_t:1 tag:sam (+5) | vl:5 ping:4296 tps:19.99 lp:33 component: fly.main ver: 1.16.x
+(17:07:12) Bl4zeBoy failed Fly check | suspicious movement:0.389 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:10 ping:4296 tps:19.99 lp:33 component: fly.main ver: 1.16.x
+(17:07:17) Bl4zeBoy failed Elytra check | (elytra) reserve energy: 1.37 dif: 0.001 motion: 0.149 t: 49 (+2) | vl:2 ping:226 tps:20.0 lp:15 component: ely.re ver: 1.16.x
+(17:07:40) Bl4zeBoy failed Fly check | suspicious movement: 0.09 vel: -0.717 tag: els (+10) | vl:10 ping:2436 tps:20.0 lp:11 component: fly.els ver: 1.16.x
+(17:08:29) Bl4zeBoy failed Speed check | suspicious movement (move: 0.522, predict: 0.314, friction: 0.6, ground:false, motY: 0.351, increase:0.026, preMove:0.288, motion: -0.515,0.351,-0.082, attribute: 0.182, cm: false, di: false, st: false, tag: pred) (+5) | vl:5 ping:13 tps:20.0 lp:16 component: move.xz ver: 1.16.x
+(17:08:29) Bl4zeBoy failed Speed check | suspicious movement (move: 0.517, predict: 0.501, friction: 0.6, ground:false, motY: 0.317, increase:0.026, preMove:0.475, motion: -0.51,0.317,-0.081, attribute: 0.182, cm: false, di: false, st: false, tag: pred) (+5) | vl:10 ping:13 tps:20.0 lp:16 component: move.xz ver: 1.16.x
+(17:08:29) Bl4zeBoy failed Fly check | suspicious movement:0.317 predict:0.253 vel:0.248 air_t:2 tag:vt (+5) | vl:5 ping:13 tps:20.0 lp:16 component: fly.main ver: 1.16.x
+(17:08:33) Bl4zeBoy failed Fly check | suspicious movement: 0.137 vel: -0.445 tag: els (+10) | vl:15 ping:508 tps:20.0 lp:14 component: fly.els ver: 1.16.x
+(17:08:33) Bl4zeBoy failed Fly check | suspicious movement: 0.114 vel: -0.445 tag: els (+10) | vl:25 ping:508 tps:20.0 lp:14 component: fly.els ver: 1.16.x
+(17:08:33) Bl4zeBoy failed Fly check | suspicious movement:0.114 predict:-0.078 vel:-0.514 air_t:12 tag:m4 (+10) | vl:35 ping:508 tps:20.0 lp:14 component: fly.main ver: 1.16.x
+(17:08:58) Zonelesi failed Speed check | suspicious movement (move: 0.621, predict: 0.6, friction: 0.6, ground:true, motY: 0.42, increase:0.357, preMove:0.243, motion: 0.612,0.42,0.109, attribute: 0.182, cm: false, di: false, st: true, tag: pred) (+5) | vl:5 ping:31 tps:20.0 lp:15 component: move.xz ver: 1.16.x
+(17:10:34) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 79) (+1) | vl:1 ping:31 tps:19.99 lp:28 component: delay.inv ver: 1.16.x
+(17:11:13) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 1) (+1) | vl:1 ping:2 tps:20.0 lp:34 component: delay.inv ver: 1.16.x
+(17:11:34) Bl4zeBoy failed BadPackets check | (timer) send 71 moving packets in 995ms | tag: limit (+5) | vl:5 ping:5891 tps:19.99 lp:36 component: net.timer ver: 1.16.x
+(17:11:34) Bl4zeBoy failed Speed check | fast climb | 0.706 > 0.118 / 20 (+5) | vl:5 ping:5891 tps:19.99 lp:36 component: speed.ladder ver: 1.16.x
+(17:12:01) Polnare failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:140 tps:19.99 lp:5 component: interact.through ver: 1.16.x
+(17:12:23) Bl4zeBoy failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: 6229.756,148.838,-960.33, type: air, pkt: true) (+5) | vl:5 ping:286 tps:20.0 lp:25 component: fly.gf ver: 1.16.x
+(17:12:28) Bl4zeBoy failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: 6229.756,148.838,-960.33, type: air, pkt: true) (+5) | vl:10 ping:286 tps:20.0 lp:22 component: fly.gf ver: 1.16.x
+(17:12:29) Bl4zeBoy failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: 6229.756,148.838,-960.33, type: air, pkt: true) (+5) | vl:15 ping:286 tps:20.0 lp:22 component: fly.gf ver: 1.16.x
+(17:12:39) Bl4zeBoy failed BadPackets check | (timer) send 71 moving packets in 1020ms | tag: limit (+5) | vl:5 ping:736 tps:20.0 lp:40 component: net.timer ver: 1.16.x
+(17:12:39) Bl4zeBoy failed BadPackets check | (timer) moved too many times (timer: 2.532, t:395, buffer:20, tag: timer) (+5) | vl:10 ping:736 tps:20.0 lp:40 component: net.timer ver: 1.16.x
+(17:12:59) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 52) (+1) | vl:1 ping:34 tps:20.0 lp:18 component: delay.inv ver: 1.16.x
+(17:12:59) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 1) (+1) | vl:2 ping:34 tps:20.0 lp:18 component: delay.inv ver: 1.16.x
+(17:12:59) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 0) (+1) | vl:3 ping:34 tps:20.0 lp:18 component: delay.inv ver: 1.16.x
+(17:12:59) Execute command: matrix notify Zonelesi tring to speeding up actions (Delay) #1
+(17:12:59) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 0) (+1) | vl:4 ping:34 tps:20.0 lp:18 component: delay.inv ver: 1.16.x
+(17:12:59) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 0) (+1) | vl:5 ping:34 tps:20.0 lp:18 component: delay.inv ver: 1.16.x
+(17:12:59) Execute command: matrix notify Zonelesi tring to speeding up actions (Delay) #2
+(17:12:59) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 1) (+1) | vl:6 ping:34 tps:20.0 lp:18 component: delay.inv ver: 1.16.x
+(17:12:59) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 1) (+1) | vl:7 ping:34 tps:20.0 lp:18 component: delay.inv ver: 1.16.x
+(17:12:59) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 0) (+1) | vl:8 ping:34 tps:20.0 lp:18 component: delay.inv ver: 1.16.x
+(17:12:59) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 0) (+1) | vl:9 ping:34 tps:20.0 lp:18 component: delay.inv ver: 1.16.x
+(17:12:59) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 0) (+1) | vl:10 ping:34 tps:20.0 lp:18 component: delay.inv ver: 1.16.x
+(17:12:59) Execute command: matrix kick Zonelesi Speeding Up Operations
+(17:12:59) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 0) (+1) | vl:11 ping:34 tps:20.0 lp:18 component: delay.inv ver: 1.16.x
+(17:12:59) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 0) (+1) | vl:12 ping:34 tps:20.0 lp:18 component: delay.inv ver: 1.16.x
+(17:12:59) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 0) (+1) | vl:13 ping:34 tps:20.0 lp:18 component: delay.inv ver: 1.16.x
+(17:12:59) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 2) (+1) | vl:14 ping:34 tps:20.0 lp:18 component: delay.inv ver: 1.16.x
+(17:12:59) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 0) (+1) | vl:15 ping:34 tps:20.0 lp:18 component: delay.inv ver: 1.16.x
+(17:12:59) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 0) (+1) | vl:16 ping:34 tps:20.0 lp:18 component: delay.inv ver: 1.16.x
+(17:12:59) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 0) (+1) | vl:17 ping:34 tps:20.0 lp:18 component: delay.inv ver: 1.16.x
+(17:12:59) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 0) (+1) | vl:18 ping:34 tps:20.0 lp:18 component: delay.inv ver: 1.16.x
+(17:12:59) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 1) (+1) | vl:19 ping:34 tps:20.0 lp:18 component: delay.inv ver: 1.16.x
+(17:12:59) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 0) (+1) | vl:20 ping:34 tps:20.0 lp:18 component: delay.inv ver: 1.16.x
+(17:12:59) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 0) (+1) | vl:21 ping:34 tps:20.0 lp:18 component: delay.inv ver: 1.16.x
+(17:12:59) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 0) (+1) | vl:22 ping:34 tps:20.0 lp:18 component: delay.inv ver: 1.16.x
+(17:12:59) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 0) (+1) | vl:23 ping:34 tps:20.0 lp:18 component: delay.inv ver: 1.16.x
+(17:12:59) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 2) (+1) | vl:24 ping:34 tps:20.0 lp:18 component: delay.inv ver: 1.16.x
+(17:12:59) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 0) (+1) | vl:25 ping:34 tps:20.0 lp:18 component: delay.inv ver: 1.16.x
+(17:12:59) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 0) (+1) | vl:26 ping:34 tps:20.0 lp:18 component: delay.inv ver: 1.16.x
+(17:12:59) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 0) (+1) | vl:27 ping:34 tps:20.0 lp:18 component: delay.inv ver: 1.16.x
+(17:12:59) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 1) (+1) | vl:28 ping:34 tps:20.0 lp:18 component: delay.inv ver: 1.16.x
+(17:12:59) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 0) (+1) | vl:29 ping:34 tps:20.0 lp:18 component: delay.inv ver: 1.16.x
+(17:12:59) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 0) (+1) | vl:30 ping:34 tps:20.0 lp:18 component: delay.inv ver: 1.16.x
+(17:12:59) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 0) (+1) | vl:31 ping:34 tps:20.0 lp:18 component: delay.inv ver: 1.16.x
+(17:12:59) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 0) (+1) | vl:32 ping:34 tps:20.0 lp:18 component: delay.inv ver: 1.16.x
+(17:12:59) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 0) (+1) | vl:33 ping:34 tps:20.0 lp:18 component: delay.inv ver: 1.16.x
+(17:12:59) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 0) (+1) | vl:34 ping:34 tps:20.0 lp:18 component: delay.inv ver: 1.16.x
+(17:12:59) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 1) (+1) | vl:35 ping:34 tps:20.0 lp:18 component: delay.inv ver: 1.16.x
+(17:12:59) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 0) (+1) | vl:36 ping:34 tps:20.0 lp:18 component: delay.inv ver: 1.16.x
+(17:12:59) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 0) (+1) | vl:37 ping:34 tps:20.0 lp:18 component: delay.inv ver: 1.16.x
+(17:12:59) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 0) (+1) | vl:38 ping:34 tps:20.0 lp:18 component: delay.inv ver: 1.16.x
+(17:12:59) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 0) (+1) | vl:39 ping:34 tps:20.0 lp:18 component: delay.inv ver: 1.16.x
+(17:13:25) Bl4zeBoy failed Fly check | suspicious movement:0.366 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:5 ping:0 tps:20.0 lp:10 component: fly.main ver: 1.16.x
+(17:13:25) Bl4zeBoy failed Fly check | suspicious movement:0.34 predict:0.253 vel:0.248 air_t:2 tag:vt (+5) | vl:10 ping:0 tps:20.0 lp:10 component: fly.main ver: 1.16.x
+(17:16:18) Zonelesi failed Chat check | chat too fast | delay: 1420 (+1) | vl:1 ping:32 tps:19.99 lp:24 component: chat.delay ver: 1.16.x
+(17:16:34) Zonelesi failed Interact check | interact block through solid (through: SPRUCE_PLANKS, block:CHEST) (+1) | vl:1 ping:22 tps:20.0 lp:27 component: interact.through ver: 1.16.x
+(17:17:14) Zonelesi failed Chat check | chat too fast | delay: 2745 (+1) | vl:1 ping:32 tps:20.0 lp:6 component: chat.delay ver: 1.16.x
+(17:19:34) Zonelesi failed Speed check | suspicious movement (move: 0.359, vet: 0.25, tag: d) (+8) | vl:8 ping:24 tps:19.99 lp:8 component: speed.main ver: 1.16.x
+(17:21:53) Bl4zeBoy failed Elytra check | (elytra) move too fast: 1.521 | val: 0.252, et: 4 (+5) | vl:5 ping:931 tps:19.91 lp:18 component: ely.ace ver: 1.16.x
+(17:21:55) Bl4zeBoy failed BadPackets check | (timer) send 37 moving packets in 1060ms | tag: limit (+5) | vl:5 ping:931 tps:20.0 lp:32 component: net.timer ver: 1.16.x
+(17:22:28) Bl4zeBoy failed Speed check | suspicious movement (move: 0.517, vet: 0.388, tag: d) (+8) | vl:8 ping:71 tps:20.0 lp:19 component: speed.main ver: 1.16.x
+(17:22:28) Bl4zeBoy failed Speed check | suspicious movement (move: 0.512, expect: 0.40149999999999997, tag: ea) (+5) | vl:13 ping:71 tps:20.0 lp:19 component: speed.main ver: 1.16.x
+(17:22:28) Bl4zeBoy failed Speed check | suspicious movement (move: 0.512, predict: 0.309, friction: 0.6, ground:false, motY: 0.357, increase:0.026, preMove:0.283, motion: 0.459,0.357,-0.227, attribute: 0.182, cm: false, di: false, st: false, tag: pred) (+5) | vl:18 ping:71 tps:20.0 lp:19 component: move.xz ver: 1.16.x
+(17:22:28) Bl4zeBoy failed Fly check | suspicious movement:0.357 predict:0.338 vel:0.248 air_t:1 tag:vt (+5) | vl:5 ping:71 tps:20.0 lp:19 component: fly.main ver: 1.16.x
+(17:22:34) Bl4zeBoy failed Fly check | suspicious movement: 0.203 vel: -0.302 tag: els (+10) | vl:15 ping:2996 tps:20.0 lp:28 component: fly.els ver: 1.16.x
+(17:24:29) Zonelesi failed Speed check | suspicious movement (move: 0.617, predict: 0.599, friction: 0.6, ground:true, motY: 0.42, increase:0.357, preMove:0.242, motion: -0.617,0.42,0.014, attribute: 0.182, cm: false, di: false, st: true, tag: pred) (+5) | vl:5 ping:34 tps:19.99 lp:8 component: move.xz ver: 1.16.x
+(17:25:17) Bl4zeBoy failed Speed check | suspicious movement (move: 1.612, predict: 1.162, friction: 0.6, ground:true, motY: 0.0, increase:0.282, preMove:0.88, motion: -1.612,0.0,0.0, attribute: 0.182, cm: false, di: false, st: false, tag: pred) (+5) | vl:5 ping:86 tps:20.0 lp:9 component: move.xz ver: 1.16.x
+(17:26:05) Bl4zeBoy failed Chat check | chat too fast | delay: 1714 (+1) | vl:1 ping:76 tps:19.99 lp:25 component: chat.delay ver: 1.16.x
+(17:26:23) Bl4zeBoy failed Fly check | suspicious movement:0.489 predict:-0.132 air:12 tag:dmf (+10) | vl:10 ping:76 tps:20.0 lp:12 component: fly.main ver: 1.16.x
+(17:26:29) Zonelesi failed Interact check | interact block through solid (through: BEDROCK, block:CHEST) (+1) | vl:1 ping:39 tps:20.0 lp:11 component: interact.through ver: 1.16.x
+(17:26:50) Bl4zeBoy failed BadPackets check | (timer) send 38 moving packets in 1015ms | tag: limit (+10) | vl:10 ping:8476 tps:20.0 lp:17 component: net.timer ver: 1.16.x
+(17:26:50) Bl4zeBoy failed Elytra check | (elytra) more energy: 0.714 dif: 0.628 motion: -0.044 ratio: 14.337 (+3) | vl:3 ping:8476 tps:20.0 lp:17 component: ely.me ver: 1.16.x
+(17:26:53) Bl4zeBoy failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: 6249.945,150.231,-949.314, type: air, pkt: true) (+5) | vl:5 ping:8476 tps:20.0 lp:13 component: fly.gf ver: 1.16.x
+(17:26:58) Bl4zeBoy failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: 6249.945,150.231,-949.314, type: air, pkt: true) (+5) | vl:10 ping:8476 tps:20.0 lp:22 component: fly.gf ver: 1.16.x
+(17:26:59) Bl4zeBoy failed BadPackets check | (timer) send 37 moving packets in 1001ms | tag: limit (+10) | vl:20 ping:8476 tps:20.0 lp:23 component: net.timer ver: 1.16.x
+(17:27:27) Zonelesi failed Speed check | suspicious movement (move: 0.622, predict: 0.605, friction: 0.6, ground:true, motY: 0.42, increase:0.357, preMove:0.248, motion: 0.622,0.42,0.012, attribute: 0.182, cm: false, di: false, st: true, tag: pred) (+5) | vl:5 ping:41 tps:20.0 lp:22 component: move.xz ver: 1.16.x
+(17:28:30) Bl4zeBoy failed Elytra check | (elytra) reserve energy: 0.113 dif: 0.003 motion: 0.229 t: 11 (+2) | vl:2 ping:101 tps:19.99 lp:25 component: ely.re ver: 1.16.x
+(17:30:39) Bl4zeBoy failed Block check | break block with timer (block: stone, point: 459) (+4) | vl:4 ping:76 tps:20.0 lp:28 component: block.fb.timer ver: 1.16.x
+(17:30:39) Bl4zeBoy failed Block check | break block with timer (block: stone, point: 459) (+4) | vl:8 ping:76 tps:20.0 lp:28 component: block.fb.timer ver: 1.16.x
+(17:32:15) Zonelesi failed Speed check | suspicious movement (move: 0.62, predict: 0.598, friction: 0.6, ground:true, motY: 0.42, increase:0.305, preMove:0.293, motion: -0.011,0.42,-0.62, attribute: 0.13, cm: false, di: false, st: true, tag: pred) (+5) | vl:5 ping:19 tps:20.0 lp:4 component: move.xz ver: 1.16.x
+(17:37:14) Bl4zeBoy failed Delay check | perform actions faster than expected // inventory (type C, d: 0) (+1) | vl:1 ping:241 tps:20.0 lp:24 component: delay.inv ver: 1.16.x
+(17:40:33) Bl4zeBoy failed Block check | break block with timer (block: stone, point: 337) (+4) | vl:4 ping:116 tps:20.0 lp:18 component: block.fb.timer ver: 1.16.x
+(17:42:46) Zonelesi failed Speed check | suspicious movement (move: 0.621, predict: 0.598, friction: 0.6, ground:true, motY: 0.42, increase:0.305, preMove:0.293, motion: 0.548,0.42,0.291, attribute: 0.13, cm: false, di: false, st: true, tag: pred) (+5) | vl:5 ping:23 tps:20.0 lp:4 component: move.xz ver: 1.16.x
+(17:43:47) Bl4zeBoy failed Fly check | suspicious movement:-0.087 predict:-0.163 lm:-0.086 hard_pred:-0.163 sev_pred:-1.407 air_t:12 fall_t:21 g:-- tag:gn (+5) | vl:5 ping:71 tps:20.0 lp:17 component: fly.main ver: 1.16.x
+(17:43:59) Bl4zeBoy failed Elytra check | (elytra) reserve energy: 1.369 dif: 0.001 motion: 0.139 t: 65 (+2) | vl:2 ping:76 tps:20.0 lp:24 component: ely.re ver: 1.16.x
+(17:43:59) Bl4zeBoy failed BadPackets check | (timer) moved too many times (timer: 9.223372036854776E15, t:0, buffer:20, tag: timer) (+10) | vl:10 ping:76 tps:20.0 lp:44 component: net.timer ver: 1.16.x
+(17:43:59) Bl4zeBoy failed BadPackets check | (timer) moved too many times (timer: 9.223372036854776E15, t:0, buffer:20, tag: timer) (+10) | vl:20 ping:76 tps:20.0 lp:44 component: net.timer ver: 1.16.x
+(17:43:59) Bl4zeBoy failed BadPackets check | (timer) moved too many times (timer: 111.111, t:9, buffer:20, tag: timer) (+10) | vl:30 ping:76 tps:20.0 lp:44 component: net.timer ver: 1.16.x
+(17:44:00) Bl4zeBoy failed BadPackets check | (timer) send 128 moving packets in 1025ms | tag: limit (+10) | vl:40 ping:76 tps:20.0 lp:44 component: net.timer ver: 1.16.x
+(17:45:41) Bl4zeBoy failed BadPackets check | (timer) send 76 moving packets in 1000ms | tag: limit (+5) | vl:5 ping:101 tps:20.0 lp:55 component: net.timer ver: 1.16.x
+(17:45:41) Bl4zeBoy failed Speed check | suspicious movement (move: 2.331, expect: 0.429, g_tk:3, tag: b) (+16) | vl:16 ping:101 tps:20.0 lp:55 component: speed.main ver: 1.16.x
+(17:45:41) Bl4zeBoy failed Speed check | suspicious movement (move: 2.331, predict: 0.13, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.0, motion: 0.921,0.0,-2.141, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:21 ping:101 tps:20.0 lp:55 component: move.xz ver: 1.16.x
+(17:46:01) Zonelesi failed Speed check | suspicious movement (move: 0.622, predict: 0.601, friction: 0.6, ground:true, motY: 0.42, increase:0.357, preMove:0.244, motion: 0.558,0.42,-0.275, attribute: 0.182, cm: false, di: false, st: true, tag: pred) (+5) | vl:5 ping:43 tps:20.0 lp:12 component: move.xz ver: 1.16.x
+(17:47:10) Bl4zeBoy failed Chat check | chat too fast | delay: 1564 (+1) | vl:1 ping:316 tps:20.0 lp:37 component: chat.delay ver: 1.16.x
+(17:48:09) Bl4zeBoy failed BadPackets check | (timer) send 49 moving packets in 1016ms | tag: limit (+5) | vl:5 ping:3059 tps:20.0 lp:39 component: net.timer ver: 1.16.x
+(17:48:15) Bl4zeBoy failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: -41.812,65.177,181.311, type: air, pkt: true) (+5) | vl:5 ping:3059 tps:20.0 lp:21 component: fly.gf ver: 1.16.x
+(17:48:19) Bl4zeBoy failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: -41.812,65.177,181.311, type: air, pkt: true) (+5) | vl:10 ping:3059 tps:20.0 lp:36 component: fly.gf ver: 1.16.x
+(17:50:58) Bl4zeBoy failed Fly check | suspicious movement:0.388 predict:0.302 air_t:1 tag:sam (+5) | vl:5 ping:131 tps:20.0 lp:10 component: fly.main ver: 1.16.x
+(17:50:58) Bl4zeBoy failed Fly check | suspicious movement:0.388 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:10 ping:131 tps:20.0 lp:10 component: fly.main ver: 1.16.x
+(17:51:04) Bl4zeBoy failed Speed check | suspicious movement (move: 0.488, vet: 0.386, tag: d) (+7) | vl:7 ping:131 tps:20.0 lp:9 component: speed.main ver: 1.16.x
+(17:51:04) Bl4zeBoy failed Speed check | suspicious movement (move: 0.483, expect: 0.3665, tag: ea) (+5) | vl:12 ping:131 tps:20.0 lp:9 component: speed.main ver: 1.16.x
+(17:51:04) Bl4zeBoy failed Speed check | suspicious movement (move: 0.491, expect: 0.3665, tag: ea) (+5) | vl:17 ping:131 tps:20.0 lp:9 component: speed.main ver: 1.16.x
+(17:51:04) Bl4zeBoy failed Speed check | suspicious movement (move: 0.491, predict: 0.466, friction: 0.6, ground:false, motY: 0.353, increase:0.026, preMove:0.44, motion: -0.488,0.353,0.051, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:22 ping:131 tps:20.0 lp:9 component: move.xz ver: 1.16.x
+(17:51:04) Bl4zeBoy failed Fly check | suspicious movement:0.353 predict:0.267 air_t:2 tag:sam (+5) | vl:15 ping:131 tps:20.0 lp:9 component: fly.main ver: 1.16.x
+(17:51:04) Bl4zeBoy failed Fly check | suspicious movement:0.353 predict:0.253 vel:0.248 air_t:2 tag:vt (+5) | vl:20 ping:131 tps:20.0 lp:9 component: fly.main ver: 1.16.x
+(17:51:09) Bl4zeBoy failed Chat check | chat too fast | delay: 1600 (+1) | vl:1 ping:86 tps:20.0 lp:16 component: chat.delay ver: 1.16.x
+(17:51:14) Zonelesi failed Fly check | suspicious movement:0.05 predict:-0.155 pmv:0.05 tag:ground (+5) | vl:5 ping:35 tps:20.0 lp:13 component: fly.main ver: 1.16.x
+(17:52:00) Bl4zeBoy failed Fly check | suspicious movement:0.038 predict:-0.016 vel:-0.445 air_t:12 tag:m4 (+10) | vl:10 ping:91 tps:20.0 lp:13 component: fly.main ver: 1.16.x
+(17:52:00) Bl4zeBoy failed Fly check | suspicious movement:0.012 predict:-0.041 vel:-0.582 air_t:12 tag:m4 (+10) | vl:20 ping:91 tps:20.0 lp:13 component: fly.main ver: 1.16.x
+(17:53:31) Zonelesi failed Chat check | chat too fast | delay: 2904 (+1) | vl:1 ping:26 tps:20.0 lp:17 component: chat.delay ver: 1.16.x
+(17:54:42) Bl4zeBoy failed BadPackets check | (timer) send 50 moving packets in 1040ms | tag: limit (+10) | vl:10 ping:136 tps:20.0 lp:21 component: net.timer ver: 1.16.x
+(17:54:42) Bl4zeBoy failed Elytra check | (elytra) more energy: 2.079 dif: 2.066 motion: -0.265 ratio: 7.798 (+3) | vl:3 ping:136 tps:20.0 lp:21 component: ely.me ver: 1.16.x
+(17:54:51) Bl4zeBoy failed Chat check | chat too fast | delay: 2410 (+1) | vl:1 ping:107 tps:20.0 lp:16 component: chat.delay ver: 1.16.x
+(17:55:11) Bl4zeBoy failed BadPackets check | (timer) send 38 moving packets in 1915ms | tag: limit (+5) | vl:5 ping:1056 tps:20.0 lp:44 component: net.timer ver: 1.16.x
+(17:56:23) Bl4zeBoy failed Speed check | suspicious movement (move: 0.627, predict: 0.606, friction: 0.6, ground:true, motY: 0.42, increase:0.357, preMove:0.249, motion: -0.4,0.42,-0.483, attribute: 0.182, cm: false, di: false, st: true, tag: pred) (+5) | vl:5 ping:281 tps:20.0 lp:14 component: move.xz ver: 1.16.x
+(17:56:25) Bl4zeBoy failed Speed check | suspicious movement (move: 0.617, predict: 0.604, friction: 0.6, ground:true, motY: 0.42, increase:0.357, preMove:0.247, motion: -0.584,0.42,-0.2, attribute: 0.182, cm: false, di: false, st: true, tag: pred) (+5) | vl:10 ping:281 tps:19.99 lp:13 component: move.xz ver: 1.16.x
+(17:57:31) Bl4zeBoy failed Chat check | chat too fast | delay: 1564 (+1) | vl:1 ping:61 tps:19.99 lp:25 component: chat.delay ver: 1.16.x
+(17:58:10) Zonelesi failed Interact check | interact block through solid (through: BEDROCK, block:CHEST) (+1) | vl:1 ping:38 tps:20.0 lp:12 component: interact.through ver: 1.16.x
+(18:00:06) Zonelesi failed Speed check | suspicious movement (move: 0.629, predict: 0.607, friction: 0.6, ground:true, motY: 0.42, increase:0.357, preMove:0.25, motion: 0.628,0.42,0.031, attribute: 0.182, cm: false, di: false, st: true, tag: pred) (+5) | vl:5 ping:30 tps:20.0 lp:31 component: move.xz ver: 1.16.x
+(18:08:39) PedanticPorpoise failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: -359.645,64.001,-74.854, type: air, pkt: true) (+5) | vl:5 ping:86 tps:20.0 lp:56 component: fly.gf ver: 1.16.x
+(18:08:44) PedanticPorpoise failed Speed check | suspicious movement (move: 0.62, predict: 0.598, friction: 0.6, ground:true, motY: 0.42, increase:0.305, preMove:0.293, motion: 0.132,0.42,-0.606, attribute: 0.13, cm: false, di: false, st: true, tag: pred) (+5) | vl:5 ping:58 tps:19.99 lp:54 component: move.xz ver: 1.16.x
+(18:08:50) PedanticPorpoise failed HitBox check | missed entity hitbox (entity: cow, angle: 100.156, move: true) (+2) | vl:2 ping:58 tps:20.0 lp:44 component: hb.mis ver: 1.16.x
+(18:11:34) PedanticPorpoise failed Block check | break block with timer (block: oak_log, point: 313) (+4) | vl:4 ping:37 tps:19.99 lp:59 component: block.fb.timer ver: 1.16.x
+(18:11:46) PedanticPorpoise failed Block check | break block with timer (block: oak_leaves, point: 308) (+4) | vl:4 ping:70 tps:20.0 lp:59 component: block.fb.timer ver: 1.16.x
+(18:12:11) PedanticPorpoise failed Block check | break block with timer (block: dirt, point: 507) (+4) | vl:8 ping:50 tps:20.0 lp:60 component: block.fb.timer ver: 1.16.x
+(18:12:13) PedanticPorpoise failed Block check | break block with timer (block: grass_block, point: 331) (+4) | vl:12 ping:50 tps:20.0 lp:67 component: block.fb.timer ver: 1.16.x
+(18:12:13) Execute command: matrix notify PedanticPorpoise tried to place/break a block too quickly (FastPlace/FastBreak)
+(18:14:37) PedanticPorpoise failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: -184.44,72.177,-250.746, type: air, pkt: true) (+5) | vl:5 ping:139 tps:19.99 lp:73 component: fly.gf ver: 1.16.x
+(18:14:57) PedanticPorpoise failed Block check | break block with timer (block: grass_block, point: 423) (+4) | vl:4 ping:52 tps:20.0 lp:51 component: block.fb.timer ver: 1.16.x
+(18:15:41) PedanticPorpoise failed Block check | break block with timer (block: stone, point: 383) (+4) | vl:4 ping:61 tps:20.0 lp:74 component: block.fb.timer ver: 1.16.x
+(18:15:46) PedanticPorpoise failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: -227.809,80.249,-301.125, type: air, pkt: true) (+5) | vl:5 ping:61 tps:20.0 lp:75 component: fly.gf ver: 1.16.x
+(18:16:13) PedanticPorpoise failed Speed check | sprint with weird direction (dist: 0.244, angle:132.282) (+5) | vl:5 ping:268 tps:19.99 lp:58 component: speed.sprint ver: 1.16.x
+(18:24:01) PedanticPorpoise failed BadPackets check | (timer) send 45 moving packets in 1739ms | tag: limit (+5) | vl:5 ping:240 tps:19.99 lp:33 component: net.timer ver: 1.16.x
+(18:31:34) PedanticPorpoise failed Block check | break block with timer (block: stone, point: 323) (+4) | vl:4 ping:56 tps:19.99 lp:36 component: block.fb.timer ver: 1.16.x
+(18:31:43) PedanticPorpoise failed Block check | break block with timer (block: stone, point: 477) (+4) | vl:8 ping:29 tps:20.0 lp:51 component: block.fb.timer ver: 1.16.x
+(18:34:02) PedanticPorpoise failed Fly check | suspicious movement:-1.0 predict:-0.078 air_t:0 tag:rs (+5) | vl:5 ping:92 tps:20.0 lp:32 component: fly.main ver: 1.16.x
+(18:35:13) PedanticPorpoise failed Block check | break block with timer (block: stone, point: 311) (+4) | vl:4 ping:51 tps:20.0 lp:44 component: block.fb.timer ver: 1.16.x
+(18:39:04) Bl4zeBoy failed BadPackets check | (timer) send 38 moving packets in 1015ms | tag: limit (+5) | vl:5 ping:3056 tps:20.0 lp:38 component: net.timer ver: 1.16.x
+(18:39:04) Bl4zeBoy failed Elytra check | (elytra) more energy: 0.215 dif: 0.195 motion: -0.375 ratio: 0.52 (+1) | vl:1 ping:3056 tps:20.0 lp:38 component: ely.me ver: 1.16.x
+(18:39:04) Bl4zeBoy failed Elytra check | (elytra) reserve energy: 0.0 dif: 0.0 motion: 0.0 t: 23 (+2) | vl:3 ping:3056 tps:20.0 lp:33 component: ely.re ver: 1.16.x
+(18:46:44) Bl4zeBoy failed BadPackets check | (timer) send 43 moving packets in 1430ms | tag: limit (+10) | vl:10 ping:61 tps:20.0 lp:36 component: net.timer ver: 1.16.x
+(18:48:38) Bl4zeBoy failed Fly check | suspicious movement:0.364 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:5 ping:86 tps:20.0 lp:20 component: fly.main ver: 1.16.x
+(18:48:38) Bl4zeBoy failed Fly check | suspicious movement:0.278 predict:0.253 vel:0.248 air_t:2 tag:vt (+5) | vl:10 ping:86 tps:20.0 lp:20 component: fly.main ver: 1.16.x
+(18:48:38) Bl4zeBoy failed Fly check | suspicious movement:0.194 predict:0.17 vel:0.165 air_t:3 tag:vt (+5) | vl:15 ping:86 tps:20.0 lp:20 component: fly.main ver: 1.16.x
+(18:48:38) Bl4zeBoy failed Fly check | suspicious movement:0.112 predict:0.088 vel:0.083 air_t:4 tag:vt (+5) | vl:20 ping:86 tps:20.0 lp:20 component: fly.main ver: 1.16.x
+(18:48:54) PedanticPorpoise failed Block check | break block with timer (block: stone, point: 506) (+4) | vl:4 ping:116 tps:20.0 lp:60 component: block.fb.timer ver: 1.16.x
+(18:48:54) PedanticPorpoise failed Block check | break block too fast (digs: 3/7, block: stone, j: false) (+4) | vl:8 ping:116 tps:20.0 lp:60 component: block.fastbreak.expect ver: 1.16.x
+(18:48:57) PedanticPorpoise failed Block check | break block with timer (block: stone, point: 325) (+4) | vl:12 ping:116 tps:20.0 lp:61 component: block.fb.timer ver: 1.16.x
+(18:48:57) Execute command: matrix notify PedanticPorpoise tried to place/break a block too quickly (FastPlace/FastBreak)
+(18:48:58) PedanticPorpoise failed Block check | break block with timer (block: stone, point: 303) (+4) | vl:16 ping:116 tps:19.99 lp:61 component: block.fb.timer ver: 1.16.x
+(18:49:04) PedanticPorpoise failed Block check | break block with timer (block: stone, point: 594) (+4) | vl:20 ping:116 tps:20.0 lp:61 component: block.fb.timer ver: 1.16.x
+(18:49:04) Execute command: matrix kick PedanticPorpoise FastPlace/FastBreak Hacks
+(18:49:47) PedanticPorpoise failed Block check | break block with timer (block: iron_ore, point: 471) (+4) | vl:4 ping:55 tps:20.0 lp:61 component: block.fb.timer ver: 1.16.x
+(18:49:52) PedanticPorpoise failed Block check | break block with timer (block: stone, point: 392) (+4) | vl:8 ping:55 tps:20.0 lp:62 component: block.fb.timer ver: 1.16.x
+(18:49:52) PedanticPorpoise failed Interact check | breaking a block without looking at it (block: STONE) (+1) | vl:1 ping:55 tps:20.0 lp:62 component: interact.break ver: 1.16.x
+(18:49:52) PedanticPorpoise failed Block check | break block with timer (block: stone, point: 381) (+4) | vl:12 ping:55 tps:20.0 lp:62 component: block.fb.timer ver: 1.16.x
+(18:49:52) Execute command: matrix notify PedanticPorpoise tried to place/break a block too quickly (FastPlace/FastBreak)
+(18:49:55) PedanticPorpoise failed Block check | break block with timer (block: stone, point: 330) (+4) | vl:16 ping:55 tps:19.99 lp:62 component: block.fb.timer ver: 1.16.x
+(18:49:56) PedanticPorpoise failed Block check | break block with timer (block: stone, point: 605) (+4) | vl:20 ping:55 tps:20.0 lp:62 component: block.fb.timer ver: 1.16.x
+(18:49:56) Execute command: matrix kick PedanticPorpoise FastPlace/FastBreak Hacks
+(18:52:10) PedanticPorpoise failed Block check | break block with timer (block: stone, point: 320) (+4) | vl:4 ping:51 tps:20.0 lp:50 component: block.fb.timer ver: 1.16.x
+(18:52:20) PedanticPorpoise failed Interact check | breaking a block without looking at it (block: STONE) (+1) | vl:1 ping:42 tps:20.0 lp:59 component: interact.break ver: 1.16.x
+(18:52:52) PedanticPorpoise failed Fly check | suspicious movement:0.165 predict:0.165 vel:-0.302 air_t:12 tag:m4 (+10) | vl:10 ping:53 tps:19.99 lp:65 component: fly.main ver: 1.16.x
+(18:53:17) PedanticPorpoise failed Fly check | suspicious movement:0.165 predict:0.165 vel:-0.445 air_t:12 tag:m4 (+10) | vl:10 ping:136 tps:19.99 lp:68 component: fly.main ver: 1.16.x
+(18:53:18) PedanticPorpoise failed Fly check | suspicious movement: -0.122/0.1 vel: -0.155 tag:nc (+8) | vl:18 ping:136 tps:19.99 lp:68 component: fly.main ver: 1.16.x
+(18:55:45) PedanticPorpoise failed Speed check | (sneak) send sneak packet frequently (+2) | vl:2 ping:26 tps:20.0 lp:26 component: speed.noslow.a ver: 1.16.x
+(18:55:47) PedanticPorpoise failed Speed check | (sneak) send sneak packet frequently (+2) | vl:4 ping:26 tps:20.0 lp:24 component: speed.noslow.a ver: 1.16.x
+(18:55:48) PedanticPorpoise failed Speed check | (sneak) send sneak packet frequently (+2) | vl:6 ping:26 tps:20.0 lp:40 component: speed.noslow.a ver: 1.16.x
+(18:55:56) Bl4zeBoy failed Speed check | suspicious movement (move: 0.359, predict: 0.345, friction: 0.6, ground:false, motY: 0.351, increase:0.026, preMove:0.319, motion: 0.172,0.351,-0.315, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:5 ping:91 tps:20.0 lp:16 component: move.xz ver: 1.16.x
+(18:55:56) Bl4zeBoy failed Fly check | suspicious movement:0.351 predict:0.265 air_t:2 tag:sam (+5) | vl:5 ping:91 tps:20.0 lp:16 component: fly.main ver: 1.16.x
+(18:57:31) PedanticPorpoise failed Speed check | (sneak) send sneak packet frequently (+2) | vl:2 ping:319 tps:20.0 lp:56 component: speed.noslow.a ver: 1.16.x
+(18:58:22) Bl4zeBoy failed Fly check | suspicious movement: 1.018 vel: -0.075 tag: els (+10) | vl:10 ping:351 tps:20.0 lp:17 component: fly.els ver: 1.16.x
+(18:59:52) Bl4zeBoy failed Speed check | suspicious movement (move: 0.467, vet: 0.382, tag: d) (+2) | vl:2 ping:286 tps:20.0 lp:23 component: speed.main ver: 1.16.x
+(18:59:52) Bl4zeBoy failed Speed check | suspicious movement (move: 0.462, expect: 0.3665, tag: ea) (+5) | vl:7 ping:286 tps:20.0 lp:23 component: speed.main ver: 1.16.x
+(18:59:52) Bl4zeBoy failed Speed check | suspicious movement (move: 0.456, expect: 0.3665, tag: ea) (+5) | vl:12 ping:286 tps:20.0 lp:23 component: speed.main ver: 1.16.x
+(18:59:52) Bl4zeBoy failed Fly check | suspicious movement:0.305 predict:0.253 vel:0.248 air_t:2 tag:vt (+5) | vl:5 ping:286 tps:20.0 lp:23 component: fly.main ver: 1.16.x
+(19:00:04) Bl4zeBoy failed Chat check | chat too fast | delay: 1835 (+1) | vl:1 ping:276 tps:20.0 lp:30 component: chat.delay ver: 1.16.x
+(19:00:45) Bl4zeBoy failed Fly check | suspicious movement: 1.052 vel: -0.089 tag: els (+10) | vl:10 ping:565 tps:20.0 lp:14 component: fly.els ver: 1.16.x
+(19:00:46) Bl4zeBoy failed Elytra check | (elytra) move too fast: 0.694 | val: 0.322, et: 2 (+5) | vl:5 ping:565 tps:20.0 lp:14 component: ely.ace ver: 1.16.x
+(19:01:13) Bl4zeBoy failed Fly check | suspicious movement:0.073 predict:-0.007 air_t:6 tag:sam (+5) | vl:15 ping:541 tps:20.0 lp:14 component: fly.main ver: 1.16.x
+(19:03:06) Bl4zeBoy failed BadPackets check | (timer) send 37 moving packets in 1010ms | tag: limit (+10) | vl:10 ping:446 tps:19.99 lp:18 component: net.timer ver: 1.16.x
+(19:03:55) Bl4zeBoy failed Fly check | ground spoof (expect: +-, move: 0.427,1.0,-0.005, at: -450.991,67.0,-1564.867, type: air, pkt: false) (+5) | vl:5 ping:496 tps:20.0 lp:24 component: fly.gf ver: 1.16.x
+(19:03:55) Bl4zeBoy failed Speed check | suspicious movement (move: 0.427, vet: 1.0, tag: d) (+2) | vl:2 ping:496 tps:20.0 lp:24 component: speed.main ver: 1.16.x
+(19:03:55) Bl4zeBoy failed Fly check | step | p: 1 | m:1.0 ev:-0.078 lm:0.99 (+2) | vl:7 ping:496 tps:20.0 lp:24 component: speed.step ver: 1.16.x
+(19:03:58) Bl4zeBoy failed Fly check | step | p:3 (+4) | vl:11 ping:1297 tps:20.0 lp:24 component: speed.step ver: 1.16.x
+(19:04:06) Bl4zeBoy failed BadPackets check | (timer) send 36 moving packets in 1000ms | tag: limit (+10) | vl:10 ping:1297 tps:19.99 lp:23 component: net.timer ver: 1.16.x
+(19:04:22) Bl4zeBoy failed BadPackets check | (timer) moved too many times (timer: 1.143, t:875, buffer:20, tag: timer) (+5) | vl:5 ping:1297 tps:20.0 lp:57 component: net.timer ver: 1.16.x
+(19:04:22) Bl4zeBoy failed BadPackets check | (timer) send 79 moving packets in 1014ms | tag: limit (+5) | vl:10 ping:1297 tps:20.0 lp:57 component: net.timer ver: 1.16.x
+(19:04:23) Bl4zeBoy failed BadPackets check | (timer) moved too many times (timer: 1.712, t:584, buffer:20, tag: timer) (+5) | vl:15 ping:1297 tps:20.0 lp:57 component: net.timer ver: 1.16.x
+(19:07:12) Bl4zeBoy failed BadPackets check | (timer) moved too many times (timer: 1000.0, t:1, buffer:20, tag: timer) (+5) | vl:5 ping:3247 tps:20.0 lp:48 component: net.timer ver: 1.16.x
+(19:07:12) Bl4zeBoy failed BadPackets check | (timer) moved too many times (timer: 76.923, t:13, buffer:20, tag: timer) (+5) | vl:10 ping:3247 tps:20.0 lp:48 component: net.timer ver: 1.16.x
+(19:07:12) Bl4zeBoy failed BadPackets check | (timer) moved too many times (timer: 9.223372036854776E15, t:0, buffer:20, tag: timer) (+5) | vl:15 ping:3247 tps:20.0 lp:48 component: net.timer ver: 1.16.x
+(19:07:13) Bl4zeBoy failed BadPackets check | (timer) send 134 moving packets in 1480ms | tag: limit (+5) | vl:20 ping:3247 tps:20.0 lp:48 component: net.timer ver: 1.16.x
+(19:07:14) PedanticPorpoise failed Speed check | suspicious movement (move: 0.62, predict: 0.597, friction: 0.6, ground:true, motY: 0.42, increase:0.305, preMove:0.292, motion: -0.22,0.42,-0.579, attribute: 0.13, cm: false, di: false, st: true, tag: pred) (+5) | vl:5 ping:44 tps:20.0 lp:42 component: move.xz ver: 1.16.x
+(19:08:23) Bl4zeBoy failed Speed check | suspicious movement (move: 0.509, expect: 0.4665, tag: ea) (+5) | vl:5 ping:246 tps:20.0 lp:12 component: speed.main ver: 1.16.x
+(19:08:23) Bl4zeBoy failed Fly check | suspicious movement:0.361 predict:0.338 vel:0.42 air_t:1 tag:vt (+5) | vl:5 ping:246 tps:20.0 lp:12 component: fly.main ver: 1.16.x
+(19:08:34) Bl4zeBoy failed Speed check | (sneak) send sneak packet frequently (+2) | vl:7 ping:75 tps:20.0 lp:12 component: speed.noslow.a ver: 1.16.x
+(19:08:34) PedanticPorpoise failed Speed check | (sneak) send sneak packet frequently (+2) | vl:2 ping:26 tps:19.99 lp:23 component: speed.noslow.a ver: 1.16.x
+(19:08:37) PedanticPorpoise failed Speed check | (sneak) send sneak packet frequently (+2) | vl:4 ping:26 tps:20.0 lp:23 component: speed.noslow.a ver: 1.16.x
+(19:08:41) Bl4zeBoy failed Speed check | (sneak) send sneak packet frequently (+2) | vl:9 ping:270 tps:20.0 lp:24 component: speed.noslow.a ver: 1.16.x
+(19:08:46) PedanticPorpoise failed Speed check | (sneak) send sneak packet frequently (+2) | vl:2 ping:27 tps:20.0 lp:23 component: speed.noslow.a ver: 1.16.x
+(19:09:33) Bl4zeBoy failed Speed check | suspicious movement (move: 0.486, vet: 0.398, tag: d) (+7) | vl:7 ping:176 tps:19.99 lp:34 component: speed.main ver: 1.16.x
+(19:09:33) Bl4zeBoy failed Speed check | suspicious movement (move: 0.48, expect: 0.3665, tag: ea) (+5) | vl:12 ping:176 tps:19.99 lp:34 component: speed.main ver: 1.16.x
+(19:09:33) Bl4zeBoy failed Fly check | suspicious movement:0.376 predict:0.338 vel:0.248 air_t:1 tag:vt (+5) | vl:5 ping:176 tps:19.99 lp:34 component: fly.main ver: 1.16.x
+(19:09:48) Bl4zeBoy failed Fly check | suspicious movement:0.362 predict:0.277 air_t:2 tag:sam (+5) | vl:5 ping:101 tps:20.0 lp:29 component: fly.main ver: 1.16.x
+(19:11:15) Bl4zeBoy failed Elytra check | (elytra) move too fast: 0.652 | val: 0.24, et: 2 (+5) | vl:5 ping:86 tps:20.0 lp:10 component: ely.ace ver: 1.16.x
+(19:13:04) PedanticPorpoise failed BadPackets check | (timer) send 40 moving packets in 1565ms | tag: limit (+10) | vl:10 ping:82 tps:20.0 lp:50 component: net.timer ver: 1.16.x
+(19:13:35) Bl4zeBoy failed Fly check | suspicious movement:0.364 predict:0.338 vel:-0.144 air_t:1 tag:vt (+5) | vl:5 ping:221 tps:20.0 lp:14 component: fly.main ver: 1.16.x
+(19:13:35) Bl4zeBoy failed Fly check | suspicious movement:0.337 predict:0.253 vel:-0.219 air_t:2 tag:vt (+5) | vl:10 ping:221 tps:20.0 lp:14 component: fly.main ver: 1.16.x
+(19:13:35) Bl4zeBoy failed Fly check | suspicious movement:0.337 predict:0.252 air_t:3 tag:sam (+5) | vl:15 ping:221 tps:20.0 lp:14 component: fly.main ver: 1.16.x
+(19:13:35) Bl4zeBoy failed Fly check | suspicious movement:0.337 predict:0.17 vel:-0.293 air_t:3 tag:vt (+5) | vl:20 ping:221 tps:20.0 lp:14 component: fly.main ver: 1.16.x
+(19:13:41) PedanticPorpoise failed BadPackets check | (timer) send 37 moving packets in 1240ms | tag: limit (+10) | vl:10 ping:63 tps:20.0 lp:52 component: net.timer ver: 1.16.x
+(19:14:00) PedanticPorpoise failed BadPackets check | (timer) moved too many times (timer: 1.012, t:988, buffer:20, tag: timer) (+10) | vl:10 ping:100 tps:20.0 lp:68 component: net.timer ver: 1.16.x
+(19:14:22) PedanticPorpoise failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: -641.924,70.249,-595.787, type: air, pkt: true) (+5) | vl:5 ping:138 tps:20.0 lp:60 component: fly.gf ver: 1.16.x
+(19:14:30) Bl4zeBoy failed Speed check | suspicious movement (move: 1.121, predict: 0.084, friction: 0.6, ground:false, motY: 0.768, increase:0.026, preMove:0.058, motion: -0.65,0.768,0.914, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:5 ping:136 tps:20.0 lp:23 component: move.xz ver: 1.16.x
+(19:17:01) Bl4zeBoy failed BadPackets check | (timer) send 38 moving packets in 1014ms | tag: limit (+10) | vl:10 ping:96 tps:20.0 lp:27 component: net.timer ver: 1.16.x
+(19:17:01) Bl4zeBoy failed Elytra check | (elytra) reserve energy: 2.082 dif: 1.834 motion: 0.188 t: 557 (+2) | vl:2 ping:96 tps:20.0 lp:27 component: ely.re ver: 1.16.x
+(19:17:33) PedanticPorpoise failed BadPackets check | (timer) send 36 moving packets in 1070ms | tag: limit (+5) | vl:5 ping:627 tps:20.0 lp:49 component: net.timer ver: 1.16.x
+(19:20:44) Bl4zeBoy failed Speed check | suspicious movement (move: 1.575, predict: 1.292, friction: 0.6, ground:true, motY: 0.0, increase:0.432, preMove:0.86, motion: -0.133,0.0,-1.569, attribute: 0.182, cm: false, di: false, st: false, tag: pred) (+5) | vl:5 ping:86 tps:19.99 lp:18 component: move.xz ver: 1.16.x
+(19:21:00) Bl4zeBoy failed Fly check | suspicious movement:0.476 predict:-0.134 air:12 tag:dmf (+10) | vl:10 ping:81 tps:19.99 lp:9 component: fly.main ver: 1.16.x
+(19:25:56) Bl4zeBoy failed Fly check | suspicious movement:0.389 predict:0.303 air_t:1 tag:sam (+5) | vl:5 ping:76 tps:19.99 lp:10 component: fly.main ver: 1.16.x
+(19:25:56) Bl4zeBoy failed Fly check | suspicious movement:0.389 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:10 ping:76 tps:19.99 lp:10 component: fly.main ver: 1.16.x
+(19:27:24) PedanticPorpoise failed BadPackets check | (timer) send 42 moving packets in 1042ms | tag: limit (+10) | vl:10 ping:68 tps:20.0 lp:40 component: net.timer ver: 1.16.x
+(19:27:24) PedanticPorpoise failed Speed check | suspicious movement (move: 2.123, predict: 0.324, friction: 0.6, ground:false, motY: -0.506, increase:0.026, preMove:0.298, motion: -1.29,-0.506,1.686, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:5 ping:68 tps:20.0 lp:40 component: move.xz ver: 1.16.x
+(19:27:24) PedanticPorpoise failed Fly check | suspicious movement:-0.506 predict:0.165 lm:0.248 hard_pred:0.165 sev_pred:-0.302 air_t:3 fall_t:1 g:-- tag:gn (+5) | vl:5 ping:68 tps:20.0 lp:40 component: fly.main ver: 1.16.x
+(19:30:23) PedanticPorpoise failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: -1351.81,99.166,-353.787, type: air, pkt: true) (+5) | vl:5 ping:328 tps:19.86 lp:59 component: fly.gf ver: 1.16.x
+(19:34:58) PedanticPorpoise failed BadPackets check | (timer) send 37 moving packets in 1411ms | tag: limit (+10) | vl:10 ping:41 tps:20.0 lp:43 component: net.timer ver: 1.16.x
+(19:34:58) PedanticPorpoise failed Speed check | suspicious movement (move: 0.564, expect:0.498, t:0, sprint: true, attr: 0.13, tag: a) (+9) | vl:9 ping:41 tps:20.0 lp:43 component: speed.main ver: 1.16.x
+(19:34:58) PedanticPorpoise failed Speed check | suspicious movement (move: 0.564, predict: 0.482, friction: 0.6, ground:true, motY: 0.0, increase:0.33, preMove:0.152, motion: 0.564,0.0,-0.022, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:14 ping:41 tps:20.0 lp:43 component: move.xz ver: 1.16.x
+(19:34:58) PedanticPorpoise failed Speed check | sprint with weird direction (dist: 0.24, angle:116.587) (+5) | vl:19 ping:41 tps:20.0 lp:43 component: speed.sprint ver: 1.16.x
+(19:35:06) PedanticPorpoise failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: -244.285,68.797,94.53, type: air, pkt: true) (+5) | vl:5 ping:41 tps:20.0 lp:50 component: fly.gf ver: 1.16.x
+(19:36:38) PedanticPorpoise failed BadPackets check | (timer) send 44 moving packets in 1138ms | tag: limit (+5) | vl:5 ping:867 tps:20.0 lp:49 component: net.timer ver: 1.16.x
+(19:36:46) PedanticPorpoise failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: -339.518,76.001,309.94, type: air, pkt: true) (+5) | vl:5 ping:867 tps:19.99 lp:32 component: fly.gf ver: 1.16.x
+(19:41:30) PedanticPorpoise failed BadPackets check | (timer) send 38 moving packets in 1290ms | tag: limit (+5) | vl:5 ping:113 tps:20.0 lp:47 component: net.timer ver: 1.16.x
+(19:42:49) PedanticPorpoise failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:27 tps:20.0 lp:41 component: interact.through ver: 1.16.x
+(19:43:19) PedanticPorpoise failed BadPackets check | (timer) send 36 moving packets in 1146ms | tag: limit (+5) | vl:5 ping:499 tps:20.0 lp:79 component: net.timer ver: 1.16.x
+(19:44:39) PedanticPorpoise failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: -256.832,69.024,67.791, type: air, pkt: true) (+5) | vl:5 ping:296 tps:20.0 lp:61 component: fly.gf ver: 1.16.x
+(19:44:56) PedanticPorpoise failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: -232.603,69.001,90.671, type: air, pkt: true) (+5) | vl:5 ping:240 tps:20.0 lp:59 component: fly.gf ver: 1.16.x
+(19:44:59) PedanticPorpoise failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: -232.401,69.252,97.947, type: air, pkt: true) (+5) | vl:10 ping:240 tps:19.99 lp:67 component: fly.gf ver: 1.16.x
+(19:45:27) vanism failed Speed check | suspicious movement (move: 0.545, predict: 0.483, friction: 0.6, ground:true, motY: 0.42, increase:0.548, preMove:0.153, motion: 0.292,0.42,-0.46, attribute: 0.13, cm: false, di: true, st: false, tag: pred) (+5) | vl:5 ping:35 tps:19.99 lp:9 component: move.xz ver: 1.16.x
+(19:45:27) vanism failed Velocity check | (respond) ignore server velocity: 0.128,0.275,-0.177 (+5) | vl:5 ping:35 tps:19.99 lp:8 component: vel.expect ver: 1.16.x
+(19:46:21) PedanticPorpoise failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: -345.643,65.001,269.213, type: air, pkt: true) (+5) | vl:5 ping:36 tps:20.0 lp:40 component: fly.gf ver: 1.16.x
+(19:52:56) PedanticPorpoise failed Chat check | chat too fast | delay: 1635 (+1) | vl:1 ping:58 tps:20.0 lp:53 component: chat.delay ver: 1.16.x
+(19:57:57) PedanticPorpoise failed BadPackets check | (timer) send 37 moving packets in 1130ms | tag: limit (+10) | vl:10 ping:33 tps:20.0 lp:51 component: net.timer ver: 1.16.x
+(19:57:57) PedanticPorpoise failed Speed check | suspicious movement (move: 0.503, vet: 0.753, tag: d) (+8) | vl:8 ping:33 tps:20.0 lp:51 component: speed.main ver: 1.16.x
+(19:58:22) PedanticPorpoise failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: -376.63,79.001,397.441, type: air, pkt: true) (+5) | vl:5 ping:202 tps:20.0 lp:68 component: fly.gf ver: 1.16.x
+(19:58:25) PedanticPorpoise failed BadPackets check | (timer) send 52 moving packets in 1069ms | tag: limit (+5) | vl:5 ping:202 tps:20.0 lp:59 component: net.timer ver: 1.16.x
+(19:58:25) PedanticPorpoise failed Speed check | suspicious movement (move: 2.455, expect: 0.429, g_tk:1, tag: b) (+16) | vl:16 ping:202 tps:20.0 lp:59 component: speed.main ver: 1.16.x
+(19:58:25) PedanticPorpoise failed Speed check | suspicious movement (move: 2.455, predict: 0.196, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.066, motion: -2.449,0.0,0.168, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:21 ping:202 tps:20.0 lp:59 component: move.xz ver: 1.16.x
+(20:01:48) PedanticPorpoise failed Speed check | (sneak) send sneak packet frequently (+2) | vl:2 ping:71 tps:19.99 lp:56 component: speed.noslow.a ver: 1.16.x
+(20:01:49) PedanticPorpoise failed Speed check | (sneak) send sneak packet frequently (+2) | vl:4 ping:71 tps:19.99 lp:56 component: speed.noslow.a ver: 1.16.x
+(20:01:49) PedanticPorpoise failed Speed check | (sneak) send sneak packet frequently (+2) | vl:6 ping:71 tps:19.99 lp:56 component: speed.noslow.a ver: 1.16.x
+(20:03:55) PedanticPorpoise failed Interact check | interact block through solid (through: DIRT, block:CHEST) (+1) | vl:1 ping:30 tps:20.0 lp:30 component: interact.through ver: 1.16.x
+(20:04:46) PedanticPorpoise failed Chat check | send the same chat content (+1) | vl:1 ping:38 tps:20.0 lp:56 component: chat.same ver: 1.16.x
+(20:05:10) vanism failed Chat check | chat too fast | delay: 2716 (+1) | vl:1 ping:20 tps:19.99 lp:14 component: chat.delay ver: 1.16.x
+(20:06:42) PedanticPorpoise failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:33 tps:20.0 lp:43 component: interact.through ver: 1.16.x
+(20:10:47) PedanticPorpoise failed Delay check | perform actions faster than expected // inventory (type C, d: 1) (+1) | vl:1 ping:8 tps:20.0 lp:54 component: delay.inv ver: 1.16.x
+(20:10:47) PedanticPorpoise failed Delay check | perform actions faster than expected // inventory (type C, d: 0) (+1) | vl:2 ping:8 tps:20.0 lp:54 component: delay.inv ver: 1.16.x
+(20:11:24) PedanticPorpoise failed Block check | break block too fast (digs: 15/18, block: grass_block, j: false) (+4) | vl:4 ping:53 tps:19.99 lp:39 component: block.fastbreak.expect ver: 1.16.x
+(20:13:42) PedanticPorpoise failed Block check | break block without delay (+4) | vl:4 ping:27 tps:20.0 lp:23 component: blk.fb.dly ver: 1.16.x
+(20:20:11) vanism failed HitBox check | missed entity hitbox (entity: skeleton, angle: 52.245, move: true) (+1) | vl:1 ping:19 tps:20.0 lp:8 component: hb.mis ver: 1.16.x
+(20:31:28) PedanticPorpoise failed Block check | break block without delay (+4) | vl:4 ping:24 tps:20.0 lp:11 component: blk.fb.dly ver: 1.16.x
+(20:42:13) PedanticPorpoise failed KillAura check | critical hit without correct jumping // mini-jump (d:0.0625) (+5) | vl:5 ping:31 tps:20.0 lp:12 component: ka.critical.hop ver: 1.16.x
+(20:43:43) PedanticPorpoise failed Speed check | suspicious movement (move: 0.444, expect: 0.429, g_tk:1, tag: b) (+8) | vl:8 ping:21 tps:20.0 lp:8 component: speed.main ver: 1.16.x
+(20:48:54) PedanticPorpoise failed Speed check | suspicious movement (move: 0.629, predict: 0.619, friction: 0.6, ground:true, motY: 0.42, increase:0.357, preMove:0.262, motion: -0.223,0.42,0.588, attribute: 0.182, cm: false, di: false, st: true, tag: pred) (+5) | vl:5 ping:27 tps:20.0 lp:8 component: move.xz ver: 1.16.x
+(20:49:36) PedanticPorpoise failed Speed check | sprint with weird direction (dist: 0.234, angle:112.15) (+5) | vl:5 ping:22 tps:20.0 lp:8 component: speed.sprint ver: 1.16.x
+(21:17:49) PedanticPorpoise failed Block check | break block with timer (block: obsidian, point: 338) (+4) | vl:4 ping:23 tps:20.0 lp:23 component: block.fb.timer ver: 1.16.x
+(21:20:58) PedanticPorpoise failed HitBox check | missed entity hitbox (entity: zombie, angle: 74.636, move: true) (+2) | vl:2 ping:22 tps:19.99 lp:24 component: hb.mis ver: 1.16.x
+(21:22:49) PedanticPorpoise failed Interact check | attack entity through dirt block (d: 1.996) (+1) | vl:1 ping:15 tps:20.0 lp:6 component: interact.attack ver: 1.16.x
+(21:47:23) PedanticPorpoise failed Chat check | chat too fast | delay: 2872 (+1) | vl:1 ping:45 tps:20.0 lp:16 component: chat.delay ver: 1.16.x
+(21:55:16) PedanticPorpoise failed Speed check | suspicious movement (move: 0.628, predict: 0.608, friction: 0.6, ground:true, motY: 0.42, increase:0.357, preMove:0.251, motion: 0.627,0.42,-0.029, attribute: 0.182, cm: false, di: false, st: true, tag: pred) (+5) | vl:5 ping:27 tps:20.0 lp:9 component: move.xz ver: 1.16.x
+(22:14:07) PedanticPorpoise failed Speed check | suspicious movement (move: 0.619, predict: 0.596, friction: 0.6, ground:true, motY: 0.42, increase:0.305, preMove:0.291, motion: 0.45,0.42,-0.425, attribute: 0.13, cm: false, di: false, st: true, tag: pred) (+5) | vl:5 ping:29 tps:20.0 lp:10 component: move.xz ver: 1.16.x
+(22:30:10) PedanticPorpoise failed Chat check | send the same chat content (+1) | vl:1 ping:27 tps:19.99 lp:14 component: chat.same ver: 1.16.x
+(22:31:02) PedanticPorpoise failed KillAura check | critical hit without correct jumping // mini-jump (d:0.0625) (+5) | vl:5 ping:47 tps:20.0 lp:11 component: ka.critical.hop ver: 1.16.x
+(22:31:16) STra1z failed Block check | break block with timer (block: blackstone, point: 776) (+4) | vl:4 ping:43 tps:20.0 lp:20 component: block.fb.timer ver: 1.16.x
+(22:31:16) STra1z failed Block check | break block with timer (block: blackstone, point: 975) (+4) | vl:8 ping:43 tps:20.0 lp:29 component: block.fb.timer ver: 1.16.x
+(22:31:17) STra1z failed BadPackets check | (timer) send 37 moving packets in 1027ms | tag: limit (+10) | vl:10 ping:70 tps:20.0 lp:26 component: net.timer ver: 1.16.x
+(22:35:47) STra1z failed HitBox check | missed entity hitbox (entity: magma_cube, angle: 132.94, move: true) (+2) | vl:2 ping:81 tps:20.0 lp:67 component: hb.mis ver: 1.16.x
+(22:35:49) STra1z failed BadPackets check | (timer) send 38 moving packets in 1027ms | tag: limit (+10) | vl:10 ping:81 tps:20.0 lp:65 component: net.timer ver: 1.16.x
+(22:36:24) STra1z failed Jesus check | suspicious movement in liquid (motion: 0.008, pre: -0.009, modules: p9) (+5) | vl:5 ping:54 tps:20.0 lp:12 component: jesus.p9 ver: 1.16.x
+(22:36:57) STra1z failed BadPackets check | (timer) send 39 moving packets in 1070ms | tag: limit (+10) | vl:10 ping:54 tps:20.0 lp:35 component: net.timer ver: 1.16.x
+(22:36:57) STra1z failed Jesus check | liquid speed (speed: 0.155, expect:0.12, dmg: false, flw:false, module: in) (+3) | vl:3 ping:54 tps:20.0 lp:35 component: jesus.speed.in ver: 1.16.x
+(22:37:13) STra1z failed Jesus check | suspicious movement in liquid (motion: 0.008, pre: -0.009, modules: p9) (+5) | vl:8 ping:56 tps:19.99 lp:19 component: jesus.p9 ver: 1.16.x
+(22:37:22) STra1z failed Delay check | perform actions faster than expected // fast_bow (45, force: 1.0) (+1) | vl:1 ping:2219 tps:20.0 lp:41 component: delay.splash ver: 1.16.x
+(22:37:23) STra1z failed BadPackets check | (timer) send 63 moving packets in 1215ms | tag: limit (+5) | vl:5 ping:2219 tps:19.99 lp:53 component: net.timer ver: 1.16.x
+(22:37:23) STra1z failed BadPackets check | (timer) moved too many times (timer: 2.188, t:457, buffer:20, tag: timer) (+5) | vl:10 ping:2219 tps:19.99 lp:53 component: net.timer ver: 1.16.x
+(22:37:24) STra1z failed BadPackets check | (timer) moved too many times (timer: 1.35, t:741, buffer:20, tag: timer) (+5) | vl:15 ping:2219 tps:19.99 lp:55 component: net.timer ver: 1.16.x
+(22:39:27) STra1z failed BadPackets check | (timer) send 43 moving packets in 1010ms | tag: limit (+10) | vl:10 ping:68 tps:19.98 lp:38 component: net.timer ver: 1.16.x
+(22:39:35) PedanticPorpoise failed HitBox check | missed entity hitbox (entity: enderman, angle: 46.599, move: true) (+1) | vl:1 ping:21 tps:20.0 lp:37 component: hb.mis ver: 1.16.x
+(22:41:55) STra1z failed BadPackets check | (timer) send 43 moving packets in 1029ms | tag: limit (+10) | vl:10 ping:68 tps:20.0 lp:33 component: net.timer ver: 1.16.x
+(22:46:37) STra1z failed BadPackets check | (timer) send 47 moving packets in 1289ms | tag: limit (+10) | vl:10 ping:67 tps:20.0 lp:48 component: net.timer ver: 1.16.x
+(22:46:37) STra1z failed Speed check | suspicious movement (move: 0.746, expect: 0.429, g_tk:5, tag: b) (+8) | vl:8 ping:67 tps:20.0 lp:48 component: speed.main ver: 1.16.x
+(22:46:37) STra1z failed Speed check | suspicious movement (move: 0.746, predict: 0.187, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.057, motion: -0.532,0.0,-0.524, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:13 ping:67 tps:20.0 lp:48 component: move.xz ver: 1.16.x
+(22:49:41) STra1z failed BadPackets check | (timer) moved too many times (timer: 6.757, t:148, buffer:20, tag: timer) (+5) | vl:5 ping:3146 tps:20.0 lp:44 component: net.timer ver: 1.16.x
+(22:49:41) STra1z failed BadPackets check | (timer) moved too many times (timer: 10.753, t:93, buffer:20, tag: timer) (+5) | vl:10 ping:3146 tps:20.0 lp:44 component: net.timer ver: 1.16.x
+(22:49:41) STra1z failed BadPackets check | (timer) send 91 moving packets in 1011ms | tag: limit (+5) | vl:15 ping:3146 tps:20.0 lp:44 component: net.timer ver: 1.16.x
+(22:50:23) STra1z failed BadPackets check | (timer) send 38 moving packets in 997ms | tag: limit (+5) | vl:5 ping:845 tps:20.0 lp:43 component: net.timer ver: 1.16.x
+(22:53:12) PedanticPorpoise failed Speed check | sprint with weird direction (dist: 0.275, angle:93.043) (+5) | vl:5 ping:29 tps:20.0 lp:13 component: speed.sprint ver: 1.16.x
+(22:53:12) PedanticPorpoise failed Speed check | sprint with weird direction (dist: 0.28, angle:94.227) (+5) | vl:10 ping:29 tps:20.0 lp:13 component: speed.sprint ver: 1.16.x
+(22:53:39) STra1z failed BadPackets check | (timer) send 45 moving packets in 1085ms | tag: limit (+5) | vl:5 ping:161 tps:20.0 lp:63 component: net.timer ver: 1.16.x
+(23:20:37) PedanticPorpoise failed Velocity check | (respond) ignore server velocity: -0.011,0.275,0.218 (+5) | vl:5 ping:41 tps:20.0 lp:6 component: vel.expect ver: 1.16.x
+(23:24:12) PedanticPorpoise failed HitBox check | missed entity hitbox (entity: skeleton, angle: 101.296, move: true) (+2) | vl:2 ping:27 tps:20.0 lp:11 component: hb.mis ver: 1.16.x
+(23:29:41) PedanticPorpoise failed Speed check | suspicious movement (move: 0.618, predict: 0.595, friction: 0.6, ground:true, motY: 0.42, increase:0.305, preMove:0.29, motion: -0.427,0.42,0.447, attribute: 0.13, cm: false, di: false, st: true, tag: pred) (+5) | vl:5 ping:170 tps:19.99 lp:19 component: move.xz ver: 1.16.x

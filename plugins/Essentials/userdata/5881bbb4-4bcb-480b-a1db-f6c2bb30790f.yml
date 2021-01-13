@@ -1,0 +1,20 @@
+lastAccountName: Polnare
+timestamps:
+  login: 1610377893377
+  logout: 1610381618091
+ipAddress: 74.221.202.247
+lastlocation:
+  world: world
+  x: -247.5
+  y: 67.0
+  z: 100.5
+  yaw: 4.7120295
+  pitch: 0.0
+money: '500.0'
+logoutlocation:
+  world: world
+  x: -214.29261710319943
+  y: 65.0
+  z: 42.416325699914836
+  yaw: -171.01816
+  pitch: 8.250088

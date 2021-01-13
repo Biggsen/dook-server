@@ -1,0 +1,38 @@
+database-version: 1
+mobs:
+  0b580573-559d-41ca-9b36-1fafaa833913:
+    protection: true
+  c973f060-c271-48e0-ba92-225805a2e788:
+    protection: true
+  3ab93397-06fe-4e69-967d-341c4e0c0366:
+    protection: true
+  4aca109e-12f3-4ace-8e8a-fa6d37419663:
+    protection: true
+  7dc026ef-fdc5-40ec-871d-30d0c16a00f5:
+    protection: true
+  f293b1c8-30bc-43d8-bf77-a42b9c82ad59:
+    protection: true
+  56427588-abd2-4977-96d5-448084b46e2d:
+    protection: true
+  9a043fef-feb8-4eb5-bad6-298ca927fda8:
+    protection: true
+  51e149ea-f280-4b35-b808-d0623a8e84ed:
+    protection: true
+  98e3b1d8-19b2-42e0-b43f-82ab37ef6cb1:
+    protection: true
+  3e85c860-8b59-4d87-8bf5-8e20ceabff65:
+    protection: true
+  2b10d0d2-f6ee-4b69-8816-d1a542c24126:
+    protection: true
+  a3d027d1-e139-408d-b0ae-843ca2f72029:
+    protection: true
+  8adb75e8-ffed-4053-9239-7a35280f4ab4:
+    protection: true
+  812371cb-75e3-4a77-9828-98897eae116e:
+    protection: true
+  bdf4d4a9-30db-4b7f-8918-87f6fa37bc3e:
+    protection: true
+  be212663-84db-45ed-bb79-1de8762cdc2d:
+    protection: true
+  da325515-e4a4-44b4-9cce-fd0c08371bb4:
+    protection: true

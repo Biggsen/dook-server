@@ -30,17 +30,17 @@ npc:
         textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTYxMDIyMzgxMTU1MiwKICAicHJvZmlsZUlkIiA6ICIzM2ViZDMyYmIzMzk0YWQ5YWM2NzBjOTZjNTQ5YmE3ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJEYW5ub0JhbmFubm9YRCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84ZTgxNTUzNTc5M2U3YWM0Nzk1MjYwNDI2YjQwNjA4YTkzMTI4MmFkYzMxYWM0YTFkNDZjMDNjMDYzYTdlYTg3IgogICAgfQogIH0KfQ==
         updateSkins: false
       location:
-        bodyYaw: -94.89804
+        bodyYaw: -117.345215
         world: world
         x: '-262.0185'
         y: '67.0'
         z: '115.0091'
-        yaw: '-139.898'
+        yaw: '-162.3452'
         pitch: '0.0'
       owner:
         owner: verzion
         uuid: f7d0c52a-f9cd-49f4-9f21-16e988fdf4fc
-    traitnames: spawned,lookclose,scoreboardtrait,skintrait,owner,equipment,mounttrait,location,type,inventory
+    traitnames: location,inventory,spawned,owner,skintrait,equipment,mounttrait,scoreboardtrait,type,lookclose
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -72,17 +72,17 @@ npc:
         textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTYxMDIxNjg0OTAxOCwKICAicHJvZmlsZUlkIiA6ICJkMGI4MjE1OThmMTE0NzI1ODBmNmNiZTliOGUxYmU3MCIsCiAgInByb2ZpbGVOYW1lIiA6ICJqYmFydHl5IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzlhMjdhZWVlMzg0MjkyNDFlY2NkNzJhNzVlODAzMGU1ZjA5ZGRhMDRiMjU1NWI3YjkzYTBlNzU3OTVmMDI0ZjUiCiAgICB9CiAgfQp9
         updateSkins: false
       location:
-        bodyYaw: 87.43573
+        bodyYaw: 88.93437
         world: world
         x: '-205.4836'
         y: '67.0'
         z: '-210.3'
-        yaw: '53.5818'
-        pitch: '-28.1864'
+        yaw: '129.436'
+        pitch: '8.5093'
       owner:
         owner: verzion
         uuid: f7d0c52a-f9cd-49f4-9f21-16e988fdf4fc
-    traitnames: spawned,lookclose,scoreboardtrait,skintrait,owner,equipment,mounttrait,location,type,inventory
+    traitnames: inventory,location,spawned,skintrait,owner,equipment,mounttrait,scoreboardtrait,type,lookclose
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -114,17 +114,17 @@ npc:
         textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTYxMDIxNjg0OTAxOCwKICAicHJvZmlsZUlkIiA6ICJkMGI4MjE1OThmMTE0NzI1ODBmNmNiZTliOGUxYmU3MCIsCiAgInByb2ZpbGVOYW1lIiA6ICJqYmFydHl5IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzlhMjdhZWVlMzg0MjkyNDFlY2NkNzJhNzVlODAzMGU1ZjA5ZGRhMDRiMjU1NWI3YjkzYTBlNzU3OTVmMDI0ZjUiCiAgICB9CiAgfQp9
         updateSkins: false
       location:
-        bodyYaw: -37.138092
+        bodyYaw: 86.51135
         world: world
         x: '-355.3'
         y: '70.0'
         z: '585.9935'
-        yaw: '-76.1519'
-        pitch: '0.0'
+        yaw: '126.7795'
+        pitch: '20.1409'
       owner:
         owner: verzion
         uuid: f7d0c52a-f9cd-49f4-9f21-16e988fdf4fc
-    traitnames: spawned,lookclose,scoreboardtrait,skintrait,owner,equipment,mounttrait,location,type,inventory
+    traitnames: location,inventory,spawned,owner,skintrait,equipment,mounttrait,scoreboardtrait,type,lookclose
     navigator:
       speedmodifier: '1.0'
       avoidwater: false

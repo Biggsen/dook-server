@@ -1,0 +1,134 @@
+(00:02:38) Zonelesi failed Block check | break block without delay (+4) | vl:4 ping:30 tps:20.0 lp:10 component: blk.fb.dly ver: 1.16.x
+(00:15:46) Hydrogen123 failed HitBox check | missed entity hitbox (entity: cow, angle: 52.895, move: true) (+1) | vl:1 ping:91 tps:20.0 lp:3 component: hb.mis ver: 1.16.x
+(00:15:52) Hydrogen123 failed HitBox check | missed entity hitbox (entity: cow, angle: 95.526, move: true) (+2) | vl:3 ping:91 tps:20.0 lp:3 component: hb.mis ver: 1.16.x
+(00:17:38) Zonelesi failed HitBox check | missed entity hitbox (entity: skeleton, angle: 56.058, move: true) (+1) | vl:1 ping:22 tps:20.0 lp:13 component: hb.mis ver: 1.16.x
+(00:17:58) Hydrogen123 failed HitBox check | missed entity hitbox (entity: sheep, angle: 55.355, move: true) (+1) | vl:1 ping:91 tps:20.0 lp:2 component: hb.mis ver: 1.16.x
+(00:18:56) Zonelesi failed BadPackets check | (tiny-timer) moved too many times: 1.064 (5) (+0) | vl:0 ping:38 tps:20.0 lp:19 component: net.timer ver: 1.16.x
+(00:19:08) Zonelesi failed BadPackets check | (tiny-timer) moved too many times: 1.111 (5) (+0) | vl:0 ping:53 tps:20.0 lp:20 component: net.timer ver: 1.16.x
+(00:22:15) Zonelesi failed Speed check | suspicious movement (move: 0.621, predict: 0.599, friction: 0.6, ground:true, motY: 0.42, increase:0.305, preMove:0.294, motion: 0.483,0.42,-0.391, attribute: 0.13, cm: false, di: false, st: true, tag: pred) (+5) | vl:5 ping:49 tps:20.0 lp:13 component: move.xz ver: 1.16.x
+(00:22:31) Hydrogen123 failed Chat check | send the same chat content (+1) | vl:1 ping:87 tps:20.0 lp:8 component: chat.same ver: 1.16.x
+(00:23:35) Hydrogen123 failed Chat check | chat too fast | delay: 2976 (+1) | vl:1 ping:90 tps:20.0 lp:25 component: chat.delay ver: 1.16.x
+(00:23:37) Hydrogen123 failed Chat check | chat too fast | delay: 2287 (+1) | vl:2 ping:90 tps:20.0 lp:25 component: chat.delay ver: 1.16.x
+(00:27:14) Hydrogen123 failed Chat check | chat too fast | delay: 2385 (+1) | vl:1 ping:90 tps:20.0 lp:3 component: chat.delay ver: 1.16.x
+(00:31:47) Hydrogen123 failed HitBox check | missed entity hitbox (entity: cow, angle: 41.081, move: true) (+1) | vl:1 ping:88 tps:20.0 lp:5 component: hb.mis ver: 1.16.x
+(00:38:01) Hydrogen123 failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:89 tps:20.0 lp:21 component: interact.through ver: 1.16.x
+(00:41:49) Zonelesi failed BadPackets check | (tiny-timer) moved too many times: 1.064 (5) (+0) | vl:0 ping:35 tps:20.0 lp:11 component: net.timer ver: 1.16.x
+(00:44:27) Zonelesi failed BadPackets check | (tiny-timer) moved too many times: 1.064 (5) (+0) | vl:0 ping:41 tps:20.0 lp:12 component: net.timer ver: 1.16.x
+(00:45:48) Zonelesi failed BadPackets check | (tiny-timer) moved too many times: 1.087 (5) (+0) | vl:0 ping:25 tps:20.0 lp:7 component: net.timer ver: 1.16.x
+(00:45:52) Zonelesi failed BadPackets check | (tiny-timer) moved too many times: 1.136 (5) (+0) | vl:0 ping:25 tps:20.0 lp:9 component: net.timer ver: 1.16.x
+(00:47:44) Zonelesi failed BadPackets check | (tiny-timer) moved too many times: 1.087 (5) (+0) | vl:0 ping:53 tps:20.0 lp:23 component: net.timer ver: 1.16.x
+(00:50:34) Zonelesi failed BadPackets check | (tiny-timer) moved too many times: 1.02 (5) (+0) | vl:0 ping:24 tps:20.0 lp:21 component: net.timer ver: 1.16.x
+(00:50:37) Zonelesi failed BadPackets check | (tiny-timer) moved too many times: 1.064 (5) (+0) | vl:0 ping:24 tps:20.0 lp:14 component: net.timer ver: 1.16.x
+(00:51:35) Zonelesi failed BadPackets check | (tiny-timer) moved too many times: 1.111 (5) (+0) | vl:0 ping:29 tps:20.0 lp:14 component: net.timer ver: 1.16.x
+(00:52:17) Hydrogen123 failed HitBox check | missed entity hitbox (entity: cow, angle: 67.84, move: true) (+2) | vl:2 ping:91 tps:20.0 lp:5 component: hb.mis ver: 1.16.x
+(00:52:18) Hydrogen123 failed HitBox check | missed entity hitbox (entity: cow, angle: 75.828, move: true) (+2) | vl:4 ping:88 tps:20.0 lp:4 component: hb.mis ver: 1.16.x
+(00:52:50) Zonelesi failed BadPackets check | (tiny-timer) moved too many times: 1.02 (5) (+0) | vl:0 ping:20 tps:20.0 lp:13 component: net.timer ver: 1.16.x
+(00:57:12) Zonelesi failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: 6143.078,149.42,-970.476, type: air, pkt: true) (+5) | vl:5 ping:37 tps:20.0 lp:13 component: fly.gf ver: 1.16.x
+(00:57:59) Zonelesi failed Interact check | interact block through solid (through: OAK_LOG, block:CHEST) (+1) | vl:1 ping:44 tps:20.0 lp:23 component: interact.through ver: 1.16.x
+(00:58:37) Hydrogen123 failed Block check | break block without delay (+4) | vl:4 ping:91 tps:20.0 lp:14 component: blk.fb.dly ver: 1.16.x
+(01:01:12) Hydrogen123 failed Speed check | suspicious movement (move: 0.617, predict: 0.598, friction: 0.6, ground:true, motY: 0.42, increase:0.305, preMove:0.293, motion: 0.608,0.42,0.104, attribute: 0.13, cm: false, di: false, st: true, tag: pred) (+5) | vl:5 ping:90 tps:20.0 lp:2 component: move.xz ver: 1.16.x
+(01:01:13) Hydrogen123 failed Speed check | suspicious movement (move: 0.621, predict: 0.599, friction: 0.6, ground:true, motY: 0.42, increase:0.305, preMove:0.294, motion: 0.62,0.42,0.029, attribute: 0.13, cm: false, di: false, st: true, tag: pred) (+5) | vl:10 ping:90 tps:20.0 lp:2 component: move.xz ver: 1.16.x
+(01:01:37) Zonelesi failed BadPackets check | (tiny-timer) moved too many times: 1.02 (5) (+0) | vl:0 ping:30 tps:20.0 lp:12 component: net.timer ver: 1.16.x
+(01:01:40) Zonelesi failed BadPackets check | (tiny-timer) moved too many times: 1.087 (5) (+0) | vl:0 ping:30 tps:20.0 lp:11 component: net.timer ver: 1.16.x
+(01:02:05) Hydrogen123 failed HitBox check | missed entity hitbox (entity: pig, angle: 109.922, move: true) (+2) | vl:2 ping:89 tps:20.0 lp:7 component: hb.mis ver: 1.16.x
+(01:04:10) Hydrogen123 failed HitBox check | missed entity hitbox (entity: pig, angle: 53.202, move: true) (+1) | vl:1 ping:90 tps:20.0 lp:6 component: hb.mis ver: 1.16.x
+(01:04:20) Zonelesi failed BadPackets check | (tiny-timer) moved too many times: 1.087 (5) (+0) | vl:0 ping:39 tps:20.0 lp:11 component: net.timer ver: 1.16.x
+(01:07:13) Hydrogen123 failed Speed check | suspicious movement (move: 0.3, expect:0.289, t:0, sprint: true, attr: 0.13, tag: a) (+9) | vl:9 ping:91 tps:20.0 lp:2 component: speed.main ver: 1.16.x
+(01:07:13) Hydrogen123 failed Speed check | suspicious movement (move: 0.291, expect:0.289, t:0, sprint: true, attr: 0.13, tag: a) (+9) | vl:18 ping:91 tps:20.0 lp:2 component: speed.main ver: 1.16.x
+(01:07:59) Hydrogen123 failed HitBox check | missed entity hitbox (entity: sheep, angle: 54.044, move: true) (+1) | vl:1 ping:91 tps:20.0 lp:3 component: hb.mis ver: 1.16.x
+(01:08:13) Zonelesi failed BadPackets check | (tiny-timer) moved too many times: 1.064 (5) (+0) | vl:0 ping:25 tps:20.0 lp:10 component: net.timer ver: 1.16.x
+(01:09:04) Zonelesi failed BadPackets check | (tiny-timer) moved too many times: 1.163 (5) (+0) | vl:0 ping:40 tps:20.0 lp:14 component: net.timer ver: 1.16.x
+(01:12:30) Zonelesi failed Interact check | interact block through solid (through: GRASS_BLOCK, block:CHEST) (+1) | vl:1 ping:37 tps:20.0 lp:15 component: interact.through ver: 1.16.x
+(01:14:10) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 2) (+1) | vl:1 ping:0 tps:20.0 lp:0 component: delay.inv ver: 1.16.x
+(01:14:10) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 3) (+1) | vl:2 ping:0 tps:20.0 lp:0 component: delay.inv ver: 1.16.x
+(01:20:55) Zonelesi failed Interact check | interact block through solid (through: GRASS_BLOCK, block:CHEST) (+1) | vl:1 ping:2 tps:20.0 lp:27 component: interact.through ver: 1.16.x
+(01:22:19) Zonelesi failed Speed check | suspicious movement (move: 0.62, predict: 0.598, friction: 0.6, ground:true, motY: 0.42, increase:0.357, preMove:0.241, motion: 0.04,0.42,0.618, attribute: 0.182, cm: false, di: false, st: true, tag: pred) (+5) | vl:5 ping:37 tps:20.0 lp:10 component: move.xz ver: 1.16.x
+(01:22:24) Zonelesi failed Speed check | sprint with weird direction (dist: 0.294, angle:118.556) (+5) | vl:10 ping:37 tps:20.0 lp:10 component: speed.sprint ver: 1.16.x
+(01:22:24) Zonelesi failed Speed check | sprint with weird direction (dist: 0.337, angle:123.491) (+5) | vl:15 ping:37 tps:20.0 lp:10 component: speed.sprint ver: 1.16.x
+(01:22:24) Zonelesi failed Speed check | sprint with weird direction (dist: 0.362, angle:125.893) (+5) | vl:20 ping:37 tps:20.0 lp:10 component: speed.sprint ver: 1.16.x
+(01:22:24) Zonelesi failed Speed check | sprint with weird direction (dist: 0.376, angle:127.069) (+5) | vl:25 ping:37 tps:20.0 lp:10 component: speed.sprint ver: 1.16.x
+(01:22:24) Zonelesi failed Speed check | sprint with weird direction (dist: 0.384, angle:127.676) (+5) | vl:30 ping:37 tps:20.0 lp:10 component: speed.sprint ver: 1.16.x
+(01:22:24) Zonelesi failed Speed check | sprint with weird direction (dist: 0.388, angle:127.997) (+5) | vl:35 ping:37 tps:20.0 lp:10 component: speed.sprint ver: 1.16.x
+(01:22:24) Zonelesi failed Speed check | sprint with weird direction (dist: 0.39, angle:128.168) (+5) | vl:40 ping:37 tps:20.0 lp:10 component: speed.sprint ver: 1.16.x
+(01:22:39) Zonelesi failed Speed check | suspicious movement (move: 0.621, predict: 0.599, friction: 0.6, ground:true, motY: 0.42, increase:0.305, preMove:0.294, motion: 0.571,0.42,0.243, attribute: 0.13, cm: false, di: false, st: true, tag: pred) (+5) | vl:45 ping:19 tps:20.0 lp:7 component: move.xz ver: 1.16.x
+(01:23:28) Zonelesi failed Speed check | suspicious movement (move: 0.624, expect: 0.6235, tag: c) (+10) | vl:10 ping:31 tps:20.0 lp:9 component: speed.main ver: 1.16.x
+(01:27:31) Zonelesi failed Speed check | suspicious movement (move: 0.618, predict: 0.596, friction: 0.6, ground:true, motY: 0.42, increase:0.305, preMove:0.291, motion: -0.607,0.42,0.115, attribute: 0.13, cm: false, di: false, st: true, tag: pred) (+5) | vl:5 ping:41 tps:20.0 lp:14 component: move.xz ver: 1.16.x
+(01:27:56) Zonelesi failed Interact check | interact block through solid (through: GRASS_BLOCK, block:CHEST) (+1) | vl:1 ping:37 tps:20.0 lp:7 component: interact.through ver: 1.16.x
+(07:00:32) Matrix Enabled!
+(07:00:32) Version: 5.6.3
+(10:13:08) Bl4zeBoy failed Chat check | chat too fast | delay: 2325 (+1) | vl:1 ping:91 tps:20.0 lp:17 component: chat.delay ver: 1.16.x
+(10:13:16) Bl4zeBoy failed BadPackets check | (timer) send 42 moving packets in 1856ms | tag: limit (+10) | vl:10 ping:91 tps:20.0 lp:28 component: net.timer ver: 1.16.x
+(10:16:22) Bl4zeBoy failed BadPackets check | (timer) send 43 moving packets in 1044ms | tag: limit (+5) | vl:5 ping:1702 tps:20.0 lp:30 component: net.timer ver: 1.16.x
+(10:16:22) Bl4zeBoy failed Speed check | suspicious movement (move: 1.327, expect:0.699, t:0, sprint: false, attr: 0.1, tag: a) (+9) | vl:9 ping:1702 tps:20.0 lp:30 component: speed.main ver: 1.16.x
+(10:16:22) Bl4zeBoy failed Speed check | suspicious movement (move: 1.327, predict: 0.745, friction: 0.6, ground:true, motY: 0.0, increase:0.68, preMove:0.065, motion: -0.428,0.0,-1.256, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:14 ping:1702 tps:20.0 lp:30 component: move.xz ver: 1.16.x
+(10:16:48) Zonelesi failed Block check | break block with timer (block: stone, point: 363) (+4) | vl:4 ping:39 tps:20.0 lp:35 component: block.fb.timer ver: 1.16.x
+(10:19:39) Bl4zeBoy failed Delay check | perform actions faster than expected // inventory (type B) (+1) | vl:1 ping:67 tps:20.0 lp:14 component: delay.inv ver: 1.16.x
+(10:19:39) Bl4zeBoy failed Delay check | perform actions faster than expected // inventory (type B) (+1) | vl:2 ping:67 tps:20.0 lp:14 component: delay.inv ver: 1.16.x
+(10:19:39) Bl4zeBoy failed Delay check | perform actions faster than expected // inventory (type B) (+1) | vl:3 ping:67 tps:20.0 lp:14 component: delay.inv ver: 1.16.x
+(10:19:39) Execute command: matrix notify Bl4zeBoy tring to speeding up actions (Delay) #1
+(10:19:50) Zonelesi failed BadPackets check | (tiny-timer) moved too many times: 1.22 (5) (+0) | vl:0 ping:22 tps:20.0 lp:15 component: net.timer ver: 1.16.x
+(10:20:57) Bl4zeBoy failed BadPackets check | (timer) send 42 moving packets in 1034ms | tag: limit (+5) | vl:5 ping:935 tps:20.0 lp:26 component: net.timer ver: 1.16.x
+(10:20:57) Bl4zeBoy failed Speed check | suspicious movement (move: 1.947, expect: 1.1430761874673099, tag: ea) (+20) | vl:20 ping:935 tps:20.0 lp:26 component: speed.main ver: 1.16.x
+(10:20:57) Bl4zeBoy failed Speed check | suspicious movement (move: 1.947, predict: 0.455, friction: 0.6, ground:false, motY: 0.369, increase:0.226, preMove:0.229, motion: 1.193,0.369,-1.539, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:25 ping:935 tps:20.0 lp:26 component: move.xz ver: 1.16.x
+(10:22:38) Bl4zeBoy failed BadPackets check | (timer) send 38 moving packets in 1030ms | tag: limit (+10) | vl:10 ping:215 tps:20.0 lp:24 component: net.timer ver: 1.16.x
+(10:22:38) Bl4zeBoy failed Speed check | suspicious movement (move: 0.417, expect:0.289, t:0, sprint: false, attr: 0.1, tag: a) (+9) | vl:9 ping:215 tps:20.0 lp:24 component: speed.main ver: 1.16.x
+(10:27:06) Zonelesi failed Block check | break block without delay (+4) | vl:4 ping:28 tps:20.0 lp:20 component: blk.fb.dly ver: 1.16.x
+(10:28:26) Bl4zeBoy failed Speed check | sprint with weird direction (dist: 0.225, angle:125.004) (+5) | vl:5 ping:86 tps:20.0 lp:30 component: speed.sprint ver: 1.16.x
+(10:30:31) Bl4zeBoy failed Speed check | sprint with weird direction (dist: 0.264, angle:152.814) (+5) | vl:5 ping:70 tps:20.0 lp:7 component: speed.sprint ver: 1.16.x
+(10:30:31) Bl4zeBoy failed Speed check | sprint with weird direction (dist: 0.271, angle:152.929) (+5) | vl:10 ping:70 tps:20.0 lp:7 component: speed.sprint ver: 1.16.x
+(10:32:45) Zonelesi failed Chat check | chat too fast | delay: 2542 (+1) | vl:1 ping:33 tps:20.0 lp:32 component: chat.delay ver: 1.16.x
+(10:36:17) Bl4zeBoy failed BadPackets check | (timer) send 36 moving packets in 1024ms | tag: limit (+10) | vl:10 ping:76 tps:20.0 lp:40 component: net.timer ver: 1.16.x
+(10:39:00) Bl4zeBoy failed BadPackets check | (timer) send 41 moving packets in 12905ms | tag: limit (+5) | vl:5 ping:511 tps:20.0 lp:35 component: net.timer ver: 1.16.x
+(10:39:06) Zonelesi failed Block check | break block without delay (+4) | vl:4 ping:38 tps:20.0 lp:14 component: blk.fb.dly ver: 1.16.x
+(10:47:08) Zonelesi failed Block check | break block too fast (digs: 5/6, block: stone, j: false) (+4) | vl:4 ping:50 tps:20.0 lp:19 component: block.fastbreak.expect ver: 1.16.x
+(10:50:33) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 55) (+1) | vl:1 ping:34 tps:20.0 lp:20 component: delay.inv ver: 1.16.x
+(10:50:33) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 0) (+1) | vl:2 ping:34 tps:20.0 lp:20 component: delay.inv ver: 1.16.x
+(10:51:10) Zonelesi failed BadPackets check | (tiny-timer) moved too many times: 1.136 (5) (+0) | vl:0 ping:49 tps:20.0 lp:11 component: net.timer ver: 1.16.x
+(10:57:05) Zonelesi failed Chat check | chat too fast | delay: 1355 (+1) | vl:1 ping:38 tps:20.0 lp:13 component: chat.delay ver: 1.16.x
+(10:59:17) Bl4zeBoy failed BadPackets check | (timer) moved too many times (timer: 2.778, t:360, buffer:20, tag: timer) (+5) | vl:5 ping:425 tps:20.0 lp:43 component: net.timer ver: 1.16.x
+(10:59:18) Bl4zeBoy failed BadPackets check | (timer) send 85 moving packets in 1795ms | tag: limit (+5) | vl:10 ping:425 tps:20.0 lp:39 component: net.timer ver: 1.16.x
+(11:02:12) Bl4zeBoy failed BadPackets check | (timer) send 46 moving packets in 5055ms | tag: limit (+5) | vl:5 ping:5801 tps:20.0 lp:39 component: net.timer ver: 1.16.x
+(11:03:54) Bl4zeBoy failed BadPackets check | (timer) send 47 moving packets in 1035ms | tag: limit (+10) | vl:10 ping:91 tps:20.0 lp:29 component: net.timer ver: 1.16.x
+(11:04:40) Bl4zeBoy failed BadPackets check | (timer) send 52 moving packets in 1005ms | tag: limit (+5) | vl:5 ping:367 tps:20.0 lp:32 component: net.timer ver: 1.16.x
+(11:04:40) Bl4zeBoy failed Speed check | suspicious movement (move: 2.687, expect: 0.7435, tag: c) (+18) | vl:18 ping:367 tps:20.0 lp:32 component: speed.main ver: 1.16.x
+(11:04:40) Bl4zeBoy failed Speed check | suspicious movement (move: 2.687, predict: 0.445, friction: 0.6, ground:true, motY: 0.753, increase:0.33, preMove:0.115, motion: -2.624,0.753,0.579, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:23 ping:367 tps:20.0 lp:32 component: move.xz ver: 1.16.x
+(11:05:46) Zonelesi failed BadPackets check | (tiny-timer) moved too many times: 1.087 (5) (+0) | vl:0 ping:50 tps:20.0 lp:10 component: net.timer ver: 1.16.x
+(11:05:47) Bl4zeBoy failed BadPackets check | (timer) moved too many times (timer: 1.13, t:885, buffer:20, tag: timer) (+10) | vl:10 ping:76 tps:20.0 lp:30 component: net.timer ver: 1.16.x
+(11:05:47) Bl4zeBoy failed BadPackets check | (timer) send 66 moving packets in 1010ms | tag: limit (+10) | vl:20 ping:76 tps:20.0 lp:30 component: net.timer ver: 1.16.x
+(11:06:07) Zonelesi failed BadPackets check | (tiny-timer) moved too many times: 1.064 (5) (+0) | vl:0 ping:23 tps:20.0 lp:20 component: net.timer ver: 1.16.x
+(11:06:41) Zonelesi failed BadPackets check | (tiny-timer) moved too many times: 1.042 (5) (+0) | vl:0 ping:67 tps:20.0 lp:11 component: net.timer ver: 1.16.x
+(11:07:25) Bl4zeBoy failed HitBox check | missed entity hitbox (entity: skeleton, angle: 36.852, move: true) (+1) | vl:1 ping:101 tps:20.0 lp:24 component: hb.mis ver: 1.16.x
+(11:08:17) Bl4zeBoy failed BadPackets check | (timer) send 43 moving packets in 1110ms | tag: limit (+10) | vl:10 ping:71 tps:20.0 lp:32 component: net.timer ver: 1.16.x
+(11:08:17) Bl4zeBoy failed Interact check | breaking a block without looking at it (block: GRASS_BLOCK) (+1) | vl:1 ping:71 tps:20.0 lp:32 component: interact.break ver: 1.16.x
+(11:08:17) Bl4zeBoy failed Interact check | break block through walls (through: stone, block: grass_block) (+1) | vl:2 ping:71 tps:20.0 lp:32 component: interact.break ver: 1.16.x
+(11:08:18) Bl4zeBoy failed Interact check | breaking a block without looking at it (block: GRASS_BLOCK) (+1) | vl:3 ping:71 tps:20.0 lp:32 component: interact.break ver: 1.16.x
+(11:08:18) Bl4zeBoy failed Interact check | break block through walls (through: stone, block: grass_block) (+1) | vl:4 ping:71 tps:20.0 lp:32 component: interact.break ver: 1.16.x
+(11:08:23) Zonelesi failed Chat check | chat too fast | delay: 2815 (+1) | vl:1 ping:64 tps:20.0 lp:13 component: chat.delay ver: 1.16.x
+(11:15:46) Zonelesi failed Block check | break block too fast (digs: 8/10, block: dirt, j: false) (+4) | vl:4 ping:41 tps:20.0 lp:9 component: block.fastbreak.expect ver: 1.16.x
+(11:27:13) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 66) (+1) | vl:1 ping:26 tps:20.0 lp:10 component: delay.inv ver: 1.16.x
+(11:27:13) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 0) (+1) | vl:2 ping:26 tps:20.0 lp:10 component: delay.inv ver: 1.16.x
+(11:30:57) Zonelesi failed Speed check | suspicious movement (move: 0.628, predict: 0.607, friction: 0.6, ground:true, motY: 0.42, increase:0.357, preMove:0.25, motion: 0.59,0.42,-0.216, attribute: 0.182, cm: false, di: false, st: true, tag: pred) (+5) | vl:5 ping:46 tps:20.0 lp:14 component: move.xz ver: 1.16.x
+(13:22:49) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 0) (+1) | vl:1 ping:63 tps:20.0 lp:98 component: delay.inv ver: 1.16.x
+(13:22:49) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 1) (+1) | vl:2 ping:63 tps:20.0 lp:98 component: delay.inv ver: 1.16.x
+(13:30:58) Zonelesi failed Interact check | breaking a block without looking at it (block: OAK_LEAVES) (+1) | vl:1 ping:30 tps:20.0 lp:26 component: interact.break ver: 1.16.x
+(13:30:58) Zonelesi failed Interact check | break block through walls (through: grass_block, block: oak_leaves) (+1) | vl:2 ping:30 tps:20.0 lp:26 component: interact.break ver: 1.16.x
+(13:31:21) Zonelesi failed BadPackets check | (tiny-timer) moved too many times: 1.042 (5) (+0) | vl:0 ping:67 tps:20.0 lp:10 component: net.timer ver: 1.16.x
+(13:34:08) Zonelesi failed Speed check | suspicious movement (move: 0.616, predict: 0.596, friction: 0.6, ground:true, motY: 0.42, increase:0.305, preMove:0.291, motion: -0.615,0.42,0.03, attribute: 0.13, cm: false, di: false, st: true, tag: pred) (+5) | vl:5 ping:50 tps:20.0 lp:12 component: move.xz ver: 1.16.x
+(13:40:32) Zonelesi failed BadPackets check | (tiny-timer) moved too many times: 1.136 (5) (+0) | vl:0 ping:54 tps:20.0 lp:13 component: net.timer ver: 1.16.x
+(13:49:12) Zonelesi failed BadPackets check | (tiny-timer) moved too many times: 1.042 (5) (+0) | vl:0 ping:37 tps:20.0 lp:18 component: net.timer ver: 1.16.x
+(14:53:42) Zonelesi failed Interact check | interact block through solid (through: SPRUCE_PLANKS, block:CHEST) (+1) | vl:1 ping:55 tps:20.0 lp:21 component: interact.through ver: 1.16.x
+(14:55:45) Zonelesi failed BadPackets check | (tiny-timer) moved too many times: 1.064 (5) (+0) | vl:0 ping:39 tps:20.0 lp:32 component: net.timer ver: 1.16.x
+(14:56:25) Zonelesi failed Interact check | interact block through solid (through: WHITE_CONCRETE, block:CHEST) (+1) | vl:1 ping:33 tps:20.0 lp:22 component: interact.through ver: 1.16.x
+(15:09:04) Zonelesi failed BadPackets check | (tiny-timer) moved too many times: 1.19 (5) (+0) | vl:0 ping:3 tps:20.0 lp:31 component: net.timer ver: 1.16.x
+(15:11:24) Zonelesi failed Speed check | suspicious movement (move: 0.629, predict: 0.608, friction: 0.6, ground:true, motY: 0.42, increase:0.357, preMove:0.251, motion: 0.602,0.42,-0.184, attribute: 0.182, cm: false, di: false, st: true, tag: pred) (+5) | vl:5 ping:41 tps:20.0 lp:18 component: move.xz ver: 1.16.x
+(15:20:30) Zonelesi failed Speed check | suspicious movement (move: 0.619, predict: 0.599, friction: 0.6, ground:true, motY: 0.42, increase:0.357, preMove:0.242, motion: -0.51,0.42,-0.351, attribute: 0.182, cm: false, di: false, st: true, tag: pred) (+5) | vl:5 ping:34 tps:20.0 lp:13 component: move.xz ver: 1.16.x
+(15:22:17) Bl4zeBoy failed BadPackets check | (timer) moved too many times (timer: 9.223372036854776E15, t:0, buffer:20, tag: timer) (+5) | vl:5 ping:196 tps:20.0 lp:46 component: net.timer ver: 1.16.x
+(15:22:17) Bl4zeBoy failed BadPackets check | (timer) moved too many times (timer: 40.0, t:25, buffer:20, tag: timer) (+5) | vl:10 ping:196 tps:20.0 lp:46 component: net.timer ver: 1.16.x
+(15:22:17) Bl4zeBoy failed BadPackets check | (timer) moved too many times (timer: 9.223372036854776E15, t:0, buffer:20, tag: timer) (+5) | vl:15 ping:196 tps:20.0 lp:46 component: net.timer ver: 1.16.x
+(15:22:18) Bl4zeBoy failed BadPackets check | (timer) send 121 moving packets in 1355ms | tag: limit (+5) | vl:20 ping:196 tps:20.0 lp:46 component: net.timer ver: 1.16.x
+(15:23:04) Zonelesi failed Jesus check | suspicious movement in liquid (motion: 0.008, pre: -0.009, modules: p9) (+5) | vl:5 ping:47 tps:20.0 lp:12 component: jesus.p9 ver: 1.16.x
+(15:24:33) Zonelesi failed Block check | break block without delay (+4) | vl:4 ping:31 tps:20.0 lp:17 component: blk.fb.dly ver: 1.16.x
+(15:28:00) Zonelesi failed Speed check | suspicious movement (move: 0.619, predict: 0.597, friction: 0.6, ground:true, motY: 0.42, increase:0.305, preMove:0.292, motion: -0.578,0.42,0.223, attribute: 0.13, cm: false, di: false, st: true, tag: pred) (+5) | vl:5 ping:42 tps:20.0 lp:11 component: move.xz ver: 1.16.x
+(15:28:04) Zonelesi failed BadPackets check | (tiny-timer) moved too many times: 1.064 (5) (+0) | vl:0 ping:42 tps:20.0 lp:7 component: net.timer ver: 1.16.x
+(15:35:19) Zonelesi failed Interact check | interact block through solid (through: WHITE_CONCRETE, block:CHEST) (+1) | vl:1 ping:25 tps:20.0 lp:25 component: interact.through ver: 1.16.x
+(15:36:10) Zonelesi failed Interact check | interact block through solid (through: WHITE_CONCRETE, block:CHEST) (+1) | vl:1 ping:64 tps:20.0 lp:20 component: interact.through ver: 1.16.x

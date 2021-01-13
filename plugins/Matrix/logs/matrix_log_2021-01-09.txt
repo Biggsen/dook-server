@@ -1,0 +1,81 @@
+(01:02:43) Zonelesi failed Speed check | suspicious movement (move: 0.629, predict: 0.608, friction: 0.6, ground:true, motY: 0.42, increase:0.357, preMove:0.251, motion: 0.531,0.42,0.337, attribute: 0.182, cm: false, di: false, st: true, tag: pred) (+5) | vl:5 ping:54 tps:20.0 lp:9 component: move.xz ver: 1.16.x
+(07:00:32) Matrix Enabled!
+(07:00:32) Version: 5.6.3
+(11:49:35) MiLkBoNdE failed Block check | break block without delay (+4) | vl:4 ping:40 tps:20.0 lp:11 component: blk.fb.dly ver: 1.16.x
+(11:50:05) MiLkBoNdE failed HitBox check | missed entity hitbox (entity: sheep, angle: 49.346, move: true) (+1) | vl:1 ping:50 tps:20.0 lp:8 component: hb.mis ver: 1.16.x
+(11:51:55) MiLkBoNdE failed Block check | break block without delay (+4) | vl:4 ping:41 tps:20.0 lp:21 component: blk.fb.dly ver: 1.16.x
+(11:51:58) MiLkBoNdE failed Block check | break block without delay (+4) | vl:8 ping:41 tps:20.0 lp:21 component: blk.fb.dly ver: 1.16.x
+(14:35:26) Matrix Enabled!
+(14:35:26) Version: 5.6.3
+(14:36:40) Matrix Enabled!
+(14:36:40) Version: 5.6.3
+(14:53:17) Matrix Enabled!
+(14:53:17) Version: 5.6.3
+(14:57:47) Matrix Enabled!
+(14:57:47) Version: 5.6.3
+(18:30:25) Matrix Enabled!
+(18:30:25) Version: 5.6.3
+(19:20:18) Bl4zeBoy failed Speed check | suspicious movement (move: 0.615, predict: 0.597, friction: 0.6, ground:true, motY: 0.42, increase:0.357, preMove:0.24, motion: -0.567,0.42,0.238, attribute: 0.182, cm: false, di: false, st: true, tag: pred) (+5) | vl:5 ping:118 tps:20.0 lp:31 component: move.xz ver: 1.16.x
+(19:20:42) Bl4zeBoy failed BadPackets check | (timer) send 37 moving packets in 1000ms | tag: limit (+5) | vl:5 ping:9803 tps:19.99 lp:35 component: net.timer ver: 1.16.x
+(19:20:42) Bl4zeBoy failed Speed check | suspicious movement (move: 0.702, expect: 0.593, g_tk:6, tag: b) (+8) | vl:8 ping:9803 tps:19.99 lp:35 component: speed.main ver: 1.16.x
+(19:20:42) Bl4zeBoy failed Speed check | suspicious movement (move: 0.702, predict: 0.343, friction: 0.6, ground:true, motY: 0.0, increase:0.182, preMove:0.161, motion: -0.701,0.0,-0.045, attribute: 0.182, cm: false, di: false, st: false, tag: pred) (+5) | vl:13 ping:9803 tps:19.99 lp:35 component: move.xz ver: 1.16.x
+(19:22:10) Bl4zeBoy failed Interact check | interact block through solid (through: WHITE_CONCRETE, block:CHEST) (+0) | vl:0 ping:3058 tps:20.0 lp:43 component: interact.through ver: 1.16.x
+(19:23:41) Bl4zeBoy failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: 6229.415,148.001,-960.718, type: air, pkt: true) (+5) | vl:5 ping:980 tps:20.0 lp:50 component: fly.gf ver: 1.16.x
+(19:23:43) Bl4zeBoy failed BadPackets check | (timer) send 43 moving packets in 1681ms | tag: limit (+5) | vl:5 ping:980 tps:20.0 lp:50 component: net.timer ver: 1.16.x
+(19:23:43) Bl4zeBoy failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: 6229.415,148.001,-960.718, type: air, pkt: true) (+5) | vl:10 ping:980 tps:20.0 lp:53 component: fly.gf ver: 1.16.x
+(19:23:44) Bl4zeBoy failed BadPackets check | (timer) send 51 moving packets in 1039ms | tag: limit (+5) | vl:10 ping:980 tps:20.0 lp:51 component: net.timer ver: 1.16.x
+(19:23:44) Bl4zeBoy failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: 6229.415,148.001,-960.718, type: air, pkt: true) (+5) | vl:15 ping:980 tps:20.0 lp:51 component: fly.gf ver: 1.16.x
+(19:23:44) Bl4zeBoy failed Speed check | suspicious movement (move: 1.619, predict: 0.468, friction: 0.6, ground:false, motY: -1.001, increase:0.126, preMove:0.342, motion: 1.586,-1.001,0.329, attribute: 0.182, cm: false, di: false, st: false, tag: pred) (+5) | vl:5 ping:980 tps:20.0 lp:51 component: move.xz ver: 1.16.x
+(19:23:53) Bl4zeBoy failed BadPackets check | (timer) send 57 moving packets in 1010ms | tag: limit (+5) | vl:15 ping:680 tps:20.0 lp:51 component: net.timer ver: 1.16.x
+(19:23:59) Bl4zeBoy failed BadPackets check | (timer) send 38 moving packets in 1075ms | tag: limit (+5) | vl:20 ping:1789 tps:20.0 lp:42 component: net.timer ver: 1.16.x
+(19:24:39) Bl4zeBoy failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: 6255.22,139.177,-958.055, type: air, pkt: true) (+5) | vl:5 ping:729 tps:20.0 lp:53 component: fly.gf ver: 1.16.x
+(19:24:42) Bl4zeBoy failed Fly check | suspicious movement:-0.078 predict:0.165 lm:0.248 hard_pred:0.165 sev_pred:0.42 air_t:3 fall_t:1 g:-- tag:gn (+5) | vl:5 ping:1729 tps:20.0 lp:63 component: fly.main ver: 1.16.x
+(19:24:48) Bl4zeBoy failed BadPackets check | (timer) send 41 moving packets in 1160ms | tag: limit (+5) | vl:5 ping:1729 tps:20.0 lp:52 component: net.timer ver: 1.16.x
+(19:24:48) Bl4zeBoy failed Speed check | suspicious movement (move: 2.138, expect: 0.44149999999999995, tag: ea) (+20) | vl:20 ping:1729 tps:20.0 lp:52 component: speed.main ver: 1.16.x
+(19:24:48) Bl4zeBoy failed Speed check | suspicious movement (move: 2.138, predict: 0.221, friction: 0.6, ground:false, motY: 0.203, increase:0.026, preMove:0.195, motion: -0.079,0.203,-2.137, attribute: 0.182, cm: false, di: false, st: false, tag: pred) (+5) | vl:25 ping:1729 tps:20.0 lp:52 component: move.xz ver: 1.16.x
+(19:24:49) Bl4zeBoy failed BadPackets check | (timer) moved too many times (timer: 1.13, t:885, buffer:20, tag: timer) (+5) | vl:10 ping:1729 tps:19.99 lp:47 component: net.timer ver: 1.16.x
+(19:24:58) Bl4zeBoy failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: 6250.984,148.001,-986.009, type: air, pkt: true) (+5) | vl:10 ping:709 tps:20.0 lp:36 component: fly.gf ver: 1.16.x
+(19:25:33) Bl4zeBoy failed BadPackets check | (timer) send 54 moving packets in 2425ms | tag: limit (+10) | vl:10 ping:0 tps:20.0 lp:33 component: net.timer ver: 1.16.x
+(19:25:36) Bl4zeBoy failed BadPackets check | (timer) send 51 moving packets in 1245ms | tag: limit (+5) | vl:15 ping:6958 tps:20.0 lp:38 component: net.timer ver: 1.16.x
+(19:25:43) Bl4zeBoy failed BadPackets check | (timer) moved too many times (timer: 1.053, t:950, buffer:20, tag: timer) (+5) | vl:5 ping:1194 tps:20.0 lp:44 component: net.timer ver: 1.16.x
+(19:26:05) Bl4zeBoy failed BadPackets check | (timer) send 53 moving packets in 1005ms | tag: limit (+5) | vl:10 ping:3604 tps:20.0 lp:44 component: net.timer ver: 1.16.x
+(19:26:26) Bl4zeBoy failed BadPackets check | (timer) send 37 moving packets in 1200ms | tag: limit (+5) | vl:5 ping:1758 tps:20.0 lp:45 component: net.timer ver: 1.16.x
+(19:26:26) Bl4zeBoy failed Speed check | suspicious movement (move: 0.679, expect: 0.3665, tag: ea) (+5) | vl:5 ping:1758 tps:20.0 lp:45 component: speed.main ver: 1.16.x
+(19:26:26) Bl4zeBoy failed Speed check | suspicious movement (move: 0.679, predict: 0.344, friction: 0.6, ground:false, motY: 0.248, increase:0.026, preMove:0.318, motion: 0.403,0.248,-0.546, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:10 ping:1758 tps:20.0 lp:45 component: move.xz ver: 1.16.x
+(19:26:26) Bl4zeBoy failed Fly check | suspicious movement:0.248 predict:0.17 vel:-0.228 air_t:3 tag:vt (+5) | vl:5 ping:1758 tps:20.0 lp:45 component: fly.main ver: 1.16.x
+(19:29:15) Bl4zeBoy failed Velocity check | (respond) ignore server velocity: 0.027,0.158,0.104 (+5) | vl:5 ping:0 tps:20.0 lp:0 component: vel.expect ver: 1.16.x
+(19:29:16) Bl4zeBoy failed Velocity check | (respond) ignore server velocity: -0.003,0.158,0.162 (+5) | vl:10 ping:0 tps:20.0 lp:0 component: vel.expect ver: 1.16.x
+(19:29:16) Execute command: matrix notify Bl4zeBoy tried to ignore server velocity (Velocity)
+(19:29:16) Bl4zeBoy failed Velocity check | (vertical) reduce vertical velocity: 0.1575 (+1) | vl:11 ping:0 tps:20.0 lp:0 component: vel.vet ver: 1.16.x
+(19:35:20) Bl4zeBoy failed Speed check | suspicious movement (move: 0.616, predict: 0.601, friction: 0.6, ground:true, motY: 0.42, increase:0.357, preMove:0.244, motion: 0.38,0.42,-0.484, attribute: 0.182, cm: false, di: false, st: true, tag: pred) (+5) | vl:5 ping:10564 tps:19.98 lp:24 component: move.xz ver: 1.16.x
+(20:32:47) RabzoiGaming failed Fly check | step | p:2 | val: 0.6566000127792364 (+7) | vl:7 ping:0 tps:20.0 lp:0 component: speed.step ver: 1.16.x
+(20:32:48) RabzoiGaming failed Fly check | step | p:2 | val: 0.6566000127792364 (+7) | vl:14 ping:0 tps:20.0 lp:3 component: speed.step ver: 1.16.x
+(20:32:48) RabzoiGaming failed Fly check | step | p:2 | val: 0.4500000476837158 (+7) | vl:21 ping:0 tps:20.0 lp:3 component: speed.step ver: 1.16.x
+(20:32:51) RabzoiGaming failed Fly check | ground spoof (expect: --, move: -0.045,-0.075,0.157, at: -253.636,70.177,97.563, type: air, pkt: false) (+5) | vl:26 ping:0 tps:20.0 lp:6 component: fly.gf ver: 1.16.x
+(20:32:52) RabzoiGaming failed Fly check | ground spoof (expect: --, move: -0.042,-0.075,0.146, at: -253.666,70.177,97.622, type: air, pkt: false) (+5) | vl:31 ping:0 tps:20.0 lp:6 component: fly.gf ver: 1.16.x
+(20:32:52) RabzoiGaming failed Fly check | ground spoof (expect: --, move: -0.053,-0.075,0.154, at: -253.911,70.177,98.244, type: air, pkt: false) (+5) | vl:36 ping:0 tps:20.0 lp:8 component: fly.gf ver: 1.16.x
+(20:32:55) RabzoiGaming failed Fly check | ground spoof (expect: --, move: 0.113,-0.075,0.078, at: -252.35,68.177,103.945, type: air, pkt: false) (+5) | vl:41 ping:218 tps:20.0 lp:9 component: fly.gf ver: 1.16.x
+(20:32:56) RabzoiGaming failed Fly check | ground spoof (expect: --, move: 0.04,-0.075,0.0, at: -249.885,68.177,103.382, type: air, pkt: false) (+5) | vl:46 ping:218 tps:20.0 lp:10 component: fly.gf ver: 1.16.x
+(20:32:57) RabzoiGaming failed Fly check | ground spoof (expect: --, move: 0.0,-0.072,0.0, at: -250.31,68.177,103.355, type: air, pkt: false) (+5) | vl:51 ping:218 tps:20.0 lp:15 component: fly.gf ver: 1.16.x
+(20:32:57) Execute command: matrix notify RabzoiGaming tried to fly (Fly) #1
+(20:32:59) RabzoiGaming failed Fly check | ground spoof (expect: --, move: 0.0,-0.072,0.0, at: -253.354,70.177,92.65, type: air, pkt: false) (+5) | vl:56 ping:218 tps:20.0 lp:15 component: fly.gf ver: 1.16.x
+(20:33:00) RabzoiGaming failed Fly check | ground spoof (expect: --, move: -0.009,-0.075,0.15, at: -253.427,70.177,93.77, type: air, pkt: false) (+5) | vl:61 ping:218 tps:20.0 lp:15 component: fly.gf ver: 1.16.x
+(20:33:01) RabzoiGaming failed Fly check | ground spoof (expect: --, move: -0.001,-0.075,0.139, at: -253.383,70.177,93.71, type: air, pkt: false) (+5) | vl:66 ping:218 tps:20.0 lp:14 component: fly.gf ver: 1.16.x
+(20:33:01) RabzoiGaming failed Fly check | ground spoof (expect: --, move: 0.0,-0.072,0.0, at: -253.371,70.177,92.878, type: air, pkt: false) (+5) | vl:71 ping:218 tps:20.0 lp:13 component: fly.gf ver: 1.16.x
+(20:33:02) RabzoiGaming failed Fly check | ground spoof (expect: --, move: 0.0,-0.072,0.0, at: -253.371,70.177,92.878, type: air, pkt: false) (+5) | vl:76 ping:218 tps:20.0 lp:13 component: fly.gf ver: 1.16.x
+(20:33:02) RabzoiGaming failed Fly check | ground spoof (expect: --, move: 0.0,-0.072,0.0, at: -253.371,70.177,92.878, type: air, pkt: false) (+5) | vl:81 ping:218 tps:20.0 lp:13 component: fly.gf ver: 1.16.x
+(20:33:04) RabzoiGaming failed Fly check | ground spoof (expect: --, move: 0.0,-0.072,0.0, at: -253.354,70.177,92.65, type: air, pkt: false) (+5) | vl:86 ping:223 tps:19.99 lp:13 component: fly.gf ver: 1.16.x
+(20:33:05) RabzoiGaming failed Fly check | ground spoof (expect: --, move: 0.0,-0.072,0.0, at: -253.354,70.177,92.65, type: air, pkt: false) (+5) | vl:91 ping:223 tps:20.0 lp:13 component: fly.gf ver: 1.16.x
+(20:33:06) RabzoiGaming failed Fly check | ground spoof (expect: --, move: 0.0,-0.072,0.0, at: -253.354,70.177,92.65, type: air, pkt: false) (+5) | vl:96 ping:223 tps:20.0 lp:15 component: fly.gf ver: 1.16.x
+(20:33:06) RabzoiGaming failed Fly check | ground spoof (expect: --, move: 0.0,-0.072,0.0, at: -253.354,70.177,92.65, type: air, pkt: false) (+5) | vl:101 ping:223 tps:20.0 lp:14 component: fly.gf ver: 1.16.x
+(20:33:06) Execute command: matrix notify RabzoiGaming tried to fly (Fly) #2
+(20:33:07) RabzoiGaming failed Fly check | ground spoof (expect: --, move: -0.013,-0.075,0.138, at: -253.425,70.177,93.537, type: air, pkt: false) (+5) | vl:106 ping:223 tps:20.0 lp:14 component: fly.gf ver: 1.16.x
+(20:33:08) RabzoiGaming failed Fly check | ground spoof (expect: --, move: -0.01,-0.075,0.139, at: -253.412,70.177,93.595, type: air, pkt: false) (+5) | vl:111 ping:223 tps:20.0 lp:14 component: fly.gf ver: 1.16.x
+(20:53:43) Matrix Enabled!
+(20:53:43) Version: 5.6.3
+(22:33:12) Zonelesi failed Speed check | suspicious movement (move: 0.629, predict: 0.607, friction: 0.6, ground:true, motY: 0.42, increase:0.357, preMove:0.25, motion: 0.607,0.42,-0.164, attribute: 0.182, cm: false, di: false, st: true, tag: pred) (+5) | vl:5 ping:123 tps:20.0 lp:20 component: move.xz ver: 1.16.x
+(22:35:45) Zonelesi failed Delay check | perform actions faster than expected // inventory (type C, d: 49) (+1) | vl:1 ping:49 tps:20.0 lp:34 component: delay.inv ver: 1.16.x
+(22:36:59) Zonelesi failed Speed check | suspicious movement:0.314 vet:-0.05 tag:gsf (+10) | vl:10 ping:43 tps:20.0 lp:21 component: speed.ground ver: 1.16.x
+(22:37:45) Zonelesi failed Interact check | interact block through solid (through: WHITE_CONCRETE, block:CHEST) (+1) | vl:1 ping:54 tps:20.0 lp:18 component: interact.through ver: 1.16.x
+(22:38:11) Zonelesi failed Speed check | suspicious movement (move: 0.624, predict: 0.604, friction: 0.6, ground:true, motY: 0.42, increase:0.357, preMove:0.247, motion: -0.539,0.42,-0.315, attribute: 0.182, cm: false, di: false, st: true, tag: pred) (+5) | vl:5 ping:34 tps:20.0 lp:9 component: move.xz ver: 1.16.x
+(22:38:45) Zonelesi failed Speed check | suspicious movement (move: 0.624, predict: 0.604, friction: 0.6, ground:true, motY: 0.42, increase:0.357, preMove:0.247, motion: 0.622,0.42,0.059, attribute: 0.182, cm: false, di: false, st: true, tag: pred) (+5) | vl:5 ping:29 tps:20.0 lp:15 component: move.xz ver: 1.16.x

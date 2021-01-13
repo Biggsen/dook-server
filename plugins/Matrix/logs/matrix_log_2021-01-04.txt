@@ -1,0 +1,50 @@
+(07:00:31) Matrix Enabled!
+(07:00:31) Version: 5.6.3
+(14:38:24) Bl4zeBoy failed HitBox check | missed entity hitbox (entity: zombie, angle: 40.815, move: true) (+1) | vl:1 ping:87 tps:19.98 lp:14 component: hb.mis ver: 1.16.x
+(14:38:29) Bl4zeBoy failed Speed check | suspicious movement (move: 0.846, predict: 0.442, friction: 0.6, ground:true, motY: 0.42, increase:1.124, preMove:0.112, motion: -0.774,0.42,-0.343, attribute: 0.13, cm: false, di: true, st: false, tag: pred) (+5) | vl:5 ping:77 tps:20.0 lp:12 component: move.xz ver: 1.16.x
+(14:38:29) Bl4zeBoy failed Velocity check | (respond) ignore server velocity: -0.69,0.399,-0.393 (+5) | vl:5 ping:77 tps:20.0 lp:15 component: vel.expect ver: 1.16.x
+(14:42:32) Bl4zeBoy failed Interact check | breaking a block without looking at it (block: SAND) (+1) | vl:1 ping:71 tps:20.0 lp:14 component: interact.break ver: 1.16.x
+(14:42:49) Bl4zeBoy failed Speed check | suspicious movement (move: 0.618, predict: 0.598, friction: 0.6, ground:true, motY: 0.42, increase:0.305, preMove:0.293, motion: 0.497,0.42,-0.367, attribute: 0.13, cm: false, di: false, st: true, tag: pred) (+5) | vl:5 ping:82 tps:20.0 lp:9 component: move.xz ver: 1.16.x
+(14:55:05) Bl4zeBoy failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:106 tps:20.0 lp:37 component: interact.through ver: 1.16.x
+(15:00:33) Bl4zeBoy failed Interact check | breaking a block without looking at it (block: RED_CARPET) (+1) | vl:1 ping:187 tps:20.0 lp:33 component: interact.break ver: 1.16.x
+(15:00:33) Bl4zeBoy failed Interact check | break block through walls (through: coal_ore, block: red_carpet) (+1) | vl:2 ping:187 tps:20.0 lp:33 component: interact.break ver: 1.16.x
+(15:06:00) Bl4zeBoy failed BadPackets check | (timer) send 49 moving packets in 1978ms | tag: limit (+10) | vl:10 ping:2334 tps:20.0 lp:16 component: net.timer ver: 1.16.x
+(15:07:50) Bl4zeBoy failed Fly check | suspicious movement:0.42 predict:0.338 vel:-0.078 air_t:1 tag:vt (+5) | vl:5 ping:72 tps:20.0 lp:17 component: fly.main ver: 1.16.x
+(15:07:50) Bl4zeBoy failed Fly check | suspicious movement:0.333 predict:0.253 vel:-0.078 air_t:2 tag:vt (+5) | vl:10 ping:72 tps:20.0 lp:17 component: fly.main ver: 1.16.x
+(15:07:50) Bl4zeBoy failed Fly check | suspicious movement:0.248 predict:0.17 vel:-0.155 air_t:3 tag:vt (+5) | vl:15 ping:72 tps:20.0 lp:17 component: fly.main ver: 1.16.x
+(15:07:50) Bl4zeBoy failed Fly check | suspicious movement:0.165 predict:0.088 vel:-0.231 air_t:4 tag:vt (+5) | vl:20 ping:72 tps:20.0 lp:17 component: fly.main ver: 1.16.x
+(15:07:51) Bl4zeBoy failed Block check | break block too fast (digs: 1/5, block: stone, j: false) (+4) | vl:4 ping:72 tps:20.0 lp:18 component: block.fastbreak.expect ver: 1.16.x
+(15:07:55) Bl4zeBoy failed Interact check | breaking a block without looking at it (block: STONE) (+1) | vl:1 ping:72 tps:20.0 lp:26 component: interact.break ver: 1.16.x
+(15:08:17) Bl4zeBoy failed Speed check | suspicious movement (move: 0.832, predict: 0.138, friction: 0.6, ground:false, motY: 0.459, increase:0.026, preMove:0.112, motion: 0.017,0.459,0.832, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:5 ping:62 tps:20.0 lp:28 component: move.xz ver: 1.16.x
+(15:08:17) Bl4zeBoy failed Fly check | suspicious movement:0.459 predict:0.338 vel:0.0 air_t:1 tag:vt (+5) | vl:5 ping:62 tps:20.0 lp:28 component: fly.main ver: 1.16.x
+(15:15:17) Bl4zeBoy failed Velocity check | (respond) ignore server velocity: -0.053,0.275,0.213 (+5) | vl:5 ping:81 tps:20.0 lp:8 component: vel.expect ver: 1.16.x
+(15:15:19) Bl4zeBoy failed Fly check | suspicious movement:0.275 predict:0.17 vel:0.165 air_t:3 tag:vt (+5) | vl:5 ping:2727 tps:20.0 lp:10 component: fly.main ver: 1.16.x
+(15:15:19) Bl4zeBoy failed Fly check | suspicious movement:0.191 predict:0.088 vel:0.165 air_t:4 tag:vt (+5) | vl:10 ping:2727 tps:20.0 lp:10 component: fly.main ver: 1.16.x
+(15:18:03) Bl4zeBoy failed Speed check | suspicious movement (move: 0.627, predict: 0.605, friction: 0.6, ground:true, motY: 0.42, increase:0.305, preMove:0.3, motion: 0.005,0.42,-0.627, attribute: 0.13, cm: false, di: false, st: true, tag: pred) (+5) | vl:5 ping:62 tps:20.0 lp:7 component: move.xz ver: 1.16.x
+(15:18:27) Bl4zeBoy failed Velocity check | (respond) ignore server velocity: -0.012,0.333,-0.341 (+5) | vl:5 ping:77 tps:20.0 lp:10 component: vel.expect ver: 1.16.x
+(15:18:34) Bl4zeBoy failed Speed check | suspicious movement (move: 0.31, expect:0.289, t:0, sprint: true, attr: 0.13, tag: a) (+9) | vl:9 ping:77 tps:20.0 lp:6 component: speed.main ver: 1.16.x
+(15:18:35) Bl4zeBoy failed Speed check | suspicious movement (move: 0.326, expect:0.289, t:0, sprint: true, attr: 0.13, tag: a) (+9) | vl:18 ping:162 tps:20.0 lp:14 component: speed.main ver: 1.16.x
+(15:18:35) Bl4zeBoy failed Speed check | suspicious movement (move: 0.298, expect:0.289, t:0, sprint: true, attr: 0.13, tag: a) (+9) | vl:27 ping:162 tps:20.0 lp:14 component: speed.main ver: 1.16.x
+(15:18:35) Bl4zeBoy failed Speed check | suspicious movement (move: 0.289, expect:0.289, t:0, sprint: true, attr: 0.13, tag: a) (+9) | vl:36 ping:162 tps:20.0 lp:14 component: speed.main ver: 1.16.x
+(15:23:19) Bl4zeBoy failed Speed check | suspicious movement (move: 0.657, predict: 0.576, friction: 0.6, ground:true, motY: 0.62, increase:0.78, preMove:0.194, motion: -0.642,0.62,0.137, attribute: 0.182, cm: false, di: true, st: false, tag: pred) (+5) | vl:5 ping:77 tps:20.0 lp:8 component: move.xz ver: 1.16.x
+(15:26:49) Bl4zeBoy failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: -311.118,73.42,-1248.73, type: air, pkt: true) (+5) | vl:5 ping:67 tps:20.0 lp:21 component: fly.gf ver: 1.16.x
+(15:27:10) Bl4zeBoy failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:72 tps:20.0 lp:7 component: interact.through ver: 1.16.x
+(15:34:40) Bl4zeBoy failed HitBox check | missed entity hitbox (entity: zombie, angle: 48.214, move: true) (+1) | vl:1 ping:77 tps:20.0 lp:8 component: hb.mis ver: 1.16.x
+(15:37:11) Bl4zeBoy failed BadPackets check | (timer) send 39 moving packets in 1010ms | tag: limit (+5) | vl:5 ping:152 tps:20.0 lp:33 component: net.timer ver: 1.16.x
+(15:46:52) Bl4zeBoy failed HitBox check | missed entity hitbox (entity: zombie, angle: 87.986, move: true) (+2) | vl:2 ping:82 tps:20.0 lp:9 component: hb.mis ver: 1.16.x
+(15:48:50) Bl4zeBoy failed Velocity check | (respond) ignore server velocity: 0.049,0.275,-0.213 (+5) | vl:5 ping:62 tps:20.0 lp:12 component: vel.expect ver: 1.16.x
+(15:53:33) Bl4zeBoy failed Block check | break block too fast (digs: 3/7, block: birch_log, j: false) (+4) | vl:4 ping:92 tps:20.0 lp:23 component: block.fastbreak.expect ver: 1.16.x
+(15:53:33) Bl4zeBoy failed Interact check | breaking a block without looking at it (block: BIRCH_LOG) (+1) | vl:1 ping:92 tps:20.0 lp:23 component: interact.break ver: 1.16.x
+(15:53:33) Bl4zeBoy failed Interact check | break block through walls (through: birch_leaves, block: birch_log) (+1) | vl:2 ping:92 tps:20.0 lp:23 component: interact.break ver: 1.16.x
+(15:55:15) Bl4zeBoy failed Interact check | breaking a block without looking at it (block: GRASS_BLOCK) (+1) | vl:1 ping:72 tps:20.0 lp:7 component: interact.break ver: 1.16.x
+(15:55:15) Bl4zeBoy failed Interact check | break block through walls (through: grass_block, block: grass_block) (+1) | vl:2 ping:72 tps:20.0 lp:7 component: interact.break ver: 1.16.x
+(15:56:29) Bl4zeBoy failed Interact check | break block through walls (through: oak_leaves, block: grass_block) (+1) | vl:1 ping:107 tps:20.0 lp:17 component: interact.break ver: 1.16.x
+(15:56:39) Bl4zeBoy failed Interact check | breaking a block without looking at it (block: OAK_LEAVES) (+1) | vl:2 ping:107 tps:20.0 lp:27 component: interact.break ver: 1.16.x
+(15:56:39) Bl4zeBoy failed Interact check | break block through walls (through: oak_leaves, block: oak_leaves) (+1) | vl:3 ping:107 tps:20.0 lp:27 component: interact.break ver: 1.16.x
+(15:56:39) Bl4zeBoy failed BadPackets check | (timer) send 47 moving packets in 1034ms | tag: limit (+5) | vl:5 ping:107 tps:20.0 lp:27 component: net.timer ver: 1.16.x
+(16:05:05) Bl4zeBoy failed Velocity check | (respond) ignore server velocity: 0.236,0.275,0.0 (+5) | vl:5 ping:74 tps:20.0 lp:32 component: vel.expect ver: 1.16.x
+(16:07:19) Bl4zeBoy failed Fly check | suspicious movement:0.418 predict:-0.199 air:12 tag:dmf (+10) | vl:10 ping:137 tps:20.0 lp:11 component: fly.main ver: 1.16.x
+(17:14:12) vanism failed Block check | break block without delay (+4) | vl:4 ping:20 tps:20.0 lp:16 component: blk.fb.dly ver: 1.16.x
+(17:22:40) vanism failed Block check | break block without delay (+4) | vl:4 ping:20 tps:20.0 lp:8 component: blk.fb.dly ver: 1.16.x
+(17:40:41) vanism failed Speed check | t: spin (-446.8951->-458.8951) (+10) | vl:10 ping:26 tps:20.0 lp:14 component: speed.spin ver: 1.16.x
+(17:48:11) vanism failed Speed check | suspicious movement (move: 0.618, predict: 0.595, friction: 0.6, ground:true, motY: 0.42, increase:0.305, preMove:0.29, motion: -0.414,0.42,0.459, attribute: 0.13, cm: false, di: false, st: true, tag: pred) (+5) | vl:5 ping:32 tps:20.0 lp:7 component: move.xz ver: 1.16.x
