@@ -103,7 +103,11 @@ quests:
     name: Explore the area around Spawn
     ask-message: Hey! Why not get a little bit familiar with this world? You ready
       to explore the surrounding area?
-    finish-message: Great! You have explored the area around Spawn! You visited Templeside Village and said hello to the mayor. You trudged across the Noryn desert, smelled the Soundless Swamp, saw the north side of Marasor Woods and came back to Spawn via the South road. Then you gazed at the great Mt. Clarenburn and came to the center of The Shield.
+    finish-message: Great! You have explored the area around Spawn! You visited Templeside
+      Village and said hello to the mayor. You trudged across the Noryn desert, smelled
+      the Soundless Swamp, saw the north side of Marasor Woods and came back to Spawn
+      via the South road. Then you gazed at the great Mt. Clarenburn and came to the
+      center of The Shield.
     stages:
       ordered:
         '1':
@@ -113,8 +117,10 @@ quests:
           - 4
           reach-location-names:
           - Chilvern Wayfinding Tower
-          start-message: You are now in Chilvern Fields, at Spawn. Just a little bit north from here is a wayfinding tower. Go check it out.
-          complete-message: This is Chilvern Fields Wayfinding Tower. From here you can see what's around us.
+          start-message: You are now in Chilvern Fields, at Spawn. Just a little bit
+            north from here is a wayfinding tower. Go check it out.
+          complete-message: This is Chilvern Fields Wayfinding Tower. From here you
+            can see what's around us.
         '2':
           locations-to-reach:
           - world -210.0 66.0 -204.0
@@ -122,14 +128,19 @@ quests:
           - 40
           reach-location-names:
           - Templeside Village
-          start-message: When you're done looking around, let's go and visit the Templeside Village to the north. It's up North road.
-          complete-message: Welcome to Templeside Village. 
+          start-message: When you're done looking around, let's go and visit the Templeside
+            Village to the north. It's up North road.
+          complete-message: Welcome to Templeside Village.
         '3':
           npc-ids-to-talk-to:
           - 0
-          start-message: Let's see if the Mayor is home.
-          complete-message: '"Hey there. Welcome to Templeside village! This used to be a camp for temple explorers, then eventually it turned into a little village. We’ve got a few farmers and leatherworkers. They’d welcome any trade if you got some goods. Please accept these supplies and good luck on your travels."'
           finish-event: DannetGift
+          start-message: Let's see if the Mayor is home.
+          complete-message: '"Hey there. Welcome to Templeside village! This used
+            to be a camp for temple explorers, then eventually it turned into a little
+            village. We’ve got a few farmers and leatherworkers. They’d welcome any
+            trade if you got some goods. Please accept these supplies and good luck
+            on your travels."'
         '4':
           locations-to-reach:
           - world 14.0 73.0 -249.0
@@ -137,8 +148,11 @@ quests:
           - 40
           reach-location-names:
           - Noryn Desert
-          start-message: Head out east, past the temple, into the middle of Noryn Desert.
-          complete-message: You're now in the middle of Noryn Desert. Not the biggest of deserts, Noryn. The story has it Noryn Desert was named after a little, fiery witch that lived here.
+          start-message: Head out east, past the temple, into the middle of Noryn
+            Desert.
+          complete-message: You're now in the middle of Noryn Desert. Not the biggest
+            of deserts, Noryn. The story has it Noryn Desert was named after a little,
+            fiery witch that lived here.
         '5':
           locations-to-reach:
           - world 9.0 59.0 75.0
@@ -146,8 +160,10 @@ quests:
           - 50
           reach-location-names:
           - Soundless Swamp
-          start-message: Let's go south from here, to the southernmost tip of the desert where it meets the Soundless Swamp.
-          complete-message: Ah, the Soundless Swamp. Eerily quiet most of the time and has a somewhat fruity smell.
+          start-message: Let's go south from here, to the southernmost tip of the
+            desert where it meets the Soundless Swamp.
+          complete-message: Ah, the Soundless Swamp. Eerily quiet most of the time
+            and has a somewhat fruity smell.
         '6':
           locations-to-reach:
           - world -205.0 71.0 291.0
@@ -155,8 +171,14 @@ quests:
           - 60
           reach-location-names:
           - Marasor Woods
-          start-message: Marasor Woods are further south of here. Cross the swamp, go past the campsite and to the other side of the river. Head west from there along the riverbank.
-          complete-message: This is the north tip of Marasor woods. You should now see the Spawn to the north from here. These woods are fairly large, stretching quite far to the south-west of here. Rumour has it a well known magician was ambushed somewhere in these woods and killed. But not before magically transporting his chest of enchanted books underground.
+          start-message: Marasor Woods are further south of here. Cross the swamp,
+            go past the campsite and to the other side of the river. Head west from
+            there along the riverbank.
+          complete-message: This is the north tip of Marasor woods. You should now
+            see the Spawn to the north from here. These woods are fairly large, stretching
+            quite far to the south-west of here. Rumour has it a well known magician
+            was ambushed somewhere in these woods and killed. But not before magically
+            transporting his chest of enchanted books underground.
         '7':
           locations-to-reach:
           - world -347.0 62.0 262.0
@@ -164,8 +186,10 @@ quests:
           - 8
           reach-location-names:
           - South Road
-          start-message: Carry on westward along the river bank, keeping Spawn to your right, until you find the South road.
-          complete-message: South road. This road cuts through Marasor woods and takes you to Tarrin Village.
+          start-message: Carry on westward along the river bank, keeping Spawn to
+            your right, until you find the South road.
+          complete-message: South road. This road cuts through Marasor woods and takes
+            you to Tarrin Village.
         '8':
           locations-to-reach:
           - world -329.0 72.0 75.0
@@ -174,7 +198,10 @@ quests:
           reach-location-names:
           - Mt. Clarenburn
           start-message: Head north back into Spawn. Take the West road into the mountains.
-          complete-message: The great mountain looming over you to your left is Mt. Clarenburn. Not the tallest mountain in The Shield, but broad and wide. It's got quite the cave system inside apparently, as well as old, forgotten iron mines.
+          complete-message: The great mountain looming over you to your left is Mt.
+            Clarenburn. Not the tallest mountain in The Shield, but broad and wide.
+            It's got quite the cave system inside apparently, as well as old, forgotten
+            iron mines.
         '9':
           locations-to-reach:
           - world -523.0 77.0 51.0
@@ -182,8 +209,14 @@ quests:
           - 10
           reach-location-names:
           - center of The Shield
-          start-message: Keep on going into the mountains to get to the center of The Shield.
-          complete-message: The Shield is a mountain range with many rugged mountains and deep valleys. Where the West road ends, a bridge is being planned.
+          start-message: Keep on going into the mountains to get to the center of
+            The Shield.
+          complete-message: The Shield is a mountain range with many rugged mountains
+            and deep valleys. Where the West road ends, a bridge is being planned.
+    rewards:
+      money: 5000
+      quest-points: 1
+      exp: 100
     planner:
       override: false
     options:
