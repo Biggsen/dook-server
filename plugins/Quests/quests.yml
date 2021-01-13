@@ -108,6 +108,7 @@ quests:
       the Soundless Swamp, saw the north side of Marasor Woods and came back to Spawn
       via the South road. Then you gazed at the great Mt. Clarenburn and came to the
       center of The Shield.
+    npc-giver-id: 1
     stages:
       ordered:
         '1':
