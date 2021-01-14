@@ -638,6 +638,13 @@ shopMenuItems:
       name: "&9&lJobs"
     shop: "jobs"
     slot: 21
+  rtp:
+    item:
+      material: TARGET
+      quantity: 1
+      name: "&9&lRTP"
+    shop: "rtp"
+    slot: 22
   # vote_rewards:
   #   item:
   #     material: GOLD_INGOT

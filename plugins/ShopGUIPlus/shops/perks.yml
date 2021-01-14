@@ -142,19 +142,6 @@ perks:
       buyPrice: 20000
       sellPrice: -1
       slot: 9
-    perms_rtp_nether:
-      type: permission
-      permission: "betterrtp.world.world_nether"
-      item:
-        material: NETHERRACK
-        quantity: 1
-        name: "RTP in the nether"
-        lore:
-        - "This will allow you to randomly teleport in the nether."
-        - "Each /rtp will cost $500."
-      buyPrice: 50000
-      sellPrice: -1
-      slot: 10
     perms_bp:
       type: permission
       permissions:
