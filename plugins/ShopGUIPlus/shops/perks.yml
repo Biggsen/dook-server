@@ -91,6 +91,70 @@ perks:
       buyPrice: 10000
       sellPrice: -1
       slot: 5
+    perms_cartographytable:
+      type: permission
+      permission: "essentials.cartographytable"
+      item:
+        material: CARTOGRAPHY_TABLE
+        quantity: 1
+        name: "Get access to /cartographytable"
+        lore:
+        - "For the busy explorer or mapper."
+        - "Copy or zoom out and go."
+      buyPrice: 20000
+      sellPrice: -1
+      slot: 6
+    perms_loom:
+      type: permission
+      permission: "essentials.loom"
+      item:
+        material: LOOM
+        quantity: 1
+        name: "Get access to /loom"
+        lore:
+        - "For all you crazy banner wranglers out there."
+        - "Get your loom on!"
+      buyPrice: 20000
+      sellPrice: -1
+      slot: 7
+    perms_compass:
+      type: permission
+      permission: "essentials.compass"
+      item:
+        material: COMPASS
+        quantity: 1
+        name: "Get access to /compass"
+        lore:
+        - "Quickly and easily check which direction you're facing."
+      buyPrice: 20000
+      sellPrice: -1
+      slot: 8
+    perms_hat:
+      type: permission
+      permission: "essentials.hat"
+      item:
+        material: IRON_HELMET
+        quantity: 1
+        name: "Get access to /hat"
+        lore:
+        - "Put all kinds of things on your head."
+        - "Not overly useful, but quite fun!"
+      buyPrice: 20000
+      sellPrice: -1
+      slot: 9
+    perms_rtp_nether:
+      type: permission
+      permission: "betterrtp.world.world_nether"
+      item:
+        material: NETHERRACK
+        quantity: 1
+        name: "RTP in the nether"
+        lore:
+        - "This will allow you to randomly teleport in the nether."
+        - "Each /rtp will cost $500."
+      buyPrice: 50000
+      sellPrice: -1
+      slot: 10
     perms_bp:
       type: permission
       permissions:
