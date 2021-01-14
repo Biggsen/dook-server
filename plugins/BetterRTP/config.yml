@@ -79,21 +79,48 @@ WorldType:
 PermissionGroup:
   Enabled: true
   Groups:
+  - rtp_level5:
+    - world:
+        MaxRadius: 5000
+        MinRadius: 100
+        Price: 250
+    - world_nether:
+        MaxRadius: 625
+        MinRadius: 20
+        Price: 500
+  - rtp_level4:
+    - world:
+        MaxRadius: 4000
+        MinRadius: 100
+        Price: 250
+    - world_nether:
+        MaxRadius: 500
+        MinRadius: 20
+        Price: 500
+  - rtp_level3:
+    - world:
+        MaxRadius: 3000
+        MinRadius: 100
+        Price: 250
+    - world_nether:
+        MaxRadius: 375
+        MinRadius: 20
+        Price: 500
+  - rtp_level2:
+    - world:
+        MaxRadius: 2000
+        MinRadius: 100
+        Price: 250
+    - world_nether:
+        MaxRadius: 250
+        MinRadius: 20
+        Price: 500
   - default:
     - world:
         MaxRadius: 1000
         MinRadius: 100
         Price: 250
     - world_nether:
-        MaxRadius: 200
-        MinRadius: 50
-        Price: 500
-  - rtp_level2:
-    - world:
-        MaxRadius: 2000
-        MinRadius: 500
-        Price: 250
-    - world_nether:
-        MaxRadius: 300
-        MinRadius: 100
+        MaxRadius: 125
+        MinRadius: 20
         Price: 500
