@@ -33,6 +33,9 @@ perks:
         material: CRAFTING_TABLE
         quantity: 1
         name: "Get access to /craft"
+        lore:
+        - "Forget about those pesky crafting tables littering your house."
+        - "Crafting table at the touch of a command!"
       buyPrice: 20000
       sellPrice: -1
       slot: 1
@@ -43,6 +46,9 @@ perks:
         material: ANVIL
         quantity: 1
         name: "Get access to /anvil"
+        lore:
+        - "'Ah, where did I put that anvil again?'"
+        - "No more anvil searching :)"
       buyPrice: 20000
       sellPrice: -1
       slot: 2
@@ -53,6 +59,9 @@ perks:
         material: GRINDSTONE
         quantity: 1
         name: "Get access to /grindstone"
+        lore:
+        - "Quickly disenchant and repair,"
+        - "from literally anywhere!"
       buyPrice: 20000
       sellPrice: -1
       slot: 3
@@ -63,6 +72,9 @@ perks:
         material: REDSTONE_BLOCK
         quantity: 1
         name: "Get access to /condense"
+        lore:
+        - "Easily free up some inventory space as you mine."
+        - "No need to get back to base."
       buyPrice: 20000
       sellPrice: -1
       slot: 4
@@ -73,7 +85,10 @@ perks:
         material: COMPOSTER
         quantity: 1
         name: "Get access to /disposal"
-      buyPrice: 20000
+        lore:
+        - "Throw it in the bin instead of on the floor."
+        - "A handy portable rubbish bin."
+      buyPrice: 10000
       sellPrice: -1
       slot: 5
     perms_bp:
