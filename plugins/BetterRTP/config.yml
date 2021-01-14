@@ -84,3 +84,16 @@ PermissionGroup:
         MaxRadius: 1000
         MinRadius: 100
         Price: 250
+    - world_nether:
+        MaxRadius: 200
+        MinRadius: 50
+        Price: 500
+  - rtp_level2:
+    - world:
+        MaxRadius: 2000
+        MinRadius: 500
+        Price: 250
+    - world_nether:
+        MaxRadius: 300
+        MinRadius: 100
+        Price: 500
