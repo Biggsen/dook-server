@@ -50,7 +50,7 @@ regions:
         min: {x: -255, y: 0, z: -270}
         max: {x: -172, y: 255, z: -153}
         members: {}
-        flags: {mob-spawning: deny, fire-spread: deny}
+        flags: {interact: allow, mob-spawning: deny, fire-spread: deny}
         owners: {}
         type: cuboid
         priority: 0
