@@ -89,8 +89,8 @@ world-settings:
     trident-despawn-rate: 1200
     wither-spawn-sound-radius: 0
     hanging-tick-frequency: 100
-    zombie-aggressive-towards-villager: true
-    nerf-spawner-mobs: true
+    zombie-aggressive-towards-villager: false
+    nerf-spawner-mobs: false
     max-entity-collisions: 4
     growth:
       cactus-modifier: 100
