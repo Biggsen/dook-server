@@ -129,3 +129,62 @@ quests:
       use-parties-plugin: true
       share-progress-level: 1
       require-same-quest: true
+  custom2:
+    name: The broken dam
+    ask-message: The dam at Mulsons Rise has broken! The dam provides essential water
+      reserves for Templeside village and right now they're getting depleted. Can
+      you help?
+    finish-message: Excellent! You've repaired the dam and helped the villagers of
+      Templeside Village.
+    npc-giver-id: 1
+    gui-display:
+      ==: org.bukkit.inventory.ItemStack
+      v: 2584
+      type: STONE
+    requirements:
+      quest-points: 1
+      permissions:
+      - quests.dook.broken_dam.open
+      fail-requirement-message:
+      - You need 1 quest point to be able to take this quest. You can check how many
+        quest points you have by doing /quests stats. If you've got enough quest points,
+        then someone else might be doing this quest. Come back later!
+    stages:
+      ordered:
+        '1':
+          locations-to-reach:
+          - world -430.0 62.0 -110.0
+          reach-location-radii:
+          - 30
+          reach-location-names:
+          - Mulsons Rise Dam
+          start-message: The dam is located by Mulsons Rise in The Shield. There's
+            an old road the leads to it. Take the North Road from here and just before
+            you reach Templeside Village, you should see it on the left.
+          complete-message: You found the dam. Up above to the left is Mulsons Rise.
+        '2':
+          place-block-names:
+          - stone
+          place-block-amounts:
+          - 71
+          place-block-durability:
+          - 0
+          start-message: Fill that broken dam wall and stop the water from flowing
+            down. You have to use stones, any other material won't do.
+          complete-message: Excellent. The dam has been repaired.
+          start-event: AccessBrokenDam
+          condition: AtBrokenDam
+        '3':
+          npc-ids-to-talk-to:
+          - 0
+          finish-event: DannetDamReward
+          start-message: Go and let Dannet know the dam has been repaired.
+          complete-message: '"You have repaired Mulsons Rise Dam? Ah, thank you so
+            very much. Our water reserves are now safe. We needed a skilled builder
+            to do that work, but we have none in our village. The one down in Tarrin
+            Village was away on some project. Here, take this saddle our leatherworkers
+            have been producing as a reward. Should come in handy."'
+    rewards:
+      money: 5000
+      quest-points: 1
+      exp: 100

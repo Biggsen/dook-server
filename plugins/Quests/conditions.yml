@@ -3,3 +3,6 @@ conditions:
     fail-quest: true
     ride-entity:
     - Pig
+  AtBrokenDam:
+    stay-within-region:
+    - broken_dam

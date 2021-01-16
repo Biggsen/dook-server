@@ -34,3 +34,12 @@ actions:
       - name-bread:amount-40
       - name-leather_boots:amount-1
       - name-leather_helmet:amount-1
+  AccessBrokenDam:
+    commands:
+    - rg addmember -w world broken_dam <player>
+  DannetDamReward:
+    message: "<yellow>Dannet gave you a saddle."
+    items:
+      - name-saddle:amount-1
+    commands:
+    - rg removemember -w world broken_dam <player>
