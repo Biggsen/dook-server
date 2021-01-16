@@ -10,6 +10,10 @@ quests:
       via the South road. Then you gazed at the great Mt. Clarenburn and came to the
       center of The Shield.
     npc-giver-id: 1
+    gui-display:
+      ==: org.bukkit.inventory.ItemStack
+      v: 2584
+      type: COMPASS
     stages:
       ordered:
         '1':
