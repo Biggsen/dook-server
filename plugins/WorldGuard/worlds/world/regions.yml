@@ -40,6 +40,14 @@ regions:
         owners: {}
         type: cuboid
         priority: 0
+    broken_dam:
+        min: {x: -440, y: 67, z: -114}
+        max: {x: -439, y: 73, z: -105}
+        members: {}
+        flags: {}
+        owners: {}
+        type: cuboid
+        priority: 0
     __global__:
         members: {}
         flags: {}
