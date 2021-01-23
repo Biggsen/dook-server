@@ -162,6 +162,7 @@ quests:
           - 30
           reach-location-names:
           - Mulsons Rise Dam
+          start-event: JoinBrokenDam
           start-message: The dam is located by Mulsons Rise in The Shield. There's
             an old road the leads to it. Take the North Road from here and just before
             you reach Templeside Village, you should see it on the left.

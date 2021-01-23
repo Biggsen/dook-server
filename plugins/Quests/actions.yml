@@ -34,6 +34,10 @@ actions:
       - name-bread:amount-40
       - name-leather_boots:amount-1
       - name-leather_helmet:amount-1
+  JoinBrokenDam:
+    commands:
+    - lp group default permission unset quests.dook.broken_dam.open
+    - lp user <player> permission set quests.dook.broken_dam.open
   AccessBrokenDam:
     commands:
     - rg addmember -w world broken_dam <player>
@@ -43,3 +47,4 @@ actions:
       - name-saddle:amount-1
     commands:
     - rg removemember -w world broken_dam <player>
+    - lp user <player> permission set quests.dook.broken_dam.done
