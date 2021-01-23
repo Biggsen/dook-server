@@ -48,3 +48,22 @@ actions:
     commands:
     - rg removemember -w world broken_dam <player>
     - lp user <player> permission set quests.dook.broken_dam.done
+  JoinLandslideHouse:
+    commands:
+    - lp group default permission unset quests.dook.landslide_house.open
+    - lp user <player> permission set quests.dook.landslide_house.open
+  AccessLandslideHouse:
+    commands:
+    - rg addmember -w world landslide_house <player>
+  DannetGetShovels:
+    message: "<yellow>Dannet gave you 2 iron shovels"
+    items:
+      - name-iron_shovel:amount-1
+      - name-iron_shovel:amount-1
+  DannetLandslideReward:
+    message: "<yellow>Dannet gave you 20 leather"
+    items:
+      - name-leather:amount-20
+    commands:
+    - rg removemember -w world landslide_house <player>
+    - lp user <player> permission set quests.dook.landslide_house.done

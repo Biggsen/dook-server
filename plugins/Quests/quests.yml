@@ -193,3 +193,80 @@ quests:
       money: 5000
       quest-points: 1
       exp: 100
+  custom3:
+    name: The landslide dig out
+    ask-message: Templeside village got hit by a landslide yesterday. They need some
+      help uncovering a house that got hit pretty bad. Talk to Mayor Dannet if you
+      think you can help them out.
+    finish-message: Great! You've helped digging out the buried house for the villagers
+      of Templeside. Let's hope they relocate that house somewhere else.
+    npc-giver-id: 1
+    gui-display:
+      ==: org.bukkit.inventory.ItemStack
+      v: 2584
+      type: DIRT
+    requirements:
+      quest-points: 1
+      permissions:
+      - quests.dook.landslide_house.open
+      fail-requirement-message:
+      - You need 1 quest point to be able to take this quest. You can check how many
+        quest points you have by doing /quests stats. If you've got enough quest points,
+        then someone else might be doing this quest. Come back later!
+    stages:
+      ordered:
+        '1':
+          npc-ids-to-talk-to:
+          - 0
+          start-event: JoinLandslideHouse
+          finish-event: DannetGetShovels
+          start-message: Nice. Go and talk to Dannet first. I think he had some decent
+            shovels.
+          complete-message: '"Hey there again! You helping us out with the buried
+            house? Glad to hear that. We have always been a bit worried about living
+            so close to the mountains. Thankfully no one got hurt. We just need you
+            to dig away all the dirt 2 blocks from the house and anything inside.
+            That should do it for now. We will clear away the rest later. These 2
+            iron shovels should help. The house is just below Hollow Peaks to the
+            west from here."'
+        '2':
+          locations-to-reach:
+          - world -268.0 68.0 -186.0
+          reach-location-radii:
+          - 20
+          reach-location-names:
+          - Buried house
+          complete-message: This is the house that got buried in the landslide.
+        '3':
+          break-block-names:
+          - COARSE_DIRT
+          break-block-amounts:
+          - 260
+          break-block-durability:
+          - 0
+          start-event: AccessLandslideHouse
+          condition: AtLandslideHouse
+          start-message: Clear way the coarse dirt 2 blocks from the house. Clear
+            any dirt inside as well.
+          complete-message: Ah, this should be enough.
+        '4':
+          npc-ids-to-talk-to:
+          - 0
+          finish-event: DannetLandslideReward
+          start-message: Go and let Dannet know the house has been cleared.
+          complete-message: '"House cleared? Wonderful. We appreciate your hard work.
+            Please take some leather as a reward."'
+    rewards:
+      money: 5000
+      quest-points: 1
+      exp: 100
+    planner:
+      override: false
+    options:
+      allow-commands: true
+      allow-quitting: true
+      ignore-silk-touch: true
+      use-dungeonsxl-plugin: false
+      use-parties-plugin: true
+      share-progress-level: 1
+      require-same-quest: true

@@ -6,3 +6,6 @@ conditions:
   AtBrokenDam:
     stay-within-region:
     - broken_dam
+  AtLandslideHouse:
+    stay-within-region:
+    - landslide_house
