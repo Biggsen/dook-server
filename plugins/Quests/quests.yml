@@ -270,3 +270,78 @@ quests:
       use-parties-plugin: true
       share-progress-level: 1
       require-same-quest: true
+  custom4:
+    name: Daybane's Sister
+    ask-message: Will you explore The Shield a bit more and find Daybane Mountain
+      and its sister? When you return, tell me her name.
+    finish-message: Yes! Her name is Pierce Peak. You explorer material perhaps? Here, this compass might help.
+    npc-giver-id: 1
+    gui-display:
+      ==: org.bukkit.inventory.ItemStack
+      v: 2584
+      type: COMPASS
+    requirements:
+      quest-points: 1
+      #permissions:
+      #- quests.dook.daybanes_sister.open
+      #fail-requirement-message:
+      #- This quest is being prepared.
+    stages:
+      ordered:
+        '1':
+          locations-to-reach:
+          - world -616.0 77.0 -58.0
+          reach-location-radii:
+          - 50
+          reach-location-names:
+          - Daybane Mountain
+          start-message: Daybane Mountain is up on the north-west part of The Shield.
+            If you've been to Mulson's Rise or its dam, it's west of that. If not,
+            Mulson's Rise is north of Mt. Clarenburn.
+          complete-message: That's Daybane Mountain.
+        '2':
+          locations-to-reach:
+          - world -597.0 125.0 -42.0
+          reach-location-radii:
+          - 10
+          reach-location-names:
+          - Daybane Mountain Summit
+          start-message: You'll need to scale Daybane Mountain to get a good look
+            at its sister. The best way is on the North side. There's a long slope
+            which is fairly easy to climb. Let's get to Daybane's summit.
+          complete-message: This is the top of Daybane Mountain.
+        '3':
+          locations-to-reach:
+          - world -634.0 123.0 -21.0
+          reach-location-radii:
+          - 6
+          reach-location-names:
+          - Vantage point
+          start-message: Now, let's find out where Daybane's sister is. Go west from
+            here and check for any wayfinding signs.
+          complete-message: Ah yes. Here it is. Quite a sight. Over to the right
+            is The Blades. Those are notoriously hard to scale. Well, enjoy the view
+            as long as you like. Afterwards head back to Spawn and talk to Ricket.
+        '4':
+          npc-ids-to-talk-to:
+          - 1
+        '5':
+          password-displays:
+          - So, what's the name of Daybane's sister?
+          password-phrases:
+          - Pierce Peak
+          finish-event: RicketDaybaneReward
+    rewards:
+      money: 5000
+      quest-points: 1
+      exp: 100
+    planner:
+      override: false
+    options:
+      allow-commands: true
+      allow-quitting: true
+      ignore-silk-touch: true
+      use-dungeonsxl-plugin: false
+      use-parties-plugin: true
+      share-progress-level: 1
+      require-same-quest: true

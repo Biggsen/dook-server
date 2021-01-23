@@ -67,3 +67,7 @@ actions:
     commands:
     - rg removemember -w world landslide_house <player>
     - lp user <player> permission set quests.dook.landslide_house.done
+  RicketDaybaneReward:
+    message: "<yellow>Ricket gave you a compass"
+    items:
+      - name-compass:amount-1
