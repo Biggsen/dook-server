@@ -345,3 +345,89 @@ quests:
       use-parties-plugin: true
       share-progress-level: 1
       require-same-quest: true
+  custom5:
+    name: Forgotten iron mines
+    ask-message: New information about the forgotten iron mines of Mt. Clarenburn
+    finish-message: You found the mine! impressive.
+    npc-giver-id: 1
+    gui-display:
+      ==: org.bukkit.inventory.ItemStack
+      v: 2584
+      type: IRON_ORE
+    requirements:
+      quest-points: 1
+      permissions:
+      - quests.dook.iron_mine.open
+      fail-requirement-message:
+      - You need 1 quest point to be able to take this quest. You can check how many
+        quest points you have by doing /quests stats. If you've got enough quest points,
+        then someone else might be doing this quest. Come back later!
+    stages:
+      ordered:
+        '1':
+          npc-ids-to-talk-to:
+          - 0
+          start-event: JoinIronMine
+          finish-event: DannetLandslideReward
+          start-message: Go and talk to the mayor of Tarrin.
+          complete-message: '"We have got news about the entrance."'
+        '2':
+          locations-to-reach:
+          - world -268.0 68.0 -186.0
+          reach-location-radii:
+          - 2
+          reach-location-names:
+          - Hidden Entrance
+          start-message: Go to north side of Mt. Clarenburn.
+          complete-message: You've found the entrance!
+        '3':
+          locations-to-reach:
+          - world -268.0 68.0 -186.0
+          reach-location-radii:
+          - 4
+          reach-location-names:
+          - Cave-in
+          start-event: See how far in you can get until you find that cave-in.
+          complete-message: This looks like the cave-in spot.
+        '4':
+          locations-to-reach:
+          - world -268.0 68.0 -186.0
+          reach-location-radii:
+          - 2
+          reach-location-names:
+          - Iron ore
+          start-event: Let's see how deep this goes...
+          complete-message: Ah! Here's the iron ore vein.
+        '5':
+          break-block-names:
+          - IRON_ORE
+          break-block-amounts:
+          - 40
+          break-block-durability:
+          - 0
+          start-event: AccessLandslideHouse
+          condition: AtLandslideHouse
+          start-message: Clear way the coarse dirt 2 blocks from the house. Clear
+            any dirt inside as well.
+          complete-message: Ah, this should be enough.
+        '6':
+          npc-ids-to-talk-to:
+          - 0
+          finish-event: DannetLandslideReward
+          start-message: Go and let Dannet know the house has been cleared.
+          complete-message: '"House cleared? Wonderful. We appreciate your hard work.
+            Please take some leather as a reward."'
+    rewards:
+      money: 5000
+      quest-points: 1
+      exp: 100
+    planner:
+      override: false
+    options:
+      allow-commands: true
+      allow-quitting: true
+      ignore-silk-touch: true
+      use-dungeonsxl-plugin: false
+      use-parties-plugin: true
+      share-progress-level: 1
+      require-same-quest: true
