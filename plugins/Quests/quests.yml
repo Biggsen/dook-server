@@ -295,6 +295,7 @@ quests:
           - 50
           reach-location-names:
           - Daybane Mountain
+          start-event: JoinDaybane
           start-message: Daybane Mountain is up on the north-west part of The Shield.
             If you've been to Mulson's Rise or its dam, it's west of that. If not,
             Mulson's Rise is north of Mt. Clarenburn.
