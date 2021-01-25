@@ -9,3 +9,6 @@ conditions:
   AtLandslideHouse:
     stay-within-region:
     - landslide_house
+  AtIronMine:
+    stay-within-region:
+    - iron_mine
