@@ -76,3 +76,7 @@ actions:
     message: "<yellow>Ricket gave you a compass"
     items:
       - name-compass:amount-1
+  JoinIronMine:
+    commands:
+    - lp group default permission unset quests.dook.iron_mine.open
+    - lp user <player> permission set quests.dook.iron_mine.open

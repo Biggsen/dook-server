@@ -246,7 +246,7 @@ quests:
           - 0
           start-event: AccessLandslideHouse
           condition: AtLandslideHouse
-          start-message: Clear way the coarse dirt 2 blocks from the house. Clear
+          start-message: Clear away the coarse dirt 2 blocks from the house. Clear
             any dirt inside as well.
           complete-message: Ah, this should be enough.
         '4':
@@ -332,6 +332,87 @@ quests:
           password-phrases:
           - Pierce Peak
           finish-event: RicketDaybaneReward
+    rewards:
+      money: 5000
+      quest-points: 1
+      exp: 100
+    planner:
+      override: false
+    options:
+      allow-commands: true
+      allow-quitting: true
+      ignore-silk-touch: true
+      use-dungeonsxl-plugin: false
+      use-parties-plugin: true
+      share-progress-level: 1
+      require-same-quest: true
+  custom5:
+    name: Forgotten iron mine
+    ask-message: New information about the forgotten iron mine of Mt. Clarenburn
+    finish-message: You found the mine! impressive.
+    npc-giver-id: 1
+    gui-display:
+      ==: org.bukkit.inventory.ItemStack
+      v: 2584
+      type: IRON_ORE
+    requirements:
+      quest-points: 1
+      permissions:
+      - quests.dook.iron_mine.open
+      fail-requirement-message:
+      - This quest is being prepared.
+    stages:
+      ordered:
+        '1':
+          npc-ids-to-talk-to:
+          - 2
+          #start-event: JoinIronMine (set perms and remove 1 QP)
+          start-message: Go and talk to the mayor of Tarrin.
+          complete-message: '"We have got news about the entrance."'
+        '2':
+          locations-to-reach:
+          - world -439.0 82.0 103.0
+          reach-location-radii:
+          - 2
+          reach-location-names:
+          - hidden mine entrance
+          start-message: Go to north side of Mt. Clarenburn.
+          complete-message: You've found the entrance!
+          #finish-event: AccessIronMine
+        '3':
+          locations-to-reach:
+          - world -426.0 81.0 136.0
+          reach-location-radii:
+          - 4
+          reach-location-names:
+          - Cave-in
+          start-message: See how far in you can get until you find that cave-in.
+          complete-message: This looks like the cave-in spot.
+        '4':
+          locations-to-reach:
+          - world -410.0 80.0 135.0
+          reach-location-radii:
+          - 2
+          reach-location-names:
+          - iron ore vein
+          start-message: Let's see how deep this goes...
+          complete-message: Ah! Here's the iron ore vein.
+        '5':
+          break-block-names:
+          - IRON_ORE
+          break-block-amounts:
+          - 10
+          break-block-durability:
+          - 0
+          condition: AtIronMine
+          start-message: Bring back 10 iron ore.
+          complete-message: Ah, this should be enough
+        '6':
+          npc-ids-to-talk-to:
+          - 2
+          #finish-event: DannetLandslideReward
+          start-message: Go and let Sanses know you found the mine
+          complete-message: '"You found the mine! Amazing."'
     rewards:
       money: 5000
       quest-points: 1
