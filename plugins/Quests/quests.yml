@@ -345,8 +345,11 @@ quests:
       require-same-quest: true
   custom5:
     name: Forgotten iron mine
-    ask-message: Mayor Sanses has new information about the forgotten iron mine of Mt. Clarenburn. He needs someone to check it out.
-    finish-message: Mayor Sanses thanks you again for helping out. He points out that Tarrin village has a mason, farmer, weaponsmith and a cartographer. All of which are happy to trade.
+    ask-message: Mayor Sanses has new information about the forgotten iron mine of
+      Mt. Clarenburn. He needs someone to check it out.
+    finish-message: Mayor Sanses thanks you again for helping out. He points out that
+      Tarrin village has a mason, farmer, weaponsmith and a cartographer. All of which
+      are happy to trade.
     npc-giver-id: 1
     gui-display:
       ==: org.bukkit.inventory.ItemStack
@@ -366,8 +369,17 @@ quests:
           npc-ids-to-talk-to:
           - 2
           start-event: JoinIronMine
-          start-message: Take the South Road to Tarin village and speak with Mayor Sanses.
-          complete-message: '"Hey there <player>! Welcome to Tarrin village, known for its interest in creating, preserving and discovering maps. Our resident cartographer has stumbled upon an old map showing not only the location of the forgotten iron mine of Mt. Clarenburn, but where the entrance was! It is supposedly somewhere on the north-west side, apparently close to where The Shield Bridge is going to be built. Can you try and find it? Back in the day the mine caved in just as they found a decent vein, so if you get inside, please mine a few iron ores and bring back to me as proof."'
+          start-message: Take the South Road to Tarin village and speak with Mayor
+            Sanses.
+          complete-message: '"Hey there <player>! Welcome to Tarrin village, known
+            for its interest in creating, preserving and discovering maps. Our resident
+            cartographer has stumbled upon an old map showing not only the location
+            of the forgotten iron mine of Mt. Clarenburn, but where the entrance was!
+            It is supposedly somewhere on the north-west side, apparently close to
+            where The Shield Bridge is going to be built. Can you try and find it?
+            Back in the day the mine caved in just as they found a decent vein, so
+            if you get inside, please mine a few iron ores and bring back to me as
+            proof."'
         '2':
           locations-to-reach:
           - world -439.0 82.0 103.0
@@ -376,7 +388,8 @@ quests:
           reach-location-names:
           - hidden mine entrance
           finish-event: AccessIronMine
-          start-message: Go to north west side of Mt. Clarenburn and search for the hidden mine entrance.
+          start-message: Go to north west side of Mt. Clarenburn and search for the
+            hidden mine entrance.
           complete-message: You've found the entrance!
         '3':
           locations-to-reach:
@@ -385,7 +398,8 @@ quests:
           - 4
           reach-location-names:
           - cave-in
-          start-message: The cave-in was deeper in the mine. See how far in you can get until you find that cave-in.
+          start-message: The cave-in was deeper in the mine. See how far in you can
+            get until you find that cave-in.
           complete-message: This looks like the cave-in, broken supports and whatnot.
         '4':
           locations-to-reach:
@@ -394,7 +408,8 @@ quests:
           - 2
           reach-location-names:
           - iron ore vein
-          start-message: The iron ore vein might be deeper in through the cave-in. Let's see how deep it is...
+          start-message: The iron ore vein might be deeper in through the cave-in.
+            Let's see how deep it is...
           complete-message: Ah! Here's the iron ore vein.
         '5':
           break-block-names:
@@ -408,8 +423,11 @@ quests:
         '6':
           npc-ids-to-talk-to:
           - 2
-          start-message: Go back to Tarrin village and let Mayor Sanses know you found the iron mine.
-          complete-message: '"You found the mine! Amazing. We will send someone over to close it off until it is safe. Who knows, the mine might start to provide iron for the area again. Did you bring the 10 iron ore?"'
+          start-message: Go back to Tarrin village and let Mayor Sanses know you found
+            the iron mine.
+          complete-message: '"You found the mine! Amazing. We will send someone over
+            to close it off until it is safe. Who knows, the mine might start to provide
+            iron for the area again. Did you bring the 10 iron ore?"'
         '7':
           items-to-deliver:
           - ==: org.bukkit.inventory.ItemStack
@@ -421,7 +439,9 @@ quests:
           delivery-messages:
           - <npc> takes the iron ore
           finish-event: SansesMineReward
-          complete-message: '"Ah excellent. Thank you! Please take this empty map as a reward. Perhaps you could start mapping your own area? Exploring your surroundings can be a revelation of many sorts."'
+          complete-message: '"Ah excellent. Thank you! Please take this empty map
+            as a reward. Perhaps you could start mapping your own area? Exploring
+            your surroundings can be a revelation of many sorts."'
     rewards:
       money: 5000
       quest-points: 1
