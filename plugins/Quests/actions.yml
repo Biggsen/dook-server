@@ -78,5 +78,17 @@ actions:
       - name-compass:amount-1
   JoinIronMine:
     commands:
+    - qa takepoints <player> 1
     - lp group default permission unset quests.dook.iron_mine.open
     - lp user <player> permission set quests.dook.iron_mine.open
+  AccessIronMine:
+    commands:
+    - rg addmember -w world iron_mine <player>
+  SansesMineReward:
+    message: "<yellow>Sanses gave you an empty map"
+    items:
+      - name-map:amount-1
+    commands:
+    - rg removemember -w world iron_mine <player>
+    - lp user <player> permission set quests.dook.iron_mine.done
+    - lp user <player> permission unset quests.dook.iron_mine.open
