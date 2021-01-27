@@ -15,13 +15,16 @@ perks:
   items:
     perms_back:
       type: permission
-      permission: "essentials.back.ondeath"
+      permissions:
+        - "deathcoordinates.teleport"
+        - "deathcoordinates.message"
       item:
         material: PAPER
         quantity: 1
-        name: "Get access to /back"
+        name: "Enable teleporting back to death location"
         lore:
-        - "Enables you to teleport back to the place you last died."
+        - "This perk gives you a link in the chat to teleport"
+        - "back to the location where you just died."
         - "Never lose your stuff again!"
       buyPrice: 20000
       sellPrice: -1
