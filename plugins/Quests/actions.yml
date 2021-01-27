@@ -92,3 +92,7 @@ actions:
     - rg removemember -w world iron_mine <player>
     - lp user <player> permission set quests.dook.iron_mine.done
     - lp user <player> permission unset quests.dook.iron_mine.open
+  DannetPortalStoneReward:
+    message: "<yellow>Mayor Dannet gave you $50,000"
+    commands:
+    - eco give <player> 50000

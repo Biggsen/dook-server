@@ -357,7 +357,9 @@ quests:
       permissions:
       - quests.dook.iron_mine.open
       fail-requirement-message:
-      - This quest is being prepared.
+      - You need 1 quest point to be able to take this quest. You can check how many
+        quest points you have by doing /quests stats. If you've got enough quest points,
+        then someone else might be doing this quest. Come back later!
     stages:
       ordered:
         '1':
@@ -424,6 +426,54 @@ quests:
       money: 5000
       quest-points: 1
       exp: 100
+    planner:
+      override: false
+    options:
+      allow-commands: true
+      allow-quitting: true
+      ignore-silk-touch: true
+      use-dungeonsxl-plugin: false
+      use-parties-plugin: true
+      share-progress-level: 1
+      require-same-quest: true
+  custom6:
+    name: The Portal Project
+    ask-message: Five surrounding villages are hoping to initiate the portal project, but they need a vital ingredient - a portal stone. They are willing to pay a handsome sum to anyone to is willing to sell one. If you are lucky enough to have one, go and talk to Mayor Dannet in Templeside Village.
+    finish-message: Having secured the portal stone, The Portal Project is now underway thanks to you. They'll need the portals restored as well, so keep an eye out for that future work.
+    npc-giver-id: 1
+    gui-display:
+      ==: org.bukkit.inventory.ItemStack
+      v: 2586
+      type: REDSTONE
+    requirements:
+      quest-points: 1
+      permissions:
+      - quests.dook.portal_project.open
+      fail-requirement-message:
+      - Quest is being prepared
+    stages:
+      ordered:
+        '1':
+          npc-ids-to-talk-to:
+          - 0
+          start-message: Talk to Mayor Dannet in the Templeside Village.
+          complete-message: '"Hello %player%. We meet again. I hear you might have something of value which you would like to sell? Before we do business, let me inform you of what you are about to help with. The five villages of Templeside, Tarrin, Krin, Daphis and Chistin all have the remains of a broken portal somewhat close to them. These portal used to be connected and created a way to travel between these villages and areas quickly, bringing prosperity and closeness. With a portal stone these portals can be connected again! Each village has committed $10,000 to the cause, making it a total of $50,000 for the owner of a portal stone. So, do you have one?"'
+        '2':
+          items-to-deliver:
+          - ==: org.bukkit.inventory.ItemStack
+            v: 2586
+            type: IRON_ORE
+            amount: 1
+          npc-delivery-ids:
+          - 0
+          delivery-messages:
+          - <npc> pays <player>
+          finish-event: DannetPortalStoneReward
+          complete-message: '"Magnificent!! We hardly dared to dream we would find one, let alone so quickly. Thank you for willing to part with such a treasure. Here is the money as promised."'
+    rewards:
+      money: 5000
+      quest-points: 1
+      exp: 200
     planner:
       override: false
     options:
