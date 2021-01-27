@@ -14,8 +14,8 @@ drops:
       item:
         material: ROTTEN_FLESH
         quantity: 32
-        lore:
-          - "$4.00/$1.19 each"
+        # lore:
+        #   - "$4.00/$1.19 each"
       buyPrice: 128
       sellPrice: 38
       slot: 0
@@ -24,8 +24,8 @@ drops:
       item:
         material: BONE
         quantity: 8
-        lore:
-          - "$20.00/$6.00 each"
+        # lore:
+        #   - "$20.00/$6.00 each"
       buyPrice: 160
       sellPrice: 48
       slot: 1
@@ -34,8 +34,8 @@ drops:
       item:
         material: GUNPOWDER
         quantity: 4
-        lore:
-          - "$40.00/$12.00 each"
+        # lore:
+        #   - "$40.00/$12.00 each"
       buyPrice: 160
       sellPrice: 48
       slot: 2
@@ -44,8 +44,8 @@ drops:
       item:
         material: STRING
         quantity: 16
-        lore:
-          - "$5.00/$1.50 each"
+        # lore:
+        #   - "$5.00/$1.50 each"
       buyPrice: 80
       sellPrice: 24
       slot: 3
@@ -54,8 +54,8 @@ drops:
       item:
         material: SPIDER_EYE
         quantity: 16
-        lore:
-          - "$12.00/$3.63 each"
+        # lore:
+        #   - "$12.00/$3.63 each"
       buyPrice: 192
       sellPrice: 58
       slot: 4
@@ -64,8 +64,8 @@ drops:
       item:
         material: INK_SAC
         quantity: 16
-        lore:
-          - "$12.00/$3.63 each"
+        # lore:
+        #   - "$12.00/$3.63 each"
       buyPrice: 192
       sellPrice: 58
       slot: 5
@@ -74,8 +74,8 @@ drops:
       item:
         material: SLIME_BALL
         quantity: 4
-        lore:
-          - "$40.00/$12.00 each"
+        # lore:
+        #   - "$40.00/$12.00 each"
       buyPrice: 160
       sellPrice: 48
       slot: 6
@@ -84,8 +84,8 @@ drops:
       item:
         material: LEATHER
         quantity: 4
-        lore:
-          - "$30.00/$9.00 each"
+        # lore:
+        #   - "$30.00/$9.00 each"
       buyPrice: 120
       sellPrice: 36
       slot: 7
@@ -94,8 +94,8 @@ drops:
       item:
         material: FEATHER
         quantity: 16
-        lore:
-          - "$5.00/$1.50 each"
+        # lore:
+        #   - "$5.00/$1.50 each"
       buyPrice: 80
       sellPrice: 24
       slot: 8
@@ -104,8 +104,8 @@ drops:
       item:
         material: EGG
         quantity: 16
-        lore:
-          - "$5.00/$1.50 each"
+        # lore:
+        #   - "$5.00/$1.50 each"
       buyPrice: 80
       sellPrice: 24
       slot: 9

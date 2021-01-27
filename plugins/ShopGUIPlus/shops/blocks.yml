@@ -14,9 +14,8 @@ blocks:
       item:
         material: DIRT
         quantity: 32
-        lore:
-          - "$3.00/$0.91 each"
-
+        # lore:
+        #   - "$3.00/$0.91 each"
       buyPrice: 96
       sellPrice: 29
       slot: 0
@@ -25,8 +24,8 @@ blocks:
       item:
         material: GRASS_BLOCK
         quantity: 16
-        lore:
-          - "$6.00/$1.81 each"
+        # lore:
+        #   - "$6.00/$1.81 each"
       buyPrice: 96
       sellPrice: 29
       slot: 1
@@ -35,8 +34,8 @@ blocks:
       item:
         material: COBBLESTONE
         quantity: 32
-        lore:
-          - "$4.00/$1.19 each"
+        # lore:
+        #   - "$4.00/$1.19 each"
       buyPrice: 128
       sellPrice: 38
       slot: 2
@@ -45,8 +44,8 @@ blocks:
       item:
         material: STONE
         quantity: 16
-        lore:
-          - "$8.00/$2.38 each"
+        # lore:
+        #   - "$8.00/$2.38 each"
       buyPrice: 128
       sellPrice: 38
       slot: 3
@@ -55,8 +54,8 @@ blocks:
       item:
         material: GRANITE
         quantity: 32
-        lore:
-          - "$4.00/$1.19 each"
+        # lore:
+        #   - "$4.00/$1.19 each"
       buyPrice: 128
       sellPrice: 38
       slot: 4
@@ -65,8 +64,8 @@ blocks:
       item:
         material: DIORITE
         quantity: 32
-        lore:
-          - "$4.00/$1.19 each"
+        # lore:
+        #   - "$4.00/$1.19 each"
       buyPrice: 128
       sellPrice: 38
       slot: 5
@@ -75,8 +74,8 @@ blocks:
       item:
         material: ANDESITE
         quantity: 32
-        lore:
-          - "$4.00/$1.19 each"
+        # lore:
+        #   - "$4.00/$1.19 each"
       buyPrice: 128
       sellPrice: 38
       slot: 6
@@ -85,8 +84,8 @@ blocks:
       item:
         material: GRAVEL
         quantity: 32
-        lore:
-          - "$3.00/$0.91 each"
+        # lore:
+        #   - "$3.00/$0.91 each"
       buyPrice: 96
       sellPrice: 29
       slot: 7
@@ -95,8 +94,8 @@ blocks:
       item:
         material: SAND
         quantity: 32
-        lore:
-          - "$3.00/$0.91 each"
+        # lore:
+        #   - "$3.00/$0.91 each"
       buyPrice: 96
       sellPrice: 29
       slot: 9
@@ -105,8 +104,8 @@ blocks:
       item:
         material: RED_SAND
         quantity: 32
-        lore:
-          - "$4.00/$1.19 each"
+        # lore:
+        #   - "$4.00/$1.19 each"
       buyPrice: 128
       sellPrice: 38
       slot: 10
@@ -115,8 +114,8 @@ blocks:
       item:
         material: GLASS
         quantity: 16
-        lore:
-          - "$7.00/$2.13 each"
+        # lore:
+        #   - "$7.00/$2.13 each"
       buyPrice: 112
       sellPrice: 34
       slot: 11

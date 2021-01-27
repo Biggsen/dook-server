@@ -14,8 +14,8 @@ wood:
       item:
         material: OAK_LOG
         quantity: 4
-        lore:
-          - "$30.00/$9 each"
+        # lore:
+        #   - "$30.00/$9 each"
       buyPrice: 120
       sellPrice: 36
       slot: 0
@@ -24,8 +24,8 @@ wood:
       item:
         material: BIRCH_LOG
         quantity: 4
-        lore:
-          - "$30.00/$9 each"
+        # lore:
+        #   - "$30.00/$9 each"
       buyPrice: 120
       sellPrice: 36
       slot: 1
@@ -34,8 +34,8 @@ wood:
       item:
         material: SPRUCE_LOG
         quantity: 4
-        lore:
-          - "$30.00/$9 each"
+        # lore:
+        #   - "$30.00/$9 each"
       buyPrice: 120
       sellPrice: 36
       slot: 2
@@ -44,8 +44,8 @@ wood:
       item:
         material: ACACIA_LOG
         quantity: 4
-        lore:
-          - "$30.00/$9 each"
+        # lore:
+        #   - "$30.00/$9 each"
       buyPrice: 120
       sellPrice: 36
       slot: 3
@@ -54,8 +54,8 @@ wood:
       item:
         material: DARK_OAK_LOG
         quantity: 4
-        lore:
-          - "$30.00/$9 each"
+        # lore:
+        #   - "$30.00/$9 each"
       buyPrice: 120
       sellPrice: 36
       slot: 4
@@ -64,8 +64,8 @@ wood:
       item:
         material: JUNGLE_LOG
         quantity: 4
-        lore:
-          - "$30.00/$9 each"
+        # lore:
+        #   - "$30.00/$9 each"
       buyPrice: 120
       sellPrice: 36
       slot: 5

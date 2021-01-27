@@ -14,8 +14,8 @@ ores:
       item:
         material: COAL
         quantity: 4
-        lore:
-          - "$32.00/$9.50 each"
+        # lore:
+        #   - "$32.00/$9.50 each"
       buyPrice: 128
       sellPrice: 38
       slot: 0
@@ -24,8 +24,8 @@ ores:
       item:
         material: REDSTONE
         quantity: 8
-        lore:
-          - "$14.00/$4.25 each"
+        # lore:
+        #   - "$14.00/$4.25 each"
       buyPrice: 112
       sellPrice: 34
       slot: 1
@@ -34,8 +34,8 @@ ores:
       item:
         material: LAPIS_LAZULI
         quantity: 8
-        lore:
-          - "$20.00/$6.00 each"
+        # lore:
+        #   - "$20.00/$6.00 each"
       buyPrice: 160
       sellPrice: 48
       slot: 2
