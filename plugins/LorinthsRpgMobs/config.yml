@@ -105,6 +105,17 @@ SpawnPoints:
       Location:
         X: -253
         Z: 92
+    noryn_witch:
+      Disabled: false
+      Level: 30
+      MaxLevel: 40
+      Distance: 5
+      CenterBuffer: 2
+      Variance: 3
+      MaxDistance: 80
+      Location:
+        X: -25
+        Z: -260
 LevelRegions:
   world:
     undeadkeep:
@@ -1135,3 +1146,18 @@ Entity:
           Name: Guardian
         '40':
           Name: Epic Guardian
+    CAVE_SPIDER:
+      Disabled: false
+      AllowDespawn: true
+      DisabledWorlds: []
+      Formulas:
+        Health: 12 + ({level} / 3) + ({level} / 5) + rand(5)
+        Damage: 2 + rand(3) + ({level} / 12)
+        Experience: rand(5) + 1 + rand({level} / 5)
+        CurrencyChance: 5.0 + ({level} / 5)
+        CurrencyValue: 3.0 + ({level} / 3) + rand(3)
+      Names:
+        '1':
+          Name: Cave Spider
+        '40':
+          Name: Epic Cave Spider
