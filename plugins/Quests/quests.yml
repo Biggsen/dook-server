@@ -12,7 +12,7 @@ quests:
     npc-giver-id: 1
     gui-display:
       ==: org.bukkit.inventory.ItemStack
-      v: 2584
+      v: 2586
       type: COMPASS
     stages:
       ordered:
@@ -143,7 +143,7 @@ quests:
     npc-giver-id: 1
     gui-display:
       ==: org.bukkit.inventory.ItemStack
-      v: 2584
+      v: 2586
       type: STONE
     requirements:
       quest-points: 1
@@ -203,7 +203,7 @@ quests:
     npc-giver-id: 1
     gui-display:
       ==: org.bukkit.inventory.ItemStack
-      v: 2584
+      v: 2586
       type: DIRT
     requirements:
       quest-points: 1
@@ -274,18 +274,15 @@ quests:
     name: Daybane's Sister
     ask-message: Will you explore The Shield a bit more and find Daybane Mountain
       and its sister? When you return, tell me her name.
-    finish-message: Yes! Her name is Pierce Peak. You explorer material perhaps? Here, this compass might help.
+    finish-message: Yes! Her name is Pierce Peak. You explorer material perhaps? Here,
+      this compass might help.
     npc-giver-id: 1
     gui-display:
       ==: org.bukkit.inventory.ItemStack
-      v: 2584
+      v: 2586
       type: COMPASS
     requirements:
       quest-points: 1
-      #permissions:
-      #- quests.dook.daybanes_sister.open
-      #fail-requirement-message:
-      #- This quest is being prepared.
     stages:
       ordered:
         '1':
@@ -320,8 +317,8 @@ quests:
           - Vantage point
           start-message: Now, let's find out where Daybane's sister is. Go west from
             here and check for any wayfinding signs.
-          complete-message: Ah yes. Here it is. Quite a sight. Over to the right
-            is The Blades. Those are notoriously hard to scale. Well, enjoy the view
+          complete-message: Ah yes. Here it is. Quite a sight. Over to the right is
+            The Blades. Those are notoriously hard to scale. Well, enjoy the view
             as long as you like. Afterwards head back to Spawn and talk to Ricket.
         '4':
           npc-ids-to-talk-to:
