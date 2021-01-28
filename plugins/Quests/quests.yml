@@ -458,8 +458,13 @@ quests:
       require-same-quest: true
   custom6:
     name: The Portal Project
-    ask-message: Five surrounding villages are hoping to initiate the portal project, but they need a vital ingredient - a portal stone. They are willing to pay a handsome sum to anyone to is willing to sell one. If you are lucky enough to have one, go and talk to Mayor Dannet in Templeside Village.
-    finish-message: Having secured the portal stone, The Portal Project is now underway thanks to you. They'll need the portals restored as well, so keep an eye out for that future work.
+    ask-message: Five surrounding villages are hoping to initiate the portal project, but
+      they need a vital ingredient - a portalstone. They are willing to pay a handsome
+      sum to anyone to is willing to sell one. If you are lucky enough to have one, go
+      and talk to Mayor Dannet in Templeside Village.
+    finish-message: Having secured the portalstone, The Portal Project is now underway
+      thanks to you. They'll need the portals restored as well, so keep an eye out
+      for that future work.
     npc-giver-id: 1
     gui-display:
       ==: org.bukkit.inventory.ItemStack
@@ -467,29 +472,55 @@ quests:
       type: REDSTONE
     requirements:
       quest-points: 1
-      permissions:
-      - quests.dook.portal_project.open
-      fail-requirement-message:
-      - Quest is being prepared
     stages:
       ordered:
         '1':
           npc-ids-to-talk-to:
           - 0
-          start-message: Talk to Mayor Dannet in the Templeside Village.
-          complete-message: '"Hello %player%. We meet again. I hear you might have something of value which you would like to sell? Before we do business, let me inform you of what you are about to help with. The five villages of Templeside, Tarrin, Krin, Daphis and Chistin all have the remains of a broken portal somewhat close to them. These portal used to be connected and created a way to travel between these villages and areas quickly, bringing prosperity and closeness. With a portal stone these portals can be connected again! Each village has committed $10,000 to the cause, making it a total of $50,000 for the owner of a portal stone. So, do you have one?"'
+          start-message: He's at Templeside village to the north from here.
+          complete-message: '"Hey there. We meet again. I hear you might have
+            something of value which you would like to sell? Before we do business,
+            let me inform you of what you are about to help with. The five villages
+            of Templeside, Tarrin, Krin, Daphis and Chistin all have the remains of
+            a broken portal somewhat close to them. These portal used to be connected
+            and created a way to travel between these villages and areas quickly,
+            bringing prosperity and closeness. With a portalstone these portals can
+            be connected again! Each village has committed $10,000 to the cause, making
+            it a total of $50,000 for the owner of a portalstone. So, do you have
+            one?"'
         '2':
           items-to-deliver:
           - ==: org.bukkit.inventory.ItemStack
             v: 2586
-            type: IRON_ORE
-            amount: 1
+            type: REDSTONE
+            meta:
+              ==: ItemMeta
+              meta-type: UNSPECIFIC
+              display-name: '{"extra":[{"text":"Portalstone"}],"text":""}'
+              loc-name: '{"extra":[{"text":"Portalstone"}],"text":""}'
+              lore:
+              - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"white","text":"An
+                unbound Portalstone."}],"text":""}'
+              - '{"extra":[{"text":" "}],"text":""}'
+              - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"white","text":"Throw
+                this into a nether portal to"}],"text":""}'
+              - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"white","text":"bind
+                that portal to the Portalstone."}],"text":""}'
+              - '{"extra":[{"text":" "}],"text":""}'
+              - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"white","text":"The
+                Portalstone can then be used to"}],"text":""}'
+              - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"white","text":"create
+                portal path ways between portals."}],"text":""}'
+              PublicBukkitValues:
+                portalstones:persistentdata.portals: '[B;]'
           npc-delivery-ids:
           - 0
           delivery-messages:
-          - <npc> pays <player>
+          - <npc> takes the portalstone carefully
           finish-event: DannetPortalStoneReward
-          complete-message: '"Magnificent!! We hardly dared to dream we would find one, let alone so quickly. Thank you for willing to part with such a treasure. Here is the money as promised."'
+          complete-message: '"Magnificent!! We hardly dared to dream we would find
+            one, let alone so quickly. Thank you for willing to part with such a treasure.
+            Here is the money as promised."'
     rewards:
       money: 5000
       quest-points: 1
