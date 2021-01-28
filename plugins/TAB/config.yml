@@ -19,6 +19,7 @@ header:
   - "%animation:MyAnimation1%"
 footer:
   - "%animation:MyAnimation1%"
+  - "&2Balance: &f%money%"
   - "&6Dook time: &f%player_world_time_24%"
   - "&7Earth %animation:time%"
   - ""
