@@ -369,9 +369,9 @@ quests:
           npc-ids-to-talk-to:
           - 2
           start-event: JoinIronMine
-          start-message: Take the South Road to Tarin village and speak with Mayor
+          start-message: Take the South Road to Tarrin village and speak with Mayor
             Sanses.
-          complete-message: '"Hey there <player>! Welcome to Tarrin village, known
+          complete-message: '"Hey there! Welcome to Tarrin village, known
             for its interest in creating, preserving and discovering maps. Our resident
             cartographer has stumbled upon an old map showing not only the location
             of the forgotten iron mine of Mt. Clarenburn, but where the entrance was!
