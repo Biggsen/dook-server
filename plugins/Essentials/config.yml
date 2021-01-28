@@ -815,7 +815,7 @@ chat:
     moderator: '&f[&5Mod&f] {DISPLAYNAME}&7:&f {MESSAGE}'
     vIP: '&f[&2ViP&f] {DISPLAYNAME}&7:&f {MESSAGE}'
     builder: '&f[&1Builder&f] {DISPLAYNAME}&7:&f {MESSAGE}'
-    default: '{DISPLAYNAME}&7:&f {MESSAGE}'
+    default: '&2{DISPLAYNAME}&7:&f {MESSAGE}'
   #  default: '{WORLDNAME} {DISPLAYNAME}&7:&r {MESSAGE}'
   #  admins: '{WORLDNAME} &c[{GROUP}]&r {DISPLAYNAME}&7:&c {MESSAGE}'
 
