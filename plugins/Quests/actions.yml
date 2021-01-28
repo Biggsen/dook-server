@@ -76,6 +76,8 @@ actions:
     message: "<yellow>Ricket gave you a compass"
     items:
       - name-compass:amount-1
+    commands:
+    - lp user <player> permission set quests.dook.daybanes_sister.done
   JoinIronMine:
     commands:
     - qa takepoints <player> 1
@@ -96,3 +98,4 @@ actions:
     message: "<yellow>Mayor Dannet gave you $50,000"
     commands:
     - eco give <player> 50000
+    - lp user <player> permission set quests.dook.portal_project.done
