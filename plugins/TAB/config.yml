@@ -10,7 +10,7 @@ change-tablist-prefix-suffix: true
 enable-header-footer: true
 
 header:
-  - "&7\u2591\u2591\u2591\u2591\u2591\u2591\u2591 &6&lDook MC Survival &7\u2591\u2591\u2591\u2591\u2591\u2591\u2591"
+  - "&7\u2591\u2591\u2591\u2591\u2591\u2591 &6&lDook MC Survival &7\u2591\u2591\u2591\u2591\u2591\u2591"
   - "&c&l>> &6Welcome %player% &c&l<<"
   - "&7Online players: &f%online%"
   - "&6Online staff: &e%staffonline%"
@@ -21,7 +21,6 @@ footer:
   - "%animation:MyAnimation1%"
   - "&2Balance: &f%money%"
   - "&6Dook time: &f%player_world_time_24%"
-  - "&7Earth %animation:time%"
   - ""
 
 #supports any numeric placeholder, set to "" to disable the feature
