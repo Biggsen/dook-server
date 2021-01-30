@@ -1,0 +1,133 @@
+horses:
+  name: "&3&lHorse Management (page %page%)"
+  size: 45
+  enablePerItemPermissions: true
+  fillItem:
+    material: BLACK_STAINED_GLASS_PANE
+    name: " "
+  buttons:
+    goBack:
+      slot: 40
+    previousPage:
+      slot: 36
+    nextPage:
+      slot: 45
+  items:
+    basic:
+      type: permission
+      permissions:
+        - "zh.tame"
+        - "zh.claim"
+        - "zh.free"
+        - "zh.rename"
+        - "zh.kill"
+        - "zh.lock"
+        - "zh.list"
+        - "zh.info"
+        - "zh.help"
+        - "zh.group.1"
+        - "shopguiplus.item.horses.teleport"
+        - "shopguiplus.item.horses.social"
+        - "shopguiplus.item.horses.commerce"
+        - "shopguiplus.item.horses.claims2"
+      item:
+        material: SADDLE
+        quantity: 1
+        name: "Manage your first horse"
+        lore:
+          - "Get access to commands that will allow you to"
+          - "tame, claim, name and lock your first horse."
+      buyPrice: 5000
+      sellPrice: -1
+      slot: 0
+    teleport:
+      type: permission
+      permissions:
+        - "zh.here"
+        - "zh.stable.*"
+      item:
+        material: COMPASS
+        quantity: 1
+        name: "Teleport your horses"
+        lore:
+          - "You can teleport your horse to you and back"
+          - "to its home (stable) whenever you need it."
+      buyPrice: 5000
+      sellPrice: -1
+      slot: 1
+    social:
+      type: permission
+      permissions:
+        - "zh.friend.*"
+        - "zh.share"
+        - "zh.give"
+      item:
+        material: HAY_BLOCK
+        quantity: 1
+        name: "Share your horses"
+        lore:
+          - "Share, give or add a friend to your horse"
+          - "(like a co-owner)"
+      buyPrice: 3000
+      sellPrice: -1
+      slot: 2
+    commerce:
+      type: permission
+      permissions:
+        - "zh.buy"
+        - "zh.sell"
+      item:
+        material: EMERALD
+        quantity: 1
+        name: "Buy and sell your horses"
+      buyPrice: 5000
+      sellPrice: -1
+      slot: 3
+    claims2:
+      type: permission
+      permission:
+        - "zh.group.2"
+        - "shopguiplus.item.horses.claims3"
+      item:
+        material: LEASH
+        quantity: 1
+        name: "Increase horse claims to 2"
+      buyPrice: 10000
+      sellPrice: -1
+      slot: 9
+    claims3:
+      type: permission
+      permission:
+        - "zh.group.3"
+        - "shopguiplus.item.horses.claims4"
+      item:
+        material: LEASH
+        quantity: 1
+        name: "Increase horse claims to 3"
+      buyPrice: 20000
+      sellPrice: -1
+      slot: 10
+    claims4:
+      type: permission
+      permission:
+        - "zh.group.4"
+        - "shopguiplus.item.horses.claims5"
+      item:
+        material: LEASH
+        quantity: 1
+        name: "Increase horse claims to 4"
+      buyPrice: 30000
+      sellPrice: -1
+      slot: 11
+    claims5:
+      type: permission
+      permission:
+        - "zh.group.5"
+        - "shopguiplus.item.horses.claims6"
+      item:
+        material: LEASH
+        quantity: 1
+        name: "Increase horse claims to 5"
+      buyPrice: 40000
+      sellPrice: -1
+      slot: 12

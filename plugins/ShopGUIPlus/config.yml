@@ -645,6 +645,13 @@ shopMenuItems:
       name: "&9&lRTP"
     shop: "rtp"
     slot: 22
+  horses:
+    item:
+      material: SADDLE
+      quantity: 1
+      name: "&9&lHorse Management"
+    shop: "horses"
+    slot: 23
   # vote_rewards:
   #   item:
   #     material: GOLD_INGOT
