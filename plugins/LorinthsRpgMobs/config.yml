@@ -735,6 +735,36 @@ Entity:
           Name: Shulker
         '40':
           Name: Epic Shulker
+    PANDA:
+      Disabled: false
+      AllowDespawn: false
+      DisabledWorlds: []
+      Formulas:
+        Health: 20 + ({level} / 3) + ({level} / 5) + rand(5)
+        Damage: 6 + rand(3) + ({level} / 12)
+        Experience: rand(5) + 1 + rand({level} / 5)
+        CurrencyChance: 5.0 + ({level} / 5)
+        CurrencyValue: 3.0 + ({level} / 3) + rand(3)
+      Names:
+        '1':
+          Name: Panda
+        '40':
+          Name: Epic Panda
+    OCELOT:
+      Disabled: false
+      AllowDespawn: false
+      DisabledWorlds: []
+      Formulas:
+        Health: 10 + ({level} / 3) + ({level} / 5) + rand(5)
+        Damage: 3 + rand(3) + ({level} / 12)
+        Experience: rand(5) + 1 + rand({level} / 5)
+        CurrencyChance: 5.0 + ({level} / 5)
+        CurrencyValue: 3.0 + ({level} / 3) + rand(3)
+      Names:
+        '1':
+          Name: Ocelot
+        '40':
+          Name: Epic Ocelot
   Misc:
     Disabled: true
     BAT:
@@ -1161,3 +1191,33 @@ Entity:
           Name: Cave Spider
         '40':
           Name: Epic Cave Spider
+    ENDERMITE:
+      Disabled: false
+      AllowDespawn: true
+      DisabledWorlds: []
+      Formulas:
+        Health: 8 + ({level} / 3) + ({level} / 5) + rand(5)
+        Damage: 2 + rand(3) + ({level} / 12)
+        Experience: rand(5) + 1 + rand({level} / 5)
+        CurrencyChance: 5.0 + ({level} / 5)
+        CurrencyValue: 3.0 + ({level} / 3) + rand(3)
+      Names:
+        '1':
+          Name: Endermite
+        '40':
+          Name: Epic Endermite
+    PIGLIN_BRUTE:
+      Disabled: false
+      AllowDespawn: true
+      DisabledWorlds: []
+      Formulas:
+        Health: 50 + ({level} / 3) + ({level} / 5) + rand(5)
+        Damage: 13 + rand(3) + ({level} / 12)
+        Experience: rand(5) + 1 + rand({level} / 5)
+        CurrencyChance: 5.0 + ({level} / 5)
+        CurrencyValue: 3.0 + ({level} / 3) + rand(3)
+      Names:
+        '1':
+          Name: Piglin Brute
+        '40':
+          Name: Epic Piglin Brute
