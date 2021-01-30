@@ -107,15 +107,37 @@ SpawnPoints:
         Z: 92
     noryn_witch:
       Disabled: false
-      Level: 30
-      MaxLevel: 40
-      Distance: 5
+      Level: 20
+      MaxLevel: 30
+      Distance: 80
       CenterBuffer: 2
       Variance: 3
       MaxDistance: 80
       Location:
         X: -25
         Z: -260
+    terrengrave_forest:
+      Disabled: false
+      Level: 10
+      MaxLevel: 15
+      Distance: 140
+      CenterBuffer: 0
+      Variance: 5
+      MaxDistance: 140
+      Location:
+        X: -919
+        Z: 292
+    terrengrave_forest_center:
+      Disabled: false
+      Level: 20
+      MaxLevel: 25
+      Distance: 30
+      CenterBuffer: 0
+      Variance: 5
+      MaxDistance: 30
+      Location:
+        X: -919
+        Z: 292
 LevelRegions:
   world:
     undeadkeep:
