@@ -144,26 +144,31 @@ Groups:
   # Assign and define the permission only if the group is not defined in a perms plugin.
   # Membership of the (fake) group is simulated for whoever has the permission.
 
-  visitor:
-    color: <f>
-    color-bypass: false
-    claims-limit: 0
-    permission: zh.group.visitor
-  player:
-    color: <dark_aqua>
+  five:
+    color: <2>
     color-bypass: false
     claims-limit: 5
-    permission: zh.what.ever.you.want
-  vip:
-    color: <3><BOLD>
+    permission: zh.group.5
+  four:
+    color: <2>
     color-bypass: false
-    claims-limit: 10
-    permission: prefix.zh.is.not.required
-  admin:
-    color: "&c"
-    color-bypass: true
-    claims-limit: -1
-    permission: deleting.this.line.is.fine.too
+    claims-limit: 4
+    permission: zh.group.4
+  three:
+    color: <2>
+    color-bypass: false
+    claims-limit: 3
+    permission: zh.group.3
+  two:
+    color: <2>
+    color-bypass: false
+    claims-limit: 2
+    permission: zh.group.2
+  one:
+    color: <2>
+    color-bypass: false
+    claims-limit: 1
+    permission: zh.group.1
 
 HorseNames:
 
@@ -185,31 +190,100 @@ HorseNames:
 
   # The names that are given randomly if random naming is enabled.
   random-names:
+  - Aeris
+  - Anna Bell
   - Arod
   - Arroch
   - Asfaloth
+  - Barney
   - Bill
+  - Brandon
   - Brego
+  - Bubs
   - Bumpkin
+  - Cash
+  - Cedar
+  - Cluster
+  - Conquest
+  - Curly
+  - Dark Step
+  - Destiny
+  - Dilly
+  - Elzar
+  - Fast Sparks
   - Felaróf
+  - Felena
   - Firefoot
+  - Flight Sparkle
+  - Garnet
+  - Genie
+  - Grace
   - Hasufel
+  - Hershey
+  - Inky
+  - Innocence
+  - Julie
+  - Kachina
+  - Kalypso
+  - Karisha
+  - Kaye
+  - Kaylab
+  - Keeta
+  - Lavender
+  - Levi
   - Lightfoot
   - Lightning
+  - Magnum
+  - Maiko
+  - Midnight Step
+  - Midnightbolt
+  - Moondancer
+  - Moonmane
+  - Moonshine
   - Nahar
+  - Nightheart
+  - Nugget
+  - Panosh
   - Pegasus
+  - Pippa
+  - Quantum
+  - Rachel
+  - Rain
+  - Rainflame
+  - Rapid Stallion
   - Rochallor
   - Roheryn
+  - Santana
+  - Shade Step
+  - Shadow Feet
   - Shadowfax
   - Sharp-ears
+  - Silvara
+  - Sky Stallion
+  - Skydance
+  - Skyla
+  - Slate
   - Snowmane
+  - Sparkle Feet
+  - Spice
+  - Spitfire
+  - Starlight
+  - Starsky
   - Strider
   - Stybba
+  - Sugarmane
+  - Sweetmane
+  - Sweetsilver
   - Swish-tail
+  - Tanis
+  - Theodorable
+  - Thunder Sparkle
   - Thunderstorm
   - Tornado
   - White-socks
+  - Wind Chaser
   - Windfola
+  - Windsong
   - Wise-nose
 
   # The list of words which cannot be contained in horse names.
@@ -324,7 +398,7 @@ Settings:
   claim-on-tame: false
 
   # Set to true to make player execute /zh lock on horse claim.
-  lock-on-claim: false
+  lock-on-claim: true
 
   # Set to true to make player execute /zh protect on horse claim.
   protect-on-claim: false
