@@ -67,7 +67,7 @@ quests:
           reach-location-names:
           - Soundless Swamp
           start-message: Let's go south from here, to the southernmost tip of the
-            desert where it meets the Soundless Swamp.
+            desert. Cross the small plain and you'll find the Soundless Swamp.
           complete-message: Ah, the Soundless Swamp. Eerily quiet most of the time
             and has a somewhat fruity smell.
         '6':
@@ -78,7 +78,7 @@ quests:
           reach-location-names:
           - Marasor Woods
           start-message: Marasor Woods are further south of here. Cross the swamp,
-            go past the campsite and to the other side of the river. Head west from
+            go past the campsite, cross the East Road and go to the other side of the river. Head west from
             there along the riverbank.
           complete-message: This is the north tip of Marasor woods. You should now
             see the Spawn to the north from here. These woods are fairly large, stretching
