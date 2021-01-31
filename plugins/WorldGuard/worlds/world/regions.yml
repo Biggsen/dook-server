@@ -33,7 +33,7 @@ regions:
         flags:
             mob-damage: deny
             deny-spawn: ['minecraft:cow', 'minecraft:chicken', 'minecraft:donkey',
-                'minecraft:pig', 'minecraft:wolf', 'minecraft:llama', 'minecraft:horse',
+                'minecraft:pig', 'minecraft:wolf', 'minecraft:llama',
                 'minecraft:sheep']
             mob-spawning: deny
             fire-spread: deny
