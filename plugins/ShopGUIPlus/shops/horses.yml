@@ -85,11 +85,11 @@ horses:
       slot: 3
     claims2:
       type: permission
-      permission:
+      permissions:
         - "zh.group.2"
         - "shopguiplus.item.horses.claims3"
       item:
-        material: LEASH
+        material: LEAD
         quantity: 1
         name: "Increase horse claims to 2"
       buyPrice: 10000
@@ -97,11 +97,11 @@ horses:
       slot: 9
     claims3:
       type: permission
-      permission:
+      permissions:
         - "zh.group.3"
         - "shopguiplus.item.horses.claims4"
       item:
-        material: LEASH
+        material: LEAD
         quantity: 1
         name: "Increase horse claims to 3"
       buyPrice: 20000
@@ -109,11 +109,11 @@ horses:
       slot: 10
     claims4:
       type: permission
-      permission:
+      permissions:
         - "zh.group.4"
         - "shopguiplus.item.horses.claims5"
       item:
-        material: LEASH
+        material: LEAD
         quantity: 1
         name: "Increase horse claims to 4"
       buyPrice: 30000
@@ -121,13 +121,17 @@ horses:
       slot: 11
     claims5:
       type: permission
-      permission:
+      permissions:
         - "zh.group.5"
         - "shopguiplus.item.horses.claims6"
       item:
-        material: LEASH
+        material: LEAD
         quantity: 1
         name: "Increase horse claims to 5"
       buyPrice: 40000
       sellPrice: -1
       slot: 12
+    money:
+      type: special
+      special: BALANCE
+      slot: 44
