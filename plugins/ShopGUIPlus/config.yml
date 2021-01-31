@@ -541,6 +541,9 @@ amountSelectionGUI:
         name: "&c&lCancel"
       slot: 41
 
+numberFormat:
+  maximumFractionDigits: 2
+
 shopMenuItems:
   # Has to be unique, value doesn't matter
   blocks:
