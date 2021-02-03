@@ -2,7 +2,7 @@
 # LevelHook: Vanilla, RpgItems, Heroes, BattleStats, SkillAPI, MMOCore
 
 AutoButcher:
-  ExecuteOnLoad: true
+  ExecuteOnLoad: false
   Args: -b -f
   Worlds:
   - world
