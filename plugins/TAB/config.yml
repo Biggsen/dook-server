@@ -75,7 +75,7 @@ Users:
 classic-vanilla-belowname:
 
   #enabling the feature
-  enabled: true
+  enabled: false
   
   #number or numeric placeholder, supports per-player placeholders
   number: "%health%"
