@@ -5,3 +5,28 @@
 (10:08:07) vanism failed Block check | break block without delay (+4) | vl:4 ping:20 tps:20.0 lp:14 component: blk.fb.dly ver: 1.16.x
 (10:09:07) vanism failed Block check | break block without delay (+4) | vl:4 ping:47 tps:20.0 lp:11 component: blk.fb.dly ver: 1.16.x
 (15:36:11) vanism failed Speed check | t: spin (-121.99521->-115.99521) (+10) | vl:10 ping:32 tps:19.99 lp:0 component: speed.spin ver: 1.16.x
+(15:58:09) STra1z failed Interact check | interact block through solid (through: SMOOTH_STONE, block:CHEST) (+1) | vl:1 ping:52 tps:20.0 lp:25 component: interact.through ver: 1.16.x
+(17:02:35) vanism failed Speed check | t: spin (-2392.8845->-2377.8845) (+10) | vl:10 ping:19 tps:20.0 lp:10 component: speed.spin ver: 1.16.x
+(21:35:40) STra1z failed Elytra check | (elytra) impossible elytra movement (move: 0.0,1.117,0.0, mot: 1.1172605397361934) (+2) | vl:2 ping:73 tps:20.0 lp:11 component: ely.mvy ver: 1.16.x
+(21:35:40) STra1z failed Elytra check | (elytra) impossible elytra movement (move: 0.0,1.074,0.0, mot: 1.0741893883298559) (+2) | vl:4 ping:73 tps:20.0 lp:11 component: ely.mvy ver: 1.16.x
+(21:35:40) STra1z failed Elytra check | (elytra) impossible elytra movement (move: 0.0,1.029,0.0, mot: 1.0287738333574339) (+2) | vl:6 ping:73 tps:20.0 lp:11 component: ely.mvy ver: 1.16.x
+(21:35:40) STra1z failed Elytra check | (elytra) impossible elytra movement (move: 0.0,0.983,0.0, mot: 0.9829861235387796) (+2) | vl:8 ping:73 tps:20.0 lp:11 component: ely.mvy ver: 1.16.x
+(21:38:33) STra1z failed Speed check | suspicious movement (move: 0.473, vet: 0.387, tag: d) (+8) | vl:8 ping:76 tps:20.0 lp:10 component: speed.main ver: 1.16.x
+(21:38:33) STra1z failed Speed check | suspicious movement (move: 0.467, expect: 0.3665, tag: ea) (+5) | vl:13 ping:76 tps:20.0 lp:10 component: speed.main ver: 1.16.x
+(21:38:33) STra1z failed Fly check | suspicious movement:0.355 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:5 ping:76 tps:20.0 lp:10 component: fly.main ver: 1.16.x
+(21:39:52) STra1z failed Speed check | suspicious movement (move: 0.515, vet: 0.386, tag: d) (+8) | vl:8 ping:56 tps:20.0 lp:8 component: speed.main ver: 1.16.x
+(21:39:52) STra1z failed Speed check | suspicious movement (move: 0.509, expect: 0.3665, tag: ea) (+5) | vl:13 ping:56 tps:20.0 lp:8 component: speed.main ver: 1.16.x
+(21:39:52) STra1z failed Speed check | suspicious movement (move: 0.509, predict: 0.307, friction: 0.6, ground:false, motY: 0.353, increase:0.026, preMove:0.281, motion: 0.02,0.353,0.509, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:18 ping:56 tps:20.0 lp:8 component: move.xz ver: 1.16.x
+(21:39:52) STra1z failed Fly check | suspicious movement:0.353 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:5 ping:56 tps:20.0 lp:8 component: fly.main ver: 1.16.x
+(21:51:25) vanism failed Interact check | breaking a block without looking at it (block: DIRT) (+1) | vl:1 ping:31 tps:20.0 lp:9 component: interact.break ver: 1.16.x
+(21:51:25) vanism failed Interact check | break block through walls (through: grass_block, block: dirt) (+1) | vl:2 ping:31 tps:20.0 lp:9 component: interact.break ver: 1.16.x
+(22:31:01) vanism failed Speed check | suspicious movement (move: 0.621, predict: 0.599, friction: 0.6, ground:true, motY: 0.42, increase:0.305, preMove:0.294, motion: 0.016,0.42,-0.621, attribute: 0.13, cm: false, di: false, st: true, tag: pred) (+5) | vl:5 ping:26 tps:20.0 lp:4 component: move.xz ver: 1.16.x
+(22:32:35) Zonelesi failed Fly check | suspicious movement:0.396 predict:0.42 vel:-0.302 pre:0.0 (+5) | vl:5 ping:24 tps:20.0 lp:8 component: fly.bj ver: 1.16.x
+(22:37:24) Zonelesi failed Speed check | change direction in mid-air (dist: 0.205, angle:55.409, pre:0.289) (+5) | vl:5 ping:35 tps:20.0 lp:4 component: speed.strafe ver: 1.16.x
+(23:00:24) vanism failed Interact check | break block through walls (through: gravel, block: gravel) (+0) | vl:0 ping:294 tps:20.0 lp:7 component: interact.break ver: 1.16.x
+(23:00:25) vanism failed Interact check | break block through walls (through: gravel, block: gravel) (+0) | vl:0 ping:294 tps:20.0 lp:13 component: interact.break ver: 1.16.x
+(23:00:29) vanism failed Interact check | break block through walls (through: gravel, block: gravel) (+0) | vl:0 ping:294 tps:20.0 lp:11 component: interact.break ver: 1.16.x
+(23:00:30) vanism failed Interact check | break block through walls (through: gravel, block: gravel) (+0) | vl:0 ping:294 tps:20.0 lp:20 component: interact.break ver: 1.16.x
+(23:01:41) vanism failed Interact check | break block through walls (through: gravel, block: gravel) (+1) | vl:1 ping:27 tps:19.99 lp:32 component: interact.break ver: 1.16.x
+(23:03:45) vanism failed Interact check | break block through walls (through: gravel, block: gravel) (+1) | vl:1 ping:34 tps:20.0 lp:27 component: interact.break ver: 1.16.x
+(23:04:03) vanism failed Interact check | break block through walls (through: gravel, block: gravel) (+1) | vl:2 ping:54 tps:20.0 lp:25 component: interact.break ver: 1.16.x

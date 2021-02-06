@@ -1,0 +1,515 @@
+(00:00:16) moezes failed Interact check | interact block through solid (through: GRANITE, block:CHEST) (+1) | vl:1 ping:77 tps:20.0 lp:15 component: interact.through ver: 1.16.x
+(00:04:34) Edwiener failed Fly check | suspicious movement:0.168 predict:-0.078 air:6 tag:dmf (+10) | vl:10 ping:80 tps:20.0 lp:18 component: fly.main ver: 1.16.x
+(00:08:47) moezes failed Delay check | perform actions faster than expected // inventory (type C, d: 1) (+1) | vl:1 ping:80 tps:20.0 lp:24 component: delay.inv ver: 1.16.x
+(00:08:47) moezes failed Delay check | perform actions faster than expected // inventory (type C, d: 1) (+1) | vl:2 ping:80 tps:20.0 lp:24 component: delay.inv ver: 1.16.x
+(00:08:47) moezes failed Delay check | perform actions faster than expected // inventory (type C, d: 1) (+1) | vl:3 ping:80 tps:20.0 lp:24 component: delay.inv ver: 1.16.x
+(00:08:47) Execute command: matrix notify moezes tring to speeding up actions (Delay) #1
+(00:08:47) moezes failed Delay check | perform actions faster than expected // inventory (type C, d: 1) (+1) | vl:4 ping:80 tps:20.0 lp:24 component: delay.inv ver: 1.16.x
+(00:08:47) moezes failed Delay check | perform actions faster than expected // inventory (type C, d: 1) (+1) | vl:5 ping:80 tps:20.0 lp:24 component: delay.inv ver: 1.16.x
+(00:08:47) Execute command: matrix notify moezes tring to speeding up actions (Delay) #2
+(00:08:47) moezes failed Delay check | perform actions faster than expected // inventory (type C, d: 1) (+1) | vl:6 ping:80 tps:20.0 lp:24 component: delay.inv ver: 1.16.x
+(00:08:47) moezes failed Delay check | perform actions faster than expected // inventory (type C, d: 1) (+1) | vl:7 ping:80 tps:20.0 lp:24 component: delay.inv ver: 1.16.x
+(00:08:47) moezes failed Delay check | perform actions faster than expected // inventory (type C, d: 0) (+1) | vl:8 ping:80 tps:20.0 lp:24 component: delay.inv ver: 1.16.x
+(00:08:47) moezes failed Delay check | perform actions faster than expected // inventory (type C, d: 1) (+1) | vl:9 ping:80 tps:20.0 lp:24 component: delay.inv ver: 1.16.x
+(00:08:47) moezes failed Delay check | perform actions faster than expected // inventory (type C, d: 1) (+1) | vl:10 ping:80 tps:20.0 lp:24 component: delay.inv ver: 1.16.x
+(00:08:47) Execute command: matrix kick moezes Speeding Up Operations
+(00:08:47) moezes failed Delay check | perform actions faster than expected // inventory (type C, d: 1) (+1) | vl:11 ping:80 tps:20.0 lp:24 component: delay.inv ver: 1.16.x
+(00:08:47) moezes failed Delay check | perform actions faster than expected // inventory (type C, d: 1) (+1) | vl:12 ping:80 tps:20.0 lp:24 component: delay.inv ver: 1.16.x
+(00:08:47) moezes failed Delay check | perform actions faster than expected // inventory (type C, d: 1) (+1) | vl:13 ping:80 tps:20.0 lp:24 component: delay.inv ver: 1.16.x
+(00:08:47) moezes failed Delay check | perform actions faster than expected // inventory (type C, d: 1) (+1) | vl:14 ping:80 tps:20.0 lp:24 component: delay.inv ver: 1.16.x
+(00:08:47) moezes failed Delay check | perform actions faster than expected // inventory (type C, d: 1) (+1) | vl:15 ping:80 tps:20.0 lp:24 component: delay.inv ver: 1.16.x
+(00:13:22) Edwiener failed Speed check | t: spin (-43.080193->-49.080193) (+10) | vl:10 ping:65 tps:19.99 lp:16 component: speed.spin ver: 1.16.x
+(00:27:53) Edwiener failed Speed check | sprint with weird direction (dist: 0.25, angle:95.41) (+5) | vl:5 ping:60 tps:20.0 lp:12 component: speed.sprint ver: 1.16.x
+(07:00:30) Matrix Enabled!
+(07:00:30) Version: 5.6.3
+(10:08:24) Edwiener failed BadPackets check | (timer) send 41 moving packets in 3804ms | tag: limit (+10) | vl:10 ping:67 tps:20.0 lp:22 component: net.timer ver: 1.16.x
+(10:08:25) Edwiener failed BadPackets check | (timer) moved too many times (timer: 1.585, t:631, buffer:20, tag: timer) (+10) | vl:20 ping:67 tps:20.0 lp:40 component: net.timer ver: 1.16.x
+(10:08:26) Edwiener failed BadPackets check | (timer) send 80 moving packets in 1324ms | tag: limit (+10) | vl:30 ping:67 tps:20.0 lp:50 component: net.timer ver: 1.16.x
+(10:08:26) Edwiener failed Speed check | suspicious movement (move: 1.935, expect: 0.3665, tag: ea) (+20) | vl:20 ping:67 tps:20.0 lp:50 component: speed.main ver: 1.16.x
+(10:08:26) Edwiener failed Speed check | suspicious movement (move: 1.935, predict: 0.256, friction: 0.6, ground:false, motY: 0.228, increase:0.026, preMove:0.23, motion: 0.958,0.228,1.681, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:25 ping:67 tps:20.0 lp:50 component: move.xz ver: 1.16.x
+(10:08:28) Edwiener failed BadPackets check | (timer) send 39 moving packets in 999ms | tag: limit (+5) | vl:35 ping:651 tps:19.99 lp:54 component: net.timer ver: 1.16.x
+(10:08:28) Edwiener failed Speed check | suspicious movement (move: 1.201, predict: 0.308, friction: 0.6, ground:false, motY: 0.829, increase:0.026, preMove:0.282, motion: 0.224,0.829,1.18, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:30 ping:651 tps:19.99 lp:54 component: move.xz ver: 1.16.x
+(10:08:28) Edwiener failed Fly check | step | p:2 | val: 0.8291870918577047 (+7) | vl:7 ping:651 tps:19.99 lp:54 component: speed.step ver: 1.16.x
+(10:08:59) Edwiener failed BadPackets check | (timer) send 40 moving packets in 1009ms | tag: limit (+10) | vl:10 ping:88 tps:20.0 lp:22 component: net.timer ver: 1.16.x
+(10:08:59) Edwiener failed Speed check | suspicious movement (move: 1.676, predict: 0.346, friction: 0.6, ground:false, motY: 0.832, increase:0.026, preMove:0.32, motion: 0.009,0.832,-1.676, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:5 ping:88 tps:20.0 lp:22 component: move.xz ver: 1.16.x
+(10:08:59) Edwiener failed Fly check | step | p:2 | val: 0.8322033533667508 (+7) | vl:7 ping:88 tps:20.0 lp:22 component: speed.step ver: 1.16.x
+(10:09:11) Edwiener failed BadPackets check | (timer) send 45 moving packets in 1336ms | tag: limit (+10) | vl:20 ping:88 tps:20.0 lp:38 component: net.timer ver: 1.16.x
+(10:09:15) Edwiener failed BadPackets check | (timer) send 63 moving packets in 1094ms | tag: limit (+10) | vl:10 ping:88 tps:20.0 lp:58 component: net.timer ver: 1.16.x
+(10:09:21) Edwiener failed Chat check | send the same chat content (+1) | vl:1 ping:7718 tps:20.0 lp:42 component: chat.same ver: 1.16.x
+(10:09:42) Edwiener failed Interact check | interact block through solid (through: STONE, block:CHEST) (+0) | vl:0 ping:1198 tps:20.0 lp:42 component: interact.through ver: 1.16.x
+(10:10:49) Edwiener failed Speed check | suspicious movement (move: 1.003, predict: 0.33, friction: 0.6, ground:true, motY: 1.0, increase:0.33, preMove:0.0, motion: -1.0,1.0,0.079, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:5 ping:2586 tps:20.0 lp:39 component: move.xz ver: 1.16.x
+(10:10:49) Edwiener failed Fly check | step | p: 1 | m:1.0 ev:-0.078 lm:0.99 (+2) | vl:2 ping:2586 tps:20.0 lp:39 component: speed.step ver: 1.16.x
+(10:10:53) Edwiener failed BadPackets check | (timer) send 37 moving packets in 999ms | tag: limit (+5) | vl:5 ping:2515 tps:20.0 lp:40 component: net.timer ver: 1.16.x
+(10:11:26) Edwiener failed Block check | break block without delay (+4) | vl:4 ping:100 tps:19.99 lp:19 component: blk.fb.dly ver: 1.16.x
+(10:14:30) Edwiener failed Speed check | sprint with weird direction (dist: 0.264, angle:121.739) (+5) | vl:5 ping:125 tps:20.0 lp:52 component: speed.sprint ver: 1.16.x
+(10:14:30) Edwiener failed Speed check | sprint with weird direction (dist: 0.272, angle:122.193) (+5) | vl:10 ping:125 tps:20.0 lp:52 component: speed.sprint ver: 1.16.x
+(10:14:30) Edwiener failed Speed check | sprint with weird direction (dist: 0.276, angle:122.565) (+5) | vl:15 ping:125 tps:20.0 lp:52 component: speed.sprint ver: 1.16.x
+(10:14:31) Edwiener failed BadPackets check | (timer) send 37 moving packets in 1222ms | tag: limit (+5) | vl:5 ping:125 tps:19.99 lp:52 component: net.timer ver: 1.16.x
+(10:14:31) Edwiener failed Speed check | suspicious movement (move: 0.569, expect:0.498, t:0, sprint: true, attr: 0.13, tag: a) (+9) | vl:24 ping:125 tps:19.99 lp:52 component: speed.main ver: 1.16.x
+(10:14:31) Edwiener failed Speed check | suspicious movement (move: 0.569, predict: 0.484, friction: 0.6, ground:true, motY: 0.0, increase:0.33, preMove:0.154, motion: 0.567,0.0,-0.052, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:29 ping:125 tps:19.99 lp:52 component: move.xz ver: 1.16.x
+(10:23:09) Edwiener failed Block check | break block without delay (+4) | vl:4 ping:66 tps:20.0 lp:3 component: blk.fb.dly ver: 1.16.x
+(10:23:51) Edwiener failed Block check | break block with timer (block: basalt, point: 349) (+4) | vl:4 ping:79 tps:20.0 lp:13 component: block.fb.timer ver: 1.16.x
+(10:39:06) Edwiener failed Speed check | t: spin (1303.5542->1309.5542) (+10) | vl:10 ping:68 tps:20.0 lp:17 component: speed.spin ver: 1.16.x
+(10:41:05) Edwiener failed Chat check | chat too fast | delay: 2974 (+1) | vl:1 ping:79 tps:19.99 lp:10 component: chat.delay ver: 1.16.x
+(10:41:45) Edwiener failed Block check | break block too fast (digs: 4/6, block: stone, j: false) (+4) | vl:4 ping:69 tps:19.96 lp:11 component: block.fastbreak.expect ver: 1.16.x
+(10:44:48) moezes failed Chat check | chat too fast | delay: 1900 (+1) | vl:1 ping:246 tps:19.99 lp:17 component: chat.delay ver: 1.16.x
+(10:46:01) moezes failed Speed check | (toggle) send release use item packet frequently: 47 (+2) | vl:2 ping:82 tps:20.0 lp:11 component: speed.noslow.toggle ver: 1.16.x
+(10:48:19) Edwiener failed Chat check | chat too fast | delay: 2758 (+1) | vl:1 ping:89 tps:20.0 lp:10 component: chat.delay ver: 1.16.x
+(10:49:11) moezes failed HitBox check | missed entity hitbox (entity: enderman, angle: 158.072, move: true) (+2) | vl:2 ping:78 tps:20.0 lp:14 component: hb.mis ver: 1.16.x
+(10:49:14) moezes failed HitBox check | missed entity hitbox (entity: enderman, angle: 171.996, move: true) (+2) | vl:4 ping:78 tps:20.0 lp:14 component: hb.mis ver: 1.16.x
+(10:49:43) moezes failed HitBox check | missed entity hitbox (entity: enderman, angle: 157.048, move: true) (+2) | vl:2 ping:79 tps:20.0 lp:4 component: hb.mis ver: 1.16.x
+(10:49:48) moezes failed HitBox check | missed entity hitbox (entity: enderman, angle: 40.512, move: true) (+1) | vl:1 ping:79 tps:20.0 lp:14 component: hb.mis ver: 1.16.x
+(10:51:18) Bl4zeBoy failed Block check | break block with timer (block: shroomlight, point: 380) (+4) | vl:4 ping:0 tps:19.99 lp:7 component: block.fb.timer ver: 1.16.x
+(11:02:04) moezes failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:81 tps:20.0 lp:20 component: interact.through ver: 1.16.x
+(11:02:45) moezes failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:81 tps:20.0 lp:11 component: interact.through ver: 1.16.x
+(11:04:47) Edwiener failed Chat check | chat too fast | delay: 1776 (+1) | vl:1 ping:387 tps:20.0 lp:18 component: chat.delay ver: 1.16.x
+(11:06:53) moezes failed Speed check | (toggle) send release use item packet frequently: 8 (+2) | vl:2 ping:111 tps:19.99 lp:31 component: speed.noslow.toggle ver: 1.16.x
+(11:07:00) Edwiener failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:69 tps:20.0 lp:12 component: interact.through ver: 1.16.x
+(11:07:50) moezes failed HitBox check | missed entity hitbox (entity: enderman, angle: 62.546, move: true) (+2) | vl:2 ping:81 tps:20.0 lp:3 component: hb.mis ver: 1.16.x
+(11:08:01) moezes failed HitBox check | missed entity hitbox (entity: enderman, angle: 88.671, move: true) (+2) | vl:4 ping:77 tps:19.99 lp:2 component: hb.mis ver: 1.16.x
+(11:08:02) moezes failed HitBox check | missed entity hitbox (entity: enderman, angle: 167.653, move: true) (+2) | vl:6 ping:77 tps:20.0 lp:3 component: hb.mis ver: 1.16.x
+(11:08:22) moezes failed HitBox check | missed entity hitbox (entity: enderman, angle: 163.954, move: true) (+2) | vl:2 ping:78 tps:20.0 lp:3 component: hb.mis ver: 1.16.x
+(11:11:22) moezes failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: 378.918,64.001,-1047.608, type: air, pkt: true) (+5) | vl:5 ping:78 tps:19.99 lp:19 component: fly.gf ver: 1.16.x
+(11:12:05) moezes failed HitBox check | missed entity hitbox (entity: enderman, angle: 167.473, move: true) (+2) | vl:2 ping:75 tps:20.0 lp:7 component: hb.mis ver: 1.16.x
+(11:15:00) Edwiener failed Block check | break block without delay (+4) | vl:4 ping:63 tps:19.99 lp:5 component: blk.fb.dly ver: 1.16.x
+(11:17:48) Edwiener failed HitBox check | missed entity hitbox (entity: hoglin, angle: 46.625, move: true) (+1) | vl:1 ping:61 tps:20.0 lp:5 component: hb.mis ver: 1.16.x
+(11:17:56) Edwiener failed Speed check | t: spin (-1214.2781->-1232.2781) (+10) | vl:10 ping:61 tps:20.0 lp:7 component: speed.spin ver: 1.16.x
+(11:17:58) moezes failed Speed check | t: spin (220.1673->235.1673) (+10) | vl:10 ping:81 tps:20.0 lp:21 component: speed.spin ver: 1.16.x
+(11:18:00) Edwiener failed Fly check | suspicious movement:0.086 predict:-0.078 air:6 tag:dmf (+10) | vl:10 ping:61 tps:20.0 lp:5 component: fly.main ver: 1.16.x
+(11:18:01) Edwiener failed Fly check | suspicious movement:0.086 predict:-0.078 air:6 tag:dmf (+10) | vl:20 ping:61 tps:20.0 lp:4 component: fly.main ver: 1.16.x
+(11:20:23) Edwiener failed HitBox check | missed entity hitbox (entity: piglin, angle: 38.711, move: true) (+1) | vl:1 ping:72 tps:20.0 lp:13 component: hb.mis ver: 1.16.x
+(11:21:00) Edwiener failed Chat check | chat too fast | delay: 1819 (+1) | vl:1 ping:64 tps:19.99 lp:8 component: chat.delay ver: 1.16.x
+(11:21:01) Edwiener failed Chat check | chat too fast | delay: 1258 (+1) | vl:2 ping:64 tps:20.0 lp:8 component: chat.delay ver: 1.16.x
+(11:21:28) Edwiener failed Chat check | chat too fast | delay: 2417 (+1) | vl:1 ping:61 tps:20.0 lp:9 component: chat.delay ver: 1.16.x
+(11:22:13) Edwiener failed Speed check | t: spin (-1231.3589->-1222.3589) (+10) | vl:10 ping:122 tps:20.0 lp:24 component: speed.spin ver: 1.16.x
+(11:32:19) Edwiener failed Speed check | t: spin (209.7591->197.7591) (+10) | vl:10 ping:62 tps:20.0 lp:18 component: speed.spin ver: 1.16.x
+(11:36:17) Edwiener failed Speed check | t: spin (-103.44047->-94.44047) (+10) | vl:10 ping:68 tps:20.0 lp:9 component: speed.spin ver: 1.16.x
+(11:38:21) Edwiener failed Block check | break block too fast (digs: 4/5, block: polished_basalt, j: false) (+4) | vl:4 ping:78 tps:20.0 lp:12 component: block.fastbreak.expect ver: 1.16.x
+(11:41:58) Edwiener failed Speed check | suspicious movement (move: 0.313, expect:0.289, t:0, sprint: true, attr: 0.13, tag: a) (+9) | vl:9 ping:68 tps:20.0 lp:11 component: speed.main ver: 1.16.x
+(11:41:58) Edwiener failed Speed check | suspicious movement (move: 0.353, expect:0.289, t:0, sprint: true, attr: 0.13, tag: a) (+9) | vl:18 ping:68 tps:20.0 lp:11 component: speed.main ver: 1.16.x
+(11:41:58) Edwiener failed Speed check | suspicious movement (move: 0.353, predict: 0.301, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.171, motion: -0.337,0.0,-0.102, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:23 ping:68 tps:20.0 lp:11 component: move.xz ver: 1.16.x
+(11:41:58) Edwiener failed Speed check | suspicious movement (move: 0.315, expect:0.289, t:0, sprint: true, attr: 0.13, tag: a) (+9) | vl:32 ping:68 tps:20.0 lp:11 component: speed.main ver: 1.16.x
+(11:41:58) Edwiener failed Speed check | suspicious movement (move: 0.292, expect:0.289, t:0, sprint: true, attr: 0.13, tag: a) (+9) | vl:41 ping:68 tps:20.0 lp:11 component: speed.main ver: 1.16.x
+(11:42:43) Edwiener failed Block check | break block without delay (+4) | vl:4 ping:61 tps:20.0 lp:8 component: blk.fb.dly ver: 1.16.x
+(11:43:50) Edwiener failed Block check | break block without delay (+4) | vl:4 ping:105 tps:19.99 lp:19 component: blk.fb.dly ver: 1.16.x
+(11:44:19) Edwiener failed Block check | break block without delay (+4) | vl:4 ping:69 tps:20.0 lp:6 component: blk.fb.dly ver: 1.16.x
+(11:48:35) Edwiener failed HitBox check | missed entity hitbox (entity: hoglin, angle: 51.289, move: true) (+1) | vl:1 ping:68 tps:20.0 lp:7 component: hb.mis ver: 1.16.x
+(11:55:55) Edwiener failed Velocity check | (respond) ignore server velocity: -0.101,0.19,-0.014 (+5) | vl:5 ping:69 tps:20.0 lp:8 component: vel.expect ver: 1.16.x
+(12:39:30) Edwiener failed Block check | break block without delay (+4) | vl:4 ping:326 tps:20.0 lp:22 component: blk.fb.dly ver: 1.16.x
+(12:44:12) Edwiener failed BadPackets check | (timer) send 36 moving packets in 1117ms | tag: limit (+10) | vl:10 ping:63 tps:20.0 lp:37 component: net.timer ver: 1.16.x
+(12:44:31) Edwiener failed Block check | break block without delay (+4) | vl:4 ping:69 tps:19.99 lp:22 component: blk.fb.dly ver: 1.16.x
+(12:44:34) Edwiener failed Block check | break block with timer (block: stone, point: 553) (+4) | vl:8 ping:69 tps:20.0 lp:22 component: block.fb.timer ver: 1.16.x
+(12:44:35) Edwiener failed BadPackets check | (timer) send 40 moving packets in 995ms | tag: limit (+10) | vl:10 ping:69 tps:20.0 lp:28 component: net.timer ver: 1.16.x
+(12:45:36) Edwiener failed Block check | break block with timer (block: polished_basalt, point: 494) (+4) | vl:4 ping:65 tps:20.0 lp:23 component: block.fb.timer ver: 1.16.x
+(12:46:27) Edwiener failed BadPackets check | (timer) send 38 moving packets in 1078ms | tag: limit (+10) | vl:10 ping:61 tps:19.99 lp:24 component: net.timer ver: 1.16.x
+(12:47:07) Edwiener failed Block check | break block without delay (+4) | vl:4 ping:66 tps:20.0 lp:16 component: blk.fb.dly ver: 1.16.x
+(12:47:09) Edwiener failed Block check | break block without delay (+4) | vl:8 ping:66 tps:19.99 lp:15 component: blk.fb.dly ver: 1.16.x
+(13:23:04) Edwiener failed Chat check | chat too fast | delay: 1304 (+1) | vl:1 ping:68 tps:20.0 lp:9 component: chat.delay ver: 1.16.x
+(13:26:46) Edwiener failed Chat check | chat too fast | delay: 2185 (+1) | vl:1 ping:74 tps:19.99 lp:10 component: chat.delay ver: 1.16.x
+(13:49:13) Edwiener failed Chat check | chat too fast | delay: 1446 (+1) | vl:1 ping:65 tps:19.99 lp:13 component: chat.delay ver: 1.16.x
+(13:56:31) Edwiener failed Speed check | t: spin (-190.18773->-181.18773) (+10) | vl:10 ping:66 tps:20.0 lp:4 component: speed.spin ver: 1.16.x
+(14:15:01) Edwiener failed Speed check | suspicious movement (0.29, air_t: 12, lm:0.264 acc: 0.026293500482069798, tag: ed) (+15) | vl:15 ping:65 tps:20.0 lp:15 component: speed.main ver: 1.16.x
+(14:15:04) Edwiener failed Speed check | t: spin (-246.84192->-240.84192) (+10) | vl:25 ping:65 tps:20.0 lp:16 component: speed.spin ver: 1.16.x
+(14:15:04) Edwiener failed Speed check | t: spin (-240.84192->-246.84192) (+10) | vl:35 ping:65 tps:20.0 lp:16 component: speed.spin ver: 1.16.x
+(14:16:32) Edwiener failed Speed check | t: spin (-293.94275->-299.94275) (+10) | vl:10 ping:66 tps:20.0 lp:10 component: speed.spin ver: 1.16.x
+(14:16:32) Edwiener failed Speed check | t: spin (-299.94275->-293.94275) (+10) | vl:20 ping:66 tps:20.0 lp:10 component: speed.spin ver: 1.16.x
+(14:18:36) Edwiener failed Block check | break block without delay (+4) | vl:4 ping:68 tps:20.0 lp:8 component: blk.fb.dly ver: 1.16.x
+(14:19:13) Edwiener failed Speed check | suspicious movement (move: 0.306, predict: 0.28, friction: 0.6, ground:false, motY: 0.165, increase:0.026, preMove:0.254, motion: -0.211,0.165,0.222, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:5 ping:60 tps:20.0 lp:3 component: move.xz ver: 1.16.x
+(14:26:24) Edwiener failed Interact check | interact block through solid (through: DIRT, block:CHEST) (+1) | vl:1 ping:67 tps:20.0 lp:7 component: interact.through ver: 1.16.x
+(14:27:23) Edwiener failed Interact check | interact block through solid (through: DIORITE, block:CHEST) (+1) | vl:1 ping:66 tps:20.0 lp:26 component: interact.through ver: 1.16.x
+(14:27:40) Edwiener failed BadPackets check | (timer) send 45 moving packets in 1000ms | tag: limit (+10) | vl:10 ping:70 tps:20.0 lp:27 component: net.timer ver: 1.16.x
+(14:42:42) Edwiener failed Block check | break block without delay (+4) | vl:4 ping:69 tps:20.0 lp:20 component: blk.fb.dly ver: 1.16.x
+(14:43:31) Edwiener failed Interact check | breaking a block without looking at it (block: STONE) (+1) | vl:1 ping:111 tps:20.0 lp:19 component: interact.break ver: 1.16.x
+(14:43:31) Edwiener failed Interact check | break block through walls (through: andesite, block: stone) (+1) | vl:2 ping:111 tps:20.0 lp:19 component: interact.break ver: 1.16.x
+(14:49:35) Edwiener failed Block check | break block without delay (+4) | vl:4 ping:67 tps:19.99 lp:16 component: blk.fb.dly ver: 1.16.x
+(14:50:37) Edwiener failed Speed check | t: spin (-1316.1732->-242.17322) (+10) | vl:10 ping:59 tps:20.0 lp:4 component: speed.spin ver: 1.16.x
+(14:56:52) Edwiener failed Speed check | t: spin (-2092.702->-322.7019) (+10) | vl:10 ping:61 tps:19.99 lp:20 component: speed.spin ver: 1.16.x
+(14:58:33) Edwiener failed Interact check | interact block through solid (through: COAL_ORE, block:CHEST) (+1) | vl:1 ping:68 tps:19.99 lp:35 component: interact.through ver: 1.16.x
+(15:01:38) Edwiener failed Block check | break block without delay (+4) | vl:4 ping:64 tps:20.0 lp:19 component: blk.fb.dly ver: 1.16.x
+(15:04:10) Edwiener failed Block check | no swing after place block | NETHERRACK (+1) | vl:1 ping:74 tps:20.0 lp:19 component: block.noswing ver: 1.16.x
+(15:20:04) Edwiener failed Block check | break block without delay (+4) | vl:4 ping:65 tps:20.0 lp:18 component: blk.fb.dly ver: 1.16.x
+(15:21:22) Edwiener failed Speed check | t: spin (-2870.5789->-341.57886) (+10) | vl:10 ping:59 tps:19.99 lp:5 component: speed.spin ver: 1.16.x
+(15:31:42) moezes failed Chat check | chat too fast | delay: 2126 (+1) | vl:1 ping:78 tps:20.0 lp:4 component: chat.delay ver: 1.16.x
+(15:36:02) Edwiener failed Speed check | t: spin (-2270.1672->-125.16724) (+10) | vl:10 ping:59 tps:20.0 lp:12 component: speed.spin ver: 1.16.x
+(15:36:36) Edwiener failed Speed check | t: spin (-2213.1707->-2222.1707) (+10) | vl:10 ping:63 tps:20.0 lp:11 component: speed.spin ver: 1.16.x
+(15:36:50) moezes failed Chat check | chat too fast | delay: 2921 (+1) | vl:1 ping:84 tps:20.0 lp:0 component: chat.delay ver: 1.16.x
+(15:49:44) moezes failed Speed check | sprint with weird direction (dist: 0.225, angle:98.203) (+5) | vl:5 ping:80 tps:20.0 lp:4 component: speed.sprint ver: 1.16.x
+(15:50:56) moezes failed Speed check | suspicious movement (move: 0.379, expect:0.289, t:0, sprint: false, attr: 0.1, tag: a) (+9) | vl:9 ping:76 tps:20.0 lp:3 component: speed.main ver: 1.16.x
+(15:50:56) moezes failed Speed check | suspicious movement (move: 0.494, expect: 0.4065, tag: ea) (+5) | vl:14 ping:76 tps:20.0 lp:3 component: speed.main ver: 1.16.x
+(15:57:36) moezes failed Speed check | suspicious movement (move: 0.51, predict: 0.276, friction: 0.6, ground:false, motY: 0.0, increase:0.276, preMove:0.0, motion: 0.0,0.0,-0.51, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:5 ping:85 tps:20.0 lp:21 component: move.xz ver: 1.16.x
+(15:57:36) moezes failed Speed check | suspicious movement (move: 0.51, predict: 0.33, friction: 0.6, ground:true, motY: -0.078, increase:0.33, preMove:0.0, motion: 0.0,-0.078,0.51, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:10 ping:85 tps:20.0 lp:21 component: move.xz ver: 1.16.x
+(15:57:40) Edwiener failed Speed check | t: spin (-557.728->-548.728) (+10) | vl:10 ping:59 tps:20.0 lp:24 component: speed.spin ver: 1.16.x
+(15:57:50) moezes failed Interact check | breaking a block without looking at it (block: WHEAT) (+1) | vl:1 ping:80 tps:20.0 lp:22 component: interact.break ver: 1.16.x
+(15:57:50) moezes failed Interact check | break block through walls (through: stone, block: wheat) (+1) | vl:2 ping:80 tps:20.0 lp:22 component: interact.break ver: 1.16.x
+(15:58:00) Edwiener failed Speed check | suspicious movement (move: 0.727, expect:0.489, t:0, sprint: false, attr: 0.1, tag: a) (+9) | vl:9 ping:65 tps:20.0 lp:32 component: speed.main ver: 1.16.x
+(15:58:00) Edwiener failed Speed check | suspicious movement (move: 0.727, predict: 0.38, friction: 0.6, ground:true, motY: 0.0, increase:0.38, preMove:0.0, motion: 0.0,0.0,0.727, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:14 ping:65 tps:20.0 lp:32 component: move.xz ver: 1.16.x
+(15:58:00) Edwiener failed Speed check | suspicious movement (move: 0.51, expect: 0.5065000000000001, tag: ea) (+5) | vl:19 ping:65 tps:20.0 lp:32 component: speed.main ver: 1.16.x
+(15:58:00) Edwiener failed Speed check | suspicious movement (move: 0.51, predict: 0.276, friction: 0.6, ground:false, motY: 0.0, increase:0.276, preMove:0.0, motion: 0.0,0.0,0.51, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:24 ping:65 tps:20.0 lp:32 component: move.xz ver: 1.16.x
+(15:58:42) Edwiener failed Chat check | chat too fast | delay: 2243 (+1) | vl:1 ping:68 tps:20.0 lp:21 component: chat.delay ver: 1.16.x
+(16:02:31) moezes failed Speed check | suspicious movement (move: 0.51, expect: 0.4065, tag: ea) (+5) | vl:5 ping:81 tps:20.0 lp:27 component: speed.main ver: 1.16.x
+(16:02:31) moezes failed Speed check | suspicious movement (move: 0.51, predict: 0.026, friction: 0.6, ground:false, motY: 0.0, increase:0.026, preMove:0.0, motion: 0.0,0.0,-0.51, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:10 ping:81 tps:20.0 lp:27 component: move.xz ver: 1.16.x
+(16:02:31) moezes failed Speed check | suspicious movement (move: 0.51, expect: 0.469, g_tk:1, tag: b) (+8) | vl:18 ping:81 tps:20.0 lp:23 component: speed.main ver: 1.16.x
+(16:02:31) moezes failed Speed check | suspicious movement (move: 0.51, predict: 0.13, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.0, motion: 0.0,0.0,-0.51, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:23 ping:81 tps:20.0 lp:23 component: move.xz ver: 1.16.x
+(16:02:31) moezes failed Speed check | suspicious movement (move: 0.51, expect: 0.4065, tag: ea) (+5) | vl:28 ping:81 tps:20.0 lp:23 component: speed.main ver: 1.16.x
+(16:02:31) moezes failed Speed check | suspicious movement (move: 0.51, predict: 0.026, friction: 0.6, ground:false, motY: 0.0, increase:0.026, preMove:0.0, motion: 0.0,0.0,-0.51, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:33 ping:81 tps:20.0 lp:23 component: move.xz ver: 1.16.x
+(16:02:32) moezes failed Speed check | suspicious movement (move: 0.51, expect: 0.469, g_tk:1, tag: b) (+8) | vl:41 ping:81 tps:20.0 lp:22 component: speed.main ver: 1.16.x
+(16:02:32) moezes failed Speed check | suspicious movement (move: 0.51, predict: 0.13, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.0, motion: 0.0,0.0,-0.51, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:46 ping:81 tps:20.0 lp:22 component: move.xz ver: 1.16.x
+(16:02:32) moezes failed Speed check | suspicious movement (move: 0.51, expect: 0.469, g_tk:1, tag: b) (+8) | vl:54 ping:81 tps:20.0 lp:22 component: speed.main ver: 1.16.x
+(16:02:32) moezes failed Speed check | suspicious movement (move: 0.51, predict: 0.13, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.0, motion: 0.0,0.0,-0.51, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:59 ping:81 tps:20.0 lp:22 component: move.xz ver: 1.16.x
+(16:02:32) Execute command: matrix notify moezes tried to move faster than usual (Speed) #1
+(16:03:29) moezes failed Speed check | t: spin (232.56473->244.56473) (+10) | vl:10 ping:79 tps:20.0 lp:7 component: speed.spin ver: 1.16.x
+(16:03:29) moezes failed Speed check | t: spin (244.56473->232.56473) (+10) | vl:20 ping:79 tps:20.0 lp:7 component: speed.spin ver: 1.16.x
+(16:04:18) moezes failed Block check | break block too fast (digs: 4/18, block: farmland, j: false) (+4) | vl:4 ping:81 tps:20.0 lp:13 component: block.fastbreak.expect ver: 1.16.x
+(16:08:21) moezes failed Speed check | suspicious movement (move: 0.542, predict: 0.362, friction: 0.6, ground:true, motY: 0.5, increase:0.33, preMove:0.032, motion: 0.0,0.5,-0.542, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:5 ping:81 tps:19.99 lp:18 component: move.xz ver: 1.16.x
+(16:08:21) moezes failed Speed check | suspicious movement (move: 0.51, expect: 0.4065, tag: ea) (+5) | vl:10 ping:81 tps:20.0 lp:23 component: speed.main ver: 1.16.x
+(16:08:21) moezes failed Speed check | suspicious movement (move: 0.51, predict: 0.026, friction: 0.6, ground:false, motY: 0.0, increase:0.026, preMove:0.0, motion: 0.0,0.0,-0.51, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:15 ping:81 tps:20.0 lp:23 component: move.xz ver: 1.16.x
+(16:08:21) moezes failed Speed check | suspicious movement (move: 0.51, predict: 0.33, friction: 0.6, ground:true, motY: 0.5, increase:0.33, preMove:0.0, motion: 0.0,0.5,-0.51, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:20 ping:81 tps:20.0 lp:23 component: move.xz ver: 1.16.x
+(16:08:21) moezes failed Speed check | suspicious movement (move: 0.51, expect: 0.4065, tag: ea) (+5) | vl:25 ping:81 tps:20.0 lp:23 component: speed.main ver: 1.16.x
+(16:08:21) moezes failed Speed check | suspicious movement (move: 0.51, predict: 0.026, friction: 0.6, ground:false, motY: 0.0, increase:0.026, preMove:0.0, motion: 0.019,0.0,-0.51, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:30 ping:81 tps:20.0 lp:23 component: move.xz ver: 1.16.x
+(16:17:36) moezes failed Chat check | chat too fast | delay: 1002 (+1) | vl:1 ping:78 tps:20.0 lp:14 component: chat.delay ver: 1.16.x
+(16:19:42) Edwiener failed Chat check | chat too fast | delay: 1600 (+1) | vl:1 ping:70 tps:20.0 lp:7 component: chat.delay ver: 1.16.x
+(16:20:19) Edwiener failed Chat check | chat too fast | delay: 1986 (+1) | vl:1 ping:66 tps:19.99 lp:6 component: chat.delay ver: 1.16.x
+(16:20:21) Edwiener failed Chat check | chat too fast | delay: 2158 (+1) | vl:2 ping:66 tps:20.0 lp:6 component: chat.delay ver: 1.16.x
+(16:21:11) moezes failed Chat check | chat too fast | delay: 2992 (+1) | vl:1 ping:76 tps:20.0 lp:5 component: chat.delay ver: 1.16.x
+(16:29:12) Edwiener failed Chat check | chat too fast | delay: 1646 (+1) | vl:1 ping:62 tps:20.0 lp:30 component: chat.delay ver: 1.16.x
+(16:34:03) Edwiener failed Block check | break block without delay (+4) | vl:4 ping:79 tps:19.99 lp:20 component: blk.fb.dly ver: 1.16.x
+(16:34:40) Edwiener failed Block check | break block without delay (+4) | vl:4 ping:68 tps:20.0 lp:15 component: blk.fb.dly ver: 1.16.x
+(16:35:11) Edwiener failed Interact check | breaking a block without looking at it (block: WARPED_STEM) (+1) | vl:1 ping:79 tps:20.0 lp:19 component: interact.break ver: 1.16.x
+(16:35:11) Edwiener failed Interact check | break block through walls (through: andesite, block: warped_stem) (+1) | vl:2 ping:79 tps:19.99 lp:19 component: interact.break ver: 1.16.x
+(16:35:38) Edwiener failed Block check | break block without delay (+4) | vl:4 ping:62 tps:19.99 lp:12 component: blk.fb.dly ver: 1.16.x
+(16:37:03) moezes failed Chat check | chat too fast | delay: 2988 (+1) | vl:1 ping:81 tps:20.0 lp:15 component: chat.delay ver: 1.16.x
+(16:40:28) Edwiener failed Chat check | chat too fast | delay: 1419 (+1) | vl:1 ping:59 tps:20.0 lp:11 component: chat.delay ver: 1.16.x
+(16:40:30) Edwiener failed Chat check | chat too fast | delay: 1833 (+1) | vl:2 ping:59 tps:19.99 lp:11 component: chat.delay ver: 1.16.x
+(16:40:32) Edwiener failed Chat check | chat too fast | delay: 1645 (+1) | vl:3 ping:59 tps:20.0 lp:11 component: chat.delay ver: 1.16.x
+(16:40:33) Edwiener failed Chat check | chat too fast | delay: 993 (+1) | vl:4 ping:59 tps:20.0 lp:11 component: chat.delay ver: 1.16.x
+(16:40:33) Execute command: matrix notify Edwiener is spamming the chat (ChatSpam)
+(16:40:36) moezes failed Chat check | chat too fast | delay: 1773 (+1) | vl:1 ping:79 tps:20.0 lp:4 component: chat.delay ver: 1.16.x
+(16:40:46) Edwiener failed Chat check | send the same chat content (+1) | vl:1 ping:67 tps:19.99 lp:12 component: chat.same ver: 1.16.x
+(16:41:20) moezes failed Chat check | chat too fast | delay: 1519 (+1) | vl:1 ping:79 tps:19.99 lp:4 component: chat.delay ver: 1.16.x
+(16:46:21) Edwiener failed Speed check | t: spin (-2827.3123->-2818.3123) (+10) | vl:10 ping:82 tps:20.0 lp:14 component: speed.spin ver: 1.16.x
+(16:47:58) Edwiener failed Chat check | chat too fast | delay: 2213 (+1) | vl:1 ping:63 tps:19.99 lp:5 component: chat.delay ver: 1.16.x
+(17:46:32) moezes failed Speed check | t: spin (-1150.6582->-1138.6582) (+10) | vl:10 ping:79 tps:20.0 lp:12 component: speed.spin ver: 1.16.x
+(18:12:54) Edwiener failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:60 tps:20.0 lp:17 component: interact.through ver: 1.16.x
+(18:14:57) Edwiener failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:63 tps:20.0 lp:19 component: interact.through ver: 1.16.x
+(18:16:23) Edwiener failed Block check | break block too fast (digs: 18/49, block: polished_blackstone, j: false) (+4) | vl:4 ping:65 tps:20.0 lp:13 component: block.fastbreak.expect ver: 1.16.x
+(18:27:10) moezes failed Chat check | chat too fast | delay: 2479 (+1) | vl:1 ping:85 tps:19.89 lp:16 component: chat.delay ver: 1.16.x
+(18:27:13) moezes failed Chat check | chat too fast | delay: 2555 (+1) | vl:2 ping:85 tps:20.0 lp:16 component: chat.delay ver: 1.16.x
+(18:31:20) Edwiener failed Delay check | perform actions faster than expected // inventory (type C, d: 1) (+1) | vl:1 ping:68 tps:20.0 lp:19 component: delay.inv ver: 1.16.x
+(18:31:37) moezes failed Block check | break block without delay (+4) | vl:4 ping:76 tps:20.0 lp:8 component: blk.fb.dly ver: 1.16.x
+(18:32:51) moezes failed Scaffold check | scaffold-like placement | type A (+1) | vl:1 ping:82 tps:20.0 lp:9 component: sfd.place.a ver: 1.16.x
+(18:37:40) moezes failed Block check | break block without delay (+4) | vl:4 ping:79 tps:20.0 lp:20 component: blk.fb.dly ver: 1.16.x
+(18:40:00) moezes failed Block check | break block without delay (+4) | vl:4 ping:77 tps:20.0 lp:15 component: blk.fb.dly ver: 1.16.x
+(18:40:29) Edwiener failed Interact check | interact block through solid (through: DARK_OAK_LEAVES, block:CHEST) (+1) | vl:1 ping:70 tps:20.0 lp:27 component: interact.through ver: 1.16.x
+(18:41:21) moezes failed Block check | break block too fast (digs: 2/7, block: granite, j: false) (+4) | vl:4 ping:78 tps:20.0 lp:25 component: block.fastbreak.expect ver: 1.16.x
+(18:42:39) moezes failed Chat check | chat too fast | delay: 2753 (+1) | vl:1 ping:76 tps:20.0 lp:38 component: chat.delay ver: 1.16.x
+(18:43:47) Edwiener failed Chat check | chat too fast | delay: 1302 (+1) | vl:1 ping:87 tps:20.0 lp:5 component: chat.delay ver: 1.16.x
+(18:45:02) moezes failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:81 tps:19.99 lp:23 component: interact.through ver: 1.16.x
+(18:48:04) moezes failed HitBox check | missed entity hitbox (entity: zombie, angle: 38.95, move: true) (+1) | vl:1 ping:76 tps:20.0 lp:7 component: hb.mis ver: 1.16.x
+(18:48:06) Edwiener failed HitBox check | missed entity hitbox (entity: enderman, angle: 73.928, move: true) (+2) | vl:2 ping:89 tps:20.0 lp:6 component: hb.mis ver: 1.16.x
+(18:48:08) Edwiener failed HitBox check | missed entity hitbox (entity: enderman, angle: 110.687, move: true) (+2) | vl:4 ping:89 tps:20.0 lp:9 component: hb.mis ver: 1.16.x
+(18:48:09) Edwiener failed HitBox check | missed entity hitbox (entity: enderman, angle: 38.743, move: true) (+1) | vl:5 ping:89 tps:20.0 lp:7 component: hb.mis ver: 1.16.x
+(18:51:02) moezes failed HitBox check | missed entity hitbox (entity: skeleton, angle: 40.32, move: true) (+1) | vl:1 ping:81 tps:19.99 lp:8 component: hb.mis ver: 1.16.x
+(18:51:22) Edwiener failed Speed check | t: spin (91.15328->100.15328) (+10) | vl:10 ping:121 tps:20.0 lp:12 component: speed.spin ver: 1.16.x
+(18:51:27) Edwiener failed Block check | no swing after place block | COBBLESTONE (+1) | vl:1 ping:121 tps:20.0 lp:6 component: block.noswing ver: 1.16.x
+(18:51:27) Edwiener failed Block check | no swing after place block | COBBLESTONE (+1) | vl:2 ping:121 tps:20.0 lp:6 component: block.noswing ver: 1.16.x
+(18:53:03) moezes failed Speed check | t: spin (-2170.3147->-34.314697) (+10) | vl:10 ping:79 tps:20.0 lp:7 component: speed.spin ver: 1.16.x
+(18:53:16) moezes failed Chat check | chat too fast | delay: 1430 (+1) | vl:1 ping:98 tps:20.0 lp:8 component: chat.delay ver: 1.16.x
+(18:53:27) moezes failed Block check | break block without delay (+4) | vl:4 ping:112 tps:20.0 lp:18 component: blk.fb.dly ver: 1.16.x
+(18:54:52) moezes failed HitBox check | missed entity hitbox (entity: skeleton, angle: 77.415, move: true) (+2) | vl:2 ping:76 tps:20.0 lp:7 component: hb.mis ver: 1.16.x
+(18:57:30) moezes failed Interact check | breaking a block without looking at it (block: COAL_ORE) (+1) | vl:1 ping:75 tps:20.0 lp:32 component: interact.break ver: 1.16.x
+(18:57:30) moezes failed Interact check | break block through walls (through: stone, block: coal_ore) (+1) | vl:2 ping:75 tps:20.0 lp:32 component: interact.break ver: 1.16.x
+(19:00:37) Edwiener failed Chat check | chat too fast | delay: 1933 (+1) | vl:1 ping:76 tps:19.99 lp:7 component: chat.delay ver: 1.16.x
+(19:01:24) moezes failed Block check | break block too fast (digs: 3/14, block: lapis_ore, j: false) (+4) | vl:4 ping:96 tps:20.0 lp:12 component: block.fastbreak.expect ver: 1.16.x
+(19:01:54) Edwiener failed Phase check | moved into block (block: cobblestone, move: -0.012,0.016,-0.135, at: -6.571,1.0,289.246, dist: 0.136, loop: false) (+2) | vl:2 ping:65 tps:20.0 lp:11 component: phase.main ver: 1.16.x
+(19:05:06) moezes failed HitBox check | missed entity hitbox (entity: zombie, angle: 37.501, move: true) (+1) | vl:1 ping:91 tps:20.0 lp:12 component: hb.mis ver: 1.16.x
+(19:05:09) moezes failed HitBox check | missed entity hitbox (entity: zombie, angle: 35.03, move: true) (+1) | vl:2 ping:91 tps:19.99 lp:8 component: hb.mis ver: 1.16.x
+(19:06:22) Edwiener failed Block check | no swing after place block | COBBLESTONE (+1) | vl:1 ping:115 tps:20.0 lp:18 component: block.noswing ver: 1.16.x
+(19:06:43) Edwiener failed Scaffold check | scaffold-like placement | type A (+1) | vl:1 ping:74 tps:20.0 lp:5 component: sfd.place.a ver: 1.16.x
+(19:07:11) Edwiener failed HitBox check | missed entity hitbox (entity: enderman, angle: 55.745, move: false) (+1) | vl:1 ping:132 tps:19.99 lp:19 component: hb.mis ver: 1.16.x
+(19:07:21) Edwiener failed Speed check | t: spin (46.84913->40.84913) (+10) | vl:10 ping:75 tps:20.0 lp:28 component: speed.spin ver: 1.16.x
+(19:07:21) Edwiener failed Speed check | t: spin (40.84913->46.84913) (+10) | vl:20 ping:75 tps:20.0 lp:28 component: speed.spin ver: 1.16.x
+(19:07:26) Edwiener failed HitBox check | missed entity hitbox (entity: enderman, angle: 55.252, move: true) (+1) | vl:1 ping:75 tps:20.0 lp:33 component: hb.mis ver: 1.16.x
+(19:07:27) moezes failed Chat check | chat too fast | delay: 2907 (+1) | vl:1 ping:79 tps:19.99 lp:5 component: chat.delay ver: 1.16.x
+(19:07:31) Edwiener failed HitBox check | missed entity hitbox (entity: enderman, angle: 43.327, move: true) (+1) | vl:2 ping:65 tps:20.0 lp:28 component: hb.mis ver: 1.16.x
+(19:07:50) moezes failed Speed check | t: spin (-1355.7089->-269.70886) (+10) | vl:10 ping:86 tps:20.0 lp:36 component: speed.spin ver: 1.16.x
+(19:07:50) moezes failed Speed check | t: spin (-269.70886->-1355.7089) (+10) | vl:20 ping:86 tps:20.0 lp:36 component: speed.spin ver: 1.16.x
+(19:07:57) Edwiener failed HitBox check | missed entity hitbox (entity: enderman, angle: 47.637, move: true) (+1) | vl:1 ping:141 tps:19.99 lp:26 component: hb.mis ver: 1.16.x
+(19:08:07) Edwiener failed BadPackets check | (timer) send 41 moving packets in 1074ms | tag: limit (+5) | vl:5 ping:1334 tps:19.99 lp:27 component: net.timer ver: 1.16.x
+(19:08:26) Edwiener failed HitBox check | missed entity hitbox (entity: enderman, angle: 38.281, move: true) (+1) | vl:1 ping:106 tps:20.0 lp:26 component: hb.mis ver: 1.16.x
+(19:08:58) moezes failed Chat check | chat too fast | delay: 1381 (+1) | vl:1 ping:76 tps:20.0 lp:12 component: chat.delay ver: 1.16.x
+(19:09:55) moezes failed Chat check | chat too fast | delay: 2883 (+1) | vl:1 ping:75 tps:19.99 lp:16 component: chat.delay ver: 1.16.x
+(19:10:04) Edwiener failed Block check | break block too fast (digs: 2/10, block: cobblestone, j: false) (+4) | vl:4 ping:89 tps:20.0 lp:17 component: block.fastbreak.expect ver: 1.16.x
+(19:10:05) Edwiener failed Block check | break block with timer (block: cobblestone, point: 375) (+4) | vl:8 ping:89 tps:20.0 lp:29 component: block.fb.timer ver: 1.16.x
+(19:10:35) Edwiener failed Chat check | chat too fast | delay: 803 (+1) | vl:1 ping:76 tps:19.99 lp:20 component: chat.delay ver: 1.16.x
+(19:12:25) moezes failed Chat check | chat too fast | delay: 1371 (+1) | vl:1 ping:81 tps:20.0 lp:16 component: chat.delay ver: 1.16.x
+(19:13:14) moezes failed Chat check | chat too fast | delay: 1242 (+1) | vl:1 ping:80 tps:19.99 lp:17 component: chat.delay ver: 1.16.x
+(19:13:14) moezes failed Chat check | chat too fast | delay: 688 (+1) | vl:2 ping:80 tps:19.99 lp:17 component: chat.delay ver: 1.16.x
+(19:14:51) Edwiener failed Chat check | chat too fast | delay: 2597 (+1) | vl:1 ping:69 tps:19.99 lp:4 component: chat.delay ver: 1.16.x
+(19:19:23) Edwiener failed Chat check | chat too fast | delay: 2302 (+1) | vl:1 ping:65 tps:19.99 lp:11 component: chat.delay ver: 1.16.x
+(19:20:57) Edwiener failed Speed check | suspicious movement (move: 0.668, expect: 0.6235, tag: c) (+10) | vl:10 ping:67 tps:20.0 lp:4 component: speed.main ver: 1.16.x
+(19:21:25) moezes failed Chat check | chat too fast | delay: 991 (+1) | vl:1 ping:79 tps:20.0 lp:38 component: chat.delay ver: 1.16.x
+(19:21:27) moezes failed Chat check | chat too fast | delay: 2874 (+1) | vl:2 ping:79 tps:20.0 lp:38 component: chat.delay ver: 1.16.x
+(19:23:20) Edwiener failed Speed check | suspicious movement (0.295, air_t: 12, lm:0.265 acc: 0.02942998477226183, tag: ed) (+15) | vl:15 ping:72 tps:20.0 lp:6 component: speed.main ver: 1.16.x
+(19:23:20) Edwiener failed Speed check | suspicious movement (move: 0.628, expect: 0.6235, tag: c) (+10) | vl:25 ping:72 tps:20.0 lp:6 component: speed.main ver: 1.16.x
+(19:31:52) Edwiener failed Speed check | suspicious movement (move: 0.618, predict: 0.595, friction: 0.6, ground:true, motY: 0.42, increase:0.305, preMove:0.29, motion: 0.268,0.42,-0.556, attribute: 0.13, cm: false, di: false, st: true, tag: pred) (+5) | vl:5 ping:99 tps:20.0 lp:4 component: move.xz ver: 1.16.x
+(19:43:11) Edwiener failed Block check | break block with timer (block: dirt, point: 398) (+4) | vl:4 ping:82 tps:20.0 lp:30 component: block.fb.timer ver: 1.16.x
+(19:50:05) Edwiener failed Block check | break block with timer (block: cobblestone, point: 750) (+4) | vl:4 ping:67 tps:19.99 lp:28 component: block.fb.timer ver: 1.16.x
+(20:01:27) Edwiener failed HitBox check | missed entity hitbox (entity: enderman, angle: 37.169, move: true) (+1) | vl:1 ping:65 tps:20.0 lp:23 component: hb.mis ver: 1.16.x
+(20:01:35) Edwiener failed Speed check | t: spin (418.00674->409.00674) (+10) | vl:10 ping:76 tps:20.0 lp:28 component: speed.spin ver: 1.16.x
+(20:02:00) Edwiener failed Speed check | t: spin (395.8069->386.8069) (+10) | vl:10 ping:73 tps:20.0 lp:9 component: speed.spin ver: 1.16.x
+(20:02:47) Edwiener failed HitBox check | missed entity hitbox (entity: enderman, angle: 43.709, move: true) (+1) | vl:1 ping:72 tps:20.0 lp:14 component: hb.mis ver: 1.16.x
+(20:03:29) Edwiener failed HitBox check | missed entity hitbox (entity: enderman, angle: 45.073, move: false) (+1) | vl:1 ping:69 tps:20.0 lp:20 component: hb.mis ver: 1.16.x
+(20:07:10) Edwiener failed Chat check | chat too fast | delay: 2067 (+1) | vl:1 ping:63 tps:20.0 lp:24 component: chat.delay ver: 1.16.x
+(20:10:55) Edwiener failed Interact check | breaking a block without looking at it (block: DARK_OAK_LEAVES) (+0) | vl:0 ping:596 tps:20.0 lp:8 component: interact.break ver: 1.16.x
+(20:10:55) Edwiener failed Interact check | breaking a block without looking at it (block: DARK_OAK_LEAVES) (+0) | vl:0 ping:596 tps:20.0 lp:6 component: interact.break ver: 1.16.x
+(20:14:11) Edwiener failed Interact check | breaking a block without looking at it (block: GRASS) (+1) | vl:1 ping:69 tps:20.0 lp:5 component: interact.break ver: 1.16.x
+(20:14:11) Edwiener failed Interact check | break block through walls (through: granite, block: grass) (+1) | vl:2 ping:69 tps:20.0 lp:5 component: interact.break ver: 1.16.x
+(20:29:11) moezes failed Speed check | suspicious movement (move: 0.445, expect: 0.43999999999999995, tag: c,noslow) (+10) | vl:10 ping:81 tps:20.0 lp:8 component: speed.main ver: 1.16.x
+(20:31:52) Edwiener failed Block check | no swing after place block | DARK_OAK_LEAVES (+1) | vl:1 ping:142 tps:20.0 lp:14 component: block.noswing ver: 1.16.x
+(20:33:19) Edwiener failed BadPackets check | (timer) send 36 moving packets in 1039ms | tag: limit (+10) | vl:10 ping:69 tps:19.99 lp:34 component: net.timer ver: 1.16.x
+(20:45:02) Edwiener failed Delay check | perform actions faster than expected // heal (difficulty: easy, delay: 0.412, ver: V1_16_X, ver_p: 1.16.x) (+1) | vl:1 ping:65 tps:20.0 lp:32 component: delay.heal ver: 1.16.x
+(20:48:05) moezes failed Speed check | suspicious movement (move: 0.617, predict: 0.596, friction: 0.6, ground:true, motY: 0.42, increase:0.305, preMove:0.291, motion: 0.206,0.42,-0.581, attribute: 0.13, cm: false, di: false, st: true, tag: pred) (+5) | vl:5 ping:78 tps:20.0 lp:1 component: move.xz ver: 1.16.x
+(20:49:19) moezes failed Speed check | suspicious movement (move: 0.618, predict: 0.595, friction: 0.6, ground:true, motY: 0.42, increase:0.305, preMove:0.29, motion: -0.047,0.42,-0.616, attribute: 0.13, cm: false, di: false, st: true, tag: pred) (+5) | vl:5 ping:83 tps:20.0 lp:11 component: move.xz ver: 1.16.x
+(21:03:41) moezes failed Speed check | suspicious movement (move: 0.617, predict: 0.595, friction: 0.6, ground:true, motY: 0.42, increase:0.305, preMove:0.29, motion: -0.367,0.42,-0.496, attribute: 0.13, cm: false, di: false, st: true, tag: pred) (+5) | vl:5 ping:76 tps:20.0 lp:6 component: move.xz ver: 1.16.x
+(21:04:02) Edwiener failed Fly check | suspicious movement:0.464 predict:0.17 vel:-0.078 air_t:3 tag:vt (+5) | vl:5 ping:99 tps:20.0 lp:7 component: fly.main ver: 1.16.x
+(21:06:54) Edwiener failed Speed check | t: spin (331.21747->340.21747) (+10) | vl:10 ping:66 tps:20.0 lp:5 component: speed.spin ver: 1.16.x
+(21:18:47) Edwiener failed Interact check | breaking a block without looking at it (block: LADDER) (+1) | vl:1 ping:78 tps:20.0 lp:8 component: interact.break ver: 1.16.x
+(21:18:47) Edwiener failed Interact check | break block through walls (through: end_stone, block: ladder) (+1) | vl:2 ping:78 tps:20.0 lp:8 component: interact.break ver: 1.16.x
+(21:19:15) moezes failed Phase check | moved into block (block: cobblestone, move: -0.033,0.016,-0.132, at: -7.065,1.0,289.27, dist: 0.136, loop: false) (+2) | vl:2 ping:80 tps:19.99 lp:20 component: phase.main ver: 1.16.x
+(21:19:25) moezes failed Phase check | moved into block (block: cobblestone, move: 0.0,0.016,-0.137, at: -6.814,1.0,289.239, dist: 0.137, loop: false) (+2) | vl:4 ping:76 tps:20.0 lp:17 component: phase.main ver: 1.16.x
+(21:19:50) moezes failed Phase check | moved into block (block: cobblestone, move: 0.029,0.016,-0.132, at: -6.551,1.0,289.223, dist: 0.136, loop: false) (+2) | vl:2 ping:128 tps:20.0 lp:11 component: phase.main ver: 1.16.x
+(21:19:56) moezes failed Phase check | moved into block (block: cobblestone, move: -0.035,0.016,-0.125, at: -6.922,1.0,289.299, dist: 0.13, loop: false) (+2) | vl:4 ping:75 tps:19.98 lp:15 component: phase.main ver: 1.16.x
+(21:20:15) moezes failed Phase check | moved into block (block: cobblestone, move: 0.079,0.016,-0.112, at: -6.462,1.0,289.289, dist: 0.137, loop: false) (+2) | vl:2 ping:77 tps:20.0 lp:17 component: phase.main ver: 1.16.x
+(21:22:48) moezes failed Phase check | moved into block (block: cobblestone, move: 0.015,0.016,-0.138, at: -7.468,1.0,289.188, dist: 0.139, loop: false) (+2) | vl:2 ping:80 tps:19.99 lp:12 component: phase.main ver: 1.16.x
+(21:23:43) Edwiener failed Speed check | t: spin (-140.78964->-146.78964) (+10) | vl:10 ping:179 tps:19.99 lp:29 component: speed.spin ver: 1.16.x
+(21:23:43) Edwiener failed Speed check | t: spin (-146.78964->-140.78964) (+10) | vl:20 ping:179 tps:19.99 lp:29 component: speed.spin ver: 1.16.x
+(21:35:40) Edwiener failed Block check | break block without delay (+4) | vl:4 ping:69 tps:20.0 lp:12 component: blk.fb.dly ver: 1.16.x
+(21:36:10) Edwiener failed Speed check | t: spin (2331.4592->129.45923) (+10) | vl:10 ping:91 tps:19.99 lp:10 component: speed.spin ver: 1.16.x
+(21:39:55) moezes failed Phase check | moved into block (block: cobblestone, move: -0.117,0.078,0.009, at: -7.802,1.0,289.327, dist: 0.118, loop: false) (+2) | vl:2 ping:87 tps:20.0 lp:13 component: phase.main ver: 1.16.x
+(21:51:47) moezes failed Fly check | (levitation) move unexpected: 0.0 <> 0.293 level:1 (+5) | vl:5 ping:80 tps:20.0 lp:11 component: fly.levitation ver: 1.16.x
+(21:51:47) moezes failed Fly check | (levitation) move unexpected: 0.0 <> 0.239 level:1 (+5) | vl:10 ping:80 tps:20.0 lp:11 component: fly.levitation ver: 1.16.x
+(21:51:47) moezes failed Fly check | (levitation) move unexpected: 0.0 <> 0.197 level:1 (+5) | vl:15 ping:80 tps:20.0 lp:11 component: fly.levitation ver: 1.16.x
+(21:52:19) moezes failed Fly check | ground spoof (expect: +-, move: -0.115,0.0,-0.098, at: 1375.509,102.0,-1882.398, type: air, pkt: false) (+5) | vl:5 ping:79 tps:20.0 lp:30 component: fly.gf ver: 1.16.x
+(21:55:12) moezes failed Fly check | (levitation) move unexpected: 0.0 <> 0.197 level:1 (+5) | vl:5 ping:80 tps:19.99 lp:3 component: fly.levitation ver: 1.16.x
+(21:56:32) Edwiener failed Interact check | interact block through solid (through: STONE_BRICKS, block:CHEST) (+1) | vl:1 ping:82 tps:20.0 lp:7 component: interact.through ver: 1.16.x
+(22:03:16) Edwiener failed BadPackets check | (tiny-timer) moved too many times: 1.042 (5) (+0) | vl:0 ping:76 tps:20.0 lp:15 component: net.timer ver: 1.16.x
+(22:06:50) moezes failed Speed check | (toggle) send release use item packet frequently: 49 (+2) | vl:2 ping:81 tps:20.0 lp:3 component: speed.noslow.toggle ver: 1.16.x
+(22:06:56) moezes failed Fly check | (levitation) move unexpected: 0.0 <> 0.239 level:1 (+5) | vl:5 ping:81 tps:20.0 lp:3 component: fly.levitation ver: 1.16.x
+(22:06:56) moezes failed Fly check | (levitation) move unexpected: 0.0 <> 0.239 level:1 (+5) | vl:10 ping:81 tps:20.0 lp:3 component: fly.levitation ver: 1.16.x
+(22:11:42) Edwiener failed Speed check | t: spin (483.014->501.014) (+10) | vl:10 ping:69 tps:19.99 lp:11 component: speed.spin ver: 1.16.x
+(22:19:26) Edwiener failed Chat check | chat too fast | delay: 1534 (+1) | vl:1 ping:69 tps:20.0 lp:7 component: chat.delay ver: 1.16.x
+(22:21:43) Edwiener failed Chat check | chat too fast | delay: 1487 (+1) | vl:1 ping:67 tps:20.0 lp:5 component: chat.delay ver: 1.16.x
+(22:21:46) SwissRmyFist failed Speed check | (sneak) send sneak packet frequently (+2) | vl:2 ping:0 tps:17.88 lp:28 component: speed.noslow.a ver: 1.16.x
+(22:22:42) bendsbrown failed BadPackets check | (timer) send 42 moving packets in 1023ms | tag: limit (+5) | vl:5 ping:9857 tps:20.0 lp:30 component: net.timer ver: 1.16.x
+(22:22:42) bendsbrown failed Speed check | suspicious movement (move: 0.642, expect: 0.3665, tag: ea) (+5) | vl:5 ping:9857 tps:20.0 lp:30 component: speed.main ver: 1.16.x
+(22:22:42) bendsbrown failed Speed check | suspicious movement (move: 0.642, predict: 0.075, friction: 0.6, ground:false, motY: -1.439, increase:0.026, preMove:0.049, motion: -0.394,-1.439,-0.507, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:10 ping:9857 tps:20.0 lp:30 component: move.xz ver: 1.16.x
+(22:25:40) Edwiener failed Speed check | suspicious movement (move: 0.626, expect: 0.6235, tag: c) (+10) | vl:10 ping:67 tps:20.0 lp:3 component: speed.main ver: 1.16.x
+(22:25:40) Edwiener failed Speed check | suspicious movement (move: 0.367, expect: 0.3665, tag: ea) (+5) | vl:15 ping:67 tps:20.0 lp:3 component: speed.main ver: 1.16.x
+(22:26:09) bendsbrown failed BadPackets check | (timer) send 36 moving packets in 1015ms | tag: limit (+10) | vl:10 ping:27 tps:20.0 lp:52 component: net.timer ver: 1.16.x
+(22:26:55) bendsbrown failed BadPackets check | (timer) send 67 moving packets in 1009ms | tag: limit (+5) | vl:5 ping:373 tps:20.0 lp:51 component: net.timer ver: 1.16.x
+(22:26:55) bendsbrown failed Speed check | suspicious movement (move: 0.637, predict: 0.126, friction: 0.6, ground:false, motY: 0.0, increase:0.126, preMove:0.0, motion: 0.637,0.0,0.011, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:5 ping:373 tps:20.0 lp:51 component: move.xz ver: 1.16.x
+(22:27:37) bendsbrown failed BadPackets check | (timer) send 46 moving packets in 1009ms | tag: limit (+5) | vl:5 ping:552 tps:20.0 lp:33 component: net.timer ver: 1.16.x
+(22:28:35) bendsbrown failed HitBox check | missed entity hitbox (entity: chicken, angle: 61.206, move: true) (+2) | vl:2 ping:132 tps:20.0 lp:36 component: hb.mis ver: 1.16.x
+(22:28:44) madsmckay1310 failed HitBox check | missed entity hitbox (entity: cow, angle: 97.099, move: true) (+2) | vl:2 ping:18 tps:20.0 lp:15 component: hb.mis ver: 1.16.x
+(22:28:45) madsmckay1310 failed HitBox check | missed entity hitbox (entity: cow, angle: 49.745, move: true) (+1) | vl:1 ping:18 tps:19.99 lp:20 component: hb.mis ver: 1.16.x
+(22:28:50) madsmckay1310 failed HitBox check | missed entity hitbox (entity: cow, angle: 57.446, move: true) (+1) | vl:2 ping:39 tps:20.0 lp:25 component: hb.mis ver: 1.16.x
+(22:28:55) madsmckay1310 failed HitBox check | missed entity hitbox (entity: cow, angle: 51.471, move: true) (+1) | vl:3 ping:39 tps:20.0 lp:18 component: hb.mis ver: 1.16.x
+(22:28:56) madsmckay1310 failed HitBox check | missed entity hitbox (entity: cow, angle: 40.714, move: true) (+1) | vl:4 ping:39 tps:20.0 lp:18 component: hb.mis ver: 1.16.x
+(22:29:59) bendsbrown failed Delay check | perform actions faster than expected // inventory (type C, d: 2) (+1) | vl:1 ping:122 tps:19.99 lp:19 component: delay.inv ver: 1.16.x
+(22:30:37) madsmckay1310 failed Speed check | t: spin (-579.34576->-231.34576) (+10) | vl:10 ping:28 tps:20.0 lp:37 component: speed.spin ver: 1.16.x
+(22:31:47) Edwiener failed Speed check | suspicious movement (move: 0.625, expect: 0.6235, tag: c) (+10) | vl:10 ping:67 tps:20.0 lp:5 component: speed.main ver: 1.16.x
+(22:31:47) Edwiener failed Speed check | suspicious movement (move: 0.625, predict: 0.602, friction: 0.6, ground:true, motY: 0.42, increase:0.305, preMove:0.297, motion: 0.6,0.42,-0.173, attribute: 0.13, cm: false, di: false, st: true, tag: pred) (+5) | vl:15 ping:67 tps:20.0 lp:5 component: move.xz ver: 1.16.x
+(22:31:58) bendsbrown failed BadPackets check | (timer) send 39 moving packets in 995ms | tag: limit (+5) | vl:5 ping:805 tps:20.0 lp:41 component: net.timer ver: 1.16.x
+(22:31:58) bendsbrown failed Speed check | suspicious movement (move: 1.122, expect:0.289, t:0, sprint: true, attr: 0.13, tag: a) (+9) | vl:9 ping:805 tps:20.0 lp:41 component: speed.main ver: 1.16.x
+(22:31:58) bendsbrown failed Speed check | suspicious movement (move: 1.122, predict: 0.283, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.153, motion: -1.067,0.0,-0.349, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:14 ping:805 tps:20.0 lp:41 component: move.xz ver: 1.16.x
+(22:33:02) madsmckay1310 failed Speed check | t: spin (-332.29626->-338.29626) (+10) | vl:10 ping:31 tps:20.0 lp:32 component: speed.spin ver: 1.16.x
+(22:33:02) madsmckay1310 failed Speed check | t: spin (-338.29626->-332.29626) (+10) | vl:20 ping:31 tps:20.0 lp:32 component: speed.spin ver: 1.16.x
+(22:33:41) bendsbrown failed Speed check | sprint with weird direction (dist: 0.249, angle:151.654) (+5) | vl:5 ping:360 tps:20.0 lp:31 component: speed.sprint ver: 1.16.x
+(22:33:43) bendsbrown failed BadPackets check | (timer) send 38 moving packets in 1001ms | tag: limit (+5) | vl:5 ping:360 tps:20.0 lp:44 component: net.timer ver: 1.16.x
+(22:33:43) bendsbrown failed Speed check | suspicious movement (move: 0.944, expect: 0.3665, tag: ea) (+5) | vl:10 ping:360 tps:20.0 lp:44 component: speed.main ver: 1.16.x
+(22:33:43) bendsbrown failed Speed check | suspicious movement (move: 0.944, predict: 0.318, friction: 0.6, ground:false, motY: -0.797, increase:0.026, preMove:0.292, motion: -0.043,-0.797,-0.944, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:15 ping:360 tps:20.0 lp:44 component: move.xz ver: 1.16.x
+(22:33:44) bendsbrown failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: -253.801,68.001,64.03, type: air, pkt: true) (+5) | vl:5 ping:935 tps:19.99 lp:47 component: fly.gf ver: 1.16.x
+(22:34:57) bendsbrown failed BadPackets check | (timer) send 41 moving packets in 1005ms | tag: limit (+10) | vl:10 ping:40 tps:20.0 lp:29 component: net.timer ver: 1.16.x
+(22:34:57) bendsbrown failed Fly check | step | p: 1 | m:1.001 ev:0.0 lm:0.99 (+8) | vl:8 ping:40 tps:20.0 lp:29 component: speed.step ver: 1.16.x
+(22:36:00) SwissRmyFist failed HitBox check | missed entity hitbox (entity: pig, angle: 70.516, move: true) (+2) | vl:2 ping:13 tps:20.0 lp:4 component: hb.mis ver: 1.16.x
+(22:36:05) madsmckay1310 failed Speed check | t: spin (-274.84647->-280.84647) (+10) | vl:10 ping:31 tps:20.0 lp:23 component: speed.spin ver: 1.16.x
+(22:36:11) bendsbrown failed Fly check | step | p: 1 | m:1.0 ev:-0.078 lm:0.99 (+2) | vl:2 ping:281 tps:19.99 lp:42 component: speed.step ver: 1.16.x
+(22:36:12) bendsbrown failed Fly check | step | p:3 (+4) | vl:6 ping:281 tps:19.99 lp:42 component: speed.step ver: 1.16.x
+(22:36:42) bendsbrown failed BadPackets check | (timer) send 43 moving packets in 1004ms | tag: limit (+5) | vl:5 ping:199 tps:20.0 lp:35 component: net.timer ver: 1.16.x
+(22:36:42) bendsbrown failed Speed check | suspicious movement (move: 2.491, expect: 0.3665, tag: ea) (+20) | vl:20 ping:199 tps:20.0 lp:35 component: speed.main ver: 1.16.x
+(22:36:42) bendsbrown failed Speed check | suspicious movement (move: 2.491, predict: 0.327, friction: 0.6, ground:false, motY: -0.258, increase:0.026, preMove:0.301, motion: 2.441,-0.258,0.499, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:25 ping:199 tps:20.0 lp:35 component: move.xz ver: 1.16.x
+(22:36:42) bendsbrown failed Fly check | suspicious movement:-0.258 predict:0.248 lm:0.333 hard_pred:0.248 sev_pred:-1.023 air_t:2 fall_t:1 g:-- tag:gn (+5) | vl:5 ping:199 tps:20.0 lp:35 component: fly.main ver: 1.16.x
+(22:38:23) bendsbrown failed BadPackets check | (timer) send 40 moving packets in 1060ms | tag: limit (+5) | vl:5 ping:108 tps:20.0 lp:45 component: net.timer ver: 1.16.x
+(22:38:23) bendsbrown failed Speed check | suspicious movement (move: 1.015, expect:0.289, t:0, sprint: false, attr: 0.1, tag: a) (+9) | vl:9 ping:108 tps:20.0 lp:45 component: speed.main ver: 1.16.x
+(22:38:23) bendsbrown failed Speed check | suspicious movement (move: 1.015, predict: 0.239, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.109, motion: 0.724,0.0,0.711, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:14 ping:108 tps:20.0 lp:45 component: move.xz ver: 1.16.x
+(22:38:25) bendsbrown failed BadPackets check | (timer) send 36 moving packets in 1090ms | tag: limit (+5) | vl:10 ping:108 tps:20.0 lp:48 component: net.timer ver: 1.16.x
+(22:38:34) bendsbrown failed BadPackets check | (timer) send 36 moving packets in 1051ms | tag: limit (+5) | vl:15 ping:132 tps:20.0 lp:37 component: net.timer ver: 1.16.x
+(22:38:53) bendsbrown failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: 44.519,65.166,-50.314, type: air, pkt: true) (+5) | vl:5 ping:242 tps:20.0 lp:42 component: fly.gf ver: 1.16.x
+(22:39:25) bendsbrown failed BadPackets check | (timer) send 37 moving packets in 1003ms | tag: limit (+10) | vl:10 ping:74 tps:19.99 lp:34 component: net.timer ver: 1.16.x
+(22:40:00) bendsbrown failed BadPackets check | (timer) send 70 moving packets in 1284ms | tag: limit (+5) | vl:5 ping:2409 tps:20.0 lp:43 component: net.timer ver: 1.16.x
+(22:40:00) bendsbrown failed Fly check | suspicious movement:-0.768 predict:-0.228 lm:-0.152 hard_pred:-0.228 sev_pred:-0.781 air_t:8 fall_t:1 g:-- tag:gn (+5) | vl:5 ping:2409 tps:20.0 lp:43 component: fly.main ver: 1.16.x
+(22:40:01) bendsbrown failed Fly check | suspicious movement: 0.42 vel: -0.078 pred: -0.078 (jump) (+5) | vl:10 ping:2409 tps:20.0 lp:43 component: fly.jmp ver: 1.16.x
+(22:41:19) bendsbrown failed BadPackets check | (timer) send 50 moving packets in 999ms | tag: limit (+5) | vl:5 ping:123 tps:20.0 lp:51 component: net.timer ver: 1.16.x
+(22:41:19) bendsbrown failed Speed check | change direction in mid-air (dist: 0.424, angle:89.032, pre:0.316) (+5) | vl:5 ping:123 tps:20.0 lp:51 component: speed.strafe ver: 1.16.x
+(22:41:19) bendsbrown failed Speed check | suspicious movement (move: 0.424, expect: 0.3665, tag: ea) (+5) | vl:10 ping:123 tps:20.0 lp:51 component: speed.main ver: 1.16.x
+(22:41:19) bendsbrown failed Fly check | suspicious movement:-0.768 predict:-0.078 lm:0.165 hard_pred:0.083 sev_pred:-0.304 air_t:4 fall_t:1 g:-- tag:gn (+5) | vl:5 ping:123 tps:20.0 lp:51 component: fly.main ver: 1.16.x
+(22:41:54) SwissRmyFist failed HitBox check | missed entity hitbox (entity: villager, angle: 44.899, move: true) (+1) | vl:1 ping:22 tps:20.0 lp:14 component: hb.mis ver: 1.16.x
+(22:42:10) SwissRmyFist failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: -220.434,68.001,-177.3, type: air, pkt: true) (+5) | vl:5 ping:41 tps:19.99 lp:16 component: fly.gf ver: 1.16.x
+(22:42:27) SwissRmyFist failed HitBox check | missed entity hitbox (entity: zombie, angle: 91.274, move: true) (+2) | vl:2 ping:39 tps:19.99 lp:5 component: hb.mis ver: 1.16.x
+(22:43:28) bendsbrown failed Speed check | suspicious movement (move: 0.62, predict: 0.598, friction: 0.6, ground:true, motY: 0.42, increase:0.305, preMove:0.293, motion: 0.449,0.42,-0.427, attribute: 0.13, cm: false, di: false, st: true, tag: pred) (+5) | vl:5 ping:1344 tps:20.0 lp:21 component: move.xz ver: 1.16.x
+(22:45:27) Edwiener failed Speed check | t: spin (866.5642->872.5642) (+10) | vl:10 ping:63 tps:20.0 lp:4 component: speed.spin ver: 1.16.x
+(22:45:45) madsmckay1310 failed Speed check | t: spin (-903.06464->-189.06464) (+10) | vl:10 ping:177 tps:20.0 lp:37 component: speed.spin ver: 1.16.x
+(22:45:45) madsmckay1310 failed Speed check | t: spin (-189.06464->-183.06464) (+10) | vl:20 ping:177 tps:19.99 lp:37 component: speed.spin ver: 1.16.x
+(22:45:55) madsmckay1310 failed Speed check | t: spin (-726.6651->-30.6651) (+10) | vl:30 ping:11 tps:20.0 lp:32 component: speed.spin ver: 1.16.x
+(22:45:55) madsmckay1310 failed Speed check | t: spin (-30.6651->-6.6651) (+10) | vl:40 ping:11 tps:20.0 lp:32 component: speed.spin ver: 1.16.x
+(22:46:48) SwissRmyFist failed Phase check | moved into block (block: sand, move: 0.081,0.038,0.258, at: -162.905,64.0,-201.157, dist: 0.27, loop: false) (+2) | vl:2 ping:26 tps:20.0 lp:6 component: phase.main ver: 1.16.x
+(22:48:23) bendsbrown failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: 52.317,64.177,-60.145, type: air, pkt: true) (+5) | vl:5 ping:170 tps:20.0 lp:49 component: fly.gf ver: 1.16.x
+(22:48:23) bendsbrown failed BadPackets check | (timer) send 68 moving packets in 1024ms | tag: limit (+5) | vl:5 ping:170 tps:20.0 lp:49 component: net.timer ver: 1.16.x
+(22:48:23) bendsbrown failed Speed check | teleport move (distance: 9.831530418788702) (+25) | vl:25 ping:170 tps:20.0 lp:49 component: speed.tp ver: 1.16.x
+(22:48:23) bendsbrown failed Speed check | suspicious movement (move: 9.832, expect: 0.3665, tag: ea) (+20) | vl:45 ping:170 tps:20.0 lp:49 component: speed.main ver: 1.16.x
+(22:48:23) bendsbrown failed Speed check | suspicious movement (move: 9.832, predict: 0.311, friction: 0.6, ground:false, motY: 0.825, increase:0.026, preMove:0.285, motion: -6.698,0.825,7.197, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:50 ping:170 tps:20.0 lp:49 component: move.xz ver: 1.16.x
+(22:48:36) bendsbrown failed BadPackets check | (timer) send 55 moving packets in 1046ms | tag: limit (+5) | vl:10 ping:813 tps:19.95 lp:35 component: net.timer ver: 1.16.x
+(22:48:36) bendsbrown failed Speed check | suspicious movement (move: 2.691, expect: 0.429, g_tk:5, tag: b) (+16) | vl:66 ping:813 tps:19.95 lp:35 component: speed.main ver: 1.16.x
+(22:48:36) Execute command: matrix notify bendsbrown tried to move faster than usual (Speed) #1
+(22:48:36) bendsbrown failed Speed check | suspicious movement (move: 2.691, predict: 0.272, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.142, motion: -2.644,0.0,-0.499, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:71 ping:813 tps:19.95 lp:35 component: move.xz ver: 1.16.x
+(22:48:53) bendsbrown failed BadPackets check | (timer) send 37 moving packets in 1011ms | tag: limit (+10) | vl:10 ping:65 tps:20.0 lp:54 component: net.timer ver: 1.16.x
+(22:48:53) bendsbrown failed Speed check | suspicious movement (move: 0.48, expect: 0.429, g_tk:7, tag: b) (+8) | vl:29 ping:65 tps:20.0 lp:54 component: speed.main ver: 1.16.x
+(22:49:05) bendsbrown failed BadPackets check | (timer) send 51 moving packets in 997ms | tag: limit (+10) | vl:20 ping:90 tps:19.99 lp:34 component: net.timer ver: 1.16.x
+(22:49:05) bendsbrown failed Speed check | suspicious movement (move: 5.055, expect: 0.3665, tag: ea) (+20) | vl:49 ping:90 tps:19.99 lp:34 component: speed.main ver: 1.16.x
+(22:49:05) bendsbrown failed Speed check | suspicious movement (move: 5.055, predict: 0.313, friction: 0.6, ground:false, motY: 0.175, increase:0.026, preMove:0.287, motion: -4.979,0.175,0.877, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:54 ping:90 tps:19.99 lp:34 component: move.xz ver: 1.16.x
+(22:49:05) bendsbrown failed Fly check | suspicious movement:0.175 predict:0.17 vel:-0.903 air_t:3 tag:vt (+5) | vl:5 ping:90 tps:19.99 lp:34 component: fly.main ver: 1.16.x
+(22:49:11) bendsbrown failed BadPackets check | (timer) send 39 moving packets in 1169ms | tag: limit (+10) | vl:30 ping:51 tps:20.0 lp:35 component: net.timer ver: 1.16.x
+(22:50:48) bendsbrown failed BadPackets check | (timer) send 36 moving packets in 1059ms | tag: limit (+5) | vl:5 ping:881 tps:20.0 lp:53 component: net.timer ver: 1.16.x
+(22:51:24) bendsbrown failed BadPackets check | (timer) send 38 moving packets in 1121ms | tag: limit (+5) | vl:5 ping:119 tps:20.0 lp:50 component: net.timer ver: 1.16.x
+(22:52:07) Edwiener failed Delay check | perform actions faster than expected // inventory (type C, d: 0) (+1) | vl:1 ping:68 tps:20.0 lp:15 component: delay.inv ver: 1.16.x
+(22:52:39) bendsbrown failed BadPackets check | (timer) send 43 moving packets in 1021ms | tag: limit (+5) | vl:5 ping:525 tps:20.0 lp:41 component: net.timer ver: 1.16.x
+(22:52:39) bendsbrown failed Speed check | suspicious movement (move: 2.289, expect: 0.6235, tag: c) (+18) | vl:18 ping:525 tps:20.0 lp:41 component: speed.main ver: 1.16.x
+(22:52:39) bendsbrown failed Speed check | suspicious movement (move: 2.289, vet: 1.249, tag: d) (+2) | vl:20 ping:525 tps:20.0 lp:41 component: speed.main ver: 1.16.x
+(22:52:39) bendsbrown failed Speed check | suspicious movement (move: 2.289, predict: 0.575, friction: 0.6, ground:true, motY: 1.249, increase:0.43, preMove:0.145, motion: -2.176,1.249,-0.709, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:25 ping:525 tps:20.0 lp:41 component: move.xz ver: 1.16.x
+(22:52:39) bendsbrown failed Fly check | step | p: 1 | m:1.249 ev:0.42 lm:0.99 (+2) | vl:2 ping:525 tps:20.0 lp:41 component: speed.step ver: 1.16.x
+(22:53:27) Edwiener failed Phase check | moved into block (block: cobblestone, move: 0.119,0.078,-0.051, at: -7.331,1.0,289.259, dist: 0.129, loop: false) (+2) | vl:2 ping:62 tps:20.0 lp:12 component: phase.main ver: 1.16.x
+(22:53:27) Edwiener failed Phase check | moved into block (block: cobblestone, move: 0.108,0.0,-0.046, at: -7.223,1.0,289.213, dist: 0.117, loop: false) (+2) | vl:4 ping:62 tps:20.0 lp:12 component: phase.main ver: 1.16.x
+(22:53:35) SwissRmyFist failed Speed check | suspicious movement (move: 0.621, predict: 0.599, friction: 0.6, ground:true, motY: 0.42, increase:0.305, preMove:0.294, motion: -0.621,0.42,-0.019, attribute: 0.13, cm: false, di: false, st: true, tag: pred) (+5) | vl:5 ping:44 tps:20.0 lp:5 component: move.xz ver: 1.16.x
+(22:54:05) Edwiener failed Speed check | suspicious movement (move: 0.307, expect:0.289, t:0, sprint: true, attr: 0.13, tag: a) (+9) | vl:9 ping:80 tps:20.0 lp:10 component: speed.main ver: 1.16.x
+(22:54:33) bendsbrown failed HitBox check | missed entity hitbox (entity: zombie, angle: 41.969, move: true) (+1) | vl:1 ping:29 tps:19.99 lp:27 component: hb.mis ver: 1.16.x
+(22:54:56) bendsbrown failed HitBox check | missed entity hitbox (entity: drowned, angle: 53.815, move: true) (+1) | vl:1 ping:35 tps:20.0 lp:46 component: hb.mis ver: 1.16.x
+(22:54:56) bendsbrown failed HitBox check | missed entity hitbox (entity: drowned, angle: 78.05, move: true) (+2) | vl:3 ping:35 tps:20.0 lp:46 component: hb.mis ver: 1.16.x
+(22:54:57) bendsbrown failed HitBox check | missed entity hitbox (entity: drowned, angle: 75.571, move: false) (+2) | vl:5 ping:35 tps:20.0 lp:48 component: hb.mis ver: 1.16.x
+(22:54:57) bendsbrown failed BadPackets check | (timer) send 52 moving packets in 1018ms | tag: limit (+10) | vl:10 ping:35 tps:20.0 lp:48 component: net.timer ver: 1.16.x
+(22:54:57) bendsbrown failed Jesus check | move vertically too fast (motion: -0.426, expect: 0.4, module: vertical) (+5) | vl:5 ping:35 tps:20.0 lp:48 component: jesus.ver ver: 1.16.x
+(22:55:12) bendsbrown failed Jesus check | liquid speed (speed: 0.152, expect:0.12, dmg: false, flw:false, module: in) (+3) | vl:8 ping:63 tps:19.99 lp:55 component: jesus.speed.in ver: 1.16.x
+(22:55:12) bendsbrown failed Jesus check | liquid speed (speed: 0.141, expect:0.12, dmg: false, flw:false, module: in) (+3) | vl:11 ping:63 tps:19.99 lp:55 component: jesus.speed.in ver: 1.16.x
+(22:55:12) bendsbrown failed Jesus check | liquid speed (speed: 0.132, expect:0.12, dmg: false, flw:false, module: in) (+3) | vl:14 ping:63 tps:19.99 lp:55 component: jesus.speed.in ver: 1.16.x
+(22:55:12) bendsbrown failed Jesus check | liquid speed (speed: 0.126, expect:0.12, dmg: false, flw:false, module: in) (+3) | vl:17 ping:63 tps:19.99 lp:55 component: jesus.speed.in ver: 1.16.x
+(22:55:13) SwissRmyFist failed Block check | break block without delay (+4) | vl:4 ping:19 tps:20.0 lp:12 component: blk.fb.dly ver: 1.16.x
+(22:55:16) Edwiener failed Phase check | moved into block (block: cobblestone, move: 0.009,0.016,-0.126, at: -6.498,1.0,289.274, dist: 0.126, loop: false) (+2) | vl:2 ping:87 tps:20.0 lp:10 component: phase.main ver: 1.16.x
+(22:55:45) bendsbrown failed BadPackets check | (timer) send 51 moving packets in 1670ms | tag: limit (+5) | vl:5 ping:322 tps:20.0 lp:33 component: net.timer ver: 1.16.x
+(22:55:45) bendsbrown failed Speed check | suspicious movement (move: 1.438, expect: 0.3665, tag: ea) (+20) | vl:20 ping:322 tps:20.0 lp:33 component: speed.main ver: 1.16.x
+(22:55:45) bendsbrown failed Speed check | suspicious movement (move: 1.438, predict: 0.151, friction: 0.6, ground:false, motY: 0.879, increase:0.026, preMove:0.125, motion: -1.031,0.879,-1.003, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:25 ping:322 tps:20.0 lp:33 component: move.xz ver: 1.16.x
+(22:57:15) bendsbrown failed HitBox check | missed entity hitbox (entity: zombie, angle: 53.833, move: true) (+1) | vl:1 ping:154 tps:20.0 lp:48 component: hb.mis ver: 1.16.x
+(22:57:16) bendsbrown failed BadPackets check | (timer) send 36 moving packets in 1008ms | tag: limit (+5) | vl:5 ping:154 tps:20.0 lp:40 component: net.timer ver: 1.16.x
+(22:57:35) Edwiener failed BadPackets check | (timer) send 36 moving packets in 1017ms | tag: limit (+10) | vl:10 ping:61 tps:20.0 lp:33 component: net.timer ver: 1.16.x
+(22:58:10) Edwiener failed Phase check | moved into block (block: cobblestone, move: 0.039,0.016,-0.132, at: -6.39,1.0,289.254, dist: 0.137, loop: false) (+2) | vl:2 ping:62 tps:20.0 lp:21 component: phase.main ver: 1.16.x
+(22:58:43) vanism failed HitBox check | missed entity hitbox (entity: zombie, angle: 36.481, move: true) (+1) | vl:1 ping:20 tps:20.0 lp:7 component: hb.mis ver: 1.16.x
+(22:58:44) vanism failed HitBox check | missed entity hitbox (entity: zombie, angle: 86.865, move: true) (+2) | vl:3 ping:20 tps:20.0 lp:8 component: hb.mis ver: 1.16.x
+(22:58:45) vanism failed HitBox check | missed entity hitbox (entity: zombie, angle: 37.595, move: true) (+1) | vl:1 ping:20 tps:20.0 lp:7 component: hb.mis ver: 1.16.x
+(22:58:53) vanism failed HitBox check | missed entity hitbox (entity: zombie, angle: 164.786, move: true) (+2) | vl:3 ping:18 tps:20.0 lp:9 component: hb.mis ver: 1.16.x
+(22:58:53) vanism failed HitBox check | missed entity hitbox (entity: zombie, angle: 166.754, move: true) (+2) | vl:5 ping:18 tps:20.0 lp:9 component: hb.mis ver: 1.16.x
+(22:59:03) bendsbrown failed BadPackets check | (timer) send 57 moving packets in 1035ms | tag: limit (+5) | vl:5 ping:174 tps:19.99 lp:32 component: net.timer ver: 1.16.x
+(22:59:03) bendsbrown failed Speed check | suspicious movement (move: 4.592, expect: 0.3665, tag: ea) (+20) | vl:20 ping:174 tps:19.99 lp:32 component: speed.main ver: 1.16.x
+(22:59:03) bendsbrown failed Speed check | suspicious movement (move: 4.592, predict: 0.16, friction: 0.6, ground:false, motY: -0.121, increase:0.026, preMove:0.134, motion: 2.631,-0.121,3.763, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:25 ping:174 tps:19.99 lp:32 component: move.xz ver: 1.16.x
+(22:59:16) Edwiener failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: 157.945,12.2,136.405, type: air, pkt: true) (+5) | vl:5 ping:128 tps:20.0 lp:7 component: fly.gf ver: 1.16.x
+(22:59:18) Edwiener failed BadPackets check | (timer) send 42 moving packets in 1032ms | tag: limit (+10) | vl:10 ping:128 tps:20.0 lp:23 component: net.timer ver: 1.16.x
+(22:59:18) Edwiener failed Speed check | suspicious movement (move: 2.531, predict: 0.305, friction: 0.6, ground:false, motY: 0.43, increase:0.026, preMove:0.279, motion: 2.526,0.43,0.163, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:5 ping:128 tps:20.0 lp:23 component: move.xz ver: 1.16.x
+(22:59:21) Edwiener failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: 177.251,12.166,137.008, type: air, pkt: true) (+5) | vl:10 ping:189 tps:19.99 lp:23 component: fly.gf ver: 1.16.x
+(22:59:39) vanism failed KillAura check | critical hit without correct jumping // mini-jump (d:0.0625) (+5) | vl:5 ping:29 tps:19.99 lp:8 component: ka.critical.hop ver: 1.16.x
+(22:59:47) bendsbrown failed BadPackets check | (timer) send 36 moving packets in 1013ms | tag: limit (+5) | vl:5 ping:808 tps:20.0 lp:44 component: net.timer ver: 1.16.x
+(23:00:21) madsmckay1310 failed Speed check | change direction in mid-air (dist: 0.201, angle:74.148, pre:0.267) (+5) | vl:5 ping:27 tps:20.0 lp:9 component: speed.strafe ver: 1.16.x
+(23:00:30) bendsbrown failed BadPackets check | (timer) send 53 moving packets in 1274ms | tag: limit (+10) | vl:10 ping:51 tps:20.0 lp:46 component: net.timer ver: 1.16.x
+(23:00:31) bendsbrown failed BadPackets check | (timer) send 41 moving packets in 1018ms | tag: limit (+5) | vl:15 ping:363 tps:20.0 lp:40 component: net.timer ver: 1.16.x
+(23:00:37) bendsbrown failed BadPackets check | (timer) send 38 moving packets in 1000ms | tag: limit (+5) | vl:20 ping:363 tps:20.0 lp:31 component: net.timer ver: 1.16.x
+(23:00:37) bendsbrown failed Speed check | suspicious movement (move: 0.564, expect: 0.4665, tag: ea) (+5) | vl:5 ping:363 tps:20.0 lp:31 component: speed.main ver: 1.16.x
+(23:02:07) Edwiener failed BadPackets check | (timer) send 42 moving packets in 1037ms | tag: limit (+10) | vl:10 ping:69 tps:20.0 lp:26 component: net.timer ver: 1.16.x
+(23:02:07) Edwiener failed Speed check | suspicious movement (move: 2.25, expect: 0.6235, tag: c) (+18) | vl:18 ping:69 tps:20.0 lp:26 component: speed.main ver: 1.16.x
+(23:02:07) Edwiener failed Speed check | suspicious movement (move: 2.25, predict: 0.571, friction: 0.6, ground:true, motY: 0.42, increase:0.33, preMove:0.241, motion: 1.03,0.42,2.0, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:23 ping:69 tps:20.0 lp:26 component: move.xz ver: 1.16.x
+(23:02:18) bendsbrown failed Block check | break block with timer (block: dark_oak_log, point: 400) (+4) | vl:4 ping:90 tps:20.0 lp:52 component: block.fb.timer ver: 1.16.x
+(23:02:46) SwissRmyFist failed Block check | break block without delay (+4) | vl:4 ping:24 tps:20.0 lp:25 component: blk.fb.dly ver: 1.16.x
+(23:02:51) bendsbrown failed BadPackets check | (timer) send 36 moving packets in 1006ms | tag: limit (+5) | vl:5 ping:365 tps:20.0 lp:49 component: net.timer ver: 1.16.x
+(23:04:33) bendsbrown failed BadPackets check | (timer) send 43 moving packets in 999ms | tag: limit (+5) | vl:5 ping:130 tps:20.0 lp:30 component: net.timer ver: 1.16.x
+(23:04:33) bendsbrown failed Speed check | suspicious movement (move: 1.026, expect: 0.6235, tag: c) (+10) | vl:10 ping:130 tps:20.0 lp:30 component: speed.main ver: 1.16.x
+(23:04:33) bendsbrown failed Speed check | suspicious movement (move: 1.026, vet: 1.024, tag: d) (+7) | vl:17 ping:130 tps:20.0 lp:30 component: speed.main ver: 1.16.x
+(23:04:33) bendsbrown failed Speed check | suspicious movement (move: 1.026, predict: 0.572, friction: 0.6, ground:true, motY: 1.024, increase:0.33, preMove:0.242, motion: 0.75,1.024,0.699, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:22 ping:130 tps:20.0 lp:30 component: move.xz ver: 1.16.x
+(23:04:33) bendsbrown failed Fly check | step | p: 1 | m:1.024 ev:0.42 lm:0.99 (+7) | vl:7 ping:130 tps:20.0 lp:30 component: speed.step ver: 1.16.x
+(23:05:37) bendsbrown failed BadPackets check | (timer) send 40 moving packets in 1021ms | tag: limit (+5) | vl:5 ping:129 tps:20.0 lp:50 component: net.timer ver: 1.16.x
+(23:05:37) bendsbrown failed Speed check | suspicious movement (move: 1.615, expect: 0.3665, tag: ea) (+20) | vl:20 ping:129 tps:20.0 lp:50 component: speed.main ver: 1.16.x
+(23:05:37) bendsbrown failed Speed check | suspicious movement (move: 1.615, predict: 0.331, friction: 0.6, ground:false, motY: -0.754, increase:0.026, preMove:0.305, motion: -0.471,-0.754,-1.545, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:25 ping:129 tps:20.0 lp:50 component: move.xz ver: 1.16.x
+(23:05:37) bendsbrown failed Fly check | suspicious movement:-0.754 predict:-0.078 lm:0.083 hard_pred:0.003 sev_pred:-0.152 air_t:5 fall_t:1 g:-- tag:gn (+5) | vl:5 ping:129 tps:20.0 lp:50 component: fly.main ver: 1.16.x
+(23:06:01) bendsbrown failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: 8.997,65.001,300.135, type: air, pkt: true) (+5) | vl:5 ping:710 tps:19.95 lp:14 component: fly.gf ver: 1.16.x
+(23:09:02) SwissRmyFist failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: -283.605,62.073,195.856, type: air, pkt: true) (+5) | vl:5 ping:18 tps:20.0 lp:9 component: fly.gf ver: 1.16.x
+(23:11:10) bendsbrown failed BadPackets check | (timer) send 44 moving packets in 1181ms | tag: limit (+5) | vl:5 ping:668 tps:20.0 lp:35 component: net.timer ver: 1.16.x
+(23:11:10) bendsbrown failed Speed check | suspicious movement (move: 0.654, expect: 0.3665, tag: ea) (+5) | vl:5 ping:668 tps:20.0 lp:35 component: speed.main ver: 1.16.x
+(23:11:10) bendsbrown failed Speed check | suspicious movement (move: 0.654, predict: 0.027, friction: 0.6, ground:false, motY: 0.58, increase:0.026, preMove:0.001, motion: -0.002,0.58,-0.654, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:10 ping:668 tps:20.0 lp:35 component: move.xz ver: 1.16.x
+(23:11:10) bendsbrown failed Fly check | suspicious movement:0.58 predict:0.338 vel:-0.445 air_t:1 tag:vt (+5) | vl:5 ping:668 tps:20.0 lp:35 component: fly.main ver: 1.16.x
+(23:11:10) bendsbrown failed Fly check | suspicious movement:0.333 predict:0.253 vel:0.42 air_t:2 tag:vt (+5) | vl:10 ping:668 tps:20.0 lp:43 component: fly.main ver: 1.16.x
+(23:11:10) bendsbrown failed Fly check | suspicious movement:0.248 predict:0.17 vel:0.333 air_t:3 tag:vt (+5) | vl:15 ping:668 tps:20.0 lp:43 component: fly.main ver: 1.16.x
+(23:13:27) Edwiener failed Phase check | moved into block (block: crafting_table, move: 0.099,0.016,-0.093, at: -6.225,1.0,289.375, dist: 0.136, loop: false) (+2) | vl:2 ping:69 tps:20.0 lp:19 component: phase.main ver: 1.16.x
+(23:15:39) bendsbrown failed Speed check | suspicious movement (move: 0.301, expect:0.289, t:0, sprint: true, attr: 0.13, tag: a) (+9) | vl:9 ping:33 tps:20.0 lp:19 component: speed.main ver: 1.16.x
+(23:15:39) bendsbrown failed Speed check | suspicious movement (move: 0.332, expect:0.289, t:0, sprint: true, attr: 0.13, tag: a) (+9) | vl:18 ping:33 tps:20.0 lp:19 component: speed.main ver: 1.16.x
+(23:15:39) bendsbrown failed Speed check | suspicious movement (move: 0.332, predict: 0.295, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.165, motion: 0.048,0.0,-0.328, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:23 ping:33 tps:20.0 lp:19 component: move.xz ver: 1.16.x
+(23:15:39) bendsbrown failed Speed check | suspicious movement (move: 0.308, expect:0.289, t:0, sprint: true, attr: 0.13, tag: a) (+9) | vl:32 ping:33 tps:20.0 lp:19 component: speed.main ver: 1.16.x
+(23:15:39) bendsbrown failed Speed check | suspicious movement (move: 0.295, expect:0.289, t:0, sprint: true, attr: 0.13, tag: a) (+9) | vl:41 ping:33 tps:20.0 lp:19 component: speed.main ver: 1.16.x
+(23:15:43) bendsbrown failed Speed check | suspicious movement (move: 0.62, predict: 0.589, friction: 0.6, ground:true, motY: 0.42, increase:0.33, preMove:0.259, motion: -0.084,0.42,-0.614, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:46 ping:33 tps:20.0 lp:16 component: move.xz ver: 1.16.x
+(23:16:32) SwissRmyFist failed Speed check | suspicious movement (move: 0.622, predict: 0.6, friction: 0.6, ground:true, motY: 0.42, increase:0.305, preMove:0.295, motion: -0.009,0.42,-0.622, attribute: 0.13, cm: false, di: false, st: true, tag: pred) (+5) | vl:5 ping:27 tps:20.0 lp:7 component: move.xz ver: 1.16.x
+(23:17:04) bendsbrown failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: -230.582,67.001,-159.985, type: air, pkt: true) (+5) | vl:5 ping:141 tps:20.0 lp:36 component: fly.gf ver: 1.16.x
+(23:17:30) bendsbrown failed BadPackets check | (timer) send 43 moving packets in 1159ms | tag: limit (+10) | vl:10 ping:35 tps:19.99 lp:33 component: net.timer ver: 1.16.x
+(23:17:30) bendsbrown failed Speed check | suspicious movement (move: 2.874, expect: 0.3665, tag: ea) (+20) | vl:20 ping:35 tps:19.99 lp:33 component: speed.main ver: 1.16.x
+(23:17:30) bendsbrown failed Speed check | suspicious movement (2.874, air_t: 12, lm:0.291 acc: 2.5827794487367717, tag: ed) (+15) | vl:35 ping:35 tps:19.99 lp:33 component: speed.main ver: 1.16.x
+(23:17:30) bendsbrown failed Speed check | suspicious movement (move: 2.874, predict: 0.291, friction: 0.6, ground:false, motY: 1.015, increase:0.026, preMove:0.265, motion: -2.402,1.015,1.578, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:40 ping:35 tps:19.99 lp:33 component: move.xz ver: 1.16.x
+(23:17:30) bendsbrown failed Fly check | step | p: 1 | m:1.015 ev:-0.231 lm:0.99 (+8) | vl:8 ping:35 tps:19.99 lp:33 component: speed.step ver: 1.16.x
+(23:17:39) bendsbrown failed BadPackets check | (timer) send 51 moving packets in 1043ms | tag: limit (+5) | vl:15 ping:1431 tps:20.0 lp:54 component: net.timer ver: 1.16.x
+(23:17:51) Edwiener failed Phase check | moved into block (block: cobblestone, move: 0.001,0.016,-0.127, at: -6.649,1.0,289.282, dist: 0.127, loop: false) (+2) | vl:2 ping:62 tps:20.0 lp:22 component: phase.main ver: 1.16.x
+(23:18:58) bendsbrown failed BadPackets check | (timer) send 38 moving packets in 1017ms | tag: limit (+10) | vl:10 ping:93 tps:20.0 lp:36 component: net.timer ver: 1.16.x
+(23:18:58) bendsbrown failed Speed check | suspicious movement (move: 0.628, expect: 0.429, g_tk:2, tag: b) (+8) | vl:8 ping:93 tps:20.0 lp:36 component: speed.main ver: 1.16.x
+(23:18:58) bendsbrown failed Speed check | suspicious movement (move: 0.628, predict: 0.254, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.124, motion: -0.107,0.0,-0.618, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:13 ping:93 tps:20.0 lp:36 component: move.xz ver: 1.16.x
+(23:18:59) bendsbrown failed Fly check | suspicious movement:0.42 predict:0.17 vel:-0.078 air_t:3 tag:vt (+5) | vl:5 ping:93 tps:20.0 lp:36 component: fly.main ver: 1.16.x
+(23:18:59) bendsbrown failed Fly check | suspicious movement:0.333 predict:0.088 vel:-0.155 air_t:4 tag:vt (+5) | vl:10 ping:93 tps:20.0 lp:36 component: fly.main ver: 1.16.x
+(23:19:54) SwissRmyFist failed Block check | break block without delay (+4) | vl:4 ping:22 tps:20.0 lp:22 component: blk.fb.dly ver: 1.16.x
+(23:20:11) Edwiener failed Chat check | chat too fast | delay: 1593 (+1) | vl:1 ping:84 tps:20.0 lp:7 component: chat.delay ver: 1.16.x
+(23:20:20) bendsbrown failed Block check | break block with timer (block: stone, point: 698) (+4) | vl:4 ping:66 tps:20.0 lp:32 component: block.fb.timer ver: 1.16.x
+(23:20:21) bendsbrown failed BadPackets check | (timer) send 40 moving packets in 1003ms | tag: limit (+10) | vl:10 ping:66 tps:20.0 lp:32 component: net.timer ver: 1.16.x
+(23:20:21) bendsbrown failed Speed check | suspicious movement (move: 0.79, expect:0.289, t:0, sprint: false, attr: 0.1, tag: a) (+9) | vl:9 ping:66 tps:20.0 lp:32 component: speed.main ver: 1.16.x
+(23:20:21) bendsbrown failed Speed check | suspicious movement (move: 0.79, predict: 0.229, friction: 0.6, ground:true, motY: 0.0, increase:0.13, preMove:0.099, motion: -0.47,0.0,-0.635, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:14 ping:66 tps:20.0 lp:32 component: move.xz ver: 1.16.x
+(23:21:00) Edwiener failed Chat check | chat too fast | delay: 1628 (+1) | vl:1 ping:65 tps:19.99 lp:10 component: chat.delay ver: 1.16.x
+(23:21:44) bendsbrown failed BadPackets check | (timer) send 52 moving packets in 1414ms | tag: limit (+10) | vl:10 ping:33 tps:20.0 lp:45 component: net.timer ver: 1.16.x
+(23:23:21) Edwiener failed Chat check | chat too fast | delay: 2064 (+1) | vl:1 ping:62 tps:20.0 lp:9 component: chat.delay ver: 1.16.x
+(23:24:43) SwissRmyFist failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: -354.61,66.166,-109.764, type: air, pkt: true) (+5) | vl:5 ping:53 tps:20.0 lp:19 component: fly.gf ver: 1.16.x
+(23:24:50) Edwiener failed Chat check | chat too fast | delay: 2763 (+1) | vl:1 ping:70 tps:20.0 lp:13 component: chat.delay ver: 1.16.x
+(23:27:34) Edwiener failed Chat check | chat too fast | delay: 2652 (+1) | vl:1 ping:65 tps:20.0 lp:14 component: chat.delay ver: 1.16.x
+(23:27:36) Edwiener failed Chat check | chat too fast | delay: 1988 (+1) | vl:2 ping:65 tps:20.0 lp:14 component: chat.delay ver: 1.16.x
+(23:28:17) bendsbrown failed BadPackets check | (timer) send 44 moving packets in 1281ms | tag: limit (+5) | vl:5 ping:178 tps:19.99 lp:39 component: net.timer ver: 1.16.x
+(23:29:28) Edwiener failed Chat check | chat too fast | delay: 2293 (+1) | vl:1 ping:76 tps:20.0 lp:6 component: chat.delay ver: 1.16.x
+(23:30:13) SwissRmyFist failed Speed check | suspicious movement (move: 0.621, predict: 0.598, friction: 0.6, ground:true, motY: 0.42, increase:0.305, preMove:0.293, motion: -0.554,0.42,0.281, attribute: 0.13, cm: false, di: false, st: true, tag: pred) (+5) | vl:5 ping:24 tps:20.0 lp:6 component: move.xz ver: 1.16.x
+(23:30:17) SwissRmyFist failed HitBox check | missed entity hitbox (entity: pig, angle: 41.287, move: true) (+1) | vl:1 ping:24 tps:20.0 lp:6 component: hb.mis ver: 1.16.x
+(23:30:54) SwissRmyFist failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: -416.126,76.001,-123.644, type: air, pkt: true) (+5) | vl:5 ping:15 tps:20.0 lp:34 component: fly.gf ver: 1.16.x
+(23:31:31) Edwiener failed Interact check | interact block through solid (through: DIRT, block:CHEST) (+1) | vl:1 ping:66 tps:20.0 lp:9 component: interact.through ver: 1.16.x
+(23:32:14) Edwiener failed Chat check | chat too fast | delay: 2656 (+1) | vl:1 ping:65 tps:20.0 lp:8 component: chat.delay ver: 1.16.x
+(23:35:46) Edwiener failed Speed check | suspicious movement (move: 0.619, predict: 0.597, friction: 0.6, ground:true, motY: 0.42, increase:0.305, preMove:0.292, motion: -0.619,0.42,-0.002, attribute: 0.13, cm: false, di: false, st: true, tag: pred) (+5) | vl:5 ping:71 tps:19.99 lp:4 component: move.xz ver: 1.16.x
+(23:37:29) Edwiener failed Speed check | t: spin (546.5388->555.5388) (+10) | vl:10 ping:70 tps:19.99 lp:4 component: speed.spin ver: 1.16.x
+(23:40:56) vanism failed Fly check | suspicious movement:0.234 predict:0.17 vel:0.42 air_t:3 tag:vt (+5) | vl:5 ping:24 tps:20.0 lp:7 component: fly.main ver: 1.16.x
+(23:42:09) Edwiener failed Phase check | moved into block (block: cobblestone, move: -0.062,0.016,-0.125, at: -7.673,1.0,289.246, dist: 0.14, loop: false) (+2) | vl:2 ping:62 tps:20.0 lp:23 component: phase.main ver: 1.16.x
+(23:42:09) Edwiener failed Phase check | moved into block (block: cobblestone, move: -0.1,0.0,-0.204, at: -7.772,1.0,289.042, dist: 0.227, loop: false) (+2) | vl:4 ping:62 tps:20.0 lp:23 component: phase.main ver: 1.16.x
+(23:42:09) Edwiener failed Phase check | moved into block (block: cobblestone, move: 0.07,0.0,-0.182, at: -7.867,1.0,288.233, dist: 0.195, loop: false) (+2) | vl:6 ping:62 tps:20.0 lp:23 component: phase.main ver: 1.16.x
+(23:42:09) Edwiener failed Phase check | moved into block (block: cobblestone, move: 0.159,0.0,0.082, at: -7.239,1.0,288.125, dist: 0.179, loop: false) (+2) | vl:8 ping:62 tps:20.0 lp:23 component: phase.main ver: 1.16.x
+(23:42:09) Execute command: matrix notify Edwiener is phase into block (Phase)
+(23:42:09) Edwiener failed Phase check | moved into block (block: cobblestone, move: 0.052,0.0,0.051, at: -7.277,1.0,288.163, dist: 0.073, loop: false) (+2) | vl:10 ping:62 tps:20.0 lp:23 component: phase.main ver: 1.16.x
+(23:42:09) Edwiener failed Phase check | moved into block (block: cobblestone, move: 0.1,0.0,-0.001, at: -7.229,1.0,288.111, dist: 0.1, loop: false) (+2) | vl:12 ping:62 tps:20.0 lp:23 component: phase.main ver: 1.16.x
+(23:42:10) Edwiener failed Phase check | moved into block (block: cobblestone, move: 0.1,0.0,0.008, at: -7.229,1.0,288.119, dist: 0.1, loop: false) (+2) | vl:14 ping:62 tps:20.0 lp:18 component: phase.main ver: 1.16.x
+(23:42:10) Execute command: matrix notify Edwiener is phase into block (Phase) #2
+(23:42:10) Edwiener failed Fly check | ground spoof (expect: --, move: -0.054,0.0,-0.049, at: -7.455,1.0,287.997, type: air, pkt: false) (+5) | vl:5 ping:62 tps:20.0 lp:18 component: fly.gf ver: 1.16.x
+(23:42:10) Edwiener failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: -7.455,1.0,287.997, type: air, pkt: true) (+5) | vl:10 ping:62 tps:20.0 lp:18 component: fly.gf ver: 1.16.x
+(23:42:10) Edwiener failed Fly check | ground spoof (expect: --, move: -0.149,0.0,-0.037, at: -7.605,1.0,287.96, type: air, pkt: false) (+5) | vl:15 ping:62 tps:20.0 lp:18 component: fly.gf ver: 1.16.x
+(23:44:22) Edwiener failed Phase check | moved into block (block: cobblestone, move: -0.005,0.016,-0.136, at: -6.331,1.0,289.242, dist: 0.136, loop: false) (+2) | vl:2 ping:77 tps:20.0 lp:9 component: phase.main ver: 1.16.x
+(23:44:42) Edwiener failed Speed check | t: spin (-282.48163->-273.48163) (+10) | vl:10 ping:62 tps:19.99 lp:13 component: speed.spin ver: 1.16.x
+(23:51:01) Edwiener failed Phase check | moved into block (block: cobblestone, move: 0.052,0.016,-0.173, at: -6.971,1.0,289.211, dist: 0.181, loop: false) (+2) | vl:2 ping:65 tps:19.99 lp:10 component: phase.main ver: 1.16.x
+(23:54:04) Edwiener failed Phase check | moved into block (block: cobblestone, move: 0.006,0.016,-0.166, at: -6.518,1.0,289.197, dist: 0.166, loop: false) (+2) | vl:2 ping:82 tps:20.0 lp:25 component: phase.main ver: 1.16.x
+(23:54:14) Edwiener failed Phase check | moved into block (block: crafting_table, move: 0.019,0.016,-0.021, at: -6.294,1.0,289.583, dist: 0.028, loop: false) (+2) | vl:4 ping:69 tps:19.99 lp:16 component: phase.main ver: 1.16.x

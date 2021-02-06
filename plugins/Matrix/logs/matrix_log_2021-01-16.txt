@@ -1,0 +1,29 @@
+(00:04:30) vanism failed HitBox check | missed entity hitbox (entity: creeper, angle: 49.217, move: true) (+1) | vl:1 ping:34 tps:20.0 lp:9 component: hb.mis ver: 1.16.x
+(00:04:31) vanism failed HitBox check | missed entity hitbox (entity: creeper, angle: 77.935, move: true) (+2) | vl:3 ping:31 tps:20.0 lp:9 component: hb.mis ver: 1.16.x
+(00:04:32) vanism failed HitBox check | missed entity hitbox (entity: creeper, angle: 98.827, move: true) (+2) | vl:5 ping:31 tps:20.0 lp:7 component: hb.mis ver: 1.16.x
+(00:13:58) vanism failed HitBox check | missed entity hitbox (entity: cave_spider, angle: 127.728, move: true) (+2) | vl:2 ping:50 tps:20.0 lp:20 component: hb.mis ver: 1.16.x
+(00:31:30) vanism failed Interact check | interact block through solid (through: GRASS_BLOCK, block:CHEST) (+1) | vl:1 ping:24 tps:20.0 lp:5 component: interact.through ver: 1.16.x
+(00:42:20) vanism failed HitBox check | missed entity hitbox (entity: zombie, angle: 36.03, move: true) (+1) | vl:1 ping:18 tps:20.0 lp:9 component: hb.mis ver: 1.16.x
+(00:53:41) vanism failed Interact check | breaking a block without looking at it (block: DIRT) (+1) | vl:1 ping:33 tps:19.99 lp:14 component: interact.break ver: 1.16.x
+(00:53:41) vanism failed Interact check | break block through walls (through: dirt, block: dirt) (+1) | vl:2 ping:33 tps:19.99 lp:14 component: interact.break ver: 1.16.x
+(07:00:35) Matrix Enabled!
+(07:00:35) Version: 5.6.3
+(11:30:19) Merrooowww failed Speed check | suspicious movement (move: 0.32, expect:0.289, t:0, sprint: true, attr: 0.13, tag: a) (+9) | vl:9 ping:0 tps:20.0 lp:0 component: speed.main ver: 1.16.x
+(11:30:19) Merrooowww failed Speed check | suspicious movement (move: 0.315, expect:0.289, t:0, sprint: true, attr: 0.13, tag: a) (+9) | vl:18 ping:0 tps:20.0 lp:3 component: speed.main ver: 1.16.x
+(11:30:19) Merrooowww failed Speed check | suspicious movement (move: 0.299, expect:0.289, t:0, sprint: true, attr: 0.13, tag: a) (+9) | vl:27 ping:0 tps:20.0 lp:3 component: speed.main ver: 1.16.x
+(11:30:19) Merrooowww failed Speed check | suspicious movement (move: 0.291, expect:0.289, t:0, sprint: true, attr: 0.13, tag: a) (+9) | vl:36 ping:0 tps:20.0 lp:3 component: speed.main ver: 1.16.x
+(11:30:21) Merrooowww failed Speed check | suspicious movement (move: 0.36, expect:0.289, t:0, sprint: true, attr: 0.13, tag: a) (+9) | vl:18 ping:0 tps:20.0 lp:6 component: speed.main ver: 1.16.x
+(11:30:21) Merrooowww failed Fly check | ground spoof (expect: --, move: -0.164,0.248,0.246, at: -253.664,69.001,111.74, type: air, pkt: false) (+5) | vl:5 ping:0 tps:20.0 lp:6 component: fly.gf ver: 1.16.x
+(11:30:21) Merrooowww failed Fly check | ground spoof (expect: --, move: -0.17,0.165,0.239, at: -253.834,69.166,111.979, type: air, pkt: false) (+5) | vl:10 ping:0 tps:20.0 lp:6 component: fly.gf ver: 1.16.x
+(11:30:21) Merrooowww failed Fly check | ground spoof (expect: --, move: -0.176,0.083,0.232, at: -254.01,69.249,112.211, type: air, pkt: false) (+5) | vl:15 ping:0 tps:20.0 lp:7 component: fly.gf ver: 1.16.x
+(16:13:51) verzion failed Block check | break block without delay (+4) | vl:4 ping:24 tps:20.0 lp:22 component: blk.fb.dly ver: 1.16.x
+(20:42:36) vanism failed HitBox check | missed entity hitbox (entity: skeleton, angle: 48.59, move: true) (+1) | vl:1 ping:30 tps:20.0 lp:7 component: hb.mis ver: 1.16.x
+(21:05:32) vanism failed Block check | break block without delay (+4) | vl:4 ping:23 tps:20.0 lp:8 component: blk.fb.dly ver: 1.16.x
+(22:55:27) vanism failed Speed check | t: spin (-1504.3052->-1498.3052) (+10) | vl:10 ping:21 tps:20.0 lp:8 component: speed.spin ver: 1.16.x
+(23:38:13) vanism failed Interact check | breaking a block without looking at it (block: DIRT) (+1) | vl:1 ping:30 tps:20.0 lp:12 component: interact.break ver: 1.16.x
+(23:38:13) vanism failed Interact check | break block through walls (through: dirt, block: dirt) (+1) | vl:2 ping:30 tps:20.0 lp:12 component: interact.break ver: 1.16.x
+(23:38:21) vanism failed Speed check | t: spin (-605.59515->-599.59515) (+10) | vl:10 ping:23 tps:19.99 lp:17 component: speed.spin ver: 1.16.x
+(23:38:28) vanism failed Interact check | breaking a block without looking at it (block: GRASS_BLOCK) (+1) | vl:1 ping:28 tps:20.0 lp:10 component: interact.break ver: 1.16.x
+(23:38:28) vanism failed Interact check | break block through walls (through: dirt, block: grass_block) (+1) | vl:2 ping:28 tps:20.0 lp:10 component: interact.break ver: 1.16.x
+(23:42:02) vanism failed Interact check | breaking a block without looking at it (block: DIRT) (+1) | vl:1 ping:23 tps:19.99 lp:9 component: interact.break ver: 1.16.x
+(23:42:02) vanism failed Interact check | break block through walls (through: grass_block, block: dirt) (+1) | vl:2 ping:23 tps:19.99 lp:9 component: interact.break ver: 1.16.x

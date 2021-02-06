@@ -1,0 +1,239 @@
+(00:05:22) Edwiener failed Speed check | change direction in mid-air (dist: 0.293, angle:110.803, pre:0.235) (+5) | vl:5 ping:72 tps:20.0 lp:14 component: speed.strafe ver: 1.16.x
+(00:06:49) Edwiener failed Elytra check | (elytra) keep glide pose on ground: 3 (+4) | vl:4 ping:90 tps:20.0 lp:10 component: ely.grd ver: 1.16.x
+(07:00:31) Matrix Enabled!
+(07:00:31) Version: 5.6.3
+(13:24:47) Edwiener failed Speed check | t: spin (-122.939896->-131.9399) (+10) | vl:10 ping:355 tps:20.0 lp:41 component: speed.spin ver: 1.16.x
+(16:47:02) Bl4zeBoy failed Fly check | suspicious movement:0.5 predict:0.42 air:0 tag:dmj (+5) | vl:5 ping:90 tps:20.0 lp:13 component: fly.main ver: 1.16.x
+(16:47:29) Bl4zeBoy failed Speed check | suspicious movement (move: 0.509, predict: 0.3, friction: 0.6, ground:false, motY: 0.381, increase:0.026, preMove:0.274, motion: -0.187,0.381,0.473, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:5 ping:785 tps:20.0 lp:25 component: move.xz ver: 1.16.x
+(16:52:29) Bl4zeBoy failed BadPackets check | (timer) send 38 moving packets in 1066ms | tag: limit (+10) | vl:10 ping:70 tps:20.0 lp:22 component: net.timer ver: 1.16.x
+(16:59:46) moezes failed Fly check | suspicious movement:0.337 predict:0.252 air_t:2 tag:sam (+5) | vl:5 ping:0 tps:20.0 lp:0 component: fly.main ver: 1.16.x
+(16:59:46) moezes failed Fly check | suspicious movement:0.337 predict:0.253 vel:0.165 air_t:2 tag:vt (+5) | vl:10 ping:0 tps:20.0 lp:0 component: fly.main ver: 1.16.x
+(17:08:11) moezes failed Fly check | suspicious movement:0.466 predict:-0.147 air:12 tag:dmf (+10) | vl:10 ping:113 tps:20.0 lp:7 component: fly.main ver: 1.16.x
+(17:08:11) moezes failed Fly check | suspicious movement:0.5 predict:0.42 air:0 tag:dmj (+5) | vl:15 ping:113 tps:20.0 lp:7 component: fly.main ver: 1.16.x
+(17:11:12) moezes failed Elytra check | (elytra) impossible elytra movement (move: -0.006,0.466,0.0, mot: 0.46611634908181543) (+2) | vl:2 ping:124 tps:20.0 lp:5 component: ely.mvy ver: 1.16.x
+(17:11:12) moezes failed Elytra check | (elytra) reserve energy: 0.109 dif: 0.107 motion: 0.466 t: 21 (+2) | vl:4 ping:124 tps:20.0 lp:5 component: ely.re ver: 1.16.x
+(17:11:15) Bl4zeBoy failed Speed check | suspicious movement (move: 0.501, vet: 0.387, tag: d) (+8) | vl:8 ping:70 tps:19.99 lp:17 component: speed.main ver: 1.16.x
+(17:11:15) Bl4zeBoy failed Speed check | suspicious movement (move: 0.508, expect: 0.3665, tag: ea) (+5) | vl:13 ping:70 tps:19.99 lp:17 component: speed.main ver: 1.16.x
+(17:11:15) Bl4zeBoy failed Speed check | suspicious movement (move: 0.508, predict: 0.299, friction: 0.6, ground:false, motY: 0.387, increase:0.026, preMove:0.273, motion: -0.008,0.387,0.508, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:18 ping:70 tps:19.99 lp:17 component: move.xz ver: 1.16.x
+(17:11:15) Bl4zeBoy failed Fly check | suspicious movement:0.387 predict:0.3 air_t:1 tag:sam (+5) | vl:5 ping:70 tps:19.99 lp:17 component: fly.main ver: 1.16.x
+(17:11:15) Bl4zeBoy failed Fly check | suspicious movement:0.387 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:10 ping:70 tps:19.99 lp:17 component: fly.main ver: 1.16.x
+(17:11:15) moezes failed Fly check | suspicious movement:0.354 predict:0.269 air_t:2 tag:sam (+5) | vl:5 ping:124 tps:19.99 lp:9 component: fly.main ver: 1.16.x
+(17:12:50) moezes failed Speed check | suspicious movement (move: 0.513, predict: 0.302, friction: 0.6, ground:false, motY: 0.392, increase:0.026, preMove:0.276, motion: -0.046,0.392,-0.511, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:5 ping:75 tps:20.0 lp:19 component: move.xz ver: 1.16.x
+(17:12:50) moezes failed Fly check | suspicious movement:0.392 predict:0.306 air_t:1 tag:sam (+5) | vl:5 ping:75 tps:20.0 lp:19 component: fly.main ver: 1.16.x
+(17:12:50) moezes failed Fly check | suspicious movement:0.392 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:10 ping:75 tps:20.0 lp:19 component: fly.main ver: 1.16.x
+(17:13:03) Bl4zeBoy failed Speed check | suspicious movement (move: 0.471, vet: 0.382, tag: d) (+8) | vl:8 ping:80 tps:20.0 lp:12 component: speed.main ver: 1.16.x
+(17:13:03) Bl4zeBoy failed Speed check | suspicious movement (move: 0.478, expect: 0.3665, tag: ea) (+5) | vl:13 ping:80 tps:20.0 lp:12 component: speed.main ver: 1.16.x
+(17:13:03) Bl4zeBoy failed Fly check | suspicious movement:0.382 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:5 ping:80 tps:20.0 lp:12 component: fly.main ver: 1.16.x
+(17:13:44) Blaz3girl failed Speed check | t: spin (-583.1119->-229.11188) (+10) | vl:10 ping:106 tps:20.0 lp:22 component: speed.spin ver: 1.16.x
+(17:13:44) Blaz3girl failed Speed check | t: spin (-229.11188->-223.11188) (+10) | vl:20 ping:106 tps:20.0 lp:22 component: speed.spin ver: 1.16.x
+(17:15:10) Bl4zeBoy failed Elytra check | (elytra) reserve energy: 0.0 dif: 0.0 motion: 0.0 t: 4 (+2) | vl:2 ping:65 tps:19.99 lp:25 component: ely.re ver: 1.16.x
+(17:15:50) Bl4zeBoy failed Elytra check | (elytra) keep glide pose on ground: 3 (+4) | vl:4 ping:80 tps:20.0 lp:20 component: ely.grd ver: 1.16.x
+(17:15:50) Bl4zeBoy failed Elytra check | (elytra) keep glide pose on ground: 4 (+4) | vl:8 ping:80 tps:20.0 lp:20 component: ely.grd ver: 1.16.x
+(17:17:42) Blaz3girl failed Speed check | t: spin (-197.46501->-188.46501) (+10) | vl:10 ping:95 tps:20.0 lp:18 component: speed.spin ver: 1.16.x
+(17:18:20) Bl4zeBoy failed Fly check | step | p:2 | val: 0.40073822694933625 (+7) | vl:7 ping:195 tps:20.0 lp:18 component: speed.step ver: 1.16.x
+(17:18:20) Bl4zeBoy failed Fly check | suspicious movement:0.401 predict:0.314 air_t:1 tag:sam (+5) | vl:12 ping:195 tps:20.0 lp:18 component: fly.main ver: 1.16.x
+(17:18:30) Blaz3girl failed Speed check | t: spin (-182.7658->-191.7658) (+10) | vl:10 ping:125 tps:19.99 lp:19 component: speed.spin ver: 1.16.x
+(17:18:53) moezes failed Elytra check | (elytra) impossible elytra movement (move: -0.02,0.564,0.001, mot: 0.5642689738444631) (+2) | vl:2 ping:86 tps:20.0 lp:8 component: ely.mvy ver: 1.16.x
+(17:18:53) moezes failed Elytra check | (elytra) impossible elytra movement (move: -0.02,0.533,0.001, mot: 0.5328361517875493) (+2) | vl:4 ping:86 tps:20.0 lp:8 component: ely.mvy ver: 1.16.x
+(17:18:53) moezes failed Elytra check | (elytra) impossible elytra movement (move: -0.019,0.502,0.001, mot: 0.5020660938301944) (+2) | vl:6 ping:86 tps:20.0 lp:8 component: ely.mvy ver: 1.16.x
+(17:18:53) moezes failed Elytra check | (elytra) impossible elytra movement (move: -0.019,0.472,0.001, mot: 0.4719444582295722) (+2) | vl:8 ping:86 tps:20.0 lp:8 component: ely.mvy ver: 1.16.x
+(17:21:46) moezes failed Elytra check | (elytra) impossible elytra movement (move: 0.0,1.082,0.0, mot: 1.0823850681029086) (+2) | vl:2 ping:118 tps:20.0 lp:11 component: ely.mvy ver: 1.16.x
+(17:21:46) moezes failed Elytra check | (elytra) impossible elytra movement (move: 0.0,1.017,0.0, mot: 1.017384549670794) (+2) | vl:4 ping:118 tps:20.0 lp:11 component: ely.mvy ver: 1.16.x
+(17:21:46) moezes failed Elytra check | (elytra) impossible elytra movement (move: 0.0,0.956,0.0, mot: 0.9563119463596905) (+2) | vl:6 ping:118 tps:20.0 lp:11 component: ely.mvy ver: 1.16.x
+(17:21:46) moezes failed Elytra check | (elytra) impossible elytra movement (move: 0.0,0.901,0.0, mot: 0.9006742467764326) (+2) | vl:8 ping:118 tps:20.0 lp:11 component: ely.mvy ver: 1.16.x
+(17:21:48) Blaz3girl failed Speed check | t: spin (-577.86597->-187.86597) (+10) | vl:10 ping:135 tps:20.0 lp:21 component: speed.spin ver: 1.16.x
+(17:23:47) Blaz3girl failed Speed check | t: spin (-584.76495->-212.76495) (+10) | vl:10 ping:91 tps:20.0 lp:15 component: speed.spin ver: 1.16.x
+(17:28:52) moezes failed Speed check | t: spin (-964.9949->-952.9949) (+10) | vl:10 ping:77 tps:19.99 lp:9 component: speed.spin ver: 1.16.x
+(17:28:59) moezes failed Block check | break block too fast (digs: 6/6, block: stone, j: false) (+4) | vl:4 ping:76 tps:20.0 lp:6 component: block.fastbreak.expect ver: 1.16.x
+(17:32:56) Blaz3girl failed Speed check | t: spin (-613.7102->-232.7102) (+10) | vl:10 ping:76 tps:20.0 lp:28 component: speed.spin ver: 1.16.x
+(17:37:47) Bl4zeBoy failed Speed check | suspicious movement (move: 0.425, expect: 0.4065, tag: ea) (+5) | vl:5 ping:95 tps:20.0 lp:28 component: speed.main ver: 1.16.x
+(17:37:47) Bl4zeBoy failed Speed check | suspicious movement (move: 0.412, expect: 0.4065, tag: ea) (+5) | vl:10 ping:95 tps:20.0 lp:28 component: speed.main ver: 1.16.x
+(17:37:47) Bl4zeBoy failed Fly check | suspicious movement:0.218 predict:0.17 vel:0.248 air_t:3 tag:vt (+5) | vl:5 ping:95 tps:20.0 lp:28 component: fly.main ver: 1.16.x
+(17:42:21) Bl4zeBoy failed Fly check | suspicious movement:0.342 predict:0.338 vel:0.248 air_t:1 tag:vt (+5) | vl:5 ping:85 tps:20.0 lp:16 component: fly.main ver: 1.16.x
+(17:43:10) Bl4zeBoy failed Speed check | suspicious movement (move: 0.431, vet: 0.366, tag: d) (+8) | vl:8 ping:54 tps:20.0 lp:21 component: speed.main ver: 1.16.x
+(17:43:10) Bl4zeBoy failed Speed check | suspicious movement (move: 0.407, expect: 0.3665, tag: ea) (+5) | vl:13 ping:54 tps:20.0 lp:21 component: speed.main ver: 1.16.x
+(17:43:10) Bl4zeBoy failed Fly check | suspicious movement:0.255 predict:0.253 vel:0.333 air_t:2 tag:vt (+5) | vl:5 ping:54 tps:19.99 lp:21 component: fly.main ver: 1.16.x
+(17:43:13) Bl4zeBoy failed Fly check | suspicious movement:0.356 predict:0.271 air_t:1 tag:sam (+5) | vl:10 ping:54 tps:20.0 lp:19 component: fly.main ver: 1.16.x
+(17:43:13) Bl4zeBoy failed Fly check | suspicious movement:0.356 predict:0.338 vel:0.248 air_t:1 tag:vt (+5) | vl:15 ping:54 tps:20.0 lp:19 component: fly.main ver: 1.16.x
+(17:43:17) Bl4zeBoy failed Fly check | suspicious movement:0.341 predict:0.256 air_t:2 tag:sam (+5) | vl:5 ping:54 tps:20.0 lp:22 component: fly.main ver: 1.16.x
+(17:43:37) Bl4zeBoy failed Fly check | suspicious movement:0.56 predict:-0.689 tag:stp (+10) | vl:15 ping:110 tps:20.0 lp:19 component: fly.main ver: 1.16.x
+(17:44:03) Bl4zeBoy failed Fly check | suspicious movement:0.374 predict:0.288 air_t:1 tag:sam (+5) | vl:5 ping:95 tps:20.0 lp:21 component: fly.main ver: 1.16.x
+(17:44:03) Bl4zeBoy failed Fly check | suspicious movement:0.374 predict:0.338 vel:0.248 air_t:1 tag:vt (+5) | vl:10 ping:95 tps:20.0 lp:21 component: fly.main ver: 1.16.x
+(17:45:29) Bl4zeBoy failed Speed check | suspicious movement (0.303, air_t: 12, lm:0.281 acc: 0.022125375250381496, tag: ed) (+15) | vl:15 ping:60 tps:20.0 lp:27 component: speed.main ver: 1.16.x
+(17:45:29) Bl4zeBoy failed Fly check | suspicious movement:0.356 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:5 ping:60 tps:20.0 lp:27 component: fly.main ver: 1.16.x
+(17:46:01) Bl4zeBoy failed Interact check | interact block through solid (through: STONE, block:CHEST) (+1) | vl:1 ping:65 tps:19.99 lp:24 component: interact.through ver: 1.16.x
+(17:46:15) Blaz3girl failed Speed check | t: spin (-351.66397->-6.663971) (+10) | vl:10 ping:90 tps:19.99 lp:20 component: speed.spin ver: 1.16.x
+(17:46:21) Bl4zeBoy failed Speed check | change direction in mid-air (dist: 0.327, angle:64.856, pre:0.286) (+5) | vl:5 ping:70 tps:20.0 lp:13 component: speed.strafe ver: 1.16.x
+(17:46:21) Bl4zeBoy failed Interact check | interact block through solid (through: SPRUCE_LOG, block:CHEST) (+1) | vl:1 ping:70 tps:20.0 lp:13 component: interact.through ver: 1.16.x
+(17:46:44) Blaz3girl failed Speed check | t: spin (-421.26398->-28.263977) (+10) | vl:20 ping:135 tps:20.0 lp:16 component: speed.spin ver: 1.16.x
+(17:46:46) Bl4zeBoy failed Interact check | interact block through solid (through: BEDROCK, block:CHEST) (+1) | vl:1 ping:85 tps:20.0 lp:10 component: interact.through ver: 1.16.x
+(17:46:50) Bl4zeBoy failed Speed check | suspicious movement (move: 0.393, vet: 0.563, tag: d) (+8) | vl:8 ping:80 tps:20.0 lp:10 component: speed.main ver: 1.16.x
+(17:46:54) Bl4zeBoy failed Speed check | change direction in mid-air (dist: 0.246, angle:108.563, pre:0.314) (+5) | vl:13 ping:80 tps:19.99 lp:11 component: speed.strafe ver: 1.16.x
+(17:47:32) Bl4zeBoy failed Speed check | suspicious movement (move: 0.626, predict: 0.605, friction: 0.6, ground:true, motY: 0.42, increase:0.357, preMove:0.248, motion: -0.292,0.42,-0.554, attribute: 0.182, cm: false, di: false, st: true, tag: pred) (+5) | vl:5 ping:80 tps:20.0 lp:20 component: move.xz ver: 1.16.x
+(17:47:57) Blaz3girl failed Speed check | t: spin (-80.16319->-104.16319) (+10) | vl:10 ping:70 tps:20.0 lp:19 component: speed.spin ver: 1.16.x
+(17:48:57) Bl4zeBoy failed Speed check | suspicious movement (move: 0.619, predict: 0.601, friction: 0.6, ground:true, motY: 0.42, increase:0.357, preMove:0.244, motion: -0.612,0.42,0.092, attribute: 0.182, cm: false, di: false, st: true, tag: pred) (+5) | vl:5 ping:70 tps:20.0 lp:18 component: move.xz ver: 1.16.x
+(17:48:57) Bl4zeBoy failed Speed check | suspicious movement (move: 0.628, predict: 0.61, friction: 0.6, ground:true, motY: 0.42, increase:0.357, preMove:0.253, motion: -0.627,0.42,0.045, attribute: 0.182, cm: false, di: false, st: true, tag: pred) (+5) | vl:10 ping:70 tps:20.0 lp:17 component: move.xz ver: 1.16.x
+(17:54:13) Bl4zeBoy failed Phase check | moved into block (block: spruce_log, move: 0.028,0.545,0.049, at: -427.272,64.0,-1291.771, dist: 0.056, loop: false) (+2) | vl:2 ping:85 tps:20.0 lp:42 component: phase.main ver: 1.16.x
+(17:55:36) Blaz3girl failed HitBox check | missed entity hitbox (entity: chicken, angle: 36.317, move: true) (+1) | vl:1 ping:70 tps:19.99 lp:18 component: hb.mis ver: 1.16.x
+(17:59:29) Bl4zeBoy failed Speed check | change direction in mid-air (dist: 0.28, angle:96.678, pre:0.178) (+5) | vl:5 ping:55 tps:20.0 lp:22 component: speed.strafe ver: 1.16.x
+(17:59:29) Bl4zeBoy failed Speed check | suspicious movement (0.296, air_t: 12, lm:0.281 acc: 0.015320462813980196, tag: ed) (+15) | vl:20 ping:55 tps:20.0 lp:22 component: speed.main ver: 1.16.x
+(17:59:29) Bl4zeBoy failed Speed check | suspicious movement (move: 0.478, vet: 0.387, tag: d) (+8) | vl:28 ping:55 tps:20.0 lp:22 component: speed.main ver: 1.16.x
+(17:59:29) Bl4zeBoy failed Speed check | suspicious movement (move: 0.471, expect: 0.3665, tag: ea) (+5) | vl:33 ping:55 tps:20.0 lp:22 component: speed.main ver: 1.16.x
+(17:59:29) Bl4zeBoy failed Fly check | suspicious movement:0.356 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:5 ping:55 tps:20.0 lp:22 component: fly.main ver: 1.16.x
+(18:00:50) Bl4zeBoy failed BadPackets check | (timer) moved too many times (timer: 1.577, t:634, buffer:20, tag: timer) (+10) | vl:10 ping:85 tps:20.0 lp:37 component: net.timer ver: 1.16.x
+(18:00:51) Bl4zeBoy failed BadPackets check | (timer) send 75 moving packets in 995ms | tag: limit (+10) | vl:20 ping:85 tps:20.0 lp:37 component: net.timer ver: 1.16.x
+(18:00:51) Bl4zeBoy failed Elytra check | (elytra) more energy: 2.596 dif: 2.082 motion: -1.841 ratio: 1.131 (+3) | vl:3 ping:85 tps:20.0 lp:37 component: ely.me ver: 1.16.x
+(18:01:20) Bl4zeBoy failed Elytra check | (elytra) more energy: 0.439 dif: 0.117 motion: -0.179 ratio: 0.653 (+1) | vl:1 ping:170 tps:20.0 lp:18 component: ely.me ver: 1.16.x
+(18:02:28) Bl4zeBoy failed Fly check | suspicious movement:0.38 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:5 ping:95 tps:20.0 lp:24 component: fly.main ver: 1.16.x
+(18:02:41) Blaz3girl failed Speed check | t: spin (-167.46207->-173.46207) (+10) | vl:10 ping:135 tps:19.99 lp:14 component: speed.spin ver: 1.16.x
+(18:02:48) Blaz3girl failed Fly check | suspicious movement:-1.355 predict:0.248 air_t:2 tag:rs (+5) | vl:5 ping:84 tps:20.0 lp:11 component: fly.main ver: 1.16.x
+(18:03:12) Bl4zeBoy failed Speed check | suspicious movement (move: 0.49, vet: 0.392, tag: d) (+8) | vl:8 ping:65 tps:19.96 lp:23 component: speed.main ver: 1.16.x
+(18:03:12) Bl4zeBoy failed Speed check | suspicious movement (move: 0.485, expect: 0.3665, tag: ea) (+5) | vl:13 ping:65 tps:20.0 lp:23 component: speed.main ver: 1.16.x
+(18:03:12) Bl4zeBoy failed Fly check | suspicious movement:0.364 predict:0.338 vel:0.42 air_t:1 tag:vt (+5) | vl:5 ping:65 tps:20.0 lp:23 component: fly.main ver: 1.16.x
+(18:03:30) Bl4zeBoy failed Speed check | change direction in mid-air (dist: 0.26, angle:79.841, pre:0.272) (+5) | vl:5 ping:145 tps:20.0 lp:20 component: speed.strafe ver: 1.16.x
+(18:03:43) Bl4zeBoy failed Speed check | suspicious movement (move: 0.419, vet: 0.384, tag: d) (+8) | vl:13 ping:110 tps:19.99 lp:18 component: speed.main ver: 1.16.x
+(18:03:43) Bl4zeBoy failed Speed check | suspicious movement (move: 0.414, expect: 0.3665, tag: ea) (+5) | vl:18 ping:110 tps:19.99 lp:18 component: speed.main ver: 1.16.x
+(18:03:44) Bl4zeBoy failed Speed check | suspicious movement (move: 0.422, expect: 0.3665, tag: ea) (+5) | vl:23 ping:110 tps:19.99 lp:18 component: speed.main ver: 1.16.x
+(18:03:44) Bl4zeBoy failed Speed check | suspicious movement (move: 0.409, expect: 0.3665, tag: ea) (+5) | vl:28 ping:110 tps:19.99 lp:18 component: speed.main ver: 1.16.x
+(18:03:44) Bl4zeBoy failed Fly check | suspicious movement:0.264 predict:0.17 vel:0.165 air_t:3 tag:vt (+5) | vl:5 ping:110 tps:19.99 lp:18 component: fly.main ver: 1.16.x
+(18:04:39) Blaz3girl failed Speed check | t: spin (-258.556->-252.556) (+10) | vl:10 ping:86 tps:20.0 lp:14 component: speed.spin ver: 1.16.x
+(18:05:11) Bl4zeBoy failed Speed check | suspicious movement (move: 0.464, vet: 0.374, tag: d) (+8) | vl:8 ping:90 tps:20.0 lp:27 component: speed.main ver: 1.16.x
+(18:05:11) Bl4zeBoy failed Speed check | suspicious movement (move: 0.459, expect: 0.3665, tag: ea) (+5) | vl:13 ping:90 tps:20.0 lp:27 component: speed.main ver: 1.16.x
+(18:05:11) Bl4zeBoy failed Speed check | suspicious movement (move: 0.467, expect: 0.3665, tag: ea) (+5) | vl:18 ping:90 tps:20.0 lp:25 component: speed.main ver: 1.16.x
+(18:05:11) Bl4zeBoy failed Speed check | suspicious movement (move: 0.467, predict: 0.444, friction: 0.6, ground:false, motY: 0.327, increase:0.026, preMove:0.418, motion: -0.216,0.327,-0.414, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:23 ping:90 tps:20.0 lp:25 component: move.xz ver: 1.16.x
+(18:05:11) Bl4zeBoy failed Speed check | suspicious movement (move: 0.45, expect: 0.3665, tag: ea) (+5) | vl:28 ping:90 tps:20.0 lp:25 component: speed.main ver: 1.16.x
+(18:05:11) Bl4zeBoy failed Fly check | suspicious movement:0.242 predict:0.17 vel:0.165 air_t:3 tag:vt (+5) | vl:5 ping:90 tps:20.0 lp:25 component: fly.main ver: 1.16.x
+(18:05:59) Blaz3girl failed Speed check | t: spin (-282.25623->-261.25623) (+10) | vl:10 ping:126 tps:20.0 lp:15 component: speed.spin ver: 1.16.x
+(18:06:46) Blaz3girl failed Speed check | t: spin (-360.40643->-6.406433) (+10) | vl:10 ping:140 tps:20.0 lp:20 component: speed.spin ver: 1.16.x
+(18:07:11) Blaz3girl failed Speed check | t: spin (-352.00674->-343.00674) (+10) | vl:20 ping:141 tps:20.0 lp:22 component: speed.spin ver: 1.16.x
+(18:07:23) Bl4zeBoy failed BadPackets check | (timer) moved too many times (timer: 1.064, t:940, buffer:20, tag: timer) (+10) | vl:10 ping:75 tps:19.99 lp:34 component: net.timer ver: 1.16.x
+(18:07:23) Bl4zeBoy failed BadPackets check | (timer) send 67 moving packets in 1015ms | tag: limit (+10) | vl:20 ping:75 tps:19.99 lp:34 component: net.timer ver: 1.16.x
+(18:07:59) Blaz3girl failed Block check | break block too fast (digs: 15/18, block: grass_block, j: false) (+4) | vl:4 ping:90 tps:20.0 lp:19 component: block.fastbreak.expect ver: 1.16.x
+(18:08:49) Bl4zeBoy failed Speed check | change direction in mid-air (dist: 0.275, angle:67.136, pre:0.311) (+5) | vl:5 ping:115 tps:20.0 lp:23 component: speed.strafe ver: 1.16.x
+(18:09:55) Bl4zeBoy failed Fly check | suspicious movement:0.354 predict:0.269 air_t:2 tag:sam (+5) | vl:5 ping:105 tps:19.9 lp:21 component: fly.main ver: 1.16.x
+(18:10:20) Bl4zeBoy failed Fly check | suspicious movement:0.274 predict:0.17 vel:0.165 air_t:3 tag:vt (+5) | vl:5 ping:60 tps:20.0 lp:16 component: fly.main ver: 1.16.x
+(18:10:20) Bl4zeBoy failed Fly check | suspicious movement:0.19 predict:0.088 vel:0.083 air_t:4 tag:vt (+5) | vl:10 ping:60 tps:20.0 lp:16 component: fly.main ver: 1.16.x
+(18:11:56) Bl4zeBoy failed Fly check | suspicious movement:0.388 predict:0.302 air_t:1 tag:sam (+5) | vl:5 ping:80 tps:20.0 lp:21 component: fly.main ver: 1.16.x
+(18:12:21) Bl4zeBoy failed Speed check | suspicious movement (move: 0.469, vet: 0.388, tag: d) (+8) | vl:8 ping:80 tps:20.0 lp:20 component: speed.main ver: 1.16.x
+(18:12:21) Bl4zeBoy failed Speed check | suspicious movement (move: 0.476, expect: 0.3665, tag: ea) (+5) | vl:13 ping:80 tps:20.0 lp:20 component: speed.main ver: 1.16.x
+(18:12:21) Bl4zeBoy failed Fly check | suspicious movement:0.388 predict:0.301 air_t:1 tag:sam (+5) | vl:5 ping:80 tps:20.0 lp:20 component: fly.main ver: 1.16.x
+(18:12:21) Bl4zeBoy failed Fly check | suspicious movement:0.388 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:10 ping:80 tps:20.0 lp:20 component: fly.main ver: 1.16.x
+(18:14:35) Blaz3girl failed Speed check | t: spin (-553.75775->-205.75775) (+10) | vl:10 ping:105 tps:19.99 lp:18 component: speed.spin ver: 1.16.x
+(18:16:02) Blaz3girl failed Speed check | t: spin (-713.057->-341.057) (+10) | vl:10 ping:85 tps:20.0 lp:22 component: speed.spin ver: 1.16.x
+(18:16:31) Bl4zeBoy failed Interact check | interact block through solid (through: GRANITE, block:CHEST) (+1) | vl:1 ping:85 tps:20.0 lp:23 component: interact.through ver: 1.16.x
+(18:16:56) Bl4zeBoy failed Speed check | suspicious movement (move: 0.501, predict: 0.295, friction: 0.6, ground:false, motY: 0.391, increase:0.026, preMove:0.269, motion: 0.027,0.391,-0.5, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:5 ping:100 tps:19.99 lp:19 component: move.xz ver: 1.16.x
+(18:16:56) Bl4zeBoy failed Fly check | suspicious movement:0.391 predict:0.305 air_t:1 tag:sam (+5) | vl:5 ping:100 tps:19.99 lp:19 component: fly.main ver: 1.16.x
+(18:18:58) Blaz3girl failed Speed check | t: spin (-939.1061->-237.10608) (+10) | vl:10 ping:100 tps:19.99 lp:28 component: speed.spin ver: 1.16.x
+(18:20:15) Bl4zeBoy failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: -1949.035,73.177,-2536.65, type: air, pkt: true) (+5) | vl:5 ping:100 tps:20.0 lp:31 component: fly.gf ver: 1.16.x
+(18:20:16) Bl4zeBoy failed BadPackets check | (timer) send 45 moving packets in 1010ms | tag: limit (+10) | vl:10 ping:100 tps:19.99 lp:36 component: net.timer ver: 1.16.x
+(18:20:16) Bl4zeBoy failed Speed check | suspicious movement (move: 2.516, predict: 0.283, friction: 0.6, ground:true, motY: -1.0, increase:0.13, preMove:0.153, motion: -2.453,-1.0,-0.561, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:5 ping:100 tps:19.99 lp:36 component: move.xz ver: 1.16.x
+(18:20:18) Bl4zeBoy failed Speed check | suspicious movement (move: 0.479, vet: 0.368, tag: d) (+8) | vl:13 ping:100 tps:19.99 lp:25 component: speed.main ver: 1.16.x
+(18:20:18) Bl4zeBoy failed Speed check | suspicious movement (move: 0.474, expect: 0.3665, tag: ea) (+5) | vl:18 ping:100 tps:20.0 lp:25 component: speed.main ver: 1.16.x
+(18:20:18) Bl4zeBoy failed Speed check | suspicious movement (move: 0.481, expect: 0.3665, tag: ea) (+5) | vl:23 ping:100 tps:20.0 lp:25 component: speed.main ver: 1.16.x
+(18:20:18) Bl4zeBoy failed Speed check | suspicious movement (move: 0.481, predict: 0.457, friction: 0.6, ground:false, motY: 0.317, increase:0.026, preMove:0.431, motion: -0.481,0.317,-0.028, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:28 ping:100 tps:20.0 lp:25 component: move.xz ver: 1.16.x
+(18:20:18) Bl4zeBoy failed Speed check | suspicious movement (move: 0.464, expect: 0.3665, tag: ea) (+5) | vl:33 ping:100 tps:20.0 lp:25 component: speed.main ver: 1.16.x
+(18:20:18) Bl4zeBoy failed Fly check | suspicious movement:0.233 predict:0.17 vel:0.165 air_t:3 tag:vt (+5) | vl:5 ping:100 tps:20.0 lp:25 component: fly.main ver: 1.16.x
+(18:20:33) Bl4zeBoy failed Speed check | suspicious movement (move: 0.406, predict: 0.388, friction: 0.6, ground:false, motY: 0.351, increase:0.026, preMove:0.362, motion: 0.366,0.351,-0.175, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:38 ping:85 tps:20.0 lp:21 component: move.xz ver: 1.16.x
+(18:20:33) Bl4zeBoy failed Fly check | suspicious movement:0.351 predict:0.266 air_t:2 tag:sam (+5) | vl:10 ping:85 tps:20.0 lp:21 component: fly.main ver: 1.16.x
+(18:20:47) Bl4zeBoy failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: -1920.337,70.104,-2478.114, type: air, pkt: true) (+5) | vl:5 ping:1455 tps:20.0 lp:30 component: fly.gf ver: 1.16.x
+(18:20:47) Bl4zeBoy failed BadPackets check | (timer) send 46 moving packets in 1015ms | tag: limit (+5) | vl:5 ping:1455 tps:20.0 lp:30 component: net.timer ver: 1.16.x
+(18:20:47) Bl4zeBoy failed Speed check | suspicious movement (move: 3.848, predict: 0.331, friction: 0.6, ground:false, motY: -0.102, increase:0.026, preMove:0.305, motion: 2.087,-0.102,-3.233, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:5 ping:1455 tps:20.0 lp:30 component: move.xz ver: 1.16.x
+(18:20:50) Bl4zeBoy failed Fly check | suspicious movement: 0.232 vel: -0.585 tag: els (+10) | vl:15 ping:1455 tps:20.0 lp:19 component: fly.els ver: 1.16.x
+(18:20:56) Bl4zeBoy failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: -1875.592,69.348,-2511.532, type: air, pkt: true) (+5) | vl:20 ping:1455 tps:20.0 lp:17 component: fly.gf ver: 1.16.x
+(18:20:59) Bl4zeBoy failed Fly check | suspicious movement: 0.201 vel: -0.517 tag: els (+10) | vl:30 ping:885 tps:20.0 lp:21 component: fly.els ver: 1.16.x
+(18:20:59) Bl4zeBoy failed Fly check | suspicious movement: 0.172 vel: -0.585 tag: els (+10) | vl:40 ping:885 tps:20.0 lp:21 component: fly.els ver: 1.16.x
+(18:21:00) Bl4zeBoy failed Fly check | suspicious movement: 0.144 vel: -0.652 tag: els (+10) | vl:50 ping:885 tps:20.0 lp:21 component: fly.els ver: 1.16.x
+(18:21:00) Execute command: matrix notify Bl4zeBoy tried to fly (Fly) #1
+(18:21:00) Bl4zeBoy failed Fly check | suspicious movement: 0.116 vel: -0.717 tag: els (+10) | vl:60 ping:885 tps:20.0 lp:21 component: fly.els ver: 1.16.x
+(18:22:18) Bl4zeBoy failed Fly check | suspicious movement:0.127 predict:0.088 vel:0.083 air_t:4 tag:vt (+5) | vl:5 ping:85 tps:20.0 lp:20 component: fly.main ver: 1.16.x
+(18:23:13) Bl4zeBoy failed Speed check | suspicious movement (move: 0.472, vet: 0.392, tag: d) (+8) | vl:8 ping:70 tps:20.0 lp:17 component: speed.main ver: 1.16.x
+(18:23:13) Bl4zeBoy failed Speed check | suspicious movement (move: 0.467, expect: 0.3665, tag: ea) (+5) | vl:13 ping:70 tps:20.0 lp:17 component: speed.main ver: 1.16.x
+(18:23:13) Bl4zeBoy failed Speed check | suspicious movement (move: 0.475, expect: 0.3665, tag: ea) (+5) | vl:18 ping:70 tps:20.0 lp:17 component: speed.main ver: 1.16.x
+(18:23:13) Bl4zeBoy failed Speed check | suspicious movement (move: 0.475, predict: 0.451, friction: 0.6, ground:false, motY: 0.364, increase:0.026, preMove:0.425, motion: -0.364,0.364,0.304, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:23 ping:70 tps:20.0 lp:17 component: move.xz ver: 1.16.x
+(18:23:13) Bl4zeBoy failed Speed check | suspicious movement (move: 0.457, expect: 0.3665, tag: ea) (+5) | vl:28 ping:70 tps:20.0 lp:17 component: speed.main ver: 1.16.x
+(18:23:13) Bl4zeBoy failed Fly check | suspicious movement:0.279 predict:0.17 vel:0.248 air_t:3 tag:vt (+5) | vl:5 ping:70 tps:20.0 lp:17 component: fly.main ver: 1.16.x
+(18:23:14) Bl4zeBoy failed Speed check | suspicious movement (move: 0.384, vet: 0.394, tag: d) (+8) | vl:36 ping:70 tps:20.0 lp:18 component: speed.main ver: 1.16.x
+(18:23:14) Bl4zeBoy failed Speed check | suspicious movement (move: 0.38, expect: 0.3665, tag: ea) (+5) | vl:41 ping:70 tps:20.0 lp:18 component: speed.main ver: 1.16.x
+(18:25:57) Bl4zeBoy failed Speed check | change direction in mid-air (dist: 0.282, angle:123.767, pre:0.279) (+5) | vl:5 ping:95 tps:20.0 lp:16 component: speed.strafe ver: 1.16.x
+(18:26:55) Blaz3girl failed Fly check | suspicious movement:0.279 predict:-0.278 air:7 tag:dmf (+10) | vl:10 ping:125 tps:20.0 lp:23 component: fly.main ver: 1.16.x
+(18:28:43) Bl4zeBoy failed Fly check | suspicious movement:0.394 predict:0.308 air_t:1 tag:sam (+5) | vl:5 ping:96 tps:20.0 lp:17 component: fly.main ver: 1.16.x
+(18:28:43) Bl4zeBoy failed Fly check | suspicious movement:0.394 predict:0.338 vel:-0.231 air_t:1 tag:vt (+5) | vl:10 ping:96 tps:20.0 lp:17 component: fly.main ver: 1.16.x
+(18:28:44) Bl4zeBoy failed Speed check | suspicious movement (move: 0.435, vet: 0.4, tag: d) (+8) | vl:8 ping:96 tps:19.99 lp:18 component: speed.main ver: 1.16.x
+(18:28:44) Bl4zeBoy failed Speed check | suspicious movement (move: 0.428, expect: 0.3665, tag: ea) (+5) | vl:13 ping:96 tps:19.99 lp:18 component: speed.main ver: 1.16.x
+(18:28:44) Bl4zeBoy failed Fly check | suspicious movement:0.38 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:15 ping:96 tps:19.99 lp:18 component: fly.main ver: 1.16.x
+(18:29:30) Blaz3girl failed Block check | break block without delay (+4) | vl:4 ping:136 tps:20.0 lp:24 component: blk.fb.dly ver: 1.16.x
+(18:29:38) Blaz3girl failed Speed check | t: spin (-1829.8132->-23.813232) (+10) | vl:10 ping:136 tps:20.0 lp:16 component: speed.spin ver: 1.16.x
+(18:48:45) moezes failed Fly check | suspicious movement: 0.215 vel: -0.517 tag: els (+10) | vl:10 ping:118 tps:20.0 lp:12 component: fly.els ver: 1.16.x
+(18:48:45) moezes failed Fly check | suspicious movement: 0.188 vel: -0.585 tag: els (+10) | vl:20 ping:118 tps:20.0 lp:12 component: fly.els ver: 1.16.x
+(18:48:45) moezes failed Fly check | suspicious movement: 0.162 vel: -0.652 tag: els (+10) | vl:20 ping:118 tps:20.0 lp:12 component: fly.els ver: 1.16.x
+(18:49:24) moezes failed Fly check | suspicious movement:0.329 predict:0.244 air_t:2 tag:sam (+5) | vl:5 ping:71 tps:19.99 lp:14 component: fly.main ver: 1.16.x
+(18:49:24) moezes failed Fly check | suspicious movement:0.329 predict:0.253 vel:0.248 air_t:2 tag:vt (+5) | vl:10 ping:71 tps:19.99 lp:14 component: fly.main ver: 1.16.x
+(18:52:49) moezes failed Fly check | suspicious movement:0.364 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:5 ping:113 tps:20.0 lp:9 component: fly.main ver: 1.16.x
+(18:52:49) moezes failed Fly check | suspicious movement:0.337 predict:0.253 vel:0.248 air_t:2 tag:vt (+5) | vl:10 ping:113 tps:20.0 lp:9 component: fly.main ver: 1.16.x
+(18:52:49) moezes failed Fly check | suspicious movement:0.337 predict:0.251 air_t:3 tag:sam (+5) | vl:15 ping:113 tps:20.0 lp:9 component: fly.main ver: 1.16.x
+(18:52:49) moezes failed Fly check | suspicious movement:0.337 predict:0.17 vel:0.165 air_t:3 tag:vt (+5) | vl:20 ping:113 tps:20.0 lp:9 component: fly.main ver: 1.16.x
+(18:53:52) moezes failed Fly check | suspicious movement:0.358 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:5 ping:109 tps:19.99 lp:15 component: fly.main ver: 1.16.x
+(18:53:52) moezes failed Fly check | suspicious movement:0.326 predict:0.253 vel:0.248 air_t:2 tag:vt (+5) | vl:10 ping:109 tps:19.99 lp:15 component: fly.main ver: 1.16.x
+(18:53:52) moezes failed Fly check | suspicious movement:0.326 predict:0.241 air_t:3 tag:sam (+5) | vl:15 ping:109 tps:19.99 lp:15 component: fly.main ver: 1.16.x
+(18:53:52) moezes failed Fly check | suspicious movement:0.326 predict:0.17 vel:0.165 air_t:3 tag:vt (+5) | vl:20 ping:109 tps:19.99 lp:15 component: fly.main ver: 1.16.x
+(18:55:58) moezes failed Block check | break block without delay (+4) | vl:4 ping:108 tps:20.0 lp:22 component: blk.fb.dly ver: 1.16.x
+(18:56:43) moezes failed Speed check | suspicious movement (move: 0.438, vet: 0.358, tag: d) (+8) | vl:8 ping:119 tps:20.0 lp:12 component: speed.main ver: 1.16.x
+(18:56:43) moezes failed Speed check | suspicious movement (move: 0.433, expect: 0.3665, tag: ea) (+5) | vl:13 ping:119 tps:20.0 lp:12 component: speed.main ver: 1.16.x
+(18:56:43) moezes failed Speed check | suspicious movement (move: 0.428, expect: 0.3665, tag: ea) (+5) | vl:18 ping:119 tps:20.0 lp:12 component: speed.main ver: 1.16.x
+(18:56:43) moezes failed Speed check | suspicious movement (move: 0.436, expect: 0.3665, tag: ea) (+5) | vl:23 ping:119 tps:20.0 lp:12 component: speed.main ver: 1.16.x
+(18:56:43) moezes failed Fly check | suspicious movement:0.237 predict:0.154 air_t:3 tag:sam (+5) | vl:5 ping:119 tps:20.0 lp:12 component: fly.main ver: 1.16.x
+(18:56:43) moezes failed Fly check | suspicious movement:0.237 predict:0.17 vel:-0.377 air_t:3 tag:vt (+5) | vl:10 ping:119 tps:20.0 lp:12 component: fly.main ver: 1.16.x
+(18:58:47) moezes failed Fly check | suspicious movement:0.283 predict:0.253 vel:0.248 air_t:2 tag:vt (+5) | vl:5 ping:108 tps:20.0 lp:10 component: fly.main ver: 1.16.x
+(18:58:47) moezes failed Fly check | suspicious movement:0.283 predict:0.199 air_t:3 tag:sam (+5) | vl:10 ping:108 tps:20.0 lp:10 component: fly.main ver: 1.16.x
+(18:58:47) moezes failed Fly check | suspicious movement:0.283 predict:0.17 vel:0.165 air_t:3 tag:vt (+5) | vl:15 ping:108 tps:20.0 lp:10 component: fly.main ver: 1.16.x
+(19:03:49) moezes failed Speed check | change direction in mid-air (dist: 0.26, angle:112.129, pre:0.273) (+5) | vl:5 ping:86 tps:19.99 lp:5 component: speed.strafe ver: 1.16.x
+(19:55:10) Bl4zeBoy failed Block check | break block with timer (block: spruce_log, point: 431) (+4) | vl:4 ping:90 tps:20.0 lp:26 component: block.fb.timer ver: 1.16.x
+(19:56:17) Bl4zeBoy failed BadPackets check | (timer) moved too many times (timer: 2.252, t:444, buffer:20, tag: timer) (+5) | vl:5 ping:166 tps:20.0 lp:42 component: net.timer ver: 1.16.x
+(19:56:17) Bl4zeBoy failed BadPackets check | (timer) send 88 moving packets in 1070ms | tag: limit (+5) | vl:10 ping:166 tps:20.0 lp:40 component: net.timer ver: 1.16.x
+(19:58:30) Bl4zeBoy failed Speed check | suspicious movement (move: 0.394, vet: 0.368, tag: d) (+8) | vl:8 ping:100 tps:20.0 lp:19 component: speed.main ver: 1.16.x
+(19:58:30) Bl4zeBoy failed Speed check | suspicious movement (move: 0.396, predict: 0.38, friction: 0.6, ground:false, motY: 0.317, increase:0.026, preMove:0.354, motion: -0.394,0.317,-0.042, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:13 ping:100 tps:20.0 lp:19 component: move.xz ver: 1.16.x
+(19:58:30) Bl4zeBoy failed Fly check | suspicious movement:0.317 predict:0.233 air_t:2 tag:sam (+5) | vl:5 ping:100 tps:20.0 lp:19 component: fly.main ver: 1.16.x
+(19:58:30) Bl4zeBoy failed Fly check | suspicious movement:0.317 predict:0.253 vel:0.165 air_t:2 tag:vt (+5) | vl:10 ping:100 tps:20.0 lp:19 component: fly.main ver: 1.16.x
+(19:59:57) Bl4zeBoy failed BadPackets check | (timer) moved too many times (timer: 1000.0, t:1, buffer:20, tag: timer) (+5) | vl:5 ping:145 tps:20.0 lp:45 component: net.timer ver: 1.16.x
+(19:59:57) Bl4zeBoy failed BadPackets check | (timer) moved too many times (timer: 1000.0, t:1, buffer:20, tag: timer) (+5) | vl:10 ping:145 tps:20.0 lp:45 component: net.timer ver: 1.16.x
+(20:01:14) Bl4zeBoy failed Speed check | suspicious movement (move: 0.373, vet: 0.361, tag: d) (+2) | vl:2 ping:460 tps:20.0 lp:25 component: speed.main ver: 1.16.x
+(20:01:14) Bl4zeBoy failed Speed check | suspicious movement (move: 0.372, expect: 0.3665, tag: ea) (+5) | vl:7 ping:460 tps:20.0 lp:25 component: speed.main ver: 1.16.x
+(20:01:14) Bl4zeBoy failed Speed check | suspicious movement (move: 0.372, predict: 0.358, friction: 0.6, ground:false, motY: 0.302, increase:0.026, preMove:0.332, motion: 0.175,0.302,0.329, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:12 ping:460 tps:20.0 lp:25 component: move.xz ver: 1.16.x
+(20:01:14) Bl4zeBoy failed Fly check | suspicious movement:0.302 predict:0.253 vel:0.333 air_t:2 tag:vt (+5) | vl:5 ping:460 tps:20.0 lp:25 component: fly.main ver: 1.16.x
+(20:03:50) Bl4zeBoy failed Speed check | suspicious movement (move: 0.374, vet: 0.384, tag: d) (+8) | vl:8 ping:114 tps:20.0 lp:18 component: speed.main ver: 1.16.x
+(20:03:50) Bl4zeBoy failed Speed check | suspicious movement (move: 0.371, expect: 0.3665, tag: ea) (+5) | vl:13 ping:114 tps:20.0 lp:18 component: speed.main ver: 1.16.x
+(20:03:50) Bl4zeBoy failed Fly check | suspicious movement:0.348 predict:0.338 vel:0.42 air_t:1 tag:vt (+5) | vl:5 ping:114 tps:20.0 lp:18 component: fly.main ver: 1.16.x
+(20:03:51) Bl4zeBoy failed Speed check | suspicious movement (move: 0.37, vet: 0.382, tag: d) (+4) | vl:17 ping:230 tps:20.0 lp:24 component: speed.main ver: 1.16.x
+(20:03:51) Bl4zeBoy failed Speed check | suspicious movement (move: 0.367, expect: 0.3665, tag: ea) (+5) | vl:22 ping:230 tps:20.0 lp:24 component: speed.main ver: 1.16.x
+(20:03:51) Bl4zeBoy failed Speed check | suspicious movement (move: 0.374, expect: 0.3665, tag: ea) (+5) | vl:27 ping:230 tps:20.0 lp:24 component: speed.main ver: 1.16.x
+(20:03:51) Bl4zeBoy failed Speed check | suspicious movement (move: 0.374, predict: 0.36, friction: 0.6, ground:false, motY: 0.345, increase:0.026, preMove:0.334, motion: 0.367,0.345,-0.073, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:32 ping:230 tps:20.0 lp:24 component: move.xz ver: 1.16.x
+(20:03:51) Bl4zeBoy failed Fly check | suspicious movement:0.345 predict:0.26 air_t:2 tag:sam (+5) | vl:10 ping:230 tps:20.0 lp:24 component: fly.main ver: 1.16.x
+(20:03:51) Bl4zeBoy failed Fly check | suspicious movement:0.345 predict:0.253 vel:0.248 air_t:2 tag:vt (+5) | vl:15 ping:230 tps:20.0 lp:24 component: fly.main ver: 1.16.x
+(20:04:51) Bl4zeBoy failed Speed check | suspicious movement (move: 0.505, vet: 0.392, tag: d) (+8) | vl:8 ping:95 tps:20.0 lp:22 component: speed.main ver: 1.16.x
+(20:05:55) Bl4zeBoy failed Speed check | sprint with weird direction (dist: 0.229, angle:139.767) (+5) | vl:5 ping:100 tps:20.0 lp:25 component: speed.sprint ver: 1.16.x
+(20:05:55) Bl4zeBoy failed Speed check | sprint with weird direction (dist: 0.252, angle:139.848) (+5) | vl:10 ping:100 tps:20.0 lp:25 component: speed.sprint ver: 1.16.x
+(20:05:55) Bl4zeBoy failed Speed check | sprint with weird direction (dist: 0.264, angle:134.142) (+5) | vl:15 ping:100 tps:20.0 lp:25 component: speed.sprint ver: 1.16.x
+(20:07:32) moezes failed Chat check | chat too fast | delay: 1894 (+1) | vl:1 ping:81 tps:20.0 lp:23 component: chat.delay ver: 1.16.x
+(22:47:41) moezes failed Block check | break block without delay (+4) | vl:4 ping:83 tps:20.0 lp:9 component: blk.fb.dly ver: 1.16.x
+(22:47:57) moezes failed Block check | break block without delay (+4) | vl:4 ping:82 tps:20.0 lp:11 component: blk.fb.dly ver: 1.16.x
+(22:48:02) moezes failed Block check | break block without delay (+4) | vl:8 ping:107 tps:20.0 lp:11 component: blk.fb.dly ver: 1.16.x
+(22:49:37) moezes failed Block check | break block without delay (+4) | vl:4 ping:76 tps:20.0 lp:15 component: blk.fb.dly ver: 1.16.x
+(22:49:41) moezes failed Block check | break block without delay (+4) | vl:8 ping:76 tps:20.0 lp:17 component: blk.fb.dly ver: 1.16.x
+(22:53:43) moezes failed Fly check | suspicious movement:0.313 predict:0.229 air_t:2 tag:sam (+5) | vl:5 ping:74 tps:20.0 lp:6 component: fly.main ver: 1.16.x
+(22:54:36) moezes failed Fly check | suspicious movement:0.351 predict:0.338 vel:0.0 air_t:1 tag:vt (+5) | vl:5 ping:78 tps:20.0 lp:23 component: fly.main ver: 1.16.x
+(22:58:11) moezes failed Fly check | suspicious movement:0.277 predict:0.17 vel:0.165 air_t:3 tag:vt (+5) | vl:5 ping:81 tps:19.99 lp:4 component: fly.main ver: 1.16.x
+(22:58:11) moezes failed Fly check | suspicious movement:0.193 predict:0.088 vel:0.083 air_t:4 tag:vt (+5) | vl:10 ping:81 tps:19.99 lp:4 component: fly.main ver: 1.16.x
+(22:58:34) moezes failed Speed check | suspicious movement (move: 0.451, vet: 0.39, tag: d) (+8) | vl:8 ping:79 tps:20.0 lp:9 component: speed.main ver: 1.16.x
+(22:58:34) moezes failed Speed check | suspicious movement (move: 0.446, expect: 0.4065, tag: ea) (+5) | vl:13 ping:79 tps:19.99 lp:9 component: speed.main ver: 1.16.x
+(22:58:34) moezes failed Speed check | suspicious movement (move: 0.454, expect: 0.4065, tag: ea) (+5) | vl:18 ping:79 tps:19.99 lp:9 component: speed.main ver: 1.16.x
+(22:58:34) moezes failed Speed check | suspicious movement (move: 0.454, predict: 0.432, friction: 0.6, ground:false, motY: 0.36, increase:0.026, preMove:0.406, motion: 0.106,0.36,0.441, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:23 ping:79 tps:19.99 lp:9 component: move.xz ver: 1.16.x
+(22:58:34) moezes failed Speed check | suspicious movement (move: 0.439, expect: 0.4065, tag: ea) (+5) | vl:28 ping:79 tps:19.99 lp:9 component: speed.main ver: 1.16.x
+(22:58:34) moezes failed Fly check | suspicious movement:0.275 predict:0.17 vel:0.248 air_t:3 tag:vt (+5) | vl:5 ping:79 tps:19.99 lp:9 component: fly.main ver: 1.16.x
+(23:05:43) moezes failed HitBox check | missed entity hitbox (entity: zombie, angle: 39.058, move: true) (+1) | vl:1 ping:80 tps:20.0 lp:9 component: hb.mis ver: 1.16.x
+(23:05:44) moezes failed HitBox check | missed entity hitbox (entity: zombie, angle: 51.193, move: true) (+1) | vl:2 ping:80 tps:20.0 lp:6 component: hb.mis ver: 1.16.x
+(23:06:21) moezes failed Elytra check | (elytra) impossible elytra movement (move: 0.0,0.906,-0.003, mot: 0.9055291758514983) (+2) | vl:2 ping:79 tps:20.0 lp:9 component: ely.mvy ver: 1.16.x
+(23:07:37) moezes failed Interact check | interact with liquid (at 144.0,43.0,151.0) (+1) | vl:1 ping:80 tps:20.0 lp:4 component: interact.liquid ver: 1.16.x
+(23:07:37) moezes failed Interact check | interact with liquid (at 144.0,43.0,151.0) (+1) | vl:2 ping:80 tps:20.0 lp:4 component: interact.liquid ver: 1.16.x
+(23:10:05) moezes failed Fly check | suspicious movement:0.269 predict:0.186 air_t:5 tag:sam (+5) | vl:5 ping:79 tps:19.99 lp:3 component: fly.main ver: 1.16.x
+(23:10:06) moezes failed Fly check | suspicious movement:0.216 predict:0.17 vel:0.083 air_t:3 tag:vt (+5) | vl:10 ping:79 tps:20.0 lp:4 component: fly.main ver: 1.16.x
+(23:11:51) moezes failed Delay check | perform actions faster than expected // heal (difficulty: hard, delay: 0.361, ver: V1_16_X, ver_p: 1.16.x) (+1) | vl:1 ping:75 tps:20.0 lp:8 component: delay.heal ver: 1.16.x

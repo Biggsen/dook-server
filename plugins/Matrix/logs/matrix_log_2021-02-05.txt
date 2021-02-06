@@ -1,0 +1,755 @@
+(00:00:50) Edwiener failed Fly check | suspicious movement:0.392 predict:0.306 air_t:1 tag:sam (+5) | vl:5 ping:54 tps:20.0 lp:9 component: fly.main ver: 1.16.x
+(00:00:50) Edwiener failed Fly check | suspicious movement:0.392 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:10 ping:54 tps:20.0 lp:9 component: fly.main ver: 1.16.x
+(00:02:34) Edwiener failed Fly check | suspicious movement:0.391 predict:0.305 air_t:1 tag:sam (+5) | vl:5 ping:46 tps:19.99 lp:7 component: fly.main ver: 1.16.x
+(00:06:00) Edwiener failed Speed check | change direction in mid-air (dist: 0.232, angle:91.884, pre:0.288) (+5) | vl:5 ping:51 tps:20.0 lp:6 component: speed.strafe ver: 1.16.x
+(00:09:32) Edwiener failed Speed check | change direction in mid-air (dist: 0.222, angle:86.298, pre:0.159) (+5) | vl:5 ping:49 tps:20.0 lp:13 component: speed.strafe ver: 1.16.x
+(00:11:11) moezes failed Fly check | suspicious movement:0.32 predict:0.253 vel:0.248 air_t:2 tag:vt (+5) | vl:5 ping:187 tps:20.0 lp:10 component: fly.main ver: 1.16.x
+(00:11:23) Edwiener failed Speed check | change direction in mid-air (dist: 0.284, angle:85.85, pre:0.285) (+5) | vl:5 ping:58 tps:20.0 lp:7 component: speed.strafe ver: 1.16.x
+(00:12:02) Edwiener failed Fly check | suspicious movement:0.386 predict:0.3 air_t:1 tag:sam (+5) | vl:5 ping:68 tps:20.0 lp:8 component: fly.main ver: 1.16.x
+(00:12:02) Edwiener failed Fly check | suspicious movement:0.386 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:10 ping:68 tps:20.0 lp:8 component: fly.main ver: 1.16.x
+(00:13:16) Edwiener failed Fly check | suspicious movement:0.387 predict:0.301 air_t:1 tag:sam (+5) | vl:5 ping:67 tps:19.99 lp:9 component: fly.main ver: 1.16.x
+(00:13:16) Edwiener failed Fly check | suspicious movement:0.387 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:10 ping:67 tps:19.99 lp:9 component: fly.main ver: 1.16.x
+(00:13:44) moezes failed Elytra check | (elytra) impossible elytra movement (move: 0.001,0.432,-0.009, mot: 0.43190319210083317) (+2) | vl:2 ping:84 tps:20.0 lp:15 component: ely.mvy ver: 1.16.x
+(00:15:10) moezes failed Elytra check | (elytra) keep glide pose on ground: 3 (+4) | vl:4 ping:84 tps:20.0 lp:23 component: ely.grd ver: 1.16.x
+(00:17:38) Edwiener failed Speed check | suspicious movement (move: 0.476, vet: 0.387, tag: d) (+8) | vl:8 ping:49 tps:20.0 lp:12 component: speed.main ver: 1.16.x
+(00:17:39) Edwiener failed Speed check | suspicious movement (move: 0.483, expect: 0.4065, tag: ea) (+5) | vl:13 ping:49 tps:20.0 lp:12 component: speed.main ver: 1.16.x
+(00:17:39) Edwiener failed Fly check | suspicious movement:0.387 predict:0.3 air_t:1 tag:sam (+5) | vl:5 ping:49 tps:20.0 lp:12 component: fly.main ver: 1.16.x
+(00:17:39) Edwiener failed Fly check | suspicious movement:0.387 predict:0.338 vel:0.248 air_t:1 tag:vt (+5) | vl:10 ping:49 tps:20.0 lp:12 component: fly.main ver: 1.16.x
+(00:17:42) Edwiener failed Speed check | t: spin (-48.4356->-36.4356) (+10) | vl:23 ping:55 tps:20.0 lp:10 component: speed.spin ver: 1.16.x
+(00:24:56) Edwiener failed BadPackets check | (tiny-timer) moved too many times: 1.087 (5) (+0) | vl:0 ping:76 tps:19.99 lp:8 component: net.timer ver: 1.16.x
+(00:25:11) moezes failed Fly check | suspicious movement:0.303 predict:0.253 vel:0.248 air_t:2 tag:vt (+5) | vl:5 ping:78 tps:20.0 lp:3 component: fly.main ver: 1.16.x
+(00:25:29) moezes failed Elytra check | (elytra) reserve energy: 0.0 dif: 0.0 motion: 0.0 t: 3 (+2) | vl:2 ping:80 tps:20.0 lp:8 component: ely.re ver: 1.16.x
+(00:25:37) moezes failed Speed check | t: spin (-383.49033->-395.49033) (+10) | vl:10 ping:76 tps:20.0 lp:6 component: speed.spin ver: 1.16.x
+(00:26:15) moezes failed Scaffold check | scaffold-like placement | type D (+7) | vl:7 ping:76 tps:20.0 lp:21 component: sfd.place.d ver: 1.16.x
+(00:28:01) Edwiener failed Speed check | change direction in mid-air (dist: 0.209, angle:56.01, pre:0.206) (+5) | vl:5 ping:55 tps:20.0 lp:6 component: speed.strafe ver: 1.16.x
+(00:31:26) moezes failed Speed check | t: spin (250.55615->277.55615) (+10) | vl:10 ping:133 tps:20.0 lp:4 component: speed.spin ver: 1.16.x
+(00:31:41) moezes failed Fly check | suspicious movement:0.303 predict:0.253 vel:0.248 air_t:2 tag:vt (+5) | vl:5 ping:80 tps:20.0 lp:4 component: fly.main ver: 1.16.x
+(00:31:57) Edwiener failed HitBox check | missed entity hitbox (entity: drowned, angle: 49.86, move: true) (+1) | vl:1 ping:71 tps:20.0 lp:11 component: hb.mis ver: 1.16.x
+(00:31:58) Edwiener failed HitBox check | missed entity hitbox (entity: drowned, angle: 128.971, move: true) (+2) | vl:3 ping:71 tps:20.0 lp:14 component: hb.mis ver: 1.16.x
+(00:32:14) Edwiener failed HitBox check | missed entity hitbox (entity: drowned, angle: 37.019, move: true) (+1) | vl:4 ping:66 tps:20.0 lp:6 component: hb.mis ver: 1.16.x
+(00:32:17) Edwiener failed HitBox check | missed entity hitbox (entity: drowned, angle: 154.661, move: true) (+2) | vl:2 ping:66 tps:20.0 lp:8 component: hb.mis ver: 1.16.x
+(00:36:23) Edwiener failed Speed check | change direction in mid-air (dist: 0.317, angle:75.261, pre:0.295) (+5) | vl:5 ping:52 tps:20.0 lp:9 component: speed.strafe ver: 1.16.x
+(00:36:37) Edwiener failed Speed check | suspicious movement (move: 0.519, predict: 0.376, friction: 0.6, ground:true, motY: 0.42, increase:0.33, preMove:0.046, motion: -0.505,0.42,0.118, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:10 ping:48 tps:20.0 lp:9 component: move.xz ver: 1.16.x
+(00:37:51) Edwiener failed Speed check | change direction in mid-air (dist: 0.238, angle:64.613, pre:0.225) (+5) | vl:5 ping:49 tps:20.0 lp:7 component: speed.strafe ver: 1.16.x
+(00:42:46) Edwiener failed Speed check | change direction in mid-air (dist: 0.286, angle:60.56, pre:0.284) (+5) | vl:5 ping:64 tps:20.0 lp:9 component: speed.strafe ver: 1.16.x
+(00:43:22) Edwiener failed Speed check | suspicious movement (move: 0.62, predict: 0.597, friction: 0.6, ground:true, motY: 0.42, increase:0.305, preMove:0.292, motion: 0.346,0.42,-0.514, attribute: 0.13, cm: false, di: false, st: true, tag: pred) (+5) | vl:5 ping:45 tps:20.0 lp:6 component: move.xz ver: 1.16.x
+(00:45:38) moezes failed Elytra check | (elytra) more energy: 0.611 dif: 0.496 motion: -0.983 ratio: 0.504 (+1) | vl:1 ping:1422 tps:20.0 lp:6 component: ely.me ver: 1.16.x
+(00:45:38) moezes failed Elytra check | (elytra) more energy: 0.953 dif: 0.342 motion: -1.021 ratio: 0.335 (+1) | vl:2 ping:1422 tps:20.0 lp:6 component: ely.me ver: 1.16.x
+(00:45:38) moezes failed Elytra check | (elytra) more energy: 1.186 dif: 0.233 motion: -0.979 ratio: 0.238 (+1) | vl:3 ping:1422 tps:20.0 lp:6 component: ely.me ver: 1.16.x
+(00:45:38) moezes failed Elytra check | (elytra) more energy: 1.328 dif: 0.142 motion: -0.959 ratio: 0.148 (+1) | vl:4 ping:1422 tps:20.0 lp:6 component: ely.me ver: 1.16.x
+(00:45:39) moezes failed Elytra check | (elytra) reserve energy: 1.344 dif: 0.013 motion: 0.587 t: 139 (+2) | vl:6 ping:1422 tps:20.0 lp:6 component: ely.re ver: 1.16.x
+(00:45:41) moezes failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: -824.154,236.374,654.245, type: air, pkt: true) (+5) | vl:5 ping:1422 tps:20.0 lp:5 component: fly.gf ver: 1.16.x
+(00:46:38) Edwiener failed Speed check | change direction in mid-air (dist: 0.287, angle:80.393, pre:0.329) (+5) | vl:5 ping:80 tps:19.99 lp:9 component: speed.strafe ver: 1.16.x
+(00:46:50) Edwiener failed Fly check | suspicious movement:0.5 predict:0.42 air:0 tag:dmj (+5) | vl:5 ping:74 tps:20.0 lp:8 component: fly.main ver: 1.16.x
+(00:47:13) Edwiener failed Fly check | suspicious movement:0.388 predict:0.302 air_t:1 tag:sam (+5) | vl:10 ping:72 tps:20.0 lp:10 component: fly.main ver: 1.16.x
+(00:47:13) Edwiener failed Fly check | suspicious movement:0.388 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:15 ping:72 tps:20.0 lp:10 component: fly.main ver: 1.16.x
+(00:47:58) moezes failed Scaffold check | scaffold-like placement | type B (+7) | vl:7 ping:187 tps:20.0 lp:18 component: sfd.place.b ver: 1.16.x
+(00:47:58) moezes failed Scaffold check | scaffold-like placement | type B (+7) | vl:14 ping:187 tps:20.0 lp:31 component: sfd.place.b ver: 1.16.x
+(00:47:58) Execute command: matrix notify moezes tried to bridge blocks quickly (Scaffold)
+(00:48:18) moezes failed Elytra check | (elytra) reserve energy: 0.979 dif: 0.06 motion: 0.025 t: 80 (+2) | vl:2 ping:206 tps:19.93 lp:12 component: ely.re ver: 1.16.x
+(00:48:38) moezes failed Speed check | suspicious movement (move: 0.319, expect:0.289, t:0, sprint: false, attr: 0.1, tag: a) (+9) | vl:9 ping:478 tps:20.0 lp:12 component: speed.main ver: 1.16.x
+(00:48:38) moezes failed Speed check | suspicious movement (move: 0.318, expect:0.289, t:0, sprint: false, attr: 0.1, tag: a) (+9) | vl:18 ping:478 tps:20.0 lp:12 component: speed.main ver: 1.16.x
+(00:48:38) moezes failed Speed check | suspicious movement (move: 0.317, expect:0.289, t:0, sprint: false, attr: 0.1, tag: a) (+9) | vl:27 ping:478 tps:20.0 lp:12 component: speed.main ver: 1.16.x
+(00:48:38) moezes failed Speed check | suspicious movement (move: 0.315, expect:0.289, t:0, sprint: false, attr: 0.1, tag: a) (+9) | vl:36 ping:478 tps:20.0 lp:12 component: speed.main ver: 1.16.x
+(00:48:38) moezes failed Speed check | suspicious movement (move: 0.314, expect:0.289, t:0, sprint: false, attr: 0.1, tag: a) (+9) | vl:45 ping:478 tps:20.0 lp:12 component: speed.main ver: 1.16.x
+(00:49:06) moezes failed Phase check | moved into block (block: hopper, move: 0.081,-0.19,-0.007, at: -833.049,242.0,664.837, dist: 0.081, loop: false) (+2) | vl:2 ping:177 tps:20.0 lp:11 component: phase.main ver: 1.16.x
+(00:49:16) moezes failed Phase check | moved into block (block: hopper, move: 0.089,-0.158,0.002, at: -833.038,242.0,664.411, dist: 0.089, loop: false) (+2) | vl:2 ping:177 tps:19.99 lp:15 component: phase.main ver: 1.16.x
+(00:49:43) Edwiener failed Speed check | t: spin (1053.6566->345.65662) (+10) | vl:10 ping:47 tps:19.99 lp:13 component: speed.spin ver: 1.16.x
+(00:50:39) moezes failed Speed check | suspicious movement (move: 0.472, vet: 0.387, tag: d) (+7) | vl:7 ping:169 tps:20.0 lp:24 component: speed.main ver: 1.16.x
+(00:50:39) moezes failed Speed check | suspicious movement (move: 0.466, expect: 0.3665, tag: ea) (+5) | vl:12 ping:169 tps:20.0 lp:24 component: speed.main ver: 1.16.x
+(00:50:39) moezes failed Fly check | suspicious movement:0.355 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:5 ping:169 tps:20.0 lp:24 component: fly.main ver: 1.16.x
+(00:51:01) moezes failed Fly check | suspicious movement: 0.224 vel: -0.517 tag: els (+10) | vl:10 ping:837 tps:20.0 lp:25 component: fly.els ver: 1.16.x
+(00:51:01) moezes failed Fly check | suspicious movement: 0.199 vel: -0.585 tag: els (+10) | vl:20 ping:837 tps:20.0 lp:25 component: fly.els ver: 1.16.x
+(00:51:01) moezes failed Fly check | suspicious movement: 0.173 vel: -0.652 tag: els (+10) | vl:30 ping:837 tps:20.0 lp:25 component: fly.els ver: 1.16.x
+(00:51:01) moezes failed Fly check | suspicious movement: 0.149 vel: -0.717 tag: els (+10) | vl:40 ping:837 tps:20.0 lp:25 component: fly.els ver: 1.16.x
+(00:51:01) moezes failed Fly check | suspicious movement: 0.125 vel: -0.781 tag: els (+10) | vl:50 ping:837 tps:20.0 lp:25 component: fly.els ver: 1.16.x
+(00:51:01) Execute command: matrix notify moezes tried to fly (Fly) #1
+(00:51:01) moezes failed Fly check | suspicious movement: 0.101 vel: -0.844 tag: els (+10) | vl:60 ping:837 tps:20.0 lp:25 component: fly.els ver: 1.16.x
+(00:51:22) moezes failed Fly check | suspicious movement:0.055 predict:0.0 vel:-0.514 air_t:12 tag:m4 (+10) | vl:30 ping:103 tps:20.0 lp:17 component: fly.main ver: 1.16.x
+(00:51:22) moezes failed Fly check | suspicious movement:0.031 predict:-0.024 vel:-0.582 air_t:12 tag:m4 (+10) | vl:40 ping:103 tps:20.0 lp:17 component: fly.main ver: 1.16.x
+(00:51:22) moezes failed Fly check | suspicious movement:0.008 predict:-0.048 vel:-0.649 air_t:12 tag:m4 (+10) | vl:50 ping:103 tps:20.0 lp:17 component: fly.main ver: 1.16.x
+(00:51:22) Execute command: matrix notify moezes tried to fly (Fly) #1
+(00:51:33) moezes failed Fly check | suspicious movement:0.047 predict:-0.003 vel:-0.445 air_t:12 tag:m4 (+10) | vl:60 ping:1366 tps:19.99 lp:9 component: fly.main ver: 1.16.x
+(00:52:04) Edwiener failed Speed check | change direction in mid-air (dist: 0.3, angle:89.735, pre:0.28) (+5) | vl:5 ping:68 tps:19.99 lp:14 component: speed.strafe ver: 1.16.x
+(00:52:10) moezes failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: 213.442,43.117,165.046, type: air, pkt: true) (+5) | vl:25 ping:208 tps:19.99 lp:20 component: fly.gf ver: 1.16.x
+(00:52:13) Edwiener failed Speed check | t: spin (-87.33068->-93.33068) (+10) | vl:15 ping:69 tps:20.0 lp:18 component: speed.spin ver: 1.16.x
+(00:53:42) moezes failed Fly check | suspicious movement: 1.535 vel: -0.046 tag: els (+10) | vl:10 ping:281 tps:19.99 lp:10 component: fly.els ver: 1.16.x
+(00:55:19) Edwiener failed Fly check | suspicious movement:0.386 predict:0.3 air_t:1 tag:sam (+5) | vl:5 ping:90 tps:19.99 lp:13 component: fly.main ver: 1.16.x
+(00:55:19) Edwiener failed Fly check | suspicious movement:0.386 predict:0.338 vel:-0.231 air_t:1 tag:vt (+5) | vl:10 ping:90 tps:19.99 lp:13 component: fly.main ver: 1.16.x
+(00:57:12) moezes failed Elytra check | (elytra) reserve energy: 0.436 dif: 0.411 motion: 0.742 t: 240 (+2) | vl:2 ping:4521 tps:19.99 lp:5 component: ely.re ver: 1.16.x
+(01:00:51) Edwiener failed Fly check | suspicious movement: 0.5 pred: -0.078 tag: cms (+5) | vl:5 ping:65 tps:20.0 lp:15 component: fly.cmb ver: 1.16.x
+(01:01:53) Edwiener failed Speed check | suspicious movement (move: 0.436, vet: 0.367, tag: d) (+8) | vl:8 ping:56 tps:20.0 lp:7 component: speed.main ver: 1.16.x
+(01:01:53) Edwiener failed Speed check | suspicious movement (move: 0.444, expect: 0.3665, tag: ea) (+5) | vl:13 ping:56 tps:20.0 lp:7 component: speed.main ver: 1.16.x
+(01:01:53) Edwiener failed Fly check | suspicious movement:0.367 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:5 ping:56 tps:20.0 lp:7 component: fly.main ver: 1.16.x
+(01:03:37) Edwiener failed Fly check | suspicious movement:0.37 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:5 ping:54 tps:20.0 lp:7 component: fly.main ver: 1.16.x
+(01:03:37) Edwiener failed Fly check | suspicious movement:0.284 predict:0.253 vel:0.333 air_t:2 tag:vt (+5) | vl:10 ping:54 tps:20.0 lp:7 component: fly.main ver: 1.16.x
+(01:03:37) Edwiener failed Fly check | suspicious movement:0.2 predict:0.17 vel:0.165 air_t:3 tag:vt (+5) | vl:15 ping:54 tps:20.0 lp:7 component: fly.main ver: 1.16.x
+(01:03:37) Edwiener failed Fly check | suspicious movement:0.117 predict:0.088 vel:0.083 air_t:4 tag:vt (+5) | vl:20 ping:54 tps:20.0 lp:7 component: fly.main ver: 1.16.x
+(01:10:04) moezes failed Speed check | t: spin (-71.74524->-86.74524) (+10) | vl:10 ping:482 tps:20.0 lp:25 component: speed.spin ver: 1.16.x
+(01:10:04) moezes failed Speed check | t: spin (-86.74524->-71.74524) (+10) | vl:20 ping:482 tps:20.0 lp:25 component: speed.spin ver: 1.16.x
+(01:11:34) Edwiener failed Fly check | suspicious movement: 0.386 pred: -0.078 tag: cms (+5) | vl:5 ping:47 tps:20.0 lp:7 component: fly.cmb ver: 1.16.x
+(01:11:34) Edwiener failed Fly check | suspicious movement: 0.386 pred: -0.155 tag: cms (+5) | vl:10 ping:47 tps:20.0 lp:7 component: fly.cmb ver: 1.16.x
+(01:13:38) moezes failed Fly check | suspicious movement: 0.392 pred: -0.078 tag: cms (+5) | vl:5 ping:232 tps:20.0 lp:6 component: fly.cmb ver: 1.16.x
+(01:13:39) moezes failed Fly check | suspicious movement: 0.188 vel: -0.585 tag: els (+10) | vl:15 ping:232 tps:20.0 lp:6 component: fly.els ver: 1.16.x
+(01:13:39) moezes failed Fly check | suspicious movement: 0.148 vel: -0.585 tag: els (+10) | vl:25 ping:232 tps:20.0 lp:6 component: fly.els ver: 1.16.x
+(01:13:39) moezes failed Fly check | suspicious movement: 0.108 vel: -0.717 tag: els (+10) | vl:35 ping:232 tps:20.0 lp:11 component: fly.els ver: 1.16.x
+(01:13:49) moezes failed Fly check | suspicious movement: 0.5 pred: -0.078 tag: cms (+5) | vl:5 ping:800 tps:20.0 lp:3 component: fly.cmb ver: 1.16.x
+(01:17:51) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:5 ping:116 tps:20.0 lp:27 component: ka.prot.6 ver: 1.16.x
+(01:18:49) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:5 ping:172 tps:20.0 lp:27 component: ka.prot.6 ver: 1.16.x
+(01:20:40) moezes failed Fly check | suspicious movement: 0.248 pred: -0.152 tag: cms (+5) | vl:5 ping:113 tps:20.0 lp:17 component: fly.cmb ver: 1.16.x
+(01:24:24) moezes failed HitBox check | missed entity hitbox (entity: zombified_piglin, angle: 114.381, move: true) (+2) | vl:2 ping:153 tps:20.0 lp:20 component: hb.mis ver: 1.16.x
+(01:24:25) moezes failed HitBox check | missed entity hitbox (entity: zombified_piglin, angle: 50.372, move: true) (+1) | vl:3 ping:153 tps:19.99 lp:20 component: hb.mis ver: 1.16.x
+(01:27:28) moezes failed Fly check | suspicious movement: 0.234 vel: -0.517 tag: els (+10) | vl:10 ping:524 tps:20.0 lp:10 component: fly.els ver: 1.16.x
+(01:27:29) moezes failed Fly check | suspicious movement: 0.21 vel: -0.585 tag: els (+10) | vl:20 ping:524 tps:20.0 lp:10 component: fly.els ver: 1.16.x
+(01:27:42) moezes failed Fly check | suspicious movement: 0.25 vel: -0.517 tag: els (+10) | vl:30 ping:1320 tps:20.0 lp:17 component: fly.els ver: 1.16.x
+(01:28:18) moezes failed Elytra check | (elytra) reserve energy: 0.073 dif: 0.0 motion: 0.015 t: 7 (+2) | vl:2 ping:826 tps:20.0 lp:8 component: ely.re ver: 1.16.x
+(01:28:20) moezes failed Fly check | suspicious movement: 0.208 vel: -0.514 tag: els (+10) | vl:10 ping:826 tps:19.99 lp:13 component: fly.els ver: 1.16.x
+(01:28:20) moezes failed Fly check | suspicious movement: 0.181 vel: -0.582 tag: els (+10) | vl:20 ping:826 tps:19.99 lp:13 component: fly.els ver: 1.16.x
+(01:28:20) moezes failed Fly check | suspicious movement: 0.154 vel: -0.649 tag: els (+10) | vl:30 ping:826 tps:19.99 lp:13 component: fly.els ver: 1.16.x
+(01:28:20) moezes failed Fly check | suspicious movement: 0.128 vel: -0.715 tag: els (+10) | vl:40 ping:826 tps:19.99 lp:13 component: fly.els ver: 1.16.x
+(01:28:20) moezes failed Fly check | suspicious movement: 0.103 vel: -0.779 tag: els (+10) | vl:50 ping:826 tps:19.99 lp:13 component: fly.els ver: 1.16.x
+(01:28:20) Execute command: matrix notify moezes tried to fly (Fly) #1
+(01:28:20) moezes failed Fly check | suspicious movement:0.055 predict:-0.001 vel:-0.903 air_t:12 tag:m4 (+10) | vl:60 ping:826 tps:19.99 lp:13 component: fly.main ver: 1.16.x
+(01:28:46) moezes failed Delay check | perform actions faster than expected // inventory (type C, d: 1) (+1) | vl:1 ping:104 tps:20.0 lp:9 component: delay.inv ver: 1.16.x
+(01:28:46) moezes failed Delay check | perform actions faster than expected // inventory (type C, d: 1) (+1) | vl:2 ping:104 tps:20.0 lp:9 component: delay.inv ver: 1.16.x
+(01:28:46) moezes failed Delay check | perform actions faster than expected // inventory (type C, d: 0) (+1) | vl:3 ping:104 tps:20.0 lp:9 component: delay.inv ver: 1.16.x
+(01:28:46) Execute command: matrix notify moezes tring to speeding up actions (Delay) #1
+(01:28:46) moezes failed Delay check | perform actions faster than expected // inventory (type C, d: 2) (+1) | vl:4 ping:104 tps:20.0 lp:9 component: delay.inv ver: 1.16.x
+(01:28:46) moezes failed Delay check | perform actions faster than expected // inventory (type C, d: 1) (+1) | vl:5 ping:104 tps:20.0 lp:9 component: delay.inv ver: 1.16.x
+(01:28:46) Execute command: matrix notify moezes tring to speeding up actions (Delay) #2
+(01:28:46) moezes failed Delay check | perform actions faster than expected // inventory (type C, d: 0) (+1) | vl:6 ping:104 tps:20.0 lp:9 component: delay.inv ver: 1.16.x
+(01:28:46) moezes failed Delay check | perform actions faster than expected // inventory (type C, d: 1) (+1) | vl:7 ping:104 tps:20.0 lp:9 component: delay.inv ver: 1.16.x
+(01:28:46) moezes failed Delay check | perform actions faster than expected // inventory (type C, d: 1) (+1) | vl:8 ping:104 tps:20.0 lp:9 component: delay.inv ver: 1.16.x
+(01:28:46) moezes failed Delay check | perform actions faster than expected // inventory (type C, d: 1) (+1) | vl:9 ping:104 tps:20.0 lp:9 component: delay.inv ver: 1.16.x
+(01:28:46) moezes failed Delay check | perform actions faster than expected // inventory (type C, d: 1) (+1) | vl:10 ping:104 tps:20.0 lp:9 component: delay.inv ver: 1.16.x
+(01:28:46) Execute command: matrix kick moezes Speeding Up Operations
+(01:28:46) moezes failed Delay check | perform actions faster than expected // inventory (type C, d: 0) (+1) | vl:11 ping:104 tps:20.0 lp:9 component: delay.inv ver: 1.16.x
+(01:28:46) moezes failed Delay check | perform actions faster than expected // inventory (type C, d: 2) (+1) | vl:12 ping:104 tps:20.0 lp:9 component: delay.inv ver: 1.16.x
+(01:28:46) moezes failed Delay check | perform actions faster than expected // inventory (type C, d: 1) (+1) | vl:13 ping:104 tps:20.0 lp:9 component: delay.inv ver: 1.16.x
+(01:28:46) moezes failed Delay check | perform actions faster than expected // inventory (type C, d: 0) (+1) | vl:14 ping:104 tps:20.0 lp:9 component: delay.inv ver: 1.16.x
+(01:28:46) moezes failed Delay check | perform actions faster than expected // inventory (type C, d: 1) (+1) | vl:15 ping:104 tps:20.0 lp:9 component: delay.inv ver: 1.16.x
+(01:28:46) moezes failed Delay check | perform actions faster than expected // inventory (type C, d: 1) (+1) | vl:16 ping:104 tps:20.0 lp:9 component: delay.inv ver: 1.16.x
+(01:28:46) moezes failed Delay check | perform actions faster than expected // inventory (type C, d: 1) (+1) | vl:17 ping:104 tps:20.0 lp:9 component: delay.inv ver: 1.16.x
+(01:28:46) moezes failed Delay check | perform actions faster than expected // inventory (type C, d: 1) (+1) | vl:18 ping:104 tps:20.0 lp:9 component: delay.inv ver: 1.16.x
+(01:28:46) moezes failed Delay check | perform actions faster than expected // inventory (type C, d: 17) (+1) | vl:19 ping:104 tps:20.0 lp:9 component: delay.inv ver: 1.16.x
+(01:28:46) moezes failed Delay check | perform actions faster than expected // inventory (type C, d: 0) (+1) | vl:20 ping:104 tps:20.0 lp:9 component: delay.inv ver: 1.16.x
+(01:28:46) moezes failed Delay check | perform actions faster than expected // inventory (type C, d: 0) (+1) | vl:21 ping:104 tps:20.0 lp:9 component: delay.inv ver: 1.16.x
+(01:28:46) moezes failed Delay check | perform actions faster than expected // inventory (type C, d: 0) (+1) | vl:22 ping:104 tps:20.0 lp:9 component: delay.inv ver: 1.16.x
+(01:28:46) moezes failed Delay check | perform actions faster than expected // inventory (type C, d: 0) (+1) | vl:23 ping:104 tps:20.0 lp:9 component: delay.inv ver: 1.16.x
+(01:28:46) moezes failed Delay check | perform actions faster than expected // inventory (type C, d: 0) (+1) | vl:24 ping:104 tps:20.0 lp:9 component: delay.inv ver: 1.16.x
+(01:28:46) moezes failed Delay check | perform actions faster than expected // inventory (type C, d: 0) (+1) | vl:25 ping:104 tps:20.0 lp:9 component: delay.inv ver: 1.16.x
+(01:29:12) moezes failed Fly check | suspicious movement: 0.216 vel: -0.517 tag: els (+10) | vl:10 ping:8484 tps:20.0 lp:0 component: fly.els ver: 1.16.x
+(01:29:12) moezes failed Fly check | suspicious movement: 0.189 vel: -0.585 tag: els (+10) | vl:20 ping:8484 tps:20.0 lp:0 component: fly.els ver: 1.16.x
+(01:29:12) moezes failed Fly check | suspicious movement: 0.163 vel: -0.652 tag: els (+10) | vl:30 ping:8484 tps:20.0 lp:0 component: fly.els ver: 1.16.x
+(01:29:12) moezes failed Fly check | suspicious movement: 0.137 vel: -0.717 tag: els (+10) | vl:40 ping:8484 tps:20.0 lp:0 component: fly.els ver: 1.16.x
+(01:29:12) moezes failed Fly check | suspicious movement: 0.113 vel: -0.781 tag: els (+10) | vl:50 ping:8484 tps:20.0 lp:0 component: fly.els ver: 1.16.x
+(01:29:12) Execute command: matrix notify moezes tried to fly (Fly) #1
+(01:29:12) moezes failed Fly check | suspicious movement: 0.113 vel: -0.844 tag: els (+10) | vl:60 ping:8484 tps:19.99 lp:0 component: fly.els ver: 1.16.x
+(01:29:14) moezes failed Fly check | suspicious movement: 0.22 vel: -0.517 tag: els (+10) | vl:70 ping:8484 tps:19.99 lp:2 component: fly.els ver: 1.16.x
+(01:29:15) moezes failed Fly check | suspicious movement: 0.25 vel: -0.517 tag: els (+10) | vl:80 ping:185 tps:20.0 lp:4 component: fly.els ver: 1.16.x
+(01:29:52) moezes failed Fly check | suspicious movement:0.361 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:5 ping:676 tps:20.0 lp:7 component: fly.main ver: 1.16.x
+(01:29:56) moezes failed Fly check | suspicious movement: 0.226 vel: -0.517 tag: els (+10) | vl:15 ping:676 tps:20.0 lp:5 component: fly.els ver: 1.16.x
+(01:29:56) moezes failed Fly check | suspicious movement: 0.2 vel: -0.585 tag: els (+10) | vl:25 ping:676 tps:20.0 lp:5 component: fly.els ver: 1.16.x
+(01:29:56) moezes failed Fly check | suspicious movement: 0.175 vel: -0.652 tag: els (+10) | vl:35 ping:676 tps:20.0 lp:5 component: fly.els ver: 1.16.x
+(01:29:56) moezes failed Fly check | suspicious movement: 0.15 vel: -0.717 tag: els (+10) | vl:45 ping:676 tps:20.0 lp:5 component: fly.els ver: 1.16.x
+(01:29:56) moezes failed Fly check | suspicious movement: 0.126 vel: -0.781 tag: els (+10) | vl:55 ping:676 tps:20.0 lp:5 component: fly.els ver: 1.16.x
+(01:29:56) Execute command: matrix notify moezes tried to fly (Fly) #1
+(01:29:56) moezes failed Fly check | suspicious movement: 0.103 vel: -0.844 tag: els (+10) | vl:65 ping:676 tps:19.99 lp:5 component: fly.els ver: 1.16.x
+(01:31:38) moezes failed Fly check | suspicious movement: 0.186 vel: -0.517 tag: els (+10) | vl:10 ping:225 tps:20.0 lp:5 component: fly.els ver: 1.16.x
+(01:31:38) moezes failed Fly check | suspicious movement: 0.152 vel: -0.585 tag: els (+10) | vl:20 ping:225 tps:20.0 lp:5 component: fly.els ver: 1.16.x
+(01:31:38) moezes failed Fly check | suspicious movement: 0.12 vel: -0.652 tag: els (+10) | vl:30 ping:225 tps:20.0 lp:5 component: fly.els ver: 1.16.x
+(01:31:38) moezes failed Fly check | suspicious movement:0.025 predict:-0.054 vel:-0.905 air_t:12 tag:m4 (+10) | vl:40 ping:225 tps:20.0 lp:5 component: fly.main ver: 1.16.x
+(01:31:40) moezes failed Fly check | suspicious movement: 0.21 vel: -0.517 tag: els (+10) | vl:50 ping:225 tps:20.0 lp:4 component: fly.els ver: 1.16.x
+(01:31:40) Execute command: matrix notify moezes tried to fly (Fly) #1
+(01:31:51) moezes failed Fly check | suspicious movement: 0.136 vel: -0.517 tag: els (+10) | vl:20 ping:131 tps:20.0 lp:9 component: fly.els ver: 1.16.x
+(01:32:40) moezes failed Fly check | suspicious movement: 0.229 vel: -0.517 tag: els (+10) | vl:10 ping:301 tps:20.0 lp:5 component: fly.els ver: 1.16.x
+(01:32:40) moezes failed Fly check | suspicious movement: 0.204 vel: -0.585 tag: els (+10) | vl:20 ping:301 tps:20.0 lp:5 component: fly.els ver: 1.16.x
+(01:32:40) moezes failed Fly check | suspicious movement: 0.179 vel: -0.652 tag: els (+10) | vl:30 ping:301 tps:20.0 lp:5 component: fly.els ver: 1.16.x
+(01:32:40) moezes failed Fly check | suspicious movement: 0.155 vel: -0.717 tag: els (+10) | vl:40 ping:301 tps:20.0 lp:5 component: fly.els ver: 1.16.x
+(01:32:40) moezes failed Fly check | suspicious movement: 0.131 vel: -0.781 tag: els (+10) | vl:50 ping:301 tps:19.99 lp:5 component: fly.els ver: 1.16.x
+(01:32:40) Execute command: matrix notify moezes tried to fly (Fly) #1
+(01:32:40) moezes failed Fly check | suspicious movement: 0.108 vel: -0.844 tag: els (+10) | vl:60 ping:301 tps:19.99 lp:5 component: fly.els ver: 1.16.x
+(01:32:44) moezes failed Fly check | suspicious movement: 0.224 vel: -0.517 tag: els (+10) | vl:70 ping:306 tps:20.0 lp:5 component: fly.els ver: 1.16.x
+(01:32:47) moezes failed Fly check | suspicious movement: 0.233 vel: -0.517 tag: els (+10) | vl:40 ping:306 tps:20.0 lp:6 component: fly.els ver: 1.16.x
+(01:33:36) moezes failed Fly check | suspicious movement: 0.23 vel: -0.517 tag: els (+10) | vl:10 ping:386 tps:19.99 lp:9 component: fly.els ver: 1.16.x
+(01:33:36) moezes failed Fly check | suspicious movement: 0.205 vel: -0.585 tag: els (+10) | vl:20 ping:386 tps:19.99 lp:9 component: fly.els ver: 1.16.x
+(01:33:36) moezes failed Fly check | suspicious movement: 0.18 vel: -0.652 tag: els (+10) | vl:30 ping:386 tps:19.99 lp:9 component: fly.els ver: 1.16.x
+(01:33:36) moezes failed Fly check | suspicious movement: 0.156 vel: -0.717 tag: els (+10) | vl:40 ping:386 tps:19.99 lp:9 component: fly.els ver: 1.16.x
+(01:33:36) moezes failed Fly check | suspicious movement: 0.132 vel: -0.781 tag: els (+10) | vl:50 ping:386 tps:19.99 lp:7 component: fly.els ver: 1.16.x
+(01:33:36) Execute command: matrix notify moezes tried to fly (Fly) #1
+(01:33:36) moezes failed Fly check | suspicious movement: 0.109 vel: -0.844 tag: els (+10) | vl:60 ping:386 tps:19.99 lp:7 component: fly.els ver: 1.16.x
+(02:55:06) moezes failed Fly check | suspicious movement: 0.218 vel: -0.517 tag: els (+10) | vl:10 ping:0 tps:19.99 lp:0 component: fly.els ver: 1.16.x
+(02:55:06) moezes failed Fly check | suspicious movement: 0.191 vel: -0.585 tag: els (+10) | vl:20 ping:0 tps:19.99 lp:0 component: fly.els ver: 1.16.x
+(02:55:07) moezes failed Fly check | suspicious movement: 0.165 vel: -0.652 tag: els (+10) | vl:30 ping:0 tps:19.99 lp:0 component: fly.els ver: 1.16.x
+(02:55:07) moezes failed Fly check | suspicious movement: 0.139 vel: -0.717 tag: els (+10) | vl:40 ping:0 tps:19.99 lp:0 component: fly.els ver: 1.16.x
+(02:55:07) moezes failed Fly check | suspicious movement: 0.114 vel: -0.781 tag: els (+10) | vl:50 ping:0 tps:19.99 lp:2 component: fly.els ver: 1.16.x
+(02:55:07) Execute command: matrix notify moezes tried to fly (Fly) #1
+(02:55:07) moezes failed Fly check | suspicious movement:0.065 predict:-0.078 vel:-0.905 air_t:12 tag:m4 (+10) | vl:60 ping:0 tps:19.99 lp:2 component: fly.main ver: 1.16.x
+(02:56:22) moezes failed Fly check | suspicious movement: 0.144 vel: -0.517 tag: els (+10) | vl:10 ping:0 tps:19.99 lp:17 component: fly.els ver: 1.16.x
+(02:56:22) moezes failed Fly check | suspicious movement: 0.108 vel: -0.585 tag: els (+10) | vl:20 ping:0 tps:19.99 lp:17 component: fly.els ver: 1.16.x
+(02:56:24) moezes failed Fly check | suspicious movement:-0.08 predict:-0.132 lm:-0.055 hard_pred:-0.132 sev_pred:-0.582 air_t:12 fall_t:3 g:-- tag:gn (+5) | vl:25 ping:0 tps:19.99 lp:9 component: fly.main ver: 1.16.x
+(02:56:24) moezes failed Fly check | suspicious movement:-0.103 predict:-0.157 lm:-0.08 hard_pred:-0.157 sev_pred:-0.649 air_t:12 fall_t:4 g:-- tag:gn (+5) | vl:30 ping:0 tps:19.99 lp:9 component: fly.main ver: 1.16.x
+(02:56:29) moezes failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: 139.629,58.878,151.54, type: air, pkt: true) (+5) | vl:35 ping:0 tps:20.0 lp:13 component: fly.gf ver: 1.16.x
+(02:56:31) moezes failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: 139.629,58.878,151.54, type: air, pkt: true) (+5) | vl:40 ping:0 tps:20.0 lp:9 component: fly.gf ver: 1.16.x
+(02:56:38) moezes failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: 139.629,58.878,151.54, type: air, pkt: true) (+5) | vl:45 ping:0 tps:19.99 lp:5 component: fly.gf ver: 1.16.x
+(02:56:46) moezes failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: 139.629,58.878,151.54, type: air, pkt: true) (+5) | vl:10 ping:0 tps:20.0 lp:3 component: fly.gf ver: 1.16.x
+(02:56:52) moezes failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: 139.629,58.878,151.54, type: air, pkt: true) (+5) | vl:15 ping:0 tps:19.99 lp:3 component: fly.gf ver: 1.16.x
+(02:57:23) moezes failed Fly check | suspicious movement:0.096 predict:-0.078 vel:-0.514 air_t:12 tag:m4 (+10) | vl:10 ping:0 tps:19.99 lp:5 component: fly.main ver: 1.16.x
+(02:57:23) moezes failed Fly check | suspicious movement:0.074 predict:-0.078 vel:-0.582 air_t:12 tag:m4 (+10) | vl:20 ping:0 tps:19.99 lp:5 component: fly.main ver: 1.16.x
+(02:57:40) moezes failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: 141.007,60.181,159.044, type: air, pkt: true) (+5) | vl:25 ping:0 tps:19.99 lp:10 component: fly.gf ver: 1.16.x
+(02:57:48) moezes failed Fly check | suspicious movement: 0.245 vel: -0.517 tag: els (+10) | vl:10 ping:673 tps:20.0 lp:19 component: fly.els ver: 1.16.x
+(02:57:48) moezes failed Fly check | suspicious movement: 0.222 vel: -0.585 tag: els (+10) | vl:20 ping:673 tps:20.0 lp:19 component: fly.els ver: 1.16.x
+(02:57:49) moezes failed Fly check | suspicious movement: 0.199 vel: -0.652 tag: els (+10) | vl:30 ping:673 tps:20.0 lp:19 component: fly.els ver: 1.16.x
+(02:57:49) moezes failed Fly check | suspicious movement: 0.177 vel: -0.717 tag: els (+10) | vl:40 ping:673 tps:20.0 lp:19 component: fly.els ver: 1.16.x
+(02:57:49) moezes failed Fly check | suspicious movement: 0.155 vel: -0.781 tag: els (+10) | vl:50 ping:673 tps:20.0 lp:19 component: fly.els ver: 1.16.x
+(02:57:49) Execute command: matrix notify moezes tried to fly (Fly) #1
+(02:57:49) moezes failed Fly check | suspicious movement: 0.134 vel: -0.844 tag: els (+10) | vl:60 ping:673 tps:20.0 lp:19 component: fly.els ver: 1.16.x
+(02:57:55) moezes failed Fly check | suspicious movement: 0.226 vel: -0.517 tag: els (+10) | vl:70 ping:673 tps:20.0 lp:13 component: fly.els ver: 1.16.x
+(03:01:53) moezes failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: 148.695,60.186,176.079, type: air, pkt: true) (+5) | vl:5 ping:0 tps:20.0 lp:7 component: fly.gf ver: 1.16.x
+(03:01:56) moezes failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: 148.695,60.186,176.079, type: air, pkt: true) (+5) | vl:10 ping:2419 tps:20.0 lp:14 component: fly.gf ver: 1.16.x
+(03:02:06) moezes failed Fly check | suspicious movement: 0.285 vel: -0.517 tag: els (+10) | vl:20 ping:211 tps:20.0 lp:34 component: fly.els ver: 1.16.x
+(03:02:06) moezes failed Fly check | suspicious movement: 0.268 vel: -0.585 tag: els (+10) | vl:30 ping:211 tps:20.0 lp:34 component: fly.els ver: 1.16.x
+(03:02:06) moezes failed Fly check | suspicious movement: 0.251 vel: -0.652 tag: els (+10) | vl:40 ping:211 tps:20.0 lp:34 component: fly.els ver: 1.16.x
+(03:02:06) moezes failed Fly check | suspicious movement: 0.235 vel: -0.717 tag: els (+10) | vl:50 ping:211 tps:20.0 lp:24 component: fly.els ver: 1.16.x
+(03:02:06) Execute command: matrix notify moezes tried to fly (Fly) #1
+(03:02:26) moezes failed Fly check | suspicious movement: 0.217 vel: -0.517 tag: els (+10) | vl:20 ping:1275 tps:20.0 lp:5 component: fly.els ver: 1.16.x
+(03:02:26) moezes failed Fly check | suspicious movement: 0.19 vel: -0.517 tag: els (+10) | vl:30 ping:1275 tps:20.0 lp:5 component: fly.els ver: 1.16.x
+(03:02:26) moezes failed Fly check | suspicious movement: 0.164 vel: -0.652 tag: els (+10) | vl:40 ping:1275 tps:20.0 lp:5 component: fly.els ver: 1.16.x
+(03:02:26) moezes failed Fly check | suspicious movement: 0.138 vel: -0.717 tag: els (+10) | vl:50 ping:1275 tps:20.0 lp:5 component: fly.els ver: 1.16.x
+(03:02:26) Execute command: matrix notify moezes tried to fly (Fly) #1
+(03:02:26) moezes failed Fly check | suspicious movement: 0.113 vel: -0.781 tag: els (+10) | vl:60 ping:1275 tps:20.0 lp:5 component: fly.els ver: 1.16.x
+(03:02:32) moezes failed Fly check | suspicious movement: 0.13 vel: -0.445 tag: els (+10) | vl:70 ping:2728 tps:19.99 lp:29 component: fly.els ver: 1.16.x
+(03:02:39) moezes failed Fly check | suspicious movement: 0.191 vel: -0.517 tag: els (+10) | vl:80 ping:235 tps:19.99 lp:15 component: fly.els ver: 1.16.x
+(03:03:00) moezes failed Fly check | suspicious movement: 0.234 vel: -0.447 tag: els (+10) | vl:50 ping:151 tps:20.0 lp:15 component: fly.els ver: 1.16.x
+(03:03:00) Execute command: matrix notify moezes tried to fly (Fly) #1
+(03:03:00) moezes failed Fly check | suspicious movement: 0.234 vel: -0.585 tag: els (+10) | vl:60 ping:151 tps:20.0 lp:15 component: fly.els ver: 1.16.x
+(03:04:06) moezes failed Fly check | suspicious movement: 0.212 vel: -0.517 tag: els (+10) | vl:10 ping:302 tps:20.0 lp:25 component: fly.els ver: 1.16.x
+(03:04:06) moezes failed Fly check | suspicious movement: 0.186 vel: -0.517 tag: els (+10) | vl:20 ping:302 tps:20.0 lp:25 component: fly.els ver: 1.16.x
+(03:04:06) moezes failed Fly check | suspicious movement: 0.162 vel: -0.652 tag: els (+10) | vl:30 ping:302 tps:20.0 lp:25 component: fly.els ver: 1.16.x
+(03:04:06) moezes failed Fly check | suspicious movement: 0.137 vel: -0.717 tag: els (+10) | vl:40 ping:302 tps:20.0 lp:25 component: fly.els ver: 1.16.x
+(03:04:06) moezes failed Fly check | suspicious movement: 0.113 vel: -0.781 tag: els (+10) | vl:50 ping:302 tps:20.0 lp:18 component: fly.els ver: 1.16.x
+(03:04:06) Execute command: matrix notify moezes tried to fly (Fly) #1
+(03:04:06) moezes failed Fly check | suspicious movement:0.066 predict:-0.078 vel:-0.905 air_t:12 tag:m4 (+10) | vl:60 ping:302 tps:20.0 lp:18 component: fly.main ver: 1.16.x
+(03:05:06) moezes failed Fly check | suspicious movement: 0.23 vel: -0.447 tag: els (+10) | vl:10 ping:689 tps:20.0 lp:31 component: fly.els ver: 1.16.x
+(03:05:36) moezes failed Fly check | suspicious movement: 0.223 vel: -0.517 tag: els (+10) | vl:10 ping:134 tps:20.0 lp:6 component: fly.els ver: 1.16.x
+(03:05:36) moezes failed Fly check | suspicious movement: 0.197 vel: -0.585 tag: els (+10) | vl:20 ping:134 tps:20.0 lp:6 component: fly.els ver: 1.16.x
+(03:05:36) moezes failed Fly check | suspicious movement: 0.172 vel: -0.652 tag: els (+10) | vl:30 ping:134 tps:20.0 lp:6 component: fly.els ver: 1.16.x
+(03:05:36) moezes failed Fly check | suspicious movement: 0.148 vel: -0.717 tag: els (+10) | vl:40 ping:134 tps:20.0 lp:6 component: fly.els ver: 1.16.x
+(03:05:37) moezes failed Fly check | suspicious movement: 0.124 vel: -0.781 tag: els (+10) | vl:50 ping:134 tps:20.0 lp:6 component: fly.els ver: 1.16.x
+(03:05:37) Execute command: matrix notify moezes tried to fly (Fly) #1
+(03:05:37) moezes failed Fly check | suspicious movement: 0.1 vel: -0.844 tag: els (+10) | vl:60 ping:134 tps:20.0 lp:6 component: fly.els ver: 1.16.x
+(03:05:59) moezes failed Fly check | suspicious movement:0.091 predict:-0.078 vel:-0.374 air_t:12 tag:m4 (+10) | vl:30 ping:129 tps:20.0 lp:31 component: fly.main ver: 1.16.x
+(03:05:59) moezes failed Fly check | suspicious movement:0.069 predict:-0.078 vel:-0.514 air_t:12 tag:m4 (+10) | vl:40 ping:129 tps:20.0 lp:31 component: fly.main ver: 1.16.x
+(03:05:59) moezes failed Fly check | suspicious movement:0.048 predict:-0.01 vel:-0.514 air_t:12 tag:m4 (+10) | vl:50 ping:129 tps:20.0 lp:31 component: fly.main ver: 1.16.x
+(03:05:59) Execute command: matrix notify moezes tried to fly (Fly) #1
+(03:06:00) moezes failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: 144.339,60.183,163.041, type: air, pkt: true) (+5) | vl:55 ping:129 tps:19.99 lp:31 component: fly.gf ver: 1.16.x
+(03:06:27) moezes failed Fly check | suspicious movement: 0.1 vel: -0.514 tag: els (+10) | vl:25 ping:124 tps:20.0 lp:20 component: fly.els ver: 1.16.x
+(03:06:27) moezes failed Fly check | suspicious movement:0.074 predict:-0.078 vel:-0.582 air_t:12 tag:m4 (+10) | vl:35 ping:124 tps:20.0 lp:20 component: fly.main ver: 1.16.x
+(03:06:27) moezes failed Fly check | suspicious movement:0.047 predict:-0.006 vel:-0.582 air_t:12 tag:m4 (+10) | vl:45 ping:124 tps:20.0 lp:20 component: fly.main ver: 1.16.x
+(03:06:28) moezes failed Fly check | suspicious movement:0.018 predict:-0.032 vel:-0.649 air_t:12 tag:m4 (+10) | vl:55 ping:124 tps:20.0 lp:20 component: fly.main ver: 1.16.x
+(03:06:28) Execute command: matrix notify moezes tried to fly (Fly) #1
+(03:09:13) moezes failed Elytra check | (elytra) more energy: 1.41 dif: 0.055 motion: -0.266 ratio: 0.208 (+1) | vl:1 ping:276 tps:20.0 lp:4 component: ely.me ver: 1.16.x
+(03:09:13) moezes failed Elytra check | (elytra) more energy: 1.17 dif: 0.081 motion: -0.484 ratio: 0.168 (+1) | vl:2 ping:276 tps:20.0 lp:4 component: ely.me ver: 1.16.x
+(03:09:13) moezes failed Elytra check | (elytra) more energy: 1.31 dif: 0.14 motion: -0.52 ratio: 0.269 (+1) | vl:3 ping:276 tps:20.0 lp:4 component: ely.me ver: 1.16.x
+(03:09:14) moezes failed Elytra check | (elytra) more energy: 1.401 dif: 0.091 motion: -0.536 ratio: 0.17 (+1) | vl:4 ping:276 tps:20.0 lp:4 component: ely.me ver: 1.16.x
+(03:09:17) moezes failed Fly check | suspicious movement:-0.173 predict:-0.248 lm:-0.173 hard_pred:-0.248 sev_pred:-1.738 air_t:12 fall_t:27 g:-- tag:gn (+5) | vl:5 ping:1667 tps:20.0 lp:14 component: fly.main ver: 1.16.x
+(03:09:21) moezes failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: -869.546,251.865,655.712, type: air, pkt: true) (+5) | vl:10 ping:1667 tps:20.0 lp:6 component: fly.gf ver: 1.16.x
+(03:10:01) moezes failed Elytra check | (elytra) reserve energy: 0.489 dif: 0.406 motion: 0.937 t: 3 (+2) | vl:2 ping:177 tps:20.0 lp:27 component: ely.re ver: 1.16.x
+(03:10:05) moezes failed Speed check | t: spin (-84.33259->-90.33259) (+10) | vl:10 ping:177 tps:20.0 lp:28 component: speed.spin ver: 1.16.x
+(04:39:50) moezes failed Jesus check | suspicious movement in liquid (motion: 0.0,-0.078,0.0, down: WATER, vel: -0.304, module: solid) (+5) | vl:5 ping:157 tps:20.0 lp:8 component: jesus.solid ver: 1.16.x
+(04:39:57) moezes failed Interact check | interact with liquid (at 24706.0,60.0,741.0) (+1) | vl:1 ping:157 tps:20.0 lp:6 component: interact.liquid ver: 1.16.x
+(06:15:42) moezes failed Jesus check | suspicious movement in liquid (motion: 0.005, pre: 0.0, modules: p9) (+5) | vl:5 ping:111 tps:20.0 lp:4 component: jesus.p9 ver: 1.16.x
+(06:32:01) moezes failed Jesus check | move vertically too fast (motion: -0.585, expect: 0.55, module: vertical) (+5) | vl:5 ping:1296 tps:20.0 lp:4 component: jesus.ver ver: 1.16.x
+(07:00:34) Matrix Enabled!
+(07:00:34) Version: 5.6.3
+(07:36:49) moezes failed Speed check | suspicious movement (move: 0.513, vet: 0.389, tag: d) (+7) | vl:7 ping:127 tps:20.0 lp:3 component: speed.main ver: 1.16.x
+(07:36:49) moezes failed Speed check | suspicious movement (move: 0.508, expect: 0.3665, tag: ea) (+5) | vl:12 ping:127 tps:20.0 lp:3 component: speed.main ver: 1.16.x
+(07:36:49) moezes failed Speed check | suspicious movement (move: 0.508, predict: 0.306, friction: 0.6, ground:false, motY: 0.358, increase:0.026, preMove:0.28, motion: 0.504,0.358,-0.06, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:17 ping:127 tps:20.0 lp:3 component: move.xz ver: 1.16.x
+(07:36:49) moezes failed Speed check | suspicious movement (move: 0.503, expect: 0.3665, tag: ea) (+5) | vl:22 ping:127 tps:20.0 lp:3 component: speed.main ver: 1.16.x
+(07:36:49) moezes failed Speed check | suspicious movement (move: 0.503, predict: 0.488, friction: 0.6, ground:false, motY: 0.328, increase:0.026, preMove:0.462, motion: 0.499,0.328,-0.059, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:27 ping:127 tps:20.0 lp:3 component: move.xz ver: 1.16.x
+(07:36:49) moezes failed Speed check | suspicious movement (move: 0.51, expect: 0.3665, tag: ea) (+5) | vl:32 ping:127 tps:20.0 lp:3 component: speed.main ver: 1.16.x
+(07:36:49) moezes failed Speed check | suspicious movement (move: 0.51, predict: 0.483, friction: 0.6, ground:false, motY: 0.328, increase:0.026, preMove:0.457, motion: 0.507,0.328,-0.06, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:37 ping:127 tps:20.0 lp:3 component: move.xz ver: 1.16.x
+(07:36:49) moezes failed Fly check | suspicious movement:0.328 predict:0.243 air_t:3 tag:sam (+5) | vl:5 ping:127 tps:20.0 lp:3 component: fly.main ver: 1.16.x
+(07:36:49) moezes failed Fly check | suspicious movement:0.328 predict:0.17 vel:0.165 air_t:3 tag:vt (+5) | vl:10 ping:127 tps:20.0 lp:3 component: fly.main ver: 1.16.x
+(07:37:03) moezes failed Speed check | suspicious movement (move: 0.488, vet: 0.389, tag: d) (+7) | vl:44 ping:132 tps:20.0 lp:9 component: speed.main ver: 1.16.x
+(07:40:28) moezes failed Fly check | suspicious movement: 0.42 pred: -0.155 tag: cms (+5) | vl:5 ping:135 tps:20.0 lp:11 component: fly.cmb ver: 1.16.x
+(07:40:40) moezes failed HitBox check | missed entity hitbox (entity: zombified_piglin, angle: 79.865, move: true) (+2) | vl:2 ping:173 tps:19.98 lp:11 component: hb.mis ver: 1.16.x
+(07:42:36) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:5 ping:164 tps:19.96 lp:16 component: ka.prot.6 ver: 1.16.x
+(07:43:11) moezes failed Fly check | suspicious movement:0.0 predict:-0.078 vel:-0.228 air_t:12 tag:m4 (+10) | vl:10 ping:150 tps:20.0 lp:9 component: fly.main ver: 1.16.x
+(07:43:22) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:5 ping:166 tps:20.0 lp:6 component: ka.prot.6 ver: 1.16.x
+(07:43:23) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:10 ping:166 tps:20.0 lp:6 component: ka.prot.6 ver: 1.16.x
+(07:43:23) Execute command: matrix npc moezes 100
+(07:44:19) moezes failed Fly check | suspicious movement:0.324 predict:0.239 air_t:2 tag:sam (+5) | vl:5 ping:145 tps:20.0 lp:13 component: fly.main ver: 1.16.x
+(07:44:19) moezes failed Fly check | suspicious movement:0.324 predict:0.253 vel:0.248 air_t:2 tag:vt (+5) | vl:10 ping:145 tps:20.0 lp:13 component: fly.main ver: 1.16.x
+(07:45:26) moezes failed Fly check | suspicious movement: 0.5 pred: -0.078 tag: cms (+5) | vl:5 ping:134 tps:20.0 lp:28 component: fly.cmb ver: 1.16.x
+(07:52:32) moezes failed Fly check | suspicious movement: 0.5 pred: -0.078 tag: cms (+5) | vl:5 ping:162 tps:20.0 lp:27 component: fly.cmb ver: 1.16.x
+(13:06:30) Matrix Enabled!
+(13:06:30) Version: 5.6.3
+(14:18:48) Bl4zeBoy failed BadPackets check | (timer) send 37 moving packets in 1025ms | tag: limit (+10) | vl:10 ping:88 tps:20.0 lp:33 component: net.timer ver: 1.16.x
+(14:20:16) Bl4zeBoy failed Fly check | suspicious movement:0.354 predict:0.338 vel:0.333 air_t:1 tag:vt (+5) | vl:5 ping:1463 tps:20.0 lp:29 component: fly.main ver: 1.16.x
+(14:21:01) Bl4zeBoy failed BadPackets check | (timer) send 44 moving packets in 995ms | tag: limit (+5) | vl:5 ping:278 tps:20.0 lp:37 component: net.timer ver: 1.16.x
+(14:22:46) Bl4zeBoy failed Fly check | suspicious movement:0.036 predict:-0.02 vel:-0.445 air_t:12 tag:m4 (+10) | vl:10 ping:2918 tps:19.99 lp:23 component: fly.main ver: 1.16.x
+(14:22:46) Bl4zeBoy failed Fly check | suspicious movement:0.012 predict:-0.044 vel:-0.514 air_t:12 tag:m4 (+10) | vl:20 ping:2918 tps:19.99 lp:23 component: fly.main ver: 1.16.x
+(14:22:46) Bl4zeBoy failed Fly check | suspicious movement:-0.029 predict:-0.088 lm:-0.01 hard_pred:-0.088 sev_pred:-0.649 air_t:12 fall_t:2 g:-- tag:gn (+5) | vl:25 ping:2918 tps:19.99 lp:23 component: fly.main ver: 1.16.x
+(14:22:46) Bl4zeBoy failed Fly check | suspicious movement:-0.047 predict:-0.107 lm:-0.029 hard_pred:-0.107 sev_pred:-0.779 air_t:12 fall_t:3 g:-- tag:gn (+5) | vl:30 ping:2918 tps:19.99 lp:23 component: fly.main ver: 1.16.x
+(14:22:46) Bl4zeBoy failed Fly check | suspicious movement:-0.062 predict:-0.124 lm:-0.047 hard_pred:-0.124 sev_pred:-0.779 air_t:12 fall_t:4 g:-- tag:gn (+5) | vl:35 ping:2918 tps:19.99 lp:23 component: fly.main ver: 1.16.x
+(14:23:19) Bl4zeBoy failed Fly check | suspicious movement: 0.139 vel: -0.374 tag: els (+10) | vl:10 ping:1458 tps:20.0 lp:14 component: fly.els ver: 1.16.x
+(14:23:19) Bl4zeBoy failed Fly check | suspicious movement: 0.116 vel: -0.514 tag: els (+10) | vl:20 ping:1458 tps:20.0 lp:14 component: fly.els ver: 1.16.x
+(14:23:19) Bl4zeBoy failed Fly check | suspicious movement: 0.094 vel: -0.514 tag: els (+10) | vl:30 ping:1458 tps:20.0 lp:14 component: fly.els ver: 1.16.x
+(14:23:22) Bl4zeBoy failed Fly check | suspicious movement: 0.134 vel: -0.517 tag: els (+10) | vl:40 ping:938 tps:20.0 lp:13 component: fly.els ver: 1.16.x
+(14:23:22) Bl4zeBoy failed Fly check | suspicious movement: 0.095 vel: -0.585 tag: els (+10) | vl:50 ping:938 tps:20.0 lp:13 component: fly.els ver: 1.16.x
+(14:23:22) Execute command: matrix notify Bl4zeBoy tried to fly (Fly) #1
+(14:23:25) Bl4zeBoy failed Fly check | suspicious movement: 0.18 vel: -0.517 tag: els (+10) | vl:60 ping:938 tps:20.0 lp:11 component: fly.els ver: 1.16.x
+(14:26:46) Bl4zeBoy failed Fly check | suspicious movement: 0.178 vel: -0.517 tag: els (+10) | vl:10 ping:3913 tps:20.0 lp:17 component: fly.els ver: 1.16.x
+(14:26:46) Bl4zeBoy failed Fly check | suspicious movement: 0.146 vel: -0.585 tag: els (+10) | vl:20 ping:3913 tps:20.0 lp:17 component: fly.els ver: 1.16.x
+(14:26:46) Bl4zeBoy failed Fly check | suspicious movement: 0.115 vel: -0.717 tag: els (+10) | vl:30 ping:3913 tps:20.0 lp:17 component: fly.els ver: 1.16.x
+(14:26:47) Bl4zeBoy failed Fly check | suspicious movement:-0.171 predict:-0.242 lm:-0.167 hard_pred:-0.242 sev_pred:-1.694 air_t:12 fall_t:16 g:-- tag:gn (+5) | vl:35 ping:3913 tps:19.99 lp:15 component: fly.main ver: 1.16.x
+(14:26:47) Bl4zeBoy failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: -389.172,80.765,31.34, type: air, pkt: true) (+5) | vl:40 ping:3913 tps:19.99 lp:15 component: fly.gf ver: 1.16.x
+(14:26:49) Bl4zeBoy failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: -389.172,80.765,31.34, type: air, pkt: true) (+5) | vl:5 ping:5173 tps:20.0 lp:14 component: fly.gf ver: 1.16.x
+(14:27:32) Bl4zeBoy failed Fly check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: -389.172,80.765,31.34, type: air, pkt: true) (+5) | vl:5 ping:3328 tps:20.0 lp:30 component: fly.gf ver: 1.16.x
+(14:43:59) Bl4zeBoy failed Fly check | suspicious movement: 0.196 vel: -0.585 tag: els (+10) | vl:10 ping:563 tps:20.0 lp:13 component: fly.els ver: 1.16.x
+(14:43:59) Bl4zeBoy failed Fly check | suspicious movement: 0.17 vel: -0.652 tag: els (+10) | vl:20 ping:563 tps:20.0 lp:13 component: fly.els ver: 1.16.x
+(14:43:59) Bl4zeBoy failed Fly check | suspicious movement: 0.145 vel: -0.717 tag: els (+10) | vl:30 ping:563 tps:20.0 lp:13 component: fly.els ver: 1.16.x
+(14:43:59) Bl4zeBoy failed Fly check | suspicious movement: 0.12 vel: -0.781 tag: els (+10) | vl:40 ping:563 tps:20.0 lp:13 component: fly.els ver: 1.16.x
+(14:44:00) Bl4zeBoy failed Fly check | suspicious movement: 0.096 vel: -0.844 tag: els (+10) | vl:50 ping:563 tps:20.0 lp:13 component: fly.els ver: 1.16.x
+(14:44:00) Execute command: matrix notify Bl4zeBoy tried to fly (Fly) #1
+(14:44:00) Bl4zeBoy failed Fly check | suspicious movement:-0.139 predict:-0.199 lm:-0.123 hard_pred:-0.199 sev_pred:-0.304 air_t:12 fall_t:11 g:-- tag:gn (+5) | vl:55 ping:563 tps:20.0 lp:14 component: fly.main ver: 1.16.x
+(14:44:19) Bl4zeBoy failed Fly check | suspicious movement: 0.169 vel: -0.517 tag: els (+10) | vl:25 ping:1383 tps:20.0 lp:15 component: fly.els ver: 1.16.x
+(14:44:19) Bl4zeBoy failed Fly check | suspicious movement: 0.136 vel: -0.585 tag: els (+10) | vl:35 ping:1383 tps:20.0 lp:15 component: fly.els ver: 1.16.x
+(14:44:19) Bl4zeBoy failed Fly check | suspicious movement: 0.106 vel: -0.652 tag: els (+10) | vl:45 ping:1383 tps:20.0 lp:15 component: fly.els ver: 1.16.x
+(14:44:35) Bl4zeBoy failed Fly check | suspicious movement: 0.167 vel: -0.374 tag: els (+10) | vl:55 ping:587 tps:20.0 lp:19 component: fly.els ver: 1.16.x
+(14:44:35) Execute command: matrix notify Bl4zeBoy tried to fly (Fly) #1
+(14:44:35) Bl4zeBoy failed Fly check | suspicious movement: 0.147 vel: -0.445 tag: els (+10) | vl:65 ping:587 tps:20.0 lp:19 component: fly.els ver: 1.16.x
+(14:44:40) Bl4zeBoy failed Elytra check | (elytra) reserve energy: 1.293 dif: 0.018 motion: 0.605 t: 71 (+2) | vl:2 ping:658 tps:20.0 lp:19 component: ely.re ver: 1.16.x
+(14:45:09) Bl4zeBoy failed Fly check | suspicious movement: 0.232 vel: -0.517 tag: els (+10) | vl:35 ping:517 tps:20.0 lp:12 component: fly.els ver: 1.16.x
+(14:45:09) Bl4zeBoy failed Fly check | suspicious movement: 0.206 vel: -0.585 tag: els (+10) | vl:45 ping:517 tps:20.0 lp:12 component: fly.els ver: 1.16.x
+(14:45:09) Bl4zeBoy failed Fly check | suspicious movement: 0.181 vel: -0.652 tag: els (+10) | vl:55 ping:517 tps:20.0 lp:12 component: fly.els ver: 1.16.x
+(14:45:09) Execute command: matrix notify Bl4zeBoy tried to fly (Fly) #1
+(14:45:09) Bl4zeBoy failed Fly check | suspicious movement: 0.156 vel: -0.717 tag: els (+10) | vl:65 ping:517 tps:20.0 lp:12 component: fly.els ver: 1.16.x
+(14:45:21) Bl4zeBoy failed Speed check | suspicious movement (move: 0.498, vet: 0.374, tag: d) (+2) | vl:2 ping:752 tps:19.99 lp:12 component: speed.main ver: 1.16.x
+(14:45:21) Bl4zeBoy failed Speed check | suspicious movement (move: 0.493, expect: 0.3665, tag: ea) (+5) | vl:7 ping:752 tps:19.99 lp:12 component: speed.main ver: 1.16.x
+(14:45:21) Bl4zeBoy failed Speed check | suspicious movement (move: 0.488, expect: 0.3665, tag: ea) (+5) | vl:12 ping:752 tps:19.99 lp:12 component: speed.main ver: 1.16.x
+(14:45:21) Bl4zeBoy failed Speed check | suspicious movement (move: 0.488, predict: 0.474, friction: 0.6, ground:false, motY: 0.285, increase:0.026, preMove:0.448, motion: -0.473,0.285,-0.119, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:17 ping:752 tps:19.99 lp:12 component: move.xz ver: 1.16.x
+(14:45:21) Bl4zeBoy failed Fly check | suspicious movement:0.285 predict:0.253 vel:0.248 air_t:2 tag:vt (+5) | vl:30 ping:752 tps:19.99 lp:12 component: fly.main ver: 1.16.x
+(14:45:57) Bl4zeBoy failed Fly check | suspicious movement: 0.206 vel: -0.517 tag: els (+10) | vl:10 ping:978 tps:19.99 lp:13 component: fly.els ver: 1.16.x
+(14:45:57) Bl4zeBoy failed Fly check | suspicious movement: 0.175 vel: -0.585 tag: els (+10) | vl:20 ping:978 tps:19.99 lp:13 component: fly.els ver: 1.16.x
+(14:45:58) Bl4zeBoy failed Fly check | suspicious movement: 0.145 vel: -0.652 tag: els (+10) | vl:30 ping:978 tps:19.99 lp:13 component: fly.els ver: 1.16.x
+(14:45:58) Bl4zeBoy failed Fly check | suspicious movement: 0.114 vel: -0.717 tag: els (+10) | vl:40 ping:978 tps:19.99 lp:13 component: fly.els ver: 1.16.x
+(14:46:11) Bl4zeBoy failed Speed check | suspicious movement (move: 0.504, vet: 0.385, tag: d) (+2) | vl:2 ping:1557 tps:19.99 lp:15 component: speed.main ver: 1.16.x
+(14:46:11) Bl4zeBoy failed Speed check | suspicious movement (move: 0.499, expect: 0.3665, tag: ea) (+5) | vl:7 ping:1557 tps:19.99 lp:14 component: speed.main ver: 1.16.x
+(14:46:12) Bl4zeBoy failed Speed check | suspicious movement (move: 0.494, expect: 0.3665, tag: ea) (+5) | vl:12 ping:1557 tps:19.99 lp:14 component: speed.main ver: 1.16.x
+(14:46:12) Bl4zeBoy failed Speed check | suspicious movement (move: 0.494, predict: 0.48, friction: 0.6, ground:false, motY: 0.315, increase:0.026, preMove:0.454, motion: -0.49,0.315,0.061, attribute: 0.13, cm: false, di: false, st: false, tag: pred) (+5) | vl:17 ping:1557 tps:19.99 lp:14 component: move.xz ver: 1.16.x
+(14:46:12) Bl4zeBoy failed Fly check | suspicious movement:0.315 predict:0.253 vel:0.248 air_t:2 tag:vt (+5) | vl:45 ping:1557 tps:19.99 lp:14 component: fly.main ver: 1.16.x
+(15:00:00) Bl4zeBoy failed Speed check | (sneak) send sneak packet frequently (+2) | vl:2 ping:327 tps:20.0 lp:42 component: speed.noslow.a ver: 1.16.x
+(15:00:00) Bl4zeBoy failed Speed check | (sneak) send sneak packet frequently (+2) | vl:4 ping:327 tps:20.0 lp:42 component: speed.noslow.a ver: 1.16.x
+(15:00:01) Bl4zeBoy failed BadPackets check | (timer) moved too many times (timer: 1000.0, t:1, buffer:20, tag: timer) (+5) | vl:5 ping:327 tps:19.99 lp:48 component: net.timer ver: 1.16.x
+(15:00:01) Bl4zeBoy failed BadPackets check | (timer) send 72 moving packets in 1119ms | tag: limit (+5) | vl:10 ping:327 tps:19.99 lp:60 component: net.timer ver: 1.16.x
+(15:00:01) Bl4zeBoy failed BadPackets check | (timer) moved too many times (timer: 1.244, t:804, buffer:20, tag: timer) (+5) | vl:15 ping:327 tps:19.99 lp:60 component: net.timer ver: 1.16.x
+(15:00:02) Bl4zeBoy failed BadPackets check | (timer) moved too many times (timer: 3.077, t:325, buffer:20, tag: timer) (+5) | vl:20 ping:1268 tps:19.99 lp:50 component: net.timer ver: 1.16.x
+(15:00:02) Bl4zeBoy failed BadPackets check | (timer) moved too many times (timer: 1000.0, t:1, buffer:20, tag: timer) (+5) | vl:25 ping:1268 tps:19.99 lp:50 component: net.timer ver: 1.16.x
+(15:00:02) Bl4zeBoy failed BadPackets check | (timer) moved too many times (timer: 9.223372036854776E15, t:0, buffer:20, tag: timer) (+5) | vl:30 ping:1268 tps:19.99 lp:50 component: net.timer ver: 1.16.x
+(15:00:02) Bl4zeBoy failed BadPackets check | (timer) moved too many times (timer: 41.667, t:24, buffer:20, tag: timer) (+5) | vl:35 ping:1268 tps:19.99 lp:50 component: net.timer ver: 1.16.x
+(15:00:02) Bl4zeBoy failed BadPackets check | (timer) moved too many times (timer: 9.223372036854776E15, t:0, buffer:20, tag: timer) (+5) | vl:40 ping:1268 tps:19.99 lp:50 component: net.timer ver: 1.16.x
+(15:00:02) Bl4zeBoy failed BadPackets check | (timer) moved too many times (timer: 111.111, t:9, buffer:20, tag: timer) (+5) | vl:45 ping:1327 tps:19.99 lp:49 component: net.timer ver: 1.16.x
+(15:00:02) Bl4zeBoy failed BadPackets check | (timer) moved too many times (timer: 200.0, t:5, buffer:20, tag: timer) (+5) | vl:50 ping:1327 tps:19.99 lp:49 component: net.timer ver: 1.16.x
+(15:00:02) Bl4zeBoy failed BadPackets check | (timer) moved too many times (timer: 9.223372036854776E15, t:0, buffer:20, tag: timer) (+5) | vl:55 ping:1327 tps:19.99 lp:49 component: net.timer ver: 1.16.x
+(15:00:02) Bl4zeBoy failed BadPackets check | (timer) moved too many times (timer: 1000.0, t:1, buffer:20, tag: timer) (+5) | vl:60 ping:1327 tps:19.99 lp:49 component: net.timer ver: 1.16.x
+(15:00:02) Bl4zeBoy failed BadPackets check | (timer) moved too many times (timer: 9.223372036854776E15, t:0, buffer:20, tag: timer) (+5) | vl:65 ping:1327 tps:19.99 lp:49 component: net.timer ver: 1.16.x
+(15:00:02) Bl4zeBoy failed BadPackets check | (timer) moved too many times (timer: 9.223372036854776E15, t:0, buffer:20, tag: timer) (+5) | vl:70 ping:1327 tps:19.99 lp:49 component: net.timer ver: 1.16.x
+(15:00:02) Bl4zeBoy failed BadPackets check | (timer) moved too many times (timer: 9.223372036854776E15, t:0, buffer:20, tag: timer) (+5) | vl:75 ping:1327 tps:19.99 lp:49 component: net.timer ver: 1.16.x
+(15:00:02) Bl4zeBoy failed BadPackets check | (timer) moved too many times (timer: 9.223372036854776E15, t:0, buffer:20, tag: timer) (+5) | vl:80 ping:1327 tps:19.99 lp:49 component: net.timer ver: 1.16.x
+(15:00:02) Bl4zeBoy failed Speed check | (sneak) send sneak packet frequently (+2) | vl:6 ping:1327 tps:19.99 lp:49 component: speed.noslow.a ver: 1.16.x
+(15:00:02) Bl4zeBoy failed BadPackets check | (timer) moved too many times (timer: 9.223372036854776E15, t:0, buffer:20, tag: timer) (+5) | vl:85 ping:1327 tps:19.99 lp:49 component: net.timer ver: 1.16.x
+(15:00:02) Bl4zeBoy failed Speed check | (sneak) send sneak packet frequently (+2) | vl:8 ping:1327 tps:19.99 lp:49 component: speed.noslow.a ver: 1.16.x
+(15:00:02) Bl4zeBoy failed BadPackets check | (timer) moved too many times (timer: 1000.0, t:1, buffer:20, tag: timer) (+5) | vl:90 ping:1327 tps:19.99 lp:49 component: net.timer ver: 1.16.x
+(15:00:02) Bl4zeBoy failed Speed check | (sneak) send sneak packet frequently (+2) | vl:10 ping:1327 tps:19.99 lp:49 component: speed.noslow.a ver: 1.16.x
+(15:00:02) Bl4zeBoy failed BadPackets check | (timer) moved too many times (timer: 9.223372036854776E15, t:0, buffer:20, tag: timer) (+5) | vl:95 ping:1327 tps:19.99 lp:49 component: net.timer ver: 1.16.x
+(15:00:02) Bl4zeBoy failed Speed check | (sneak) send sneak packet frequently (+2) | vl:12 ping:1327 tps:19.99 lp:49 component: speed.noslow.a ver: 1.16.x
+(15:00:02) Bl4zeBoy failed BadPackets check | (timer) moved too many times (timer: 1000.0, t:1, buffer:20, tag: timer) (+5) | vl:100 ping:1327 tps:19.99 lp:49 component: net.timer ver: 1.16.x
+(15:00:02) Execute command: matrix notify Bl4zeBoy is sending unusual packets to server (BadPackets) #1
+(15:00:02) Bl4zeBoy failed Speed check | (sneak) send sneak packet frequently (+2) | vl:14 ping:1327 tps:19.99 lp:49 component: speed.noslow.a ver: 1.16.x
+(15:00:12) Bl4zeBoy failed BadPackets check | (timer) send 392 moving packets in 10034ms | tag: limit (+5) | vl:105 ping:1327 tps:20.0 lp:49 component: net.timer ver: 1.16.x
+(15:00:47) Bl4zeBoy failed BadPackets check | (timer) moved too many times (timer: 9.223372036854776E15, t:0, buffer:20, tag: timer) (+5) | vl:60 ping:2295 tps:20.0 lp:46 component: net.timer ver: 1.16.x
+(15:00:48) Bl4zeBoy failed BadPackets check | (timer) send 70 moving packets in 1034ms | tag: limit (+5) | vl:65 ping:2295 tps:20.0 lp:47 component: net.timer ver: 1.16.x
+(16:32:56) vanism failed Interact check | interact block through solid (through: STONE_BRICKS, block:CHEST) (+1) | vl:1 ping:29 tps:20.0 lp:23 component: interact.through ver: 1.16.x
+(16:50:05) vanism failed HitBox check | missed entity hitbox (entity: zombie, angle: 86.779, move: true) (+2) | vl:2 ping:22 tps:19.99 lp:13 component: hb.mis ver: 1.16.x
+(16:50:06) vanism failed HitBox check | missed entity hitbox (entity: zombie, angle: 111.674, move: true) (+2) | vl:4 ping:22 tps:19.99 lp:13 component: hb.mis ver: 1.16.x
+(16:50:06) vanism failed HitBox check | missed entity hitbox (entity: zombie, angle: 129.237, move: true) (+2) | vl:6 ping:33 tps:19.99 lp:12 component: hb.mis ver: 1.16.x
+(17:01:16) vanism failed HitBox check | missed entity hitbox (entity: skeleton, angle: 155.339, move: true) (+2) | vl:2 ping:27 tps:20.0 lp:24 component: hb.mis ver: 1.16.x
+(17:02:16) vanism failed HitBox check | missed entity hitbox (entity: creeper, angle: 38.376, move: true) (+1) | vl:1 ping:21 tps:19.99 lp:12 component: hb.mis ver: 1.16.x
+(17:48:33) Matrix Enabled!
+(17:48:33) Version: 6.0.3
+(18:00:09) Matrix Enabled!
+(18:00:09) Version: 6.0.3
+(19:47:44) Edwiener failed Move check | unexpected vertical movement (motion: 0.5/-0.078, hor: 0.029, buffer: 0.289/false, ground: ++, setback: +, vel: none, from: 247.0, past: 0.0, tags: jump,step,scaffold,high_jump) (+5) | vl:5 ping:0 tps:20.0 lp:11 component: move.vert ver: 1.16.x
+(19:48:15) Edwiener failed Move check | unexpected vertical movement (motion: 0.355/0.209, hor: 0.386, buffer: 0.768/true, ground: --, setback: -, vel: , from: 241.242, past: 0.355, tags: collision) (+5) | vl:5 ping:48 tps:20.0 lp:7 component: move.vert ver: 1.16.x
+(19:48:15) Edwiener failed Move check | unexpected horizontal movement (motion: 0.386/0.371, buffer: 0.964/true, vet: 0.355, vec: 0.345, ground: --, add: 0.026, past: 0.355,0.379, fr: 0.6, setback: +, vel: , from: 241.242, rv: 0.0, ptags: empty, tags: collision,hor_bst) (+5) | vl:10 ping:48 tps:20.0 lp:7 component: move.hor ver: 1.16.x
+(19:48:20) Edwiener failed Move check | unexpected vertical movement (motion: 0.5/0.083, hor: 0.098, buffer: 0.208/true, ground: ++, setback: +, vel: , from: 247.0, past: -0.046, tags: jump,step,scaffold,high_jump) (+5) | vl:15 ping:48 tps:20.0 lp:4 component: move.vert ver: 1.16.x
+(19:48:22) Edwiener failed Move check | unexpected vertical movement (motion: 0.5/-0.078, hor: 0.151, buffer: 0.289/true, ground: ++, setback: +, vel: , from: 247.0, past: 0.0, tags: jump,step,scaffold,high_jump) (+5) | vl:20 ping:48 tps:19.99 lp:5 component: move.vert ver: 1.16.x
+(19:52:11) Edwiener failed Move check | unexpected vertical movement (motion: 0.28/-0.078, hor: 0.08, buffer: 1.075/false, ground: --, setback: -, vel: , from: 242.42, past: 0.42, tags: collision,scaffold) (+5) | vl:5 ping:45 tps:20.0 lp:10 component: move.vert ver: 1.16.x
+(19:55:16) Edwiener failed Move check | unexpected vertical movement (motion: 0.28/-0.078, hor: 0.112, buffer: 1.075/false, ground: --, setback: -, vel: , from: 242.42, past: 0.42, tags: collision,scaffold) (+5) | vl:5 ping:67 tps:20.0 lp:7 component: move.vert ver: 1.16.x
+(19:58:06) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:5 ping:54 tps:19.99 lp:9 component: ka.prot.6 ver: 1.16.x
+(19:58:26) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:5 ping:48 tps:19.99 lp:27 component: ka.prot.6 ver: 1.16.x
+(19:58:27) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:10 ping:48 tps:20.0 lp:27 component: ka.prot.6 ver: 1.16.x
+(19:58:27) Execute command: matrix npc Edwiener 100
+(19:58:27) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:15 ping:48 tps:20.0 lp:27 component: ka.prot.6 ver: 1.16.x
+(19:58:28) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:20 ping:48 tps:20.0 lp:27 component: ka.prot.6 ver: 1.16.x
+(19:58:28) Execute command: matrix notify Edwiener might be using combat hacks (KillAura)
+(20:01:33) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/0.114, hor: 0.272, buffer: 0.579/false, ground: --, setback: -, vel: , from: 241.45, past: 0.197, tags: empty) (+4) | vl:4 ping:125 tps:20.0 lp:7 component: move.vert ver: 1.16.x
+(20:02:03) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:5 ping:55 tps:19.92 lp:8 component: ka.prot.6 ver: 1.16.x
+(20:02:44) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:5 ping:63 tps:19.99 lp:7 component: ka.prot.6 ver: 1.16.x
+(20:02:49) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:10 ping:63 tps:20.0 lp:7 component: ka.prot.6 ver: 1.16.x
+(20:02:49) Execute command: matrix npc Edwiener 100
+(20:02:49) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:15 ping:63 tps:20.0 lp:7 component: ka.prot.6 ver: 1.16.x
+(20:10:25) Edwiener failed Move check | unexpected vertical movement (motion: 0.28/-0.078, hor: 0.079, buffer: 1.075/false, ground: --, setback: -, vel: , from: 242.42, past: 0.42, tags: collision,scaffold) (+4) | vl:4 ping:163 tps:19.99 lp:21 component: move.vert ver: 1.16.x
+(20:10:25) Edwiener failed Move check | unexpected vertical movement (motion: 0.28/-0.078, hor: 0.054, buffer: 1.325/false, ground: --, setback: -, vel: , from: 242.42, past: 0.42, tags: collision,scaffold) (+4) | vl:8 ping:163 tps:19.99 lp:16 component: move.vert ver: 1.16.x
+(20:10:27) Edwiener failed Move check | unexpected vertical movement (motion: 0.28/-0.078, hor: 0.032, buffer: 1.075/true, ground: --, setback: -, vel: , from: 242.42, past: 0.42, tags: collision,scaffold) (+4) | vl:4 ping:163 tps:20.0 lp:13 component: move.vert ver: 1.16.x
+(20:10:27) Edwiener failed Move check | unexpected vertical movement (motion: 0.28/-0.078, hor: 0.021, buffer: 1.475/true, ground: --, setback: -, vel: , from: 242.42, past: 0.42, tags: collision,scaffold) (+4) | vl:8 ping:163 tps:20.0 lp:10 component: move.vert ver: 1.16.x
+(20:13:01) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:5 ping:111 tps:20.0 lp:18 component: ka.prot.6 ver: 1.16.x
+(20:13:02) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:10 ping:111 tps:20.0 lp:18 component: ka.prot.6 ver: 1.16.x
+(20:13:02) Execute command: matrix npc Edwiener 100
+(20:13:02) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:15 ping:111 tps:20.0 lp:18 component: ka.prot.6 ver: 1.16.x
+(20:15:46) Edwiener failed Elytra check | (elytra) more energy: 0.015 dif: 0.012 motion: -0.086 ratio: 0.138 (+1) | vl:1 ping:59 tps:20.0 lp:6 component: ely.me ver: 1.16.x
+(20:16:00) Edwiener failed Elytra check | (elytra) reserve energy: 0.078 dif: 0.074 motion: 0.391 t: 46 (+2) | vl:2 ping:43 tps:20.0 lp:25 component: ely.re ver: 1.16.x
+(20:16:53) Edwiener failed Move check | unexpected vertical movement (motion: 0.28/-0.152, hor: 0.024, buffer: 1.545/false, ground: --, setback: -, vel: , from: 242.42, past: 0.42, tags: collision,scaffold) (+4) | vl:4 ping:138 tps:20.0 lp:21 component: move.vert ver: 1.16.x
+(20:17:18) Edwiener failed HitBox check | missed cat's hitbox (raytrace: 11/14 positions, tk: 10, prep: false) (+2) | vl:2 ping:69 tps:20.0 lp:18 component: hb.mis ver: 1.16.x
+(20:17:19) Edwiener failed HitBox check | missed cat's hitbox (raytrace: 11/21 positions, tk: 10, prep: true) (+2) | vl:4 ping:69 tps:19.99 lp:18 component: hb.mis ver: 1.16.x
+(20:17:25) Edwiener failed Move check | unexpected horizontal movement (motion: 0.469/0.285, buffer: 0.363/false, vet: 0.356, vec: 0.259, ground: --, add: 0.026, past: 0.388,0.473, fr: 0.6, setback: -, vel: , from: 59.388, rv: 0.158, ptags: jump, tags: empty) (+5) | vl:5 ping:118 tps:20.0 lp:25 component: move.hor ver: 1.16.x
+(20:17:25) Edwiener failed Move check | unexpected vertical movement (motion: 0.356/0.27, hor: 0.476, buffer: 0.62/false, ground: --, setback: -, vel: , from: 59.744, past: 0.356, tags: empty) (+5) | vl:10 ping:118 tps:20.0 lp:25 component: move.vert ver: 1.16.x
+(20:17:25) Edwiener failed Move check | unexpected horizontal movement (motion: 0.476/0.453, buffer: 0.84/false, vet: 0.356, vec: 0.427, ground: --, add: 0.026, past: 0.356,0.469, fr: 0.6, setback: +, vel: , from: 59.744, rv: 0.158, ptags: empty, tags: hor_bst) (+5) | vl:15 ping:118 tps:20.0 lp:25 component: move.hor ver: 1.16.x
+(20:17:55) Edwiener failed Move check | unexpected horizontal movement (motion: 0.476/0.289, buffer: 0.38/false, vet: 0.357, vec: 0.263, ground: --, add: 0.026, past: 0.388,0.481, fr: 0.6, setback: -, vel: , from: 57.388, rv: 0.158, ptags: jump, tags: empty) (+5) | vl:5 ping:100 tps:20.0 lp:21 component: move.hor ver: 1.16.x
+(20:17:55) Edwiener failed Move check | unexpected vertical movement (motion: 0.357/0.271, hor: 0.483, buffer: 0.637/false, ground: --, setback: -, vel: , from: 57.745, past: 0.357, tags: empty) (+5) | vl:10 ping:100 tps:20.0 lp:21 component: move.vert ver: 1.16.x
+(20:17:55) Edwiener failed Move check | unexpected horizontal movement (motion: 0.483/0.46, buffer: 0.859/false, vet: 0.357, vec: 0.433, ground: --, add: 0.026, past: 0.357,0.476, fr: 0.6, setback: +, vel: , from: 57.745, rv: 0.158, ptags: empty, tags: hor_bst) (+5) | vl:15 ping:100 tps:20.0 lp:21 component: move.hor ver: 1.16.x
+(20:17:57) Edwiener failed Move check | unexpected vertical movement (motion: 0.33/0.274, hor: 0.546, buffer: 0.168/true, ground: --, setback: -, vel: , from: 57.749, past: 0.359, tags: empty) (+4) | vl:4 ping:120 tps:20.0 lp:26 component: move.vert ver: 1.16.x
+(20:17:57) Edwiener failed Move check | unexpected horizontal movement (motion: 0.546/0.528, buffer: 0.318/true, vet: 0.33, vec: 0.502, ground: --, add: 0.026, past: 0.359,0.551, fr: 0.6, setback: -, vel: , from: 57.749, rv: 0.158, ptags: empty, tags: empty) (+4) | vl:8 ping:120 tps:20.0 lp:26 component: move.hor ver: 1.16.x
+(20:17:57) Edwiener failed Move check | unexpected vertical movement (motion: 0.33/0.123, hor: 0.553, buffer: 0.94/true, ground: --, setback: -, vel: , from: 58.078, past: 0.33, tags: collision) (+4) | vl:12 ping:120 tps:20.0 lp:26 component: move.vert ver: 1.16.x
+(20:17:57) Edwiener failed Move check | unexpected horizontal movement (motion: 0.553/0.523, buffer: 1.181/true, vet: 0.33, vec: 0.497, ground: --, add: 0.026, past: 0.33,0.546, fr: 0.6, setback: +, vel: , from: 58.078, rv: 0.158, ptags: empty, tags: collision,hor_bst) (+4) | vl:16 ping:120 tps:20.0 lp:26 component: move.hor ver: 1.16.x
+(20:18:15) Edwiener failed Move check | unexpected vertical movement (motion: 0.351/0.299, hor: 0.481, buffer: 0.193/true, ground: --, setback: -, vel: , from: 69.385, past: 0.385, tags: empty) (+5) | vl:21 ping:54 tps:20.0 lp:8 component: move.vert ver: 1.16.x
+(20:18:15) Edwiener failed Move check | unexpected horizontal movement (motion: 0.481/0.292, buffer: 0.383/true, vet: 0.351, vec: 0.266, ground: --, add: 0.026, past: 0.385,0.486, fr: 0.6, setback: -, vel: , from: 69.385, rv: 0.158, ptags: jump, tags: empty) (+5) | vl:26 ping:54 tps:20.0 lp:8 component: move.hor ver: 1.16.x
+(20:18:15) Edwiener failed Move check | unexpected vertical movement (motion: 0.316/0.265, hor: 0.477, buffer: 0.535/true, ground: --, setback: -, vel: , from: 69.736, past: 0.351, tags: empty) (+5) | vl:31 ping:54 tps:20.0 lp:8 component: move.vert ver: 1.16.x
+(20:18:15) Edwiener failed Move check | unexpected horizontal movement (motion: 0.477/0.465, buffer: 0.685/true, vet: 0.316, vec: 0.438, ground: --, add: 0.026, past: 0.351,0.481, fr: 0.6, setback: -, vel: , from: 69.736, rv: 0.158, ptags: empty, tags: empty) (+5) | vl:36 ping:54 tps:20.0 lp:8 component: move.hor ver: 1.16.x
+(20:18:15) Edwiener failed Move check | unexpected vertical movement (motion: 0.281/0.231, hor: 0.472, buffer: 0.71/true, ground: --, setback: -, vel: , from: 70.052, past: 0.316, tags: empty) (+5) | vl:41 ping:54 tps:20.0 lp:8 component: move.vert ver: 1.16.x
+(20:18:15) Edwiener failed Move check | unexpected horizontal movement (motion: 0.472/0.46, buffer: 0.86/true, vet: 0.281, vec: 0.434, ground: --, add: 0.026, past: 0.316,0.477, fr: 0.6, setback: -, vel: , from: 70.052, rv: 0.158, ptags: empty, tags: empty) (+5) | vl:46 ping:54 tps:20.0 lp:8 component: move.hor ver: 1.16.x
+(20:18:19) Edwiener failed Move check | unexpected horizontal movement (motion: 0.303/0.291, buffer: 0.15/true, vet: -0.121, vec: 0.264, ground: -+, add: 0.026, past: -0.374,0.29, fr: 0.6, setback: -, vel: , from: 72.121, rv: 0.158, ptags: empty, tags: collision) (+5) | vl:51 ping:90 tps:20.0 lp:10 component: move.hor ver: 1.16.x
+(20:22:05) Edwiener failed Move check | unexpected vertical movement (motion: 0.02/0.294, hor: 0.735, buffer: 0.157/true, ground: --, setback: -, vel: , from: 57.38, past: 0.38, tags: empty) (+4) | vl:4 ping:173 tps:20.0 lp:9 component: move.vert ver: 1.16.x
+(20:22:05) Edwiener failed Move check | unexpected horizontal movement (motion: 0.735/0.433, buffer: 0.459/true, vet: 0.02, vec: 0.406, ground: --, add: 0.026, past: 0.38,0.744, fr: 0.6, setback: -, vel: , from: 57.38, rv: 4.0, ptags: jump, tags: empty) (+4) | vl:8 ping:173 tps:20.0 lp:9 component: move.hor ver: 1.16.x
+(20:22:05) Edwiener failed Move check | unexpected vertical movement (motion: -0.027/-0.059, hor: 0.726, buffer: 0.475/true, ground: --, setback: -, vel: , from: 57.4, past: 0.02, tags: empty) (+4) | vl:12 ping:173 tps:20.0 lp:9 component: move.vert ver: 1.16.x
+(20:22:05) Edwiener failed Move check | unexpected horizontal movement (motion: 0.726/0.695, buffer: 0.625/true, vet: -0.027, vec: 0.669, ground: --, add: 0.026, past: 0.02,0.735, fr: 0.6, setback: -, vel: , from: 57.4, rv: 4.0, ptags: empty, tags: empty) (+4) | vl:16 ping:173 tps:20.0 lp:9 component: move.hor ver: 1.16.x
+(20:22:05) Edwiener failed Move check | unexpected vertical movement (motion: -0.051/-0.105, hor: 0.715, buffer: 0.652/true, ground: --, setback: -, vel: , from: 57.373, past: -0.027, tags: empty) (+4) | vl:20 ping:173 tps:20.0 lp:9 component: move.vert ver: 1.16.x
+(20:22:05) Edwiener failed Move check | unexpected horizontal movement (motion: 0.715/0.687, buffer: 0.802/true, vet: -0.051, vec: 0.66, ground: --, add: 0.026, past: -0.027,0.726, fr: 0.6, setback: -, vel: , from: 57.373, rv: 4.0, ptags: empty, tags: empty) (+4) | vl:24 ping:173 tps:20.0 lp:9 component: move.hor ver: 1.16.x
+(20:22:05) Edwiener failed Move check | unexpected vertical movement (motion: -0.072/-0.129, hor: 0.701, buffer: 0.83/true, ground: --, setback: -, vel: , from: 57.321, past: -0.051, tags: empty) (+4) | vl:28 ping:173 tps:20.0 lp:9 component: move.vert ver: 1.16.x
+(20:22:05) Edwiener failed Move check | unexpected horizontal movement (motion: 0.701/0.677, buffer: 0.98/true, vet: -0.072, vec: 0.651, ground: --, add: 0.026, past: -0.051,0.715, fr: 0.6, setback: -, vel: , from: 57.321, rv: 4.0, ptags: empty, tags: empty) (+4) | vl:32 ping:173 tps:20.0 lp:9 component: move.hor ver: 1.16.x
+(20:22:05) Edwiener failed Move check | unexpected vertical movement (motion: -0.09/-0.149, hor: 0.686, buffer: 1.01/true, ground: --, setback: -, vel: , from: 57.25, past: -0.072, tags: empty) (+4) | vl:36 ping:173 tps:20.0 lp:9 component: move.vert ver: 1.16.x
+(20:22:05) Edwiener failed Move check | unexpected horizontal movement (motion: 0.686/0.664, buffer: 1.16/true, vet: -0.09, vec: 0.638, ground: --, add: 0.026, past: -0.072,0.701, fr: 0.6, setback: -, vel: , from: 57.25, rv: 4.0, ptags: empty, tags: empty) (+4) | vl:40 ping:173 tps:20.0 lp:9 component: move.hor ver: 1.16.x
+(20:22:05) Edwiener failed Move check | unexpected vertical movement (motion: -0.106/-0.16, hor: 0.673, buffer: 1.187/true, ground: --, setback: -, vel: , from: 57.16, past: -0.09, tags: empty) (+4) | vl:44 ping:173 tps:20.0 lp:9 component: move.vert ver: 1.16.x
+(20:22:05) Edwiener failed Move check | unexpected horizontal movement (motion: 0.673/0.651, buffer: 1.337/true, vet: -0.106, vec: 0.625, ground: --, add: 0.026, past: -0.09,0.686, fr: 0.6, setback: -, vel: , from: 57.16, rv: 4.0, ptags: empty, tags: empty) (+4) | vl:48 ping:173 tps:20.0 lp:9 component: move.hor ver: 1.16.x
+(20:22:32) Edwiener failed Move check | unexpected vertical movement (motion: 0.311/0.107, hor: 0.561, buffer: 0.611/false, ground: --, setback: -, vel: , from: 58.094, past: 0.337, tags: collision) (+5) | vl:5 ping:68 tps:20.0 lp:11 component: move.vert ver: 1.16.x
+(20:22:34) Edwiener failed Move check | unexpected horizontal movement (motion: 0.902/0.531, buffer: 0.809/false, vet: 0.037, vec: 0.505, ground: --, add: 0.026, past: 0.018,0.924, fr: 0.6, setback: -, vel: , from: 41.018, rv: 0.0, ptags: jump, tags: collision) (+5) | vl:10 ping:68 tps:19.99 lp:15 component: move.hor ver: 1.16.x
+(20:22:35) Edwiener failed Move check | unexpected vertical movement (motion: 0.091/0.011, hor: 0.843, buffer: 0.549/false, ground: --, setback: -, vel: , from: 41.35, past: 0.091, tags: empty) (+5) | vl:15 ping:68 tps:20.0 lp:15 component: move.vert ver: 1.16.x
+(20:22:35) Edwiener failed Move check | unexpected horizontal movement (motion: 0.843/0.771, buffer: 0.916/false, vet: 0.091, vec: 0.744, ground: --, add: 0.026, past: 0.091,0.818, fr: 0.6, setback: +, vel: , from: 41.35, rv: 0.0, ptags: empty, tags: hor_bst) (+5) | vl:20 ping:68 tps:20.0 lp:15 component: move.hor ver: 1.16.x
+(20:22:38) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.045, hor: 0.276, buffer: 0.1/true, ground: --, setback: -, vel: , from: 42.2, past: 0.034, tags: empty) (+5) | vl:25 ping:68 tps:20.0 lp:14 component: move.vert ver: 1.16.x
+(20:23:06) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/0.196, hor: 0.216, buffer: 0.923/false, ground: --, setback: -, vel: , from: 61.2, past: 0.28, tags: empty) (+5) | vl:5 ping:80 tps:20.0 lp:12 component: move.vert ver: 1.16.x
+(20:23:06) Edwiener failed Move check | unexpected vertical movement (motion: 0.264/-0.236, hor: 0.044, buffer: 1.023/false, ground: -+, setback: -, vel: , from: 60.736, past: -0.231, tags: step_hack,collision) (+5) | vl:10 ping:80 tps:20.0 lp:10 component: move.vert ver: 1.16.x
+(20:23:06) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.045, hor: 0.226, buffer: 0.665/false, ground: --, setback: -, vel: , from: 62.2, past: 0.034, tags: empty) (+5) | vl:15 ping:80 tps:20.0 lp:10 component: move.vert ver: 1.16.x
+(20:23:06) Edwiener failed Move check | unexpected vertical movement (motion: 0.0/0.201, hor: 0.075, buffer: 0.765/true, ground: ++, setback: -, vel: , from: 62.0, past: 0.351, tags: collision) (+5) | vl:20 ping:80 tps:20.0 lp:10 component: move.vert ver: 1.16.x
+(20:23:15) Edwiener failed Move check | unexpected vertical movement (motion: 0.22/0.157, hor: 0.396, buffer: 0.189/true, ground: --, setback: -, vel: , from: 68.529, past: 0.241, tags: empty) (+5) | vl:25 ping:80 tps:19.99 lp:12 component: move.vert ver: 1.16.x
+(20:23:15) Edwiener failed Move check | unexpected horizontal movement (motion: 0.396/0.392, buffer: 0.339/true, vet: 0.22, vec: 0.365, ground: --, add: 0.026, past: 0.241,0.401, fr: 0.6, setback: -, vel: , from: 68.529, rv: -0.157, ptags: empty, tags: empty) (+5) | vl:30 ping:80 tps:19.99 lp:12 component: move.hor ver: 1.16.x
+(20:23:15) Edwiener failed Move check | unexpected vertical movement (motion: 0.2/0.137, hor: 0.39, buffer: 0.527/true, ground: --, setback: -, vel: , from: 68.749, past: 0.22, tags: empty) (+5) | vl:35 ping:80 tps:19.99 lp:12 component: move.vert ver: 1.16.x
+(20:23:15) Edwiener failed Move check | unexpected horizontal movement (motion: 0.39/0.387, buffer: 0.677/true, vet: 0.2, vec: 0.36, ground: --, add: 0.026, past: 0.22,0.396, fr: 0.6, setback: -, vel: , from: 68.749, rv: -0.157, ptags: empty, tags: empty) (+5) | vl:40 ping:80 tps:19.99 lp:12 component: move.hor ver: 1.16.x
+(20:23:15) Edwiener failed Move check | unexpected vertical movement (motion: 0.18/0.118, hor: 0.385, buffer: 0.865/true, ground: --, setback: -, vel: , from: 68.949, past: 0.2, tags: empty) (+5) | vl:45 ping:80 tps:19.99 lp:12 component: move.vert ver: 1.16.x
+(20:23:15) Edwiener failed Move check | unexpected horizontal movement (motion: 0.385/0.382, buffer: 1.015/true, vet: 0.18, vec: 0.355, ground: --, add: 0.026, past: 0.2,0.39, fr: 0.6, setback: -, vel: , from: 68.949, rv: -0.157, ptags: empty, tags: empty) (+5) | vl:50 ping:80 tps:19.99 lp:12 component: move.hor ver: 1.16.x
+(20:23:45) Edwiener failed Move check | unexpected vertical movement (motion: 0.467/-0.533, hor: 0.183, buffer: 0.5/false, ground: -+, setback: -, vel: , from: 75.533, past: -0.48, tags: step_hack,collision) (+5) | vl:5 ping:60 tps:20.0 lp:12 component: move.vert ver: 1.16.x
+(20:23:45) Edwiener failed Move check | unexpected vertical movement (motion: 0.0/0.38, hor: 0.287, buffer: 0.69/false, ground: ++, setback: -, vel: , from: 76.0, past: 0.467, tags: empty) (+5) | vl:10 ping:60 tps:20.0 lp:12 component: move.vert ver: 1.16.x
+(20:23:55) Edwiener failed Move check | unexpected horizontal movement (motion: 0.284/0.252, buffer: 0.15/true, vet: 0.0, vec: 0.121, ground: ++, add: 0.13, past: 0.0,0.222, fr: 0.6, setback: -, vel: , from: 79.0, rv: 4.0, ptags: collision, tags: collision) (+5) | vl:15 ping:55 tps:20.0 lp:10 component: move.hor ver: 1.16.x
+(20:24:47) Edwiener failed Move check | unexpected horizontal movement (motion: 0.871/0.488, buffer: 1.737/false, vet: 0.006, vec: 0.462, ground: --, add: 0.026, past: 0.006,0.845, fr: 0.6, setback: +, vel: , from: 76.006, rv: 4.0, ptags: jump, tags: collision,hor_bst) (+5) | vl:5 ping:50 tps:20.0 lp:12 component: move.hor ver: 1.16.x
+(20:25:42) Edwiener failed Move check | unexpected horizontal movement (motion: 0.334/0.324, buffer: 0.631/false, vet: 0.356, vec: 0.297, ground: --, add: 0.026, past: 0.356,0.327, fr: 0.6, setback: +, vel: , from: 73.743, rv: 0.086, ptags: empty, tags: hor_bst) (+5) | vl:5 ping:64 tps:20.0 lp:8 component: move.hor ver: 1.16.x
+(20:26:24) Edwiener failed Move check | unexpected vertical movement (motion: 0.127/0.069, hor: 0.072, buffer: 0.531/false, ground: --, setback: -, vel: , from: 74.983, past: 0.15, tags: empty) (+2) | vl:2 ping:241 tps:20.0 lp:15 component: move.vert ver: 1.16.x
+(20:26:24) Edwiener failed Move check | unexpected vertical movement (motion: 0.105/0.046, hor: 0.07, buffer: 0.708/false, ground: --, setback: -, vel: , from: 75.11, past: 0.127, tags: empty) (+2) | vl:4 ping:241 tps:20.0 lp:15 component: move.vert ver: 1.16.x
+(20:26:24) Edwiener failed Move check | unexpected vertical movement (motion: 0.083/0.025, hor: 0.067, buffer: 0.884/true, ground: --, setback: -, vel: , from: 75.216, past: 0.105, tags: empty) (+2) | vl:6 ping:241 tps:20.0 lp:15 component: move.vert ver: 1.16.x
+(20:26:24) Edwiener failed Move check | unexpected vertical movement (motion: 0.083/0.003, hor: 0.086, buffer: 1.124/true, ground: --, setback: -, vel: , from: 75.299, past: 0.083, tags: empty) (+2) | vl:8 ping:241 tps:19.99 lp:15 component: move.vert ver: 1.16.x
+(20:26:26) Edwiener failed Move check | unexpected vertical movement (motion: 0.365/0.306, hor: 0.026, buffer: 0.853/true, ground: --, setback: -, vel: 0.0, from: 71.392, past: 0.392, tags: empty) (+2) | vl:10 ping:241 tps:19.99 lp:13 component: move.vert ver: 1.16.x
+(20:26:26) Edwiener failed Move check | unexpected vertical movement (motion: 0.338/0.279, hor: 0.024, buffer: 1.03/true, ground: --, setback: -, vel: 0.0, from: 71.757, past: 0.365, tags: empty) (+2) | vl:12 ping:241 tps:19.99 lp:13 component: move.vert ver: 1.16.x
+(20:26:26) Edwiener failed Move check | unexpected vertical movement (motion: 0.311/0.253, hor: 0.022, buffer: 1.206/true, ground: --, setback: -, vel: 0.0, from: 72.094, past: 0.338, tags: empty) (+2) | vl:14 ping:241 tps:19.99 lp:13 component: move.vert ver: 1.16.x
+(20:26:26) Edwiener failed Move check | unexpected vertical movement (motion: 0.286/0.227, hor: 0.02, buffer: 1.383/true, ground: --, setback: -, vel: 0.0, from: 72.406, past: 0.311, tags: empty) (+2) | vl:16 ping:241 tps:19.99 lp:13 component: move.vert ver: 1.16.x
+(20:26:26) Edwiener failed Move check | unexpected vertical movement (motion: 0.26/0.202, hor: 0.018, buffer: 1.559/true, ground: --, setback: -, vel: 0.0, from: 72.692, past: 0.286, tags: empty) (+2) | vl:18 ping:241 tps:19.99 lp:13 component: move.vert ver: 1.16.x
+(20:26:26) Edwiener failed Move check | unexpected vertical movement (motion: 0.235/0.177, hor: 0.016, buffer: 1.735/true, ground: --, setback: -, vel: 0.0, from: 72.952, past: 0.26, tags: empty) (+2) | vl:20 ping:241 tps:19.99 lp:13 component: move.vert ver: 1.16.x
+(20:26:26) Edwiener failed Move check | unexpected vertical movement (motion: 0.235/0.152, hor: 0.017, buffer: 1.985/true, ground: --, setback: -, vel: 0.0, from: 73.187, past: 0.235, tags: empty) (+2) | vl:22 ping:241 tps:19.99 lp:13 component: move.vert ver: 1.16.x
+(20:26:29) Edwiener failed Move check | unexpected vertical movement (motion: -0.355/-0.374, hor: 0.299, buffer: 0.009/true, ground: --, setback: -, vel: , from: 74.495, past: -0.302, tags: empty) (+2) | vl:2 ping:241 tps:19.99 lp:11 component: move.vert ver: 1.16.x
+(20:26:29) Edwiener failed Move check | unexpected horizontal movement (motion: 0.299/0.298, buffer: 0.163/true, vet: -0.355, vec: 0.272, ground: --, add: 0.026, past: -0.302,0.299, fr: 0.6, setback: +, vel: , from: 74.495, rv: 0.0, ptags: empty, tags: hor_bst) (+2) | vl:4 ping:241 tps:19.99 lp:11 component: move.hor ver: 1.16.x
+(20:26:31) Edwiener failed Move check | unexpected vertical movement (motion: 0.23/0.172, hor: 0.441, buffer: 0.174/true, ground: --, setback: -, vel: , from: 75.932, past: 0.255, tags: empty) (+2) | vl:6 ping:241 tps:20.0 lp:9 component: move.vert ver: 1.16.x
+(20:26:31) Edwiener failed Move check | unexpected horizontal movement (motion: 0.441/0.432, buffer: 0.324/true, vet: 0.23, vec: 0.405, ground: --, add: 0.026, past: 0.255,0.445, fr: 0.6, setback: -, vel: , from: 75.932, rv: 0.0, ptags: empty, tags: empty) (+2) | vl:8 ping:241 tps:20.0 lp:9 component: move.hor ver: 1.16.x
+(20:26:31) Edwiener failed Move check | unexpected vertical movement (motion: 0.23/0.147, hor: 0.466, buffer: 0.573/true, ground: --, setback: -, vel: , from: 76.161, past: 0.23, tags: empty) (+2) | vl:10 ping:241 tps:20.0 lp:9 component: move.vert ver: 1.16.x
+(20:26:31) Edwiener failed Move check | unexpected horizontal movement (motion: 0.466/0.428, buffer: 0.839/true, vet: 0.23, vec: 0.401, ground: --, add: 0.026, past: 0.23,0.441, fr: 0.6, setback: +, vel: , from: 76.161, rv: 0.0, ptags: empty, tags: hor_bst) (+2) | vl:12 ping:241 tps:20.0 lp:9 component: move.hor ver: 1.16.x
+(20:27:50) Edwiener failed Move check | bad strafe movement in the air: 0.028 (+1) | vl:1 ping:100 tps:20.0 lp:10 component: move.strafe ver: 1.16.x
+(20:27:51) Edwiener failed Move check | unexpected horizontal movement (motion: 0.298/0.278, buffer: 0.572/false, vet: -0.204, vec: 0.252, ground: --, add: 0.026, past: -0.204,0.277, fr: 0.6, setback: +, vel: , from: 68.99, rv: 0.0, ptags: empty, tags: hor_bst) (+5) | vl:6 ping:100 tps:20.0 lp:10 component: move.hor ver: 1.16.x
+(20:28:39) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.045, hor: 0.293, buffer: 0.1/true, ground: --, setback: -, vel: , from: 49.2, past: 0.034, tags: empty) (+1) | vl:1 ping:279 tps:19.99 lp:6 component: move.vert ver: 1.16.x
+(20:28:40) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.045, hor: 0.316, buffer: 0.1/true, ground: --, setback: -, vel: , from: 49.2, past: 0.034, tags: empty) (+1) | vl:2 ping:279 tps:19.99 lp:7 component: move.vert ver: 1.16.x
+(20:28:40) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.167, hor: 0.129, buffer: 0.044/true, ground: +-, setback: -, vel: , from: 47.0, past: -0.09, tags: empty) (+1) | vl:3 ping:279 tps:19.99 lp:7 component: move.vert ver: 1.16.x
+(20:28:46) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.045, hor: 0.286, buffer: 0.017/true, ground: --, setback: -, vel: , from: 45.2, past: 0.034, tags: empty) (+5) | vl:8 ping:44 tps:20.0 lp:5 component: move.vert ver: 1.16.x
+(20:28:47) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.045, hor: 0.285, buffer: 0.1/true, ground: --, setback: -, vel: , from: 45.2, past: 0.034, tags: empty) (+5) | vl:13 ping:44 tps:20.0 lp:6 component: move.vert ver: 1.16.x
+(20:28:47) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.045, hor: 0.289, buffer: 0.1/true, ground: --, setback: -, vel: , from: 45.2, past: 0.034, tags: empty) (+5) | vl:18 ping:44 tps:20.0 lp:6 component: move.vert ver: 1.16.x
+(20:29:08) Edwiener failed Block check | break block too fast (digs: 4/6, block: stone, j: false) (+4) | vl:4 ping:53 tps:20.0 lp:9 component: blk.fb.exp ver: 1.16.x
+(20:29:12) Edwiener failed Block check | break block too fast (digs: 5/6, block: stone, j: false) (+4) | vl:8 ping:53 tps:20.0 lp:9 component: blk.fb.exp ver: 1.16.x
+(20:29:59) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.426, hor: 0.338, buffer: 0.174/true, ground: +-, setback: -, vel: , from: 48.5, past: -0.355, tags: empty) (+5) | vl:5 ping:49 tps:19.99 lp:11 component: move.vert ver: 1.16.x
+(20:30:00) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.426, hor: 0.34, buffer: 0.174/true, ground: +-, setback: -, vel: , from: 47.0, past: -0.355, tags: empty) (+5) | vl:10 ping:49 tps:19.99 lp:11 component: move.vert ver: 1.16.x
+(20:30:00) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.426, hor: 0.34, buffer: 0.174/true, ground: +-, setback: -, vel: , from: 45.5, past: -0.355, tags: empty) (+5) | vl:15 ping:49 tps:19.99 lp:11 component: move.vert ver: 1.16.x
+(20:30:00) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.426, hor: 0.331, buffer: 0.174/true, ground: +-, setback: -, vel: , from: 42.5, past: -0.355, tags: empty) (+5) | vl:20 ping:49 tps:20.0 lp:9 component: move.vert ver: 1.16.x
+(20:30:01) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.045, hor: 0.287, buffer: 0.1/true, ground: --, setback: -, vel: , from: 42.2, past: 0.034, tags: empty) (+5) | vl:25 ping:49 tps:20.0 lp:11 component: move.vert ver: 1.16.x
+(20:30:02) Edwiener failed Move check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: 186.373,42.166,179.448, type: air, pkt: true) (+5) | vl:30 ping:49 tps:20.0 lp:11 component: move.gf ver: 1.16.x
+(20:30:02) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.045, hor: 0.326, buffer: 0.1/true, ground: --, setback: -, vel: , from: 42.2, past: 0.034, tags: empty) (+5) | vl:35 ping:49 tps:20.0 lp:11 component: move.vert ver: 1.16.x
+(20:45:26) Edwiener failed Move check | unexpected horizontal movement (motion: 0.486/0.288, buffer: 1.008/false, vet: 0.375, vec: 0.261, ground: --, add: 0.026, past: 0.375,0.478, fr: 0.6, setback: +, vel: none, from: 128.375, rv: empty, ptags: jump, tags: hor_bst) (+5) | vl:5 ping:47 tps:20.0 lp:23 component: move.hor ver: 1.16.x
+(20:47:04) Edwiener failed Interact check | interacting with a block without looking at it (block: fire, type: break, buf: -6.0) (+1) | vl:1 ping:58 tps:20.0 lp:7 component: interact.dir ver: 1.16.x
+(20:52:18) Edwiener failed Elytra check | (elytra) impossible elytra movement (move: 0.0,0.681,0.0, mot: 0.6806768976842648) (+2) | vl:2 ping:61 tps:20.0 lp:7 component: ely.mvy ver: 1.16.x
+(20:52:18) Edwiener failed Elytra check | (elytra) impossible elytra movement (move: 0.0,0.594,0.0, mot: 0.5942756209513504) (+2) | vl:4 ping:61 tps:20.0 lp:7 component: ely.mvy ver: 1.16.x
+(20:52:18) Edwiener failed Elytra check | (elytra) impossible elytra movement (move: 0.0,0.512,0.0, mot: 0.5115381405438768) (+2) | vl:6 ping:61 tps:20.0 lp:7 component: ely.mvy ver: 1.16.x
+(20:52:18) Edwiener failed Elytra check | (elytra) impossible elytra movement (move: 0.0,0.432,0.0, mot: 0.4321782502019289) (+2) | vl:8 ping:61 tps:20.0 lp:7 component: ely.mvy ver: 1.16.x
+(20:52:19) Edwiener failed Move check | unexpected vertical movement (motion: 0.347/-0.078, hor: 0.303, buffer: 1.509/false, ground: --, setback: -, vel: none, from: 220.387, past: 0.387, tags: scaffold) (+5) | vl:5 ping:54 tps:19.99 lp:8 component: move.vert ver: 1.16.x
+(20:52:19) Edwiener failed Move check | unexpected vertical movement (motion: 0.347/-0.155, hor: 0.303, buffer: 3.016/false, ground: --, setback: -, vel: none, from: 220.734, past: 0.347, tags: scaffold) (+5) | vl:10 ping:54 tps:19.99 lp:8 component: move.vert ver: 1.16.x
+(20:54:23) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:5 ping:60 tps:20.0 lp:14 component: ka.prot.6 ver: 1.16.x
+(20:55:57) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:5 ping:50 tps:20.0 lp:24 component: ka.prot.6 ver: 1.16.x
+(20:57:43) Edwiener failed Move check | unexpected vertical movement (motion: 0.5/-0.078, hor: 0.173, buffer: 0.289/false, ground: ++, setback: +, vel: , from: 239.0, past: 0.0, tags: jump,step,scaffold,high_jump) (+5) | vl:5 ping:74 tps:19.99 lp:17 component: move.vert ver: 1.16.x
+(20:59:56) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:5 ping:47 tps:20.0 lp:27 component: ka.prot.6 ver: 1.16.x
+(20:59:56) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:10 ping:47 tps:20.0 lp:27 component: ka.prot.6 ver: 1.16.x
+(20:59:56) Execute command: matrix npc Edwiener 100
+(20:59:56) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:5 ping:47 tps:20.0 lp:27 component: ka.prot.6 ver: 1.16.x
+(21:00:16) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:10 ping:55 tps:20.0 lp:27 component: ka.prot.6 ver: 1.16.x
+(21:00:16) Execute command: matrix npc Edwiener 100
+(21:00:42) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:5 ping:45 tps:20.0 lp:26 component: ka.prot.6 ver: 1.16.x
+(21:00:43) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:10 ping:45 tps:20.0 lp:26 component: ka.prot.6 ver: 1.16.x
+(21:00:43) Execute command: matrix npc Edwiener 100
+(21:00:44) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:15 ping:45 tps:20.0 lp:26 component: ka.prot.6 ver: 1.16.x
+(21:04:40) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:5 ping:55 tps:20.0 lp:31 component: ka.prot.6 ver: 1.16.x
+(21:09:54) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:5 ping:46 tps:20.0 lp:19 component: ka.prot.6 ver: 1.16.x
+(21:10:49) Edwiener failed Move check | unexpected vertical movement (motion: 0.28/-0.078, hor: 0.061, buffer: 1.075/false, ground: --, setback: -, vel: , from: 242.42, past: 0.42, tags: collision,scaffold) (+5) | vl:5 ping:50 tps:19.99 lp:14 component: move.vert ver: 1.16.x
+(21:11:46) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:5 ping:85 tps:20.0 lp:16 component: ka.prot.6 ver: 1.16.x
+(21:11:49) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:10 ping:85 tps:19.99 lp:21 component: ka.prot.6 ver: 1.16.x
+(21:11:49) Execute command: matrix npc Edwiener 100
+(21:15:05) Edwiener failed Move check | unexpected vertical movement (motion: 0.5/-0.078, hor: 0.181, buffer: 0.289/false, ground: ++, setback: +, vel: , from: 247.0, past: 0.0, tags: jump,step,scaffold,high_jump) (+2) | vl:2 ping:207 tps:20.0 lp:10 component: move.vert ver: 1.16.x
+(21:15:50) Edwiener failed Move check | unexpected vertical movement (motion: 0.344/-0.656, hor: 0.11, buffer: 0.5/false, ground: -+, setback: -, vel: , from: 240.156, past: -0.781, tags: step_hack,collision) (+5) | vl:5 ping:69 tps:20.0 lp:17 component: move.vert ver: 1.16.x
+(21:15:50) Edwiener failed Move check | unexpected vertical movement (motion: 0.0/0.259, hor: 0.1, buffer: 0.63/false, ground: ++, setback: -, vel: -0.078375, from: 240.5, past: 0.344, tags: empty) (+5) | vl:10 ping:69 tps:20.0 lp:17 component: move.vert ver: 1.16.x
+(21:16:20) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:5 ping:77 tps:19.99 lp:28 component: ka.prot.6 ver: 1.16.x
+(21:16:22) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:10 ping:70 tps:19.99 lp:28 component: ka.prot.6 ver: 1.16.x
+(21:16:22) Execute command: matrix npc Edwiener 100
+(21:16:23) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:15 ping:70 tps:19.99 lp:28 component: ka.prot.6 ver: 1.16.x
+(21:16:24) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:20 ping:70 tps:19.99 lp:28 component: ka.prot.6 ver: 1.16.x
+(21:16:24) Execute command: matrix notify Edwiener might be using combat hacks (KillAura)
+(21:16:24) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:25 ping:70 tps:19.99 lp:28 component: ka.prot.6 ver: 1.16.x
+(21:16:26) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:15 ping:70 tps:19.99 lp:28 component: ka.prot.6 ver: 1.16.x
+(21:16:27) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:20 ping:70 tps:19.99 lp:28 component: ka.prot.6 ver: 1.16.x
+(21:16:27) Execute command: matrix notify Edwiener might be using combat hacks (KillAura)
+(21:16:28) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:25 ping:70 tps:19.99 lp:28 component: ka.prot.6 ver: 1.16.x
+(21:18:16) vanism failed KillAura check | critical hit without correct jumping // mini-jump (d:0.0625) (+5) | vl:5 ping:20 tps:20.0 lp:10 component: ka.critical.hop ver: 1.16.x
+(21:21:40) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:5 ping:46 tps:20.0 lp:25 component: ka.prot.6 ver: 1.16.x
+(21:21:40) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:10 ping:46 tps:20.0 lp:25 component: ka.prot.6 ver: 1.16.x
+(21:21:40) Execute command: matrix npc Edwiener 100
+(21:21:41) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:15 ping:46 tps:20.0 lp:25 component: ka.prot.6 ver: 1.16.x
+(21:21:42) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:20 ping:46 tps:20.0 lp:25 component: ka.prot.6 ver: 1.16.x
+(21:21:42) Execute command: matrix notify Edwiener might be using combat hacks (KillAura)
+(21:26:50) Edwiener failed Move check | unexpected vertical movement (motion: 0.5/-0.078, hor: 0.027, buffer: 0.289/false, ground: ++, setback: +, vel: , from: 247.0, past: -0.052, tags: jump,step,scaffold,high_jump) (+5) | vl:5 ping:114 tps:20.0 lp:17 component: move.vert ver: 1.16.x
+(21:27:50) Edwiener failed Move check | unexpected vertical movement (motion: 0.28/-0.078, hor: 0.102, buffer: 1.075/false, ground: --, setback: -, vel: , from: 242.42, past: 0.42, tags: collision,scaffold) (+5) | vl:5 ping:59 tps:20.0 lp:16 component: move.vert ver: 1.16.x
+(21:27:52) Edwiener failed Move check | unexpected vertical movement (motion: 0.28/-0.078, hor: 0.111, buffer: 1.075/false, ground: --, setback: -, vel: , from: 242.42, past: 0.42, tags: collision,scaffold) (+5) | vl:10 ping:59 tps:20.0 lp:15 component: move.vert ver: 1.16.x
+(21:27:53) Edwiener failed Move check | unexpected vertical movement (motion: 0.28/-0.155, hor: 0.079, buffer: 1.306/false, ground: --, setback: -, vel: , from: 242.42, past: 0.42, tags: collision,scaffold) (+5) | vl:15 ping:59 tps:20.0 lp:14 component: move.vert ver: 1.16.x
+(21:29:10) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:5 ping:79 tps:20.0 lp:36 component: ka.prot.6 ver: 1.16.x
+(21:31:52) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:5 ping:68 tps:20.0 lp:23 component: ka.prot.6 ver: 1.16.x
+(21:33:25) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:5 ping:70 tps:20.0 lp:33 component: ka.prot.6 ver: 1.16.x
+(21:39:02) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:5 ping:44 tps:20.0 lp:11 component: ka.prot.6 ver: 1.16.x
+(21:39:02) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:10 ping:44 tps:19.99 lp:17 component: ka.prot.6 ver: 1.16.x
+(21:39:02) Execute command: matrix npc Edwiener 100
+(21:39:40) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:5 ping:72 tps:20.0 lp:12 component: ka.prot.6 ver: 1.16.x
+(21:39:40) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:10 ping:72 tps:20.0 lp:12 component: ka.prot.6 ver: 1.16.x
+(21:39:40) Execute command: matrix npc Edwiener 100
+(21:39:40) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:15 ping:72 tps:20.0 lp:12 component: ka.prot.6 ver: 1.16.x
+(21:39:48) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:20 ping:72 tps:20.0 lp:30 component: ka.prot.6 ver: 1.16.x
+(21:39:48) Execute command: matrix notify Edwiener might be using combat hacks (KillAura)
+(21:39:48) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:25 ping:72 tps:20.0 lp:30 component: ka.prot.6 ver: 1.16.x
+(21:39:49) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:30 ping:72 tps:20.0 lp:30 component: ka.prot.6 ver: 1.16.x
+(21:40:36) Edwiener failed Move check | unexpected vertical movement (motion: 0.5/-0.078, hor: 0.118, buffer: 0.289/false, ground: ++, setback: +, vel: , from: 247.0, past: -0.122, tags: jump,step,scaffold,high_jump) (+5) | vl:5 ping:76 tps:20.0 lp:10 component: move.vert ver: 1.16.x
+(21:41:36) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:5 ping:82 tps:20.0 lp:17 component: ka.prot.6 ver: 1.16.x
+(21:42:44) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:5 ping:67 tps:20.0 lp:15 component: ka.prot.6 ver: 1.16.x
+(21:42:48) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:10 ping:253 tps:20.0 lp:15 component: ka.prot.6 ver: 1.16.x
+(21:42:48) Execute command: matrix npc Edwiener 100
+(21:42:48) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:15 ping:253 tps:20.0 lp:15 component: ka.prot.6 ver: 1.16.x
+(21:42:48) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:20 ping:253 tps:20.0 lp:15 component: ka.prot.6 ver: 1.16.x
+(21:42:48) Execute command: matrix notify Edwiener might be using combat hacks (KillAura)
+(21:42:59) Edwiener failed Move check | unexpected vertical movement (motion: 0.5/-0.078, hor: 0.22, buffer: 0.289/false, ground: ++, setback: +, vel: , from: 247.0, past: -0.036, tags: jump,step,scaffold,high_jump) (+5) | vl:5 ping:50 tps:19.99 lp:12 component: move.vert ver: 1.16.x
+(21:46:09) Edwiener failed Move check | unexpected vertical movement (motion: 0.385/-0.155, hor: 0.174, buffer: 0.501/false, ground: --, setback: -, vel: , from: 241.385, past: 0.385, tags: scaffold,fix_114) (+5) | vl:5 ping:64 tps:20.0 lp:8 component: move.vert ver: 1.16.x
+(21:48:01) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.305, hor: 0.3, buffer: 0.113/true, ground: +-, setback: -, vel: , from: 61.5, past: -0.232, tags: empty) (+5) | vl:5 ping:60 tps:20.0 lp:11 component: move.vert ver: 1.16.x
+(21:48:03) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.305, hor: 0.292, buffer: 0.113/true, ground: +-, setback: -, vel: , from: 58.5, past: -0.232, tags: empty) (+5) | vl:10 ping:60 tps:20.0 lp:16 component: move.vert ver: 1.16.x
+(21:48:21) Edwiener failed Move check | unexpected horizontal movement (motion: 0.914/0.512, buffer: 1.61/false, vet: 0.39, vec: 0.485, ground: --, add: 0.026, past: 0.39,0.889, fr: 0.6, setback: +, vel: , from: 57.39, rv: -0.155, ptags: jump, tags: hor_bst) (+5) | vl:15 ping:53 tps:20.0 lp:8 component: move.hor ver: 1.16.x
+(21:49:21) Edwiener failed Move check | unexpected horizontal movement (motion: 0.73/0.422, buffer: 1.23/false, vet: 0.392, vec: 0.396, ground: --, add: 0.026, past: 0.392,0.725, fr: 0.6, setback: +, vel: , from: 57.392, rv: -0.155, ptags: jump, tags: noslow,hor_bst) (+5) | vl:5 ping:110 tps:19.99 lp:7 component: move.hor ver: 1.16.x
+(21:49:35) Edwiener failed Move check | unexpected horizontal movement (motion: 0.775/0.436, buffer: 1.357/false, vet: 0.392, vec: 0.409, ground: --, add: 0.026, past: 0.392,0.75, fr: 0.6, setback: +, vel: , from: 57.392, rv: -0.155, ptags: jump, tags: hor_bst) (+5) | vl:5 ping:84 tps:20.0 lp:15 component: move.hor ver: 1.16.x
+(21:50:15) Edwiener failed Move check | unexpected horizontal movement (motion: 0.498/0.301, buffer: 0.391/false, vet: 0.363, vec: 0.275, ground: --, add: 0.026, past: 0.391,0.503, fr: 0.6, setback: -, vel: , from: 57.391, rv: -0.155, ptags: jump, tags: empty) (+5) | vl:5 ping:101 tps:20.0 lp:11 component: move.hor ver: 1.16.x
+(21:50:15) Edwiener failed Move check | unexpected vertical movement (motion: 0.363/0.278, hor: 0.506, buffer: 0.648/true, ground: --, setback: -, vel: , from: 57.754, past: 0.363, tags: empty) (+5) | vl:10 ping:101 tps:20.0 lp:11 component: move.vert ver: 1.16.x
+(21:50:15) Edwiener failed Move check | unexpected horizontal movement (motion: 0.506/0.48, buffer: 0.876/true, vet: 0.363, vec: 0.453, ground: --, add: 0.026, past: 0.363,0.498, fr: 0.6, setback: +, vel: , from: 57.754, rv: -0.155, ptags: empty, tags: hor_bst) (+5) | vl:15 ping:101 tps:20.0 lp:11 component: move.hor ver: 1.16.x
+(21:50:21) Edwiener failed Move check | unexpected vertical movement (motion: 0.203/-0.297, hor: 0.319, buffer: 0.25/true, ground: -+, setback: -, vel: , from: 57.797, past: -0.228, tags: step_hack) (+5) | vl:20 ping:79 tps:20.0 lp:13 component: move.vert ver: 1.16.x
+(21:50:21) Edwiener failed Move check | unexpected vertical movement (motion: 0.0/0.121, hor: 0.417, buffer: 0.31/true, ground: ++, setback: -, vel: , from: 58.0, past: 0.203, tags: empty) (+5) | vl:25 ping:79 tps:20.0 lp:13 component: move.vert ver: 1.16.x
+(21:51:23) Edwiener failed Move check | unexpected horizontal movement (motion: 0.887/0.497, buffer: 1.765/false, vet: 0.008, vec: 0.471, ground: --, add: 0.026, past: 0.008,0.862, fr: 0.6, setback: +, vel: , from: 64.008, rv: 4.0, ptags: jump, tags: collision,hor_bst) (+5) | vl:5 ping:59 tps:20.0 lp:11 component: move.hor ver: 1.16.x
+(21:51:23) Edwiener failed Move check | unexpected vertical movement (motion: 0.395/0.0, hor: 0.197, buffer: 1.888/false, ground: --, setback: -, vel: , from: 64.0, past: 0.0, tags: collision,hor_pre_tp,fix_114) (+5) | vl:10 ping:59 tps:20.0 lp:11 component: move.vert ver: 1.16.x
+(21:51:27) Edwiener failed Move check | unexpected horizontal movement (motion: 0.758/0.427, buffer: 2.014/false, vet: 0.388, vec: 0.4, ground: --, add: 0.026, past: 0.388,0.733, fr: 0.6, setback: +, vel: , from: 64.388, rv: 4.0, ptags: jump, tags: hor_bst) (+5) | vl:5 ping:59 tps:20.0 lp:8 component: move.hor ver: 1.16.x
+(21:51:37) Edwiener failed Move check | unexpected horizontal movement (motion: 0.418/0.25, buffer: 0.727/false, vet: 0.391, vec: 0.224, ground: --, add: 0.026, past: 0.391,0.41, fr: 0.6, setback: +, vel: , from: 68.391, rv: 4.0, ptags: jump, tags: hor_bst) (+5) | vl:10 ping:66 tps:20.0 lp:8 component: move.hor ver: 1.16.x
+(21:51:48) Edwiener failed Move check | unexpected horizontal movement (motion: 1.013/0.705, buffer: 0.708/false, vet: 0.42, vec: 0.374, ground: +-, add: 0.33, past: 0.0,0.685, fr: 0.6, setback: +, vel: , from: 66.0, rv: 0.158, ptags: collision, tags: jump) (+5) | vl:15 ping:55 tps:19.99 lp:9 component: move.hor ver: 1.16.x
+(21:52:02) Edwiener failed Move check | unexpected horizontal movement (motion: 0.697/0.393, buffer: 1.215/false, vet: 0.391, vec: 0.367, ground: --, add: 0.026, past: 0.391,0.671, fr: 0.6, setback: +, vel: , from: 65.391, rv: 0.158, ptags: jump, tags: hor_bst) (+5) | vl:5 ping:69 tps:19.99 lp:9 component: move.hor ver: 1.16.x
+(21:52:13) Edwiener failed Move check | unexpected horizontal movement (motion: 0.498/0.301, buffer: 0.39/false, vet: 0.358, vec: 0.275, ground: --, add: 0.026, past: 0.388,0.503, fr: 0.6, setback: -, vel: , from: 69.388, rv: 0.158, ptags: jump, tags: empty) (+5) | vl:10 ping:80 tps:20.0 lp:11 component: move.hor ver: 1.16.x
+(21:52:13) Edwiener failed Move check | unexpected vertical movement (motion: 0.358/0.272, hor: 0.506, buffer: 0.647/false, ground: --, setback: -, vel: , from: 69.746, past: 0.358, tags: empty) (+5) | vl:15 ping:80 tps:20.0 lp:11 component: move.vert ver: 1.16.x
+(21:52:13) Edwiener failed Move check | unexpected horizontal movement (motion: 0.506/0.48, buffer: 0.875/false, vet: 0.358, vec: 0.453, ground: --, add: 0.026, past: 0.358,0.498, fr: 0.6, setback: +, vel: , from: 69.746, rv: 0.158, ptags: empty, tags: hor_bst) (+5) | vl:20 ping:80 tps:20.0 lp:11 component: move.hor ver: 1.16.x
+(21:52:20) Edwiener failed Move check | unexpected horizontal movement (motion: 0.757/0.426, buffer: 1.323/true, vet: 0.39, vec: 0.4, ground: --, add: 0.026, past: 0.39,0.732, fr: 0.6, setback: +, vel: , from: 68.39, rv: 0.158, ptags: jump, tags: hor_bst) (+5) | vl:25 ping:67 tps:20.0 lp:9 component: move.hor ver: 1.16.x
+(21:52:59) Edwiener failed Move check | unexpected horizontal movement (motion: 0.986/0.551, buffer: 1.739/false, vet: 0.39, vec: 0.524, ground: --, add: 0.026, past: 0.39,0.96, fr: 0.6, setback: +, vel: , from: 75.39, rv: 4.0, ptags: jump, tags: hor_bst) (+5) | vl:5 ping:44 tps:19.99 lp:17 component: move.hor ver: 1.16.x
+(21:54:37) Edwiener failed Move check | unexpected horizontal movement (motion: 0.408/0.25, buffer: 0.905/false, vet: 0.388, vec: 0.218, ground: --, add: 0.026, past: 0.388,0.4, fr: 0.6, setback: +, vel: , from: 72.388, rv: 0.0, ptags: jump, tags: hor_bst) (+5) | vl:5 ping:58 tps:20.0 lp:12 component: move.hor ver: 1.16.x
+(21:54:46) Edwiener failed Elytra check | (elytra) move too fast: 0.676 | val: 0.23, et: 2 (+5) | vl:5 ping:66 tps:20.0 lp:13 component: ely.ace ver: 1.16.x
+(21:54:55) Edwiener failed Move check | unexpected horizontal movement (motion: 1.008/0.563, buffer: 1.781/false, vet: 0.392, vec: 0.537, ground: --, add: 0.026, past: 0.392,0.983, fr: 0.6, setback: +, vel: , from: 83.392, rv: 4.0, ptags: jump, tags: hor_bst) (+5) | vl:10 ping:85 tps:20.0 lp:11 component: move.hor ver: 1.16.x
+(21:54:59) Edwiener failed Move check | unexpected vertical movement (motion: -0.018/-0.267, hor: 1.178, buffer: 1.305/false, ground: +-, setback: -, vel: , from: 63.094, past: -0.192, tags: empty) (+5) | vl:5 ping:85 tps:20.0 lp:15 component: move.vert ver: 1.16.x
+(21:54:59) Edwiener failed Move check | unexpected horizontal movement (motion: 1.169/0.67, buffer: 1.804/false, vet: -0.034, vec: 0.643, ground: --, add: 0.026, past: -0.018,1.178, fr: 0.6, setback: -, vel: , from: 63.075, rv: 4.0, ptags: empty, tags: empty) (+5) | vl:10 ping:85 tps:20.0 lp:15 component: move.hor ver: 1.16.x
+(21:55:08) Edwiener failed Move check | unexpected horizontal movement (motion: 0.471/0.28, buffer: 0.827/false, vet: 0.385, vec: 0.253, ground: --, add: 0.026, past: 0.385,0.464, fr: 0.6, setback: +, vel: , from: 78.385, rv: 4.0, ptags: jump, tags: hor_bst) (+5) | vl:15 ping:69 tps:19.99 lp:11 component: move.hor ver: 1.16.x
+(21:56:25) Edwiener failed Move check | unexpected vertical movement (motion: 0.353/0.267, hor: 0.412, buffer: 0.241/true, ground: --, setback: -, vel: , from: 73.739, past: 0.353, tags: empty) (+5) | vl:5 ping:76 tps:20.0 lp:7 component: move.vert ver: 1.16.x
+(21:56:25) Edwiener failed Move check | unexpected horizontal movement (motion: 0.412/0.395, buffer: 0.443/true, vet: 0.353, vec: 0.368, ground: --, add: 0.026, past: 0.353,0.405, fr: 0.6, setback: +, vel: , from: 73.739, rv: 4.0, ptags: empty, tags: hor_bst) (+5) | vl:10 ping:76 tps:20.0 lp:7 component: move.hor ver: 1.16.x
+(21:56:26) Edwiener failed Move check | unexpected vertical movement (motion: 0.387/0.42, hor: 0.319, buffer: 0.016/true, ground: +-, setback: -, vel: , from: 74.0, past: -0.024, tags: jump) (+5) | vl:15 ping:76 tps:20.0 lp:6 component: move.vert ver: 1.16.x
+(21:56:26) Edwiener failed Move check | unexpected vertical movement (motion: 0.356/0.301, hor: 0.316, buffer: 0.044/true, ground: --, setback: -, vel: , from: 74.387, past: 0.387, tags: empty) (+5) | vl:20 ping:76 tps:20.0 lp:6 component: move.vert ver: 1.16.x
+(21:56:26) Edwiener failed Move check | unexpected horizontal movement (motion: 0.316/0.25, buffer: 0.194/true, vet: 0.356, vec: 0.174, ground: --, add: 0.026, past: 0.387,0.319, fr: 0.6, setback: -, vel: , from: 74.387, rv: 4.0, ptags: jump, tags: empty) (+5) | vl:25 ping:76 tps:20.0 lp:6 component: move.hor ver: 1.16.x
+(21:56:26) Edwiener failed Move check | unexpected vertical movement (motion: 0.325/0.27, hor: 0.313, buffer: 0.221/true, ground: --, setback: -, vel: , from: 74.743, past: 0.356, tags: empty) (+5) | vl:5 ping:76 tps:20.0 lp:6 component: move.vert ver: 1.16.x
+(21:56:26) Edwiener failed Move check | unexpected vertical movement (motion: 0.325/0.24, hor: 0.32, buffer: 0.264/true, ground: --, setback: -, vel: , from: 75.068, past: 0.325, tags: empty) (+5) | vl:10 ping:76 tps:20.0 lp:6 component: move.vert ver: 1.16.x
+(21:56:26) Edwiener failed Move check | unexpected horizontal movement (motion: 0.32/0.311, buffer: 0.441/true, vet: 0.325, vec: 0.285, ground: --, add: 0.026, past: 0.325,0.313, fr: 0.6, setback: +, vel: , from: 75.068, rv: 4.0, ptags: empty, tags: hor_bst) (+5) | vl:15 ping:76 tps:20.0 lp:6 component: move.hor ver: 1.16.x
+(21:56:33) Edwiener failed Move check | unexpected horizontal movement (motion: 0.981/0.548, buffer: 1.731/true, vet: 0.391, vec: 0.522, ground: --, add: 0.026, past: 0.391,0.956, fr: 0.6, setback: +, vel: , from: 69.391, rv: 4.0, ptags: jump, tags: hor_bst) (+5) | vl:20 ping:59 tps:20.0 lp:12 component: move.hor ver: 1.16.x
+(21:56:57) Edwiener failed Move check | unexpected horizontal movement (motion: 1.015/0.568, buffer: 1.787/false, vet: 0.391, vec: 0.542, ground: --, add: 0.026, past: 0.391,0.992, fr: 0.6, setback: +, vel: , from: 63.391, rv: 4.0, ptags: jump, tags: hor_bst) (+5) | vl:5 ping:64 tps:20.0 lp:18 component: move.hor ver: 1.16.x
+(21:56:59) Edwiener failed Elytra check | (elytra) reserve energy: 0.001 dif: 0.001 motion: 0.021 t: 38 (+2) | vl:2 ping:64 tps:20.0 lp:13 component: ely.re ver: 1.16.x
+(21:58:09) Edwiener failed Move check | unexpected horizontal movement (motion: 0.899/0.503, buffer: 1.582/false, vet: 0.392, vec: 0.477, ground: --, add: 0.026, past: 0.392,0.873, fr: 0.6, setback: +, vel: , from: 64.392, rv: 4.0, ptags: jump, tags: hor_bst) (+5) | vl:5 ping:52 tps:20.0 lp:14 component: move.hor ver: 1.16.x
+(21:58:34) Edwiener failed Move check | unexpected vertical movement (motion: 0.385/0.42, hor: 0.382, buffer: 0.017/true, ground: +-, setback: -, vel: , from: 82.0, past: -0.036, tags: jump) (+5) | vl:5 ping:44 tps:19.99 lp:22 component: move.vert ver: 1.16.x
+(21:58:34) Edwiener failed Move check | unexpected vertical movement (motion: 0.385/0.299, hor: 0.39, buffer: 0.06/true, ground: --, setback: -, vel: , from: 82.385, past: 0.385, tags: empty) (+5) | vl:10 ping:44 tps:19.99 lp:22 component: move.vert ver: 1.16.x
+(21:58:34) Edwiener failed Move check | unexpected horizontal movement (motion: 0.39/0.25, buffer: 0.63/true, vet: 0.385, vec: 0.209, ground: --, add: 0.026, past: 0.385,0.382, fr: 0.6, setback: +, vel: , from: 82.385, rv: 0.0, ptags: jump, tags: hor_bst) (+5) | vl:15 ping:44 tps:19.99 lp:22 component: move.hor ver: 1.16.x
+(21:59:27) Edwiener failed Move check | bad strafe movement in the air: 0.206 (+1) | vl:1 ping:56 tps:19.99 lp:13 component: move.strafe ver: 1.16.x
+(22:00:17) Edwiener failed Move check | unexpected horizontal movement (motion: 0.476/0.453, buffer: 0.703/false, vet: 0.352, vec: 0.426, ground: --, add: 0.026, past: 0.352,0.468, fr: 0.6, setback: +, vel: , from: 71.738, rv: -0.153, ptags: empty, tags: hor_bst) (+5) | vl:5 ping:79 tps:20.0 lp:11 component: move.hor ver: 1.16.x
+(22:01:47) Edwiener failed Move check | unexpected horizontal movement (motion: 0.826/0.464, buffer: 1.449/false, vet: 0.389, vec: 0.437, ground: --, add: 0.026, past: 0.389,0.8, fr: 0.6, setback: +, vel: , from: 83.389, rv: 4.0, ptags: jump, tags: hor_bst) (+5) | vl:5 ping:69 tps:19.99 lp:7 component: move.hor ver: 1.16.x
+(22:02:55) Edwiener failed Elytra check | (elytra) move too fast: 0.519 | val: 0.394, et: 1 (+5) | vl:5 ping:87 tps:20.0 lp:17 component: ely.ace ver: 1.16.x
+(22:03:38) Edwiener failed Move check | unexpected horizontal movement (motion: 1.197/0.666, buffer: 2.122/false, vet: 0.412, vec: 0.639, ground: --, add: 0.026, past: 0.412,1.171, fr: 0.6, setback: +, vel: , from: 63.412, rv: 4.0, ptags: jump, tags: hor_bst) (+4) | vl:4 ping:167 tps:20.0 lp:16 component: move.hor ver: 1.16.x
+(22:03:41) Edwiener failed Jesus check | suspicious movement in liquid (motion: 0.636,0.0,-0.084, down: WATER, vel: -0.155, module: solid) (+5) | vl:5 ping:70 tps:20.0 lp:17 component: jesus.solid ver: 1.16.x
+(22:03:48) Edwiener failed Elytra check | (elytra) move too fast: 0.67 | val: 0.201, et: 2 (+5) | vl:5 ping:70 tps:20.0 lp:8 component: ely.ace ver: 1.16.x
+(22:04:16) Edwiener failed Elytra check | (elytra) reserve energy: 0.001 dif: 0.001 motion: 0.014 t: 319 (+2) | vl:2 ping:51 tps:20.0 lp:15 component: ely.re ver: 1.16.x
+(22:18:10) Edwiener failed Move check | unexpected horizontal movement (motion: 0.754/0.424, buffer: 1.319/false, vet: 0.392, vec: 0.398, ground: --, add: 0.026, past: 0.392,0.729, fr: 0.6, setback: +, vel: , from: 57.392, rv: -0.155, ptags: jump, tags: hor_bst) (+5) | vl:5 ping:52 tps:20.0 lp:18 component: move.hor ver: 1.16.x
+(22:18:15) Edwiener failed Move check | unexpected vertical movement (motion: -0.027/-0.105, hor: 0.184, buffer: 0.079/true, ground: --, setback: -, vel: , from: 63.71, past: -0.027, tags: empty) (+5) | vl:10 ping:52 tps:20.0 lp:11 component: move.vert ver: 1.16.x
+(22:18:15) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/0.196, hor: 0.138, buffer: 0.137/true, ground: --, setback: -, vel: , from: 64.7, past: 0.28, tags: empty) (+5) | vl:15 ping:52 tps:20.0 lp:12 component: move.vert ver: 1.16.x
+(22:23:34) Edwiener failed Move check | unexpected horizontal movement (motion: 0.408/0.25, buffer: 0.908/false, vet: 0.387, vec: 0.219, ground: --, add: 0.026, past: 0.387,0.401, fr: 0.6, setback: +, vel: , from: 57.887, rv: -0.155, ptags: jump, tags: hor_bst) (+5) | vl:5 ping:82 tps:20.0 lp:24 component: move.hor ver: 1.16.x
+(22:23:41) Edwiener failed Move check | unexpected vertical movement (motion: 0.39/0.42, hor: 0.492, buffer: 0.015/true, ground: +-, setback: -, vel: , from: 57.0, past: -0.22, tags: jump) (+5) | vl:10 ping:54 tps:20.0 lp:19 component: move.vert ver: 1.16.x
+(22:23:41) Edwiener failed Move check | unexpected vertical movement (motion: 0.39/0.303, hor: 0.44, buffer: 0.058/true, ground: --, setback: -, vel: , from: 57.39, past: 0.39, tags: empty) (+5) | vl:15 ping:54 tps:20.0 lp:19 component: move.vert ver: 1.16.x
+(22:23:41) Edwiener failed Move check | unexpected horizontal movement (motion: 0.44/0.295, buffer: 0.208/true, vet: 0.39, vec: 0.268, ground: --, add: 0.026, past: 0.39,0.492, fr: 0.6, setback: -, vel: , from: 57.39, rv: -0.155, ptags: jump, tags: empty) (+5) | vl:20 ping:54 tps:20.0 lp:19 component: move.hor ver: 1.16.x
+(22:24:00) Edwiener failed Move check | unexpected horizontal movement (motion: 0.798/0.448, buffer: 1.721/false, vet: 0.006, vec: 0.422, ground: --, add: 0.026, past: 0.006,0.772, fr: 0.6, setback: +, vel: , from: 41.006, rv: -0.155, ptags: jump, tags: collision,hor_bst) (+5) | vl:5 ping:91 tps:20.0 lp:15 component: move.hor ver: 1.16.x
+(22:24:28) Edwiener failed Move check | unexpected vertical movement (motion: -0.236/-0.304, hor: 0.305, buffer: 0.034/true, ground: -+, setback: -, vel: , from: 42.736, past: -0.231, tags: empty) (+5) | vl:5 ping:62 tps:20.0 lp:13 component: move.vert ver: 1.16.x
+(22:24:28) Edwiener failed Move check | unexpected vertical movement (motion: 0.389/0.42, hor: 0.5, buffer: 0.05/true, ground: +-, setback: -, vel: , from: 42.5, past: -0.236, tags: jump) (+5) | vl:10 ping:62 tps:20.0 lp:13 component: move.vert ver: 1.16.x
+(22:24:29) Edwiener failed Move check | unexpected vertical movement (motion: -0.236/-0.304, hor: 0.314, buffer: 0.034/true, ground: -+, setback: -, vel: , from: 42.736, past: -0.231, tags: empty) (+5) | vl:15 ping:62 tps:19.99 lp:11 component: move.vert ver: 1.16.x
+(22:24:29) Edwiener failed Move check | unexpected vertical movement (motion: 0.389/0.42, hor: 0.509, buffer: 0.05/true, ground: +-, setback: -, vel: , from: 42.5, past: -0.236, tags: jump) (+5) | vl:20 ping:62 tps:19.99 lp:11 component: move.vert ver: 1.16.x
+(22:24:29) Edwiener failed Move check | unexpected vertical movement (motion: 0.0/-0.228, hor: 0.075, buffer: 0.114/true, ground: ++, setback: -, vel: , from: 42.5, past: -0.153, tags: empty) (+5) | vl:25 ping:62 tps:19.99 lp:11 component: move.vert ver: 1.16.x
+(22:24:30) Edwiener failed Move check | unexpected vertical movement (motion: -0.236/-0.304, hor: 0.243, buffer: 0.034/true, ground: -+, setback: -, vel: , from: 42.736, past: -0.231, tags: empty) (+5) | vl:30 ping:62 tps:19.99 lp:11 component: move.vert ver: 1.16.x
+(22:24:30) Edwiener failed Move check | unexpected vertical movement (motion: 0.0/-0.31, hor: 0.325, buffer: 0.189/true, ground: ++, setback: -, vel: , from: 42.5, past: -0.236, tags: empty) (+5) | vl:35 ping:62 tps:19.99 lp:11 component: move.vert ver: 1.16.x
+(22:25:03) Edwiener failed Move check | unexpected horizontal movement (motion: 0.723/0.408, buffer: 1.262/false, vet: 0.389, vec: 0.381, ground: --, add: 0.026, past: 0.389,0.698, fr: 0.6, setback: +, vel: , from: 128.389, rv: -0.155, ptags: jump, tags: hor_bst) (+5) | vl:5 ping:50 tps:20.0 lp:11 component: move.hor ver: 1.16.x
+(22:25:45) Edwiener failed Move check | unexpected horizontal movement (motion: 0.346/0.25, buffer: 0.437/false, vet: -0.304, vec: 0.0, ground: --, add: 0.026, past: -0.231,0.0, fr: 0.6, setback: +, vel: , from: 65.236, rv: -0.155, ptags: empty, tags: hor_bst) (+5) | vl:5 ping:58 tps:20.0 lp:18 component: move.hor ver: 1.16.x
+(22:25:49) Edwiener failed Move check | unexpected horizontal movement (motion: 0.402/0.25, buffer: 0.883/false, vet: 0.391, vec: 0.216, ground: --, add: 0.026, past: 0.391,0.395, fr: 0.6, setback: +, vel: , from: 57.891, rv: -0.155, ptags: jump, tags: hor_bst) (+5) | vl:10 ping:58 tps:20.0 lp:18 component: move.hor ver: 1.16.x
+(22:25:54) Edwiener failed Move check | unexpected horizontal movement (motion: 0.768/0.432, buffer: 1.345/false, vet: 0.391, vec: 0.406, ground: --, add: 0.026, past: 0.391,0.743, fr: 0.6, setback: +, vel: , from: 57.391, rv: -0.155, ptags: jump, tags: hor_bst) (+5) | vl:15 ping:73 tps:20.0 lp:15 component: move.hor ver: 1.16.x
+(22:27:01) Edwiener failed Elytra check | (elytra) reserve energy: 0.001 dif: 0.001 motion: 0.036 t: 6 (+2) | vl:2 ping:51 tps:20.0 lp:12 component: ely.re ver: 1.16.x
+(22:34:08) Edwiener failed Move check | unexpected horizontal movement (motion: 0.747/0.426, buffer: 1.282/false, vet: 0.391, vec: 0.4, ground: --, add: 0.026, past: 0.391,0.732, fr: 0.6, setback: +, vel: , from: 57.391, rv: -0.365, ptags: jump, tags: hor_bst) (+5) | vl:5 ping:84 tps:20.0 lp:15 component: move.hor ver: 1.16.x
+(22:34:09) Edwiener failed Move check | unexpected horizontal movement (motion: 0.27/0.261, buffer: 0.382/false, vet: -0.121, vec: 0.235, ground: -+, add: 0.026, past: -0.374,0.258, fr: 0.6, setback: -, vel: , from: 57.121, rv: -0.365, ptags: empty, tags: collision) (+5) | vl:10 ping:84 tps:19.99 lp:12 component: move.hor ver: 1.16.x
+(22:34:09) Edwiener failed Move check | unexpected horizontal movement (motion: 0.468/0.278, buffer: 1.201/false, vet: 0.389, vec: 0.251, ground: --, add: 0.026, past: 0.389,0.46, fr: 0.6, setback: +, vel: , from: 57.389, rv: -0.365, ptags: jump, tags: hor_bst) (+5) | vl:15 ping:84 tps:19.99 lp:12 component: move.hor ver: 1.16.x
+(22:34:11) Edwiener failed Move check | unexpected vertical movement (motion: 0.476/-0.024, hor: 0.21, buffer: 0.25/true, ground: -+, setback: -, vel: , from: 60.524, past: -0.152, tags: step_hack,collision,fix_114) (+5) | vl:20 ping:84 tps:20.0 lp:9 component: move.vert ver: 1.16.x
+(22:34:11) Edwiener failed Move check | unexpected vertical movement (motion: 0.0/0.388, hor: 0.304, buffer: 0.444/true, ground: ++, setback: -, vel: , from: 61.0, past: 0.476, tags: empty) (+5) | vl:25 ping:84 tps:20.0 lp:9 component: move.vert ver: 1.16.x
+(22:34:17) Edwiener failed Move check | unexpected vertical movement (motion: 0.0/-0.204, hor: 0.491, buffer: 0.102/true, ground: +-, setback: -, vel: , from: 64.0, past: -0.128, tags: empty) (+5) | vl:30 ping:84 tps:19.99 lp:10 component: move.vert ver: 1.16.x
+(22:34:17) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.305, hor: 0.335, buffer: 0.113/true, ground: +-, setback: -, vel: , from: 61.5, past: -0.232, tags: empty) (+5) | vl:35 ping:51 tps:19.99 lp:10 component: move.vert ver: 1.16.x
+(22:34:28) Edwiener failed Elytra check | (elytra) reserve energy: 0.11 dif: 0.108 motion: 0.468 t: 5 (+2) | vl:2 ping:51 tps:20.0 lp:11 component: ely.re ver: 1.16.x
+(22:34:54) Edwiener failed Move check | unexpected vertical movement (motion: 0.0/0.212, hor: 0.145, buffer: 0.356/true, ground: ++, setback: -, vel: , from: 50.0, past: 0.296, tags: empty) (+5) | vl:5 ping:50 tps:20.0 lp:13 component: move.vert ver: 1.16.x
+(22:35:43) Edwiener failed Move check | bad strafe movement in the air: 0.398 (+1) | vl:1 ping:50 tps:20.0 lp:10 component: move.strafe ver: 1.16.x
+(22:35:47) Edwiener failed Move check | unexpected horizontal movement (motion: 1.083/0.653, buffer: 0.86/false, vet: 0.0, vec: 0.522, ground: +-, add: 0.13, past: 0.0,0.955, fr: 0.6, setback: -, vel: , from: 41.0, rv: 0.0, ptags: collision, tags: collision,gf_speed) (+5) | vl:6 ping:49 tps:20.0 lp:13 component: move.hor ver: 1.16.x
+(22:35:47) Edwiener failed Move check | unexpected horizontal movement (motion: 0.707/0.399, buffer: 1.569/false, vet: 0.391, vec: 0.372, ground: --, add: 0.026, past: 0.391,0.682, fr: 0.6, setback: +, vel: , from: 41.391, rv: 0.0, ptags: jump, tags: hor_bst) (+5) | vl:11 ping:49 tps:20.0 lp:11 component: move.hor ver: 1.16.x
+(22:35:54) Edwiener failed Move check | unexpected vertical movement (motion: -0.236/-0.304, hor: 0.276, buffer: 0.034/true, ground: -+, setback: -, vel: , from: 42.736, past: -0.231, tags: empty) (+5) | vl:16 ping:49 tps:20.0 lp:7 component: move.vert ver: 1.16.x
+(22:35:54) Edwiener failed Move check | unexpected vertical movement (motion: 0.0/-0.31, hor: 0.379, buffer: 0.189/true, ground: ++, setback: -, vel: , from: 42.5, past: -0.236, tags: empty) (+5) | vl:21 ping:49 tps:20.0 lp:7 component: move.vert ver: 1.16.x
+(22:35:58) Edwiener failed Move check | unexpected horizontal movement (motion: 0.294/0.283, buffer: 0.15/true, vet: -0.121, vec: 0.257, ground: -+, add: 0.026, past: -0.374,0.282, fr: 0.6, setback: -, vel: , from: 41.121, rv: 0.0, ptags: empty, tags: collision) (+5) | vl:5 ping:58 tps:20.0 lp:14 component: move.hor ver: 1.16.x
+(22:35:58) Edwiener failed Move check | unexpected vertical movement (motion: 0.39/0.42, hor: 0.489, buffer: 0.165/true, ground: +-, setback: -, vel: , from: 41.0, past: -0.121, tags: jump) (+5) | vl:10 ping:58 tps:20.0 lp:14 component: move.vert ver: 1.16.x
+(22:35:58) Edwiener failed Move check | unexpected vertical movement (motion: 0.39/0.304, hor: 0.497, buffer: 0.208/true, ground: --, setback: -, vel: , from: 41.39, past: 0.39, tags: empty) (+5) | vl:15 ping:58 tps:20.0 lp:14 component: move.vert ver: 1.16.x
+(22:35:58) Edwiener failed Move check | unexpected horizontal movement (motion: 0.497/0.294, buffer: 1.021/true, vet: 0.39, vec: 0.267, ground: --, add: 0.026, past: 0.39,0.489, fr: 0.6, setback: +, vel: , from: 41.39, rv: 0.0, ptags: jump, tags: hor_bst) (+5) | vl:20 ping:58 tps:20.0 lp:14 component: move.hor ver: 1.16.x
+(22:36:42) Edwiener failed Move check | unexpected horizontal movement (motion: 0.707/0.399, buffer: 1.233/false, vet: 0.393, vec: 0.372, ground: --, add: 0.026, past: 0.393,0.681, fr: 0.6, setback: +, vel: , from: 57.393, rv: 0.0, ptags: jump, tags: hor_bst) (+5) | vl:5 ping:80 tps:20.0 lp:15 component: move.hor ver: 1.16.x
+(22:38:33) Edwiener failed Move check | unexpected vertical movement (motion: 0.39/0.304, hor: 0.241, buffer: 0.058/true, ground: --, setback: -, vel: , from: 84.39, past: 0.39, tags: fix_114) (+5) | vl:5 ping:51 tps:19.99 lp:11 component: move.vert ver: 1.16.x
+(22:38:35) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.045, hor: 0.289, buffer: 0.1/true, ground: --, setback: -, vel: , from: 88.2, past: 0.034, tags: empty) (+5) | vl:10 ping:51 tps:20.0 lp:10 component: move.vert ver: 1.16.x
+(22:38:42) Edwiener failed Move check | unexpected horizontal movement (motion: 1.225/0.681, buffer: 2.173/false, vet: 0.391, vec: 0.655, ground: --, add: 0.026, past: 0.391,1.199, fr: 0.6, setback: +, vel: , from: 69.391, rv: 0.158, ptags: jump, tags: hor_bst) (+5) | vl:15 ping:72 tps:20.0 lp:8 component: move.hor ver: 1.16.x
+(22:39:01) Edwiener failed Elytra check | weird elytra jump | move: -0.301,-0.232,0.248 (+1) | vl:1 ping:64 tps:20.0 lp:14 component: ely.str ver: 1.16.x
+(22:39:01) Edwiener failed Move check | unexpected vertical movement (motion: 0.391/-0.078, hor: 0.198, buffer: 0.235/false, ground: --, setback: +, vel: , from: 66.232, past: 0.0, tags: air_bst) (+5) | vl:5 ping:64 tps:20.0 lp:14 component: move.vert ver: 1.16.x
+(22:39:06) Edwiener failed Move check | unexpected horizontal movement (motion: 0.837/0.473, buffer: 1.455/false, vet: 0.383, vec: 0.446, ground: --, add: 0.026, past: 0.383,0.818, fr: 0.6, setback: +, vel: , from: 63.383, rv: 0.158, ptags: jump, tags: hor_bst) (+5) | vl:10 ping:66 tps:20.0 lp:7 component: move.hor ver: 1.16.x
+(22:39:23) Edwiener failed Elytra check | (elytra) reserve energy: 0.18 dif: 0.089 motion: 0.595 t: 42 (+2) | vl:3 ping:67 tps:20.0 lp:41 component: ely.re ver: 1.16.x
+(22:40:58) Edwiener failed Move check | unexpected horizontal movement (motion: 0.514/0.303, buffer: 1.268/false, vet: 0.39, vec: 0.276, ground: --, add: 0.026, past: 0.39,0.506, fr: 0.6, setback: +, vel: , from: 11.39, rv: 4.0, ptags: jump, tags: hor_bst) (+5) | vl:5 ping:61 tps:20.0 lp:7 component: move.hor ver: 1.16.x
+(22:42:03) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.045, hor: 0.086, buffer: 0.1/true, ground: --, setback: -, vel: , from: 15.2, past: 0.034, tags: empty) (+5) | vl:5 ping:54 tps:19.99 lp:6 component: move.vert ver: 1.16.x
+(22:42:04) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.045, hor: 0.159, buffer: 0.1/true, ground: --, setback: -, vel: , from: 18.2, past: 0.034, tags: empty) (+5) | vl:10 ping:54 tps:20.0 lp:6 component: move.vert ver: 1.16.x
+(22:42:07) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.045, hor: 0.074, buffer: 0.1/true, ground: --, setback: -, vel: , from: 19.2, past: 0.034, tags: empty) (+5) | vl:15 ping:54 tps:19.99 lp:7 component: move.vert ver: 1.16.x
+(22:42:10) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.305, hor: 0.309, buffer: 0.113/true, ground: +-, setback: -, vel: , from: 18.0, past: -0.232, tags: empty) (+5) | vl:20 ping:54 tps:20.0 lp:7 component: move.vert ver: 1.16.x
+(22:42:11) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/0.0, hor: 0.279, buffer: 0.039/true, ground: ++, setback: -, vel: , from: 17.0, past: 0.0, tags: collision) (+5) | vl:25 ping:56 tps:20.0 lp:8 component: move.vert ver: 1.16.x
+(22:42:11) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.155, hor: 0.28, buffer: 0.078/true, ground: +-, setback: -, vel: , from: 16.922, past: -0.078, tags: empty) (+5) | vl:30 ping:56 tps:20.0 lp:8 component: move.vert ver: 1.16.x
+(22:42:15) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.045, hor: 0.287, buffer: 0.1/true, ground: --, setback: -, vel: , from: 18.2, past: 0.034, tags: empty) (+5) | vl:35 ping:56 tps:19.99 lp:5 component: move.vert ver: 1.16.x
+(22:42:17) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.045, hor: 0.086, buffer: 0.1/true, ground: --, setback: -, vel: , from: 19.2, past: 0.034, tags: empty) (+5) | vl:40 ping:56 tps:19.98 lp:5 component: move.vert ver: 1.16.x
+(22:42:18) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.045, hor: 0.081, buffer: 0.1/true, ground: --, setback: -, vel: , from: 19.2, past: 0.034, tags: empty) (+5) | vl:45 ping:56 tps:19.98 lp:7 component: move.vert ver: 1.16.x
+(22:42:19) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.045, hor: 0.224, buffer: 0.017/true, ground: --, setback: -, vel: , from: 20.2, past: 0.034, tags: empty) (+5) | vl:50 ping:56 tps:20.0 lp:7 component: move.vert ver: 1.16.x
+(22:42:20) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.045, hor: 0.064, buffer: 0.1/true, ground: --, setback: -, vel: , from: 20.2, past: 0.034, tags: empty) (+5) | vl:55 ping:56 tps:20.0 lp:9 component: move.vert ver: 1.16.x
+(22:42:20) Execute command: matrix notify Edwiener tried to move abnormally (Move) #1
+(22:42:22) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.045, hor: 0.068, buffer: 0.1/true, ground: --, setback: -, vel: , from: 20.2, past: 0.034, tags: empty) (+5) | vl:60 ping:57 tps:20.0 lp:9 component: move.vert ver: 1.16.x
+(22:42:22) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.045, hor: 0.064, buffer: 0.1/true, ground: --, setback: -, vel: , from: 20.2, past: 0.034, tags: empty) (+5) | vl:65 ping:57 tps:19.99 lp:10 component: move.vert ver: 1.16.x
+(22:42:24) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.045, hor: 0.136, buffer: 0.1/true, ground: --, setback: -, vel: , from: 20.2, past: 0.034, tags: empty) (+5) | vl:70 ping:57 tps:19.99 lp:15 component: move.vert ver: 1.16.x
+(22:42:26) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.045, hor: 0.275, buffer: 0.1/true, ground: --, setback: -, vel: , from: 20.2, past: 0.034, tags: empty) (+5) | vl:75 ping:57 tps:20.0 lp:13 component: move.vert ver: 1.16.x
+(22:42:27) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.045, hor: 0.244, buffer: 0.1/true, ground: --, setback: -, vel: , from: 20.2, past: 0.034, tags: empty) (+5) | vl:30 ping:57 tps:20.0 lp:15 component: move.vert ver: 1.16.x
+(22:42:28) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.045, hor: 0.283, buffer: 0.017/true, ground: --, setback: -, vel: , from: 20.2, past: 0.034, tags: empty) (+5) | vl:35 ping:57 tps:20.0 lp:17 component: move.vert ver: 1.16.x
+(22:42:29) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.045, hor: 0.163, buffer: 0.017/true, ground: --, setback: -, vel: , from: 21.2, past: 0.034, tags: empty) (+5) | vl:40 ping:57 tps:19.99 lp:14 component: move.vert ver: 1.16.x
+(22:42:31) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.045, hor: 0.082, buffer: 0.1/true, ground: --, setback: -, vel: , from: 21.2, past: 0.034, tags: empty) (+5) | vl:45 ping:57 tps:20.0 lp:12 component: move.vert ver: 1.16.x
+(22:42:33) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.045, hor: 0.101, buffer: 0.017/true, ground: --, setback: -, vel: , from: 21.2, past: 0.034, tags: empty) (+5) | vl:50 ping:48 tps:20.0 lp:12 component: move.vert ver: 1.16.x
+(22:42:35) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.045, hor: 0.146, buffer: 0.1/true, ground: --, setback: -, vel: , from: 21.2, past: 0.034, tags: empty) (+5) | vl:55 ping:48 tps:20.0 lp:11 component: move.vert ver: 1.16.x
+(22:42:35) Execute command: matrix notify Edwiener tried to move abnormally (Move) #1
+(22:42:36) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.045, hor: 0.273, buffer: 0.017/true, ground: --, setback: -, vel: , from: 21.2, past: 0.034, tags: empty) (+5) | vl:60 ping:48 tps:20.0 lp:10 component: move.vert ver: 1.16.x
+(22:44:09) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.426, hor: 0.342, buffer: 0.174/true, ground: +-, setback: -, vel: , from: 52.5, past: -0.355, tags: empty) (+5) | vl:5 ping:59 tps:20.0 lp:12 component: move.vert ver: 1.16.x
+(22:44:09) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.426, hor: 0.341, buffer: 0.174/true, ground: +-, setback: -, vel: , from: 51.0, past: -0.355, tags: empty) (+5) | vl:10 ping:59 tps:20.0 lp:12 component: move.vert ver: 1.16.x
+(22:44:09) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.305, hor: 0.128, buffer: 0.113/true, ground: +-, setback: -, vel: , from: 50.0, past: -0.232, tags: empty) (+5) | vl:15 ping:59 tps:20.0 lp:12 component: move.vert ver: 1.16.x
+(22:44:12) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.426, hor: 0.326, buffer: 0.174/true, ground: +-, setback: -, vel: , from: 46.0, past: -0.355, tags: empty) (+5) | vl:20 ping:63 tps:19.99 lp:14 component: move.vert ver: 1.16.x
+(22:44:13) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.426, hor: 0.33, buffer: 0.174/true, ground: +-, setback: -, vel: , from: 43.0, past: -0.355, tags: empty) (+5) | vl:25 ping:63 tps:19.99 lp:14 component: move.vert ver: 1.16.x
+(22:44:13) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.426, hor: 0.337, buffer: 0.174/true, ground: +-, setback: -, vel: , from: 41.5, past: -0.355, tags: empty) (+5) | vl:30 ping:63 tps:19.99 lp:13 component: move.vert ver: 1.16.x
+(22:44:14) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.045, hor: 0.304, buffer: 0.1/true, ground: --, setback: -, vel: , from: 42.2, past: 0.034, tags: empty) (+5) | vl:35 ping:63 tps:19.99 lp:13 component: move.vert ver: 1.16.x
+(22:44:15) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.045, hor: 0.293, buffer: 0.1/true, ground: --, setback: -, vel: , from: 42.2, past: 0.034, tags: empty) (+5) | vl:40 ping:63 tps:20.0 lp:14 component: move.vert ver: 1.16.x
+(22:44:15) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.045, hor: 0.264, buffer: 0.1/true, ground: --, setback: -, vel: , from: 42.2, past: 0.034, tags: empty) (+5) | vl:45 ping:63 tps:20.0 lp:14 component: move.vert ver: 1.16.x
+(22:44:16) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.045, hor: 0.274, buffer: 0.1/true, ground: --, setback: -, vel: , from: 42.2, past: 0.034, tags: empty) (+5) | vl:50 ping:63 tps:20.0 lp:15 component: move.vert ver: 1.16.x
+(22:44:16) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.045, hor: 0.246, buffer: 0.1/true, ground: --, setback: -, vel: , from: 42.2, past: 0.034, tags: empty) (+5) | vl:55 ping:63 tps:20.0 lp:18 component: move.vert ver: 1.16.x
+(22:44:16) Execute command: matrix notify Edwiener tried to move abnormally (Move) #1
+(22:47:05) Edwiener failed Move check | bad strafe movement in the air: 0.059 (+1) | vl:1 ping:66 tps:20.0 lp:8 component: move.strafe ver: 1.16.x
+(22:51:06) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 91.5) (+5) | vl:5 ping:70 tps:20.0 lp:16 component: ka.prot.6 ver: 1.16.x
+(22:53:50) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/0.114, hor: 0.255, buffer: 0.579/false, ground: --, setback: -, vel: , from: 241.45, past: 0.197, tags: empty) (+5) | vl:5 ping:46 tps:20.0 lp:20 component: move.vert ver: 1.16.x
+(22:54:41) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 91.5) (+5) | vl:5 ping:80 tps:20.0 lp:20 component: ka.prot.6 ver: 1.16.x
+(22:54:42) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 91.5) (+5) | vl:10 ping:80 tps:20.0 lp:20 component: ka.prot.6 ver: 1.16.x
+(22:54:42) Execute command: matrix npc Edwiener 100
+(22:54:42) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 91.5) (+5) | vl:15 ping:80 tps:20.0 lp:20 component: ka.prot.6 ver: 1.16.x
+(22:55:31) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 91.5) (+5) | vl:5 ping:63 tps:20.0 lp:22 component: ka.prot.6 ver: 1.16.x
+(22:56:32) Edwiener failed Move check | unexpected vertical movement (motion: 0.28/-0.155, hor: 0.0, buffer: 1.306/false, ground: --, setback: -, vel: , from: 242.42, past: 0.42, tags: collision,scaffold) (+5) | vl:5 ping:65 tps:20.0 lp:21 component: move.vert ver: 1.16.x
+(22:56:40) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 91.5) (+5) | vl:5 ping:55 tps:20.0 lp:13 component: ka.prot.6 ver: 1.16.x
+(22:58:03) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 91.5) (+5) | vl:5 ping:55 tps:20.0 lp:14 component: ka.prot.6 ver: 1.16.x
+(22:59:55) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 91.5) (+5) | vl:5 ping:64 tps:20.0 lp:15 component: ka.prot.6 ver: 1.16.x
+(22:59:56) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 91.5) (+5) | vl:10 ping:64 tps:20.0 lp:15 component: ka.prot.6 ver: 1.16.x
+(22:59:56) Execute command: matrix npc Edwiener 100
+(23:00:22) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 91.5) (+5) | vl:5 ping:44 tps:20.0 lp:25 component: ka.prot.6 ver: 1.16.x
+(23:00:23) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 91.5) (+5) | vl:10 ping:44 tps:19.99 lp:25 component: ka.prot.6 ver: 1.16.x
+(23:00:23) Execute command: matrix npc Edwiener 100
+(23:02:10) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 91.5) (+5) | vl:5 ping:61 tps:20.0 lp:23 component: ka.prot.6 ver: 1.16.x
+(23:06:12) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 91.5) (+5) | vl:5 ping:57 tps:20.0 lp:21 component: ka.prot.6 ver: 1.16.x
+(23:06:12) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 91.5) (+5) | vl:10 ping:57 tps:19.99 lp:21 component: ka.prot.6 ver: 1.16.x
+(23:06:12) Execute command: matrix npc Edwiener 100
+(23:06:13) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 91.5) (+5) | vl:15 ping:57 tps:19.99 lp:21 component: ka.prot.6 ver: 1.16.x
+(23:06:38) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 91.5) (+5) | vl:5 ping:62 tps:20.0 lp:21 component: ka.prot.6 ver: 1.16.x
+(23:06:54) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 91.5) (+5) | vl:10 ping:74 tps:20.0 lp:21 component: ka.prot.6 ver: 1.16.x
+(23:06:54) Execute command: matrix npc Edwiener 100
+(23:06:54) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 91.5) (+5) | vl:15 ping:74 tps:20.0 lp:21 component: ka.prot.6 ver: 1.16.x
+(23:06:54) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 91.5) (+5) | vl:20 ping:74 tps:20.0 lp:21 component: ka.prot.6 ver: 1.16.x
+(23:06:54) Execute command: matrix notify Edwiener might be using combat hacks (KillAura)
+(23:06:57) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 91.5) (+5) | vl:10 ping:58 tps:20.0 lp:21 component: ka.prot.6 ver: 1.16.x
+(23:06:57) Execute command: matrix npc Edwiener 100
+(23:07:38) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 91.5) (+5) | vl:5 ping:49 tps:20.0 lp:21 component: ka.prot.6 ver: 1.16.x
+(23:07:38) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 91.5) (+5) | vl:10 ping:49 tps:20.0 lp:21 component: ka.prot.6 ver: 1.16.x
+(23:07:38) Execute command: matrix npc Edwiener 100
+(23:07:39) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 91.5) (+5) | vl:15 ping:49 tps:20.0 lp:21 component: ka.prot.6 ver: 1.16.x
+(23:07:40) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 91.5) (+5) | vl:20 ping:49 tps:20.0 lp:21 component: ka.prot.6 ver: 1.16.x
+(23:07:40) Execute command: matrix notify Edwiener might be using combat hacks (KillAura)
+(23:52:02) moezes failed Move check | unexpected horizontal movement (motion: 0.732/0.412, buffer: 1.278/false, vet: 0.389, vec: 0.386, ground: --, add: 0.026, past: 0.389,0.706, fr: 0.6, setback: +, vel: , from: 57.389, rv: -0.078, ptags: jump, tags: hor_bst) (+5) | vl:5 ping:79 tps:20.0 lp:10 component: move.hor ver: 1.16.x
+(23:52:16) moezes failed Move check | unexpected horizontal movement (motion: 0.466/0.284, buffer: 0.376/false, vet: 0.362, vec: 0.257, ground: --, add: 0.026, past: 0.391,0.471, fr: 0.6, setback: -, vel: , from: 57.391, rv: -0.078, ptags: jump, tags: empty) (+5) | vl:10 ping:81 tps:20.0 lp:6 component: move.hor ver: 1.16.x
+(23:52:16) moezes failed Move check | unexpected vertical movement (motion: 0.362/0.277, hor: 0.474, buffer: 0.632/false, ground: --, setback: -, vel: , from: 57.753, past: 0.362, tags: empty) (+5) | vl:15 ping:81 tps:20.0 lp:6 component: move.vert ver: 1.16.x
+(23:52:16) moezes failed Move check | unexpected horizontal movement (motion: 0.474/0.451, buffer: 0.851/false, vet: 0.362, vec: 0.424, ground: --, add: 0.026, past: 0.362,0.466, fr: 0.6, setback: +, vel: , from: 57.753, rv: -0.078, ptags: empty, tags: hor_bst) (+5) | vl:20 ping:81 tps:20.0 lp:6 component: move.hor ver: 1.16.x
+(23:53:27) moezes failed Move check | unexpected vertical movement (motion: 0.0/0.376, hor: 0.129, buffer: 0.438/true, ground: ++, setback: -, vel: , from: 48.0, past: 0.464, tags: empty) (+5) | vl:5 ping:87 tps:20.0 lp:7 component: move.vert ver: 1.16.x
+(23:54:53) moezes failed Move check | unexpected horizontal movement (motion: 0.73/0.411, buffer: 1.276/false, vet: 0.39, vec: 0.385, ground: --, add: 0.026, past: 0.39,0.705, fr: 0.6, setback: +, vel: , from: 57.39, rv: 0.158, ptags: jump, tags: hor_bst) (+5) | vl:5 ping:78 tps:20.0 lp:4 component: move.hor ver: 1.16.x
+(23:55:37) moezes failed Move check | unexpected horizontal movement (motion: 0.471/0.287, buffer: 0.378/false, vet: 0.361, vec: 0.261, ground: --, add: 0.026, past: 0.39,0.477, fr: 0.6, setback: -, vel: , from: 57.39, rv: 0.158, ptags: jump, tags: empty) (+5) | vl:5 ping:78 tps:20.0 lp:6 component: move.hor ver: 1.16.x
+(23:55:37) moezes failed Move check | unexpected vertical movement (motion: 0.361/0.275, hor: 0.479, buffer: 0.634/false, ground: --, setback: -, vel: , from: 57.751, past: 0.361, tags: empty) (+5) | vl:10 ping:78 tps:20.0 lp:6 component: move.vert ver: 1.16.x
+(23:55:37) moezes failed Move check | unexpected horizontal movement (motion: 0.479/0.455, buffer: 0.854/false, vet: 0.361, vec: 0.429, ground: --, add: 0.026, past: 0.361,0.471, fr: 0.6, setback: +, vel: , from: 57.751, rv: 0.158, ptags: empty, tags: hor_bst) (+5) | vl:15 ping:78 tps:20.0 lp:6 component: move.hor ver: 1.16.x
+(23:55:39) moezes failed Move check | unexpected horizontal movement (motion: 0.741/0.417, buffer: 1.295/true, vet: 0.388, vec: 0.391, ground: --, add: 0.026, past: 0.388,0.715, fr: 0.6, setback: +, vel: , from: 57.388, rv: 0.158, ptags: jump, tags: hor_bst) (+5) | vl:20 ping:78 tps:20.0 lp:4 component: move.hor ver: 1.16.x
+(23:57:25) moezes failed Move check | unexpected horizontal movement (motion: 0.363/0.354, buffer: 0.191/false, vet: -0.392, vec: 0.328, ground: --, add: 0.026, past: -0.35,0.36, fr: 0.6, setback: +, vel: , from: 57.716, rv: 0.158, ptags: empty, tags: hor_bst) (+5) | vl:5 ping:82 tps:20.0 lp:17 component: move.hor ver: 1.16.x

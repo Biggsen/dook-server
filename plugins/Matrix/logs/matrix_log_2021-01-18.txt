@@ -1,0 +1,20 @@
+(00:25:06) lAlmeida failed Block check | break block without delay (+4) | vl:4 ping:76 tps:20.0 lp:4 component: blk.fb.dly ver: 1.16.x
+(00:25:36) lAlmeida failed Fly check | suspicious movement:0.396 predict:0.42 vel:-0.374 pre:0.0 (+5) | vl:5 ping:73 tps:19.99 lp:18 component: fly.bj ver: 1.16.x
+(00:25:37) lAlmeida failed Fly check | suspicious movement:0.396 predict:-0.228 vel:-0.374 pre:-0.152 (+5) | vl:10 ping:73 tps:20.0 lp:21 component: fly.bj ver: 1.16.x
+(00:25:38) lAlmeida failed Fly check | suspicious movement:0.396 predict:-0.228 vel:-0.374 air_t:12 tag:m4 (+10) | vl:20 ping:73 tps:20.0 lp:21 component: fly.main ver: 1.16.x
+(00:25:38) lAlmeida failed Fly check | suspicious movement:0.396 predict:-0.228 vel:-0.374 pre:-0.152 (+5) | vl:25 ping:73 tps:20.0 lp:21 component: fly.bj ver: 1.16.x
+(00:25:39) lAlmeida failed Fly check | suspicious movement:0.396 predict:-0.228 vel:-0.374 air_t:12 tag:m4 (+10) | vl:35 ping:73 tps:20.0 lp:23 component: fly.main ver: 1.16.x
+(00:25:39) lAlmeida failed Fly check | suspicious movement:0.396 predict:-0.228 vel:-0.374 pre:-0.152 (+5) | vl:40 ping:73 tps:20.0 lp:23 component: fly.bj ver: 1.16.x
+(00:25:40) lAlmeida failed Fly check | suspicious movement:0.396 predict:-0.228 vel:-0.374 air_t:12 tag:m4 (+10) | vl:50 ping:66 tps:20.0 lp:29 component: fly.main ver: 1.16.x
+(00:25:40) Execute command: matrix notify lAlmeida tried to fly (Fly) #1
+(00:25:40) lAlmeida failed Fly check | suspicious movement:0.396 predict:-0.228 vel:-0.374 pre:-0.152 (+5) | vl:55 ping:66 tps:20.0 lp:29 component: fly.bj ver: 1.16.x
+(00:25:41) lAlmeida failed Fly check | suspicious movement:0.396 predict:0.42 vel:-0.374 pre:0.0 (+5) | vl:60 ping:66 tps:20.0 lp:21 component: fly.bj ver: 1.16.x
+(00:25:42) lAlmeida failed Fly check | suspicious movement:0.396 predict:-0.228 vel:-0.374 pre:-0.152 (+5) | vl:65 ping:66 tps:20.0 lp:21 component: fly.bj ver: 1.16.x
+(00:25:43) lAlmeida failed Fly check | suspicious movement:0.396 predict:-0.228 vel:-0.374 air_t:12 tag:m4 (+10) | vl:35 ping:66 tps:20.0 lp:23 component: fly.main ver: 1.16.x
+(00:25:43) lAlmeida failed Fly check | suspicious movement:0.396 predict:-0.228 vel:-0.374 pre:-0.152 (+5) | vl:40 ping:66 tps:20.0 lp:23 component: fly.bj ver: 1.16.x
+(00:25:46) lAlmeida failed Fly check | suspicious movement:0.396 predict:-0.228 vel:-0.374 pre:-0.152 (+5) | vl:45 ping:66 tps:19.99 lp:17 component: fly.bj ver: 1.16.x
+(00:26:17) lAlmeida failed Jesus check | suspicious movement in liquid (motion: -0.118,0.42,0.445, down: WATER, vel: -0.418, module: solid) (+5) | vl:5 ping:62 tps:20.0 lp:2 component: jesus.solid ver: 1.16.x
+(00:26:19) lAlmeida failed Jesus check | suspicious movement in liquid (motion: -0.114,0.42,0.595, down: WATER, vel: -0.514, module: solid) (+5) | vl:10 ping:62 tps:20.0 lp:3 component: jesus.solid ver: 1.16.x
+(00:26:27) lAlmeida failed Jesus check | suspicious movement in liquid (motion: 0.0,0.42,0.0, down: WATER, vel: -0.397, module: solid) (+5) | vl:15 ping:56 tps:20.0 lp:9 component: jesus.solid ver: 1.16.x
+(07:00:31) Matrix Enabled!
+(07:00:31) Version: 5.6.3
