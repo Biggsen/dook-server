@@ -1,0 +1,15 @@
+name: '&b&fTroll Dust'
+material: GUNPOWDER
+glow: true
+disableStack: false
+keepItemOnDeath: false
+give-first-join: false
+give-slot: 0
+hideEnchantments: false
+hideAttributes: false
+usage: 0
+usageLimit: -1
+disable-world: []
+unbreakable: false
+hideUnbreakable: false
+lore: []
