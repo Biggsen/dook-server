@@ -1,0 +1,16 @@
+CubCustomDrops:
+  globalSettings:
+    LootingMultiplier: false
+    LootingAll: false
+    LootingM: 15
+    LootingA: 10
+    FortuneMultiplier: false
+    FortuneAll: false
+    FortuneM: 15
+    FortuneA: 10
+    GlobalWorlds:
+      '0': world
+      '1': world_nether
+      '2': world_the_end
+    LoadedOnce: true
+  afkFarm: false

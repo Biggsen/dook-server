@@ -1,0 +1,31 @@
+name: '&3❁ &b&lEPIC PEARL &3❁'
+lore:
+- '&8&m------------------------'
+- '&7'
+- '&3➤ &b&oClick to teleport you !'
+- '&7'
+- '&7&oInfo:'
+- '&3» &a10 secs &bof cooldowns'
+- '&7'
+- '&8&m------------------------'
+material: ENDER_PEARL
+glow: true
+cancel-item-drop: true
+keepItemOnDeath: false
+give-first-join: false
+give-slot: 0
+usage: 3
+unbreakable: false
+activators:
+  activator1:
+    activator: ALL_CLICK
+    displayName: '&ean activator'
+    cooldown: 10
+    displayCooldownMessage: true
+    usageModification: -1
+    cancelEvent: true
+    sneaking: false
+    needConfirmBeforeUse: false
+    commands:
+    - TELEPORTONCURSOR
+customModelData: 1
