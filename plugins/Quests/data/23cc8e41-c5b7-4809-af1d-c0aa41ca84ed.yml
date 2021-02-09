@@ -1,5 +1,7 @@
 currentQuests: none
 currentStages: none
-quest-points: 0
-completed-Quests: none
+quest-points: 1
+completed-Quests:
+- custom1
+- custom3
 lastKnownName: Bl4zeBoy

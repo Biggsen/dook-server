@@ -1,0 +1,30 @@
+lastAccountName: Kuroeldblood
+timestamps:
+  login: 1612882833155
+  lastteleport: 1612876446605
+  logout: 1612882859037
+ipAddress: 5.107.111.250
+lastlocation:
+  world: world
+  x: 705.162938398487
+  y: 73.0
+  z: -189.85819196169808
+  yaw: -349.11102
+  pitch: 19.073109
+money: '306.0'
+homes:
+  home:
+    world: world
+    x: 849.4225100849508
+    y: 73.0
+    z: -194.67863887517112
+    yaw: 175.18031
+    pitch: 18.449951
+logoutlocation:
+  world: world
+  x: 842.2555669532323
+  y: 73.0
+  z: -195.85055024428263
+  yaw: -112.774025
+  pitch: 18.467037
+afk: false

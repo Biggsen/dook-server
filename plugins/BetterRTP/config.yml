@@ -29,6 +29,7 @@ Settings:
     CancelOnMove: true
   DisableUpdater: false
 Default:
+  Shape: square
   UseWorldBorder: true
   Biomes: []
   MaxRadius: 1000

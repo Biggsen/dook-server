@@ -1,0 +1,29 @@
+lastAccountName: Leet
+timestamps:
+  login: 1611859163596
+  lastteleport: 1611861585395
+  logout: 1611861587907
+ipAddress: 82.37.147.8
+lastlocation:
+  world: world
+  x: -637.6999999880791
+  y: 96.0
+  z: -205.09494792356298
+  yaw: 257.6117
+  pitch: 20.392883
+money: '267.0'
+homes:
+  home:
+    world: world
+    x: -553.4397670688619
+    y: 71.0
+    z: -1229.5745475650624
+    yaw: 229.48083
+    pitch: 9.34941
+logoutlocation:
+  world: world
+  x: -253.5
+  y: 69.0
+  z: 92.5
+  yaw: -226.86343
+  pitch: 2.7000608

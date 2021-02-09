@@ -1,0 +1,307 @@
+Miner:
+  fullname: Miner
+  shortname: M
+  description: Earns money mining minerals and ores.
+  ChatColour: DARK_GRAY
+  chat-display: full
+  max-level: 200
+  leveling-progression-equation: 10*(joblevel)+(joblevel*joblevel*4)
+  income-progression-equation: baseincome+(baseincome*(joblevel-1)*0.01)-((baseincome+(baseincome*(joblevel-1)*0.01))
+    * ((numjobs-1)*0.05))
+  points-progression-equation: basepoints+(basepoints*(joblevel-1)*0.01)-((basepoints+(basepoints*(joblevel-1)*0.01))
+    * ((numjobs-1)*0.05))
+  experience-progression-equation: baseexperience-(baseexperience*((numjobs-1) *0.01))
+  rejoinCooldown: 10
+  maxDailyQuests: 2
+  Quests:
+    stone_breaker:
+      Name: Stone Breaker
+      Objectives:
+      - Break;stone;400
+      RewardCommands:
+      - eco give [playerName] 1000
+      - msg [playerName] Completed quest!
+      RewardDesc:
+      - Break 400 stone blocks and get $1000
+      Chance: 50
+      toLevel: 50
+      fromLevel: 1
+    andesite_breaker:
+      Name: Andesite Breaker
+      Objectives:
+      - Break;andesite;100
+      RewardCommands:
+      - eco give [playerName] 1000
+      - msg [playerName] Completed quest!
+      RewardDesc:
+      - Break 100 andesite blocks and get $1000
+      Chance: 50
+      toLevel: 50
+      fromLevel: 1
+    diorite_breaker:
+      Name: Diorite Breaker
+      Objectives:
+      - Break;diorite;100
+      RewardCommands:
+      - eco give [playerName] 1000
+      - msg [playerName] Completed quest!
+      RewardDesc:
+      - Break 100 diorite blocks and get $1000
+      Chance: 50
+      toLevel: 50
+      fromLevel: 1
+    granite_breaker:
+      Name: Granite Breaker
+      Objectives:
+      - Break;granite;100
+      RewardCommands:
+      - eco give [playerName] 1000
+      - msg [playerName] Completed quest!
+      RewardDesc:
+      - Break 100 granite blocks and get $1000
+      Chance: 50
+      toLevel: 50
+      fromLevel: 1
+    coal_miner:
+      Name: Coal Miner
+      Objectives:
+      - Break;coal_ore;150
+      RewardCommands:
+      - eco give [playerName] 1000
+      - msg [playerName] Completed quest!
+      RewardDesc:
+      - Mine 150 coal ore and get $1000
+      Chance: 50
+      toLevel: 50
+      fromLevel: 1
+    iron_miner:
+      Name: Iron Miner
+      Objectives:
+      - Break;iron_ore;50
+      RewardCommands:
+      - eco give [playerName] 1000
+      - msg [playerName] Completed quest!
+      RewardDesc:
+      - Mine 50 iron ore and get $1000
+      Chance: 50
+      toLevel: 50
+      fromLevel: 1
+    redstone_miner:
+      Name: Redstone Miner
+      Objectives:
+      - Break;redstone_ore;50
+      RewardCommands:
+      - eco give [playerName] 1000
+      - msg [playerName] Completed quest!
+      RewardDesc:
+      - Mine 50 redstone ore and get $1000
+      Chance: 50
+      toLevel: 50
+      fromLevel: 1
+    gold_miner:
+      Name: Gold Miner
+      Objectives:
+      - Break;gold_ore;15
+      RewardCommands:
+      - eco give [playerName] 1000
+      - msg [playerName] Completed quest!
+      RewardDesc:
+      - Mine 15 gold ore and get $1000
+      Chance: 50
+      toLevel: 50
+      fromLevel: 1
+    lapis_miner:
+      Name: Lapis Lazuli Miner
+      Objectives:
+      - Break;lapis_ore;6
+      RewardCommands:
+      - eco give [playerName] 1000
+      - msg [playerName] Completed quest!
+      RewardDesc:
+      - Mine 6 lapis lazuli ore and get $1000
+      Chance: 50
+      toLevel: 50
+      fromLevel: 1
+  Gui:
+    Id: 270
+    Data: 0
+  TNTBreak:
+    stone:
+      income: 0.25
+      points: 0.25
+      experience: 0.5
+    granite:
+      income: 0.25
+      points: 0.25
+      experience: 0.5
+    diorite:
+      income: 0.25
+      points: 0.25
+      experience: 0.5
+    andesite:
+      income: 0.25
+      points: 0.25
+      experience: 0.5
+  Break:
+    tube_coral_block:
+      income: 2
+      points: 2
+      experience: 3
+    brain_coral_block:
+      income: 2
+      points: 2
+      experience: 3
+    bubble_coral_block:
+      income: 2
+      points: 2
+      experience: 3
+    fire_coral_block:
+      income: 2
+      points: 2
+      experience: 3
+    horn_coral_block:
+      income: 2
+      points: 2
+      experience: 3
+    andesite:
+      income: 1
+      points: 1
+      experience: 1
+    stone:
+      income: 1
+      points: 1
+      experience: 1
+    granite:
+      income: 1
+      points: 1
+      experience: 1
+    diorite:
+      income: 1
+      points: 1
+      experience: 1
+    sandstone:
+      income: 0.15
+      points: 0.15
+      experience: 0.2
+    chiseled_sandstone:
+      income: 0.15
+      points: 0.15
+      experience: 0.2
+    cut_sandstone:
+      income: 0.15
+      points: 0.15
+      experience: 0.2
+    coal_ore:
+      income: 3
+      points: 2
+      experience: 2
+    redstone_ore:
+      income: 2.5
+      points: 2
+      experience: 2
+    iron_ore:
+      income: 3.5
+      points: 3
+      experience: 2
+    gold_ore:
+      income: 5
+      points: 4
+      experience: 2
+    lapis_ore:
+      income: 7.5
+      points: 6
+      experience: 2
+    diamond_ore:
+      income: 10
+      points: 10
+      experience: 10
+    emerald_ore:
+      income: 15
+      points: 15
+      experience: 30
+    nether_quartz_ore:
+      income: 2.5
+      points: 2.5
+      experience: 2.5
+    obsidian:
+      income: 5
+      points: 5
+      experience: 5
+    cobblestone_wall:
+      income: 2.5
+      points: 2.5
+      experience: 2.5
+    mossy_cobblestone_wall:
+      income: 2.5
+      points: 2.5
+      experience: 2.5
+    nether_bricks:
+      income: 1.0
+      points: 1
+      experience: 1.0
+    nether_brick_stairs:
+      income: 3
+      points: 3
+      experience: 3
+    nether_brick_fence:
+      income: 1
+      points: 1
+      experience: 1
+    netherrack:
+      income: 0.1
+      points: 0.1
+      experience: 0.1
+    prismarine:
+      income: 2.5
+      points: 2.5
+      experience: 2.5
+    prismarine_bricks:
+      income: 2.5
+      points: 2.5
+      experience: 2.5
+    dark_prismarine:
+      income: 2.5
+      points: 2.5
+      experience: 2.5
+  Place:
+    rail:
+      income: 2.0
+      points: 2.0
+      experience: 2.0
+    iron_ore:
+      income: -5.0
+      points: -5
+      experience: -5.0
+    gold_ore:
+      income: -6.0
+      points: -6
+      experience: -6.0
+    diamond_ore:
+      income: -10.0
+      points: -10
+      experience: -10.0
+    emerald_ore:
+      income: -15
+      points: -15
+      experience: -30
+  items:
+    firstOne:
+      id: 278
+      name: '&8Miner Pickaxe'
+      lore:
+      - '&eBobs pick'
+      - '&710% bonus XP'
+      enchants:
+      - DAMAGE_ALL=1
+      - FIRE_ASPECT=1
+      moneyBoost: 1.1
+      expBoost: 1.2
+      pointBoost: 1.3
+    helmet:
+      id: 310
+      name: '&8Armor'
+      lore:
+      - '&eBobs armor'
+      - '&710% bonus XP'
+      moneyBoost: 1.1
+      expBoost: 1.1

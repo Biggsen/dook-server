@@ -1,0 +1,11 @@
+Lesser Boundary Corner: world;-416;59;1218
+Greater Boundary Corner: world;-408;64;1228
+Owner: a6da74a3-1419-4b7d-82dd-d9cf6f7f802e
+Builders: []
+Containers:
+- 5881bbb4-4bcb-480b-a1db-f6c2bb30790f
+Accessors: []
+Managers:
+- a6da74a3-1419-4b7d-82dd-d9cf6f7f802e
+Parent Claim ID: -1
+inheritNothing: false

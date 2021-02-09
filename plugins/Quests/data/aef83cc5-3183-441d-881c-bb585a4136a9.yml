@@ -1,0 +1,15 @@
+currentQuests:
+- custom1
+currentStages:
+- 3
+quest-points: 0
+questData:
+  Explore the area around Spawn:
+    locations-to-reach:
+    - world 14.0 73.0 -249.0
+    has-reached-location:
+    - false
+    radii-to-reach-within:
+    - 40
+completed-Quests: none
+lastKnownName: NeverEaten

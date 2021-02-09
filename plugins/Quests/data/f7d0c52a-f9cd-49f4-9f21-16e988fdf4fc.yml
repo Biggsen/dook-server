@@ -1,6 +1,7 @@
 currentQuests: none
 currentStages: none
-quest-points: 0
+quest-points: 15
 completed-Quests:
-- custom1
+- custom5
+- custom6
 lastKnownName: verzion

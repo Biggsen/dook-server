@@ -1,0 +1,44 @@
+lastAccountName: moezes
+timestamps:
+  login: 1612891855061
+  logout: 1612883532326
+  lastteleport: 1612883366656
+ipAddress: 94.187.2.72
+lastlocation:
+  world: world
+  x: 24663.69999998808
+  y: 44.0
+  z: 758.3991411312246
+  yaw: 235.923
+  pitch: 24.29982
+logoutlocation:
+  world: world
+  x: 144.48230424414362
+  y: 57.0
+  z: 157.59255554268944
+  yaw: -188.5966
+  pitch: 2.4000075
+money: '27514.84038499999874721'
+homes:
+  h:
+    world: world
+    x: 142.5999651714717
+    y: 57.0
+    z: 146.1755974179707
+    yaw: 13.901364
+    pitch: 7.2000504
+  xp:
+    world: world_the_end
+    x: -7.057736774644568
+    y: 1.0
+    z: 295.0967684794296
+    yaw: 194.9709
+    pitch: 31.350096
+  hh:
+    world: world
+    x: 24681.319542277965
+    y: 61.0
+    z: 759.4460448341473
+    yaw: -278.36743
+    pitch: 54.449898
+afk: false

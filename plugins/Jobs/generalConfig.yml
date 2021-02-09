@@ -307,6 +307,8 @@ Economy:
   Enchant:
     # Do you want to give money for enchanting items in anvil?
     PayForEnchantingOnAnvil: false
+    # Do you want to allow players to enchant their boosted items?
+    AllowEnchantingBoostedItems: true
   Crafting:
     # With this true, player will get money for all crafted items instead of each crafting action (like with old payment mechanic)
     # By default its false, as you can make ALOT of money if prices kept from old payment mechanics
@@ -408,6 +410,7 @@ old-job:
 ActionBars:
   Messages:
     # When this set to true player will see action bar messages by default
+    # When false, players will see chat messages instead.
     EnabledByDefault: true
 BossBar:
   # Enables BossBar feature

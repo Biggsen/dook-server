@@ -1,0 +1,21 @@
+lastAccountName: steeldeadeye
+timestamps:
+  login: 1612882218655
+  lastteleport: 1612779521125
+  logout: 1612882522986
+ipAddress: 83.249.92.60
+lastlocation:
+  world: world
+  x: -253.08316649063644
+  y: 69.0
+  z: 93.16857434335171
+  yaw: 139.255
+  pitch: 4.499982
+logoutlocation:
+  world: world
+  x: -201.38424597514273
+  y: 72.0
+  z: 314.1742340566882
+  yaw: -106.30896
+  pitch: 29.249063
+money: '250.0'

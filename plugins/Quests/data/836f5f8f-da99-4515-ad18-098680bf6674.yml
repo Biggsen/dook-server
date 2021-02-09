@@ -1,0 +1,15 @@
+currentQuests:
+- custom1
+currentStages:
+- 0
+quest-points: 0
+questData:
+  Explore the area around Spawn:
+    locations-to-reach:
+    - world -213.0 72.0 -7.0
+    has-reached-location:
+    - false
+    radii-to-reach-within:
+    - 4
+completed-Quests: none
+lastKnownName: FTSenLoLx2

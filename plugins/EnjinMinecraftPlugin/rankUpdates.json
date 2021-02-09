@@ -1,21 +1,3 @@
 {
-  "playerPerms": {
-    "vanism": {
-      "uuid": "2c8a2b3a-a29d-4089-9b1c-391ba57b6d13",
-      "worlds": {
-        "*": [
-          "default"
-        ],
-        "world": [
-          "default"
-        ],
-        "world_the_end": [
-          "default"
-        ],
-        "world_nether": [
-          "default"
-        ]
-      }
-    }
-  }
+  "playerPerms": {}
 }

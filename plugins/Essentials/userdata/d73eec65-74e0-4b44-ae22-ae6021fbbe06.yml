@@ -1,0 +1,27 @@
+lastAccountName: lAlmeida
+timestamps:
+  login: 1610925696987
+  logout: 1610926013450
+ipAddress: 92.53.59.178
+lastlocation:
+  world: world
+  x: -245.5
+  y: 67.0
+  z: 98.5
+  yaw: 3.446267
+  pitch: 0.0
+homes:
+  xd:
+    world: world
+    x: -37.82453973645126
+    y: 63.9375
+    z: 185.4862020298209
+    yaw: -112.41565
+    pitch: 11.550014
+logoutlocation:
+  world: world
+  x: -222.3597205850893
+  y: 70.0
+  z: 290.931154858098
+  yaw: 5.90387
+  pitch: -10.499902

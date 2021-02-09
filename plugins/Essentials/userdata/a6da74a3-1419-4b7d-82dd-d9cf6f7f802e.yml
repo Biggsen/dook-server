@@ -1,0 +1,30 @@
+lastAccountName: ISAAC0107
+timestamps:
+  login: 1612725815019
+  lastteleport: 1610655570222
+  logout: 1612725911795
+ipAddress: 97.114.143.253
+lastlocation:
+  world: world
+  x: -380.6094321603996
+  y: 22.0
+  z: 1219.300000011921
+  yaw: 320.96417
+  pitch: 12.434896
+money: '250.0'
+homes:
+  home:
+    world: world
+    x: -411.2281427614867
+    y: 64.0
+    z: 1220.5652687842248
+    yaw: -8.7966
+    pitch: 31.64878
+afk: false
+logoutlocation:
+  world: world
+  x: -409.45649496486976
+  y: 64.0
+  z: 1225.777954286549
+  yaw: 94.97568
+  pitch: 13.3672695

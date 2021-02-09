@@ -467,3 +467,597 @@
 (20:30:08) Edwiener failed Interact check | interacting with a block without looking at it (block: coal_ore, type: break, buf: -177.5) (+1) | vl:4 ping:47 tps:20.0 lp:10 component: interact.dir ver: 1.16.x
 (20:30:08) Edwiener failed Interact check | interacting with a block without looking at it (block: coal_ore, type: break, buf: -177.5) (+1) | vl:5 ping:47 tps:20.0 lp:10 component: interact.dir ver: 1.16.x
 (20:30:09) Edwiener failed Interact check | interacting with a block without looking at it (block: coal_ore, type: break, buf: -179.5) (+1) | vl:6 ping:47 tps:20.0 lp:12 component: interact.dir ver: 1.16.x
+(20:30:56) Edwiener failed Move check | unexpected horizontal movement (motion: 0.71/0.4, buffer: 1.239/false, vet: 0.39, vec: 0.374, ground: --, add: 0.026, past: 0.39,0.684, fr: 0.6, setback: +, vel: , from: 71.39, rv: -0.078, ptags: jump, tags: hor_bst) (+5) | vl:5 ping:53 tps:20.0 lp:13 component: move.hor ver: 1.16.x
+(20:32:12) Edwiener failed Move check | unexpected horizontal movement (motion: 0.334/0.25, buffer: 0.461/false, vet: 0.387, vec: 0.178, ground: --, add: 0.026, past: 0.387,0.326, fr: 0.6, setback: +, vel: , from: 59.387, rv: -0.078, ptags: jump, tags: hor_bst) (+5) | vl:5 ping:49 tps:20.0 lp:32 component: move.hor ver: 1.16.x
+(20:35:58) Reloaded Matrix.
+(20:36:00) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/0.196, hor: 0.287, buffer: 0.823/false, ground: --, setback: -, vel: none, from: 59.7, past: 0.28, tags: empty) (+5) | vl:5 ping:44 tps:20.0 lp:0 component: move.vert ver: 1.16.x
+(20:41:31) Edwiener failed Move check | unexpected vertical movement (motion: 0.5/-0.078, hor: 0.151, buffer: 0.289/false, ground: ++, setback: +, vel: none, from: 247.0, past: 0.0, tags: jump,step,scaffold,high_jump) (+5) | vl:5 ping:50 tps:19.99 lp:6 component: move.vert ver: 1.16.x
+(20:42:31) Edwiener failed Move check | unexpected vertical movement (motion: 0.5/-0.078, hor: 0.166, buffer: 0.289/false, ground: ++, setback: +, vel: none, from: 247.0, past: -0.122, tags: jump,step,scaffold,high_jump) (+5) | vl:5 ping:89 tps:20.0 lp:25 component: move.vert ver: 1.16.x
+(20:42:51) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:5 ping:46 tps:20.0 lp:16 component: ka.prot.6 ver: 1.16.x
+(20:42:52) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:10 ping:46 tps:20.0 lp:16 component: ka.prot.6 ver: 1.16.x
+(20:42:52) Execute command: matrix npc Edwiener 100
+(20:42:52) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:15 ping:46 tps:20.0 lp:16 component: ka.prot.6 ver: 1.16.x
+(20:42:53) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:20 ping:46 tps:20.0 lp:16 component: ka.prot.6 ver: 1.16.x
+(20:42:53) Execute command: matrix notify Edwiener might be using combat hacks (KillAura)
+(20:42:54) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:25 ping:46 tps:20.0 lp:16 component: ka.prot.6 ver: 1.16.x
+(20:44:01) Edwiener failed Move check | unexpected vertical movement (motion: 0.5/-0.078, hor: 0.18, buffer: 0.289/false, ground: ++, setback: +, vel: , from: 247.0, past: -0.122, tags: jump,step,scaffold,high_jump) (+5) | vl:5 ping:45 tps:20.0 lp:12 component: move.vert ver: 1.16.x
+(20:44:41) Edwiener failed Interact check | attack entity through stone_brick_slab block (d: 1.807) (+1) | vl:1 ping:56 tps:20.0 lp:21 component: interact.attack ver: 1.16.x
+(20:45:37) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:5 ping:66 tps:19.99 lp:33 component: ka.prot.6 ver: 1.16.x
+(20:45:38) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:10 ping:66 tps:20.0 lp:33 component: ka.prot.6 ver: 1.16.x
+(20:45:38) Execute command: matrix npc Edwiener 100
+(20:50:15) Edwiener failed Move check | unexpected vertical movement (motion: 0.5/-0.078, hor: 0.098, buffer: 0.289/false, ground: ++, setback: +, vel: , from: 239.0, past: 0.0, tags: jump,step,scaffold,high_jump) (+5) | vl:5 ping:54 tps:19.99 lp:16 component: move.vert ver: 1.16.x
+(20:50:48) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:5 ping:60 tps:20.0 lp:17 component: ka.prot.6 ver: 1.16.x
+(20:50:48) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:10 ping:60 tps:20.0 lp:17 component: ka.prot.6 ver: 1.16.x
+(20:50:48) Execute command: matrix npc Edwiener 100
+(20:50:51) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:15 ping:56 tps:20.0 lp:17 component: ka.prot.6 ver: 1.16.x
+(20:51:03) Edwiener failed Move check | unexpected vertical movement (motion: 0.5/-0.078, hor: 0.151, buffer: 0.289/false, ground: ++, setback: +, vel: , from: 247.0, past: 0.0, tags: jump,step,scaffold,high_jump) (+5) | vl:5 ping:56 tps:20.0 lp:25 component: move.vert ver: 1.16.x
+(20:52:09) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:5 ping:77 tps:19.99 lp:33 component: ka.prot.6 ver: 1.16.x
+(20:52:10) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:10 ping:77 tps:20.0 lp:33 component: ka.prot.6 ver: 1.16.x
+(20:52:10) Execute command: matrix npc Edwiener 100
+(20:52:10) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:15 ping:77 tps:20.0 lp:33 component: ka.prot.6 ver: 1.16.x
+(20:52:38) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:5 ping:51 tps:20.0 lp:14 component: ka.prot.6 ver: 1.16.x
+(20:52:38) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:10 ping:51 tps:20.0 lp:14 component: ka.prot.6 ver: 1.16.x
+(20:52:38) Execute command: matrix npc Edwiener 100
+(20:54:38) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:5 ping:59 tps:20.0 lp:25 component: ka.prot.6 ver: 1.16.x
+(20:54:39) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:10 ping:59 tps:20.0 lp:25 component: ka.prot.6 ver: 1.16.x
+(20:54:39) Execute command: matrix npc Edwiener 100
+(20:54:39) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:15 ping:59 tps:20.0 lp:28 component: ka.prot.6 ver: 1.16.x
+(20:54:40) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:20 ping:59 tps:20.0 lp:28 component: ka.prot.6 ver: 1.16.x
+(20:54:40) Execute command: matrix notify Edwiener might be using combat hacks (KillAura)
+(20:54:41) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:25 ping:48 tps:20.0 lp:28 component: ka.prot.6 ver: 1.16.x
+(20:54:42) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:30 ping:48 tps:19.99 lp:28 component: ka.prot.6 ver: 1.16.x
+(20:54:42) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:35 ping:48 tps:19.99 lp:28 component: ka.prot.6 ver: 1.16.x
+(20:54:42) Execute command: matrix notify Edwiener is using combat hacks (KillAura) #2
+(20:58:05) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:5 ping:53 tps:20.0 lp:19 component: ka.prot.6 ver: 1.16.x
+(20:58:05) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:10 ping:53 tps:20.0 lp:19 component: ka.prot.6 ver: 1.16.x
+(20:58:05) Execute command: matrix npc Edwiener 100
+(20:58:06) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:15 ping:53 tps:19.99 lp:19 component: ka.prot.6 ver: 1.16.x
+(20:58:06) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:20 ping:53 tps:19.99 lp:19 component: ka.prot.6 ver: 1.16.x
+(20:58:06) Execute command: matrix notify Edwiener might be using combat hacks (KillAura)
+(20:59:02) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:5 ping:51 tps:20.0 lp:19 component: ka.prot.6 ver: 1.16.x
+(21:00:19) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:5 ping:67 tps:20.0 lp:19 component: ka.prot.6 ver: 1.16.x
+(21:00:39) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:10 ping:59 tps:19.99 lp:29 component: ka.prot.6 ver: 1.16.x
+(21:00:39) Execute command: matrix npc Edwiener 100
+(21:00:40) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:15 ping:59 tps:20.0 lp:29 component: ka.prot.6 ver: 1.16.x
+(21:02:43) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:5 ping:48 tps:20.0 lp:9 component: ka.prot.6 ver: 1.16.x
+(21:02:44) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:10 ping:48 tps:20.0 lp:16 component: ka.prot.6 ver: 1.16.x
+(21:02:44) Execute command: matrix npc Edwiener 100
+(21:03:30) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:5 ping:48 tps:19.99 lp:16 component: ka.prot.6 ver: 1.16.x
+(21:03:31) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:10 ping:48 tps:19.99 lp:16 component: ka.prot.6 ver: 1.16.x
+(21:03:31) Execute command: matrix npc Edwiener 100
+(21:03:31) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:15 ping:48 tps:19.99 lp:16 component: ka.prot.6 ver: 1.16.x
+(21:03:37) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:20 ping:48 tps:20.0 lp:16 component: ka.prot.6 ver: 1.16.x
+(21:03:37) Execute command: matrix notify Edwiener might be using combat hacks (KillAura)
+(21:04:03) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:10 ping:52 tps:20.0 lp:25 component: ka.prot.6 ver: 1.16.x
+(21:04:03) Execute command: matrix npc Edwiener 100
+(21:04:04) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:15 ping:52 tps:19.99 lp:25 component: ka.prot.6 ver: 1.16.x
+(21:04:04) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:20 ping:52 tps:19.99 lp:25 component: ka.prot.6 ver: 1.16.x
+(21:04:04) Execute command: matrix notify Edwiener might be using combat hacks (KillAura)
+(21:04:56) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:5 ping:54 tps:20.0 lp:15 component: ka.prot.6 ver: 1.16.x
+(21:04:56) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:10 ping:54 tps:20.0 lp:17 component: ka.prot.6 ver: 1.16.x
+(21:04:56) Execute command: matrix npc Edwiener 100
+(21:04:57) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:15 ping:54 tps:20.0 lp:17 component: ka.prot.6 ver: 1.16.x
+(21:04:57) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:20 ping:52 tps:20.0 lp:17 component: ka.prot.6 ver: 1.16.x
+(21:04:57) Execute command: matrix notify Edwiener might be using combat hacks (KillAura)
+(21:04:59) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:25 ping:52 tps:19.99 lp:17 component: ka.prot.6 ver: 1.16.x
+(21:05:53) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:5 ping:44 tps:19.99 lp:20 component: ka.prot.6 ver: 1.16.x
+(21:05:53) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:10 ping:44 tps:19.99 lp:20 component: ka.prot.6 ver: 1.16.x
+(21:05:53) Execute command: matrix npc Edwiener 100
+(21:07:08) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:5 ping:47 tps:20.0 lp:30 component: ka.prot.6 ver: 1.16.x
+(21:07:08) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:10 ping:47 tps:20.0 lp:30 component: ka.prot.6 ver: 1.16.x
+(21:07:08) Execute command: matrix npc Edwiener 100
+(21:07:09) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:15 ping:47 tps:20.0 lp:30 component: ka.prot.6 ver: 1.16.x
+(21:08:16) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:5 ping:64 tps:20.0 lp:33 component: ka.prot.6 ver: 1.16.x
+(21:08:16) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:10 ping:64 tps:20.0 lp:33 component: ka.prot.6 ver: 1.16.x
+(21:08:16) Execute command: matrix npc Edwiener 100
+(21:08:17) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:5 ping:64 tps:20.0 lp:33 component: ka.prot.6 ver: 1.16.x
+(21:08:18) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:10 ping:64 tps:19.99 lp:33 component: ka.prot.6 ver: 1.16.x
+(21:08:18) Execute command: matrix npc Edwiener 100
+(21:09:45) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:5 ping:54 tps:20.0 lp:8 component: ka.prot.6 ver: 1.16.x
+(21:10:32) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:5 ping:49 tps:20.0 lp:32 component: ka.prot.6 ver: 1.16.x
+(21:10:32) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:10 ping:49 tps:20.0 lp:32 component: ka.prot.6 ver: 1.16.x
+(21:10:32) Execute command: matrix npc Edwiener 100
+(21:10:33) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:15 ping:49 tps:20.0 lp:32 component: ka.prot.6 ver: 1.16.x
+(21:10:33) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:20 ping:49 tps:20.0 lp:32 component: ka.prot.6 ver: 1.16.x
+(21:10:33) Execute command: matrix notify Edwiener might be using combat hacks (KillAura)
+(21:10:42) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:25 ping:78 tps:20.0 lp:14 component: ka.prot.6 ver: 1.16.x
+(21:10:43) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:30 ping:78 tps:20.0 lp:12 component: ka.prot.6 ver: 1.16.x
+(21:11:22) Edwiener failed Move check | unexpected vertical movement (motion: 0.28/-0.078, hor: 0.007, buffer: 1.075/false, ground: --, setback: -, vel: , from: 242.42, past: 0.42, tags: collision,scaffold) (+5) | vl:5 ping:3 tps:20.0 lp:8 component: move.vert ver: 1.16.x
+(21:11:30) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:5 ping:48 tps:19.99 lp:23 component: ka.prot.6 ver: 1.16.x
+(21:11:31) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:10 ping:48 tps:19.99 lp:23 component: ka.prot.6 ver: 1.16.x
+(21:11:31) Execute command: matrix npc Edwiener 100
+(21:19:17) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:5 ping:58 tps:20.0 lp:20 component: ka.prot.6 ver: 1.16.x
+(21:19:17) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:10 ping:58 tps:20.0 lp:20 component: ka.prot.6 ver: 1.16.x
+(21:19:17) Execute command: matrix npc Edwiener 100
+(21:19:18) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:15 ping:58 tps:20.0 lp:20 component: ka.prot.6 ver: 1.16.x
+(21:19:53) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:5 ping:47 tps:20.0 lp:20 component: ka.prot.6 ver: 1.16.x
+(21:19:53) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:10 ping:47 tps:20.0 lp:20 component: ka.prot.6 ver: 1.16.x
+(21:19:53) Execute command: matrix npc Edwiener 100
+(21:19:54) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:15 ping:47 tps:20.0 lp:20 component: ka.prot.6 ver: 1.16.x
+(21:21:46) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:5 ping:50 tps:20.0 lp:15 component: ka.prot.6 ver: 1.16.x
+(21:21:47) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:5 ping:50 tps:20.0 lp:15 component: ka.prot.6 ver: 1.16.x
+(21:21:47) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:10 ping:50 tps:20.0 lp:15 component: ka.prot.6 ver: 1.16.x
+(21:21:47) Execute command: matrix npc Edwiener 100
+(21:23:44) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 100.5) (+5) | vl:5 ping:57 tps:20.0 lp:23 component: ka.prot.6 ver: 1.16.x
+(21:25:03) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 100.5) (+5) | vl:5 ping:57 tps:20.0 lp:24 component: ka.prot.6 ver: 1.16.x
+(21:25:03) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 100.5) (+5) | vl:10 ping:57 tps:20.0 lp:24 component: ka.prot.6 ver: 1.16.x
+(21:25:03) Execute command: matrix npc Edwiener 100
+(21:25:04) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 100.5) (+5) | vl:15 ping:57 tps:20.0 lp:25 component: ka.prot.6 ver: 1.16.x
+(21:25:04) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 100.5) (+5) | vl:20 ping:57 tps:20.0 lp:25 component: ka.prot.6 ver: 1.16.x
+(21:25:04) Execute command: matrix notify Edwiener might be using combat hacks (KillAura)
+(21:25:06) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 100.5) (+5) | vl:25 ping:57 tps:20.0 lp:25 component: ka.prot.6 ver: 1.16.x
+(21:25:07) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 100.5) (+5) | vl:30 ping:57 tps:20.0 lp:25 component: ka.prot.6 ver: 1.16.x
+(21:25:07) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 100.5) (+5) | vl:35 ping:57 tps:20.0 lp:25 component: ka.prot.6 ver: 1.16.x
+(21:25:07) Execute command: matrix notify Edwiener is using combat hacks (KillAura) #2
+(21:25:09) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 100.5) (+5) | vl:40 ping:65 tps:19.99 lp:25 component: ka.prot.6 ver: 1.16.x
+(21:25:10) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 100.5) (+5) | vl:45 ping:65 tps:20.0 lp:25 component: ka.prot.6 ver: 1.16.x
+(21:25:10) Execute command: matrix delay 5 matrix kick Edwiener KillAura
+(21:25:10) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 100.5) (+5) | vl:50 ping:65 tps:20.0 lp:25 component: ka.prot.6 ver: 1.16.x
+(21:25:11) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 100.5) (+5) | vl:55 ping:65 tps:20.0 lp:25 component: ka.prot.6 ver: 1.16.x
+(21:25:14) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 100.5) (+5) | vl:60 ping:65 tps:20.0 lp:25 component: ka.prot.6 ver: 1.16.x
+(21:25:14) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 100.5) (+5) | vl:65 ping:65 tps:20.0 lp:25 component: ka.prot.6 ver: 1.16.x
+(21:25:15) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 100.5) (+5) | vl:70 ping:65 tps:20.0 lp:25 component: ka.prot.6 ver: 1.16.x
+(21:25:59) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:5 ping:77 tps:19.99 lp:14 component: ka.prot.6 ver: 1.16.x
+(21:26:01) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:10 ping:77 tps:19.99 lp:20 component: ka.prot.6 ver: 1.16.x
+(21:26:01) Execute command: matrix npc Edwiener 100
+(21:26:02) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:15 ping:77 tps:19.99 lp:20 component: ka.prot.6 ver: 1.16.x
+(21:26:03) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:20 ping:77 tps:19.99 lp:18 component: ka.prot.6 ver: 1.16.x
+(21:26:03) Execute command: matrix notify Edwiener might be using combat hacks (KillAura)
+(21:26:03) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:25 ping:77 tps:19.99 lp:18 component: ka.prot.6 ver: 1.16.x
+(21:27:47) Edwiener failed Move check | unexpected vertical movement (motion: 0.5/0.003, hor: 0.021, buffer: 0.248/false, ground: ++, setback: +, vel: , from: 239.0, past: -0.114, tags: jump,step,scaffold,high_jump) (+5) | vl:5 ping:53 tps:20.0 lp:18 component: move.vert ver: 1.16.x
+(21:29:02) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/0.333, hor: 0.041, buffer: 1.235/false, ground: --, setback: -, vel: , from: 246.9, past: 0.42, tags: empty) (+5) | vl:5 ping:63 tps:20.0 lp:9 component: move.vert ver: 1.16.x
+(21:30:35) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:5 ping:199 tps:20.0 lp:29 component: ka.prot.6 ver: 1.16.x
+(21:30:37) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:10 ping:199 tps:20.0 lp:29 component: ka.prot.6 ver: 1.16.x
+(21:30:37) Execute command: matrix npc Edwiener 100
+(21:30:37) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:15 ping:199 tps:19.99 lp:29 component: ka.prot.6 ver: 1.16.x
+(21:30:39) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:20 ping:199 tps:20.0 lp:29 component: ka.prot.6 ver: 1.16.x
+(21:30:39) Execute command: matrix notify Edwiener might be using combat hacks (KillAura)
+(21:30:40) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:25 ping:199 tps:20.0 lp:29 component: ka.prot.6 ver: 1.16.x
+(21:30:41) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:30 ping:199 tps:20.0 lp:29 component: ka.prot.6 ver: 1.16.x
+(21:30:41) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:35 ping:199 tps:20.0 lp:29 component: ka.prot.6 ver: 1.16.x
+(21:30:41) Execute command: matrix notify Edwiener is using combat hacks (KillAura) #2
+(21:30:43) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:40 ping:199 tps:20.0 lp:29 component: ka.prot.6 ver: 1.16.x
+(21:30:43) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:45 ping:75 tps:20.0 lp:29 component: ka.prot.6 ver: 1.16.x
+(21:30:43) Execute command: matrix delay 5 matrix kick Edwiener KillAura
+(21:30:44) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:50 ping:75 tps:20.0 lp:29 component: ka.prot.6 ver: 1.16.x
+(21:30:45) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:55 ping:75 tps:20.0 lp:29 component: ka.prot.6 ver: 1.16.x
+(21:31:47) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:5 ping:46 tps:20.0 lp:24 component: ka.prot.6 ver: 1.16.x
+(21:31:48) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:10 ping:46 tps:19.99 lp:24 component: ka.prot.6 ver: 1.16.x
+(21:31:48) Execute command: matrix npc Edwiener 100
+(21:31:48) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:15 ping:46 tps:19.99 lp:24 component: ka.prot.6 ver: 1.16.x
+(21:31:58) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 96.15) (+5) | vl:20 ping:53 tps:20.0 lp:34 component: ka.prot.6 ver: 1.16.x
+(21:31:58) Execute command: matrix notify Edwiener might be using combat hacks (KillAura)
+(21:32:54) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 96.15) (+5) | vl:5 ping:56 tps:20.0 lp:40 component: ka.prot.6 ver: 1.16.x
+(21:34:40) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 96.15) (+5) | vl:5 ping:66 tps:20.0 lp:20 component: ka.prot.6 ver: 1.16.x
+(21:34:40) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 96.15) (+5) | vl:10 ping:66 tps:20.0 lp:20 component: ka.prot.6 ver: 1.16.x
+(21:34:40) Execute command: matrix npc Edwiener 100
+(21:34:41) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 96.15) (+5) | vl:15 ping:66 tps:20.0 lp:20 component: ka.prot.6 ver: 1.16.x
+(21:35:40) Edwiener failed Move check | unexpected vertical movement (motion: 0.28/-0.078, hor: 0.072, buffer: 1.075/false, ground: --, setback: -, vel: , from: 242.42, past: 0.42, tags: collision,scaffold) (+5) | vl:5 ping:41 tps:20.0 lp:13 component: move.vert ver: 1.16.x
+(21:36:22) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 96.15) (+5) | vl:5 ping:46 tps:20.0 lp:33 component: ka.prot.6 ver: 1.16.x
+(21:36:22) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 96.15) (+5) | vl:10 ping:46 tps:20.0 lp:33 component: ka.prot.6 ver: 1.16.x
+(21:36:22) Execute command: matrix npc Edwiener 100
+(21:36:22) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 96.15) (+5) | vl:15 ping:46 tps:20.0 lp:33 component: ka.prot.6 ver: 1.16.x
+(21:36:23) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 96.15) (+5) | vl:20 ping:46 tps:20.0 lp:33 component: ka.prot.6 ver: 1.16.x
+(21:36:23) Execute command: matrix notify Edwiener might be using combat hacks (KillAura)
+(21:36:24) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 96.15) (+5) | vl:25 ping:46 tps:20.0 lp:33 component: ka.prot.6 ver: 1.16.x
+(21:36:24) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 96.15) (+5) | vl:30 ping:46 tps:20.0 lp:33 component: ka.prot.6 ver: 1.16.x
+(21:36:25) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 96.15) (+5) | vl:35 ping:46 tps:20.0 lp:33 component: ka.prot.6 ver: 1.16.x
+(21:36:25) Execute command: matrix notify Edwiener is using combat hacks (KillAura) #2
+(21:36:26) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 96.15) (+5) | vl:40 ping:46 tps:20.0 lp:33 component: ka.prot.6 ver: 1.16.x
+(21:36:27) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 96.15) (+5) | vl:45 ping:46 tps:20.0 lp:33 component: ka.prot.6 ver: 1.16.x
+(21:36:27) Execute command: matrix delay 5 matrix kick Edwiener KillAura
+(21:36:28) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 96.15) (+5) | vl:50 ping:46 tps:19.99 lp:33 component: ka.prot.6 ver: 1.16.x
+(21:36:28) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 96.15) (+5) | vl:55 ping:46 tps:19.99 lp:33 component: ka.prot.6 ver: 1.16.x
+(21:36:28) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 96.15) (+5) | vl:60 ping:46 tps:19.99 lp:33 component: ka.prot.6 ver: 1.16.x
+(21:36:30) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 96.15) (+5) | vl:65 ping:46 tps:20.0 lp:33 component: ka.prot.6 ver: 1.16.x
+(21:38:01) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:5 ping:46 tps:20.0 lp:0 component: ka.prot.6 ver: 1.16.x
+(21:38:02) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:10 ping:46 tps:20.0 lp:0 component: ka.prot.6 ver: 1.16.x
+(21:38:02) Execute command: matrix npc Edwiener 100
+(21:38:31) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:5 ping:61 tps:19.97 lp:17 component: ka.prot.6 ver: 1.16.x
+(21:39:19) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:5 ping:60 tps:20.0 lp:27 component: ka.prot.6 ver: 1.16.x
+(21:39:19) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:10 ping:60 tps:20.0 lp:27 component: ka.prot.6 ver: 1.16.x
+(21:39:19) Execute command: matrix npc Edwiener 100
+(21:39:19) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:15 ping:60 tps:19.99 lp:27 component: ka.prot.6 ver: 1.16.x
+(21:40:02) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:5 ping:46 tps:19.99 lp:28 component: ka.prot.6 ver: 1.16.x
+(21:40:03) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:10 ping:56 tps:19.99 lp:28 component: ka.prot.6 ver: 1.16.x
+(21:40:03) Execute command: matrix npc Edwiener 100
+(21:40:03) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:15 ping:56 tps:19.99 lp:28 component: ka.prot.6 ver: 1.16.x
+(21:40:03) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:20 ping:56 tps:20.0 lp:33 component: ka.prot.6 ver: 1.16.x
+(21:40:03) Execute command: matrix notify Edwiener might be using combat hacks (KillAura)
+(21:40:06) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:25 ping:56 tps:20.0 lp:33 component: ka.prot.6 ver: 1.16.x
+(21:40:49) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:5 ping:63 tps:19.99 lp:30 component: ka.prot.6 ver: 1.16.x
+(21:41:37) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:5 ping:47 tps:20.0 lp:18 component: ka.prot.6 ver: 1.16.x
+(21:41:43) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:10 ping:45 tps:20.0 lp:18 component: ka.prot.6 ver: 1.16.x
+(21:41:43) Execute command: matrix npc Edwiener 100
+(21:42:26) Edwiener failed Move check | unexpected vertical movement (motion: 0.5/-0.078, hor: 0.161, buffer: 0.289/false, ground: ++, setback: +, vel: none, from: 247.0, past: 0.0, tags: jump,step,scaffold,high_jump) (+5) | vl:5 ping:54 tps:20.0 lp:23 component: move.vert ver: 1.16.x
+(21:42:53) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:5 ping:41 tps:20.0 lp:14 component: ka.prot.6 ver: 1.16.x
+(21:42:53) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:10 ping:41 tps:20.0 lp:14 component: ka.prot.6 ver: 1.16.x
+(21:42:53) Execute command: matrix npc Edwiener 100
+(21:42:53) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:15 ping:41 tps:19.99 lp:14 component: ka.prot.6 ver: 1.16.x
+(21:42:54) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:20 ping:41 tps:19.99 lp:14 component: ka.prot.6 ver: 1.16.x
+(21:42:54) Execute command: matrix notify Edwiener might be using combat hacks (KillAura)
+(21:45:47) Edwiener failed Move check | unexpected vertical movement (motion: 0.41/0.083, hor: 0.127, buffer: 0.164/false, ground: +-, setback: +, vel: , from: 242.01, past: 0.0, tags: gf_jump,collision,scaffold) (+5) | vl:5 ping:48 tps:20.0 lp:21 component: move.vert ver: 1.16.x
+(21:45:49) Edwiener failed Move check | unexpected vertical movement (motion: 0.333/-0.075, hor: 0.095, buffer: 1.434/false, ground: --, setback: -, vel: , from: 241.42, past: 0.42, tags: scaffold) (+5) | vl:10 ping:48 tps:20.0 lp:17 component: move.vert ver: 1.16.x
+(21:45:49) Edwiener failed Move check | unexpected vertical movement (motion: 0.248/-0.152, hor: 0.086, buffer: 2.636/false, ground: --, setback: -, vel: , from: 241.753, past: 0.333, tags: scaffold) (+5) | vl:15 ping:48 tps:20.0 lp:17 component: move.vert ver: 1.16.x
+(21:45:50) Edwiener failed Move check | unexpected vertical movement (motion: 0.28/-0.078, hor: 0.08, buffer: 2.15/true, ground: --, setback: -, vel: , from: 242.42, past: 0.42, tags: collision,scaffold) (+5) | vl:20 ping:48 tps:20.0 lp:13 component: move.vert ver: 1.16.x
+(21:49:29) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:5 ping:50 tps:20.0 lp:35 component: ka.prot.6 ver: 1.16.x
+(21:49:29) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:10 ping:50 tps:20.0 lp:35 component: ka.prot.6 ver: 1.16.x
+(21:49:29) Execute command: matrix npc Edwiener 100
+(21:49:32) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:15 ping:50 tps:20.0 lp:35 component: ka.prot.6 ver: 1.16.x
+(21:50:57) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:5 ping:43 tps:20.0 lp:35 component: ka.prot.6 ver: 1.16.x
+(21:50:58) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:10 ping:43 tps:20.0 lp:35 component: ka.prot.6 ver: 1.16.x
+(21:50:58) Execute command: matrix npc Edwiener 100
+(21:50:59) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:15 ping:43 tps:20.0 lp:35 component: ka.prot.6 ver: 1.16.x
+(21:53:19) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:5 ping:48 tps:19.92 lp:10 component: ka.prot.6 ver: 1.16.x
+(21:53:38) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:10 ping:65 tps:20.0 lp:25 component: ka.prot.6 ver: 1.16.x
+(21:53:38) Execute command: matrix npc Edwiener 100
+(21:53:39) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:15 ping:65 tps:20.0 lp:25 component: ka.prot.6 ver: 1.16.x
+(21:53:39) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:20 ping:65 tps:20.0 lp:25 component: ka.prot.6 ver: 1.16.x
+(21:53:39) Execute command: matrix notify Edwiener might be using combat hacks (KillAura)
+(21:55:01) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:5 ping:52 tps:19.99 lp:23 component: ka.prot.6 ver: 1.16.x
+(21:55:01) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:10 ping:52 tps:19.99 lp:23 component: ka.prot.6 ver: 1.16.x
+(21:55:01) Execute command: matrix npc Edwiener 100
+(21:55:01) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:15 ping:52 tps:20.0 lp:23 component: ka.prot.6 ver: 1.16.x
+(21:55:02) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:20 ping:52 tps:20.0 lp:23 component: ka.prot.6 ver: 1.16.x
+(21:55:02) Execute command: matrix notify Edwiener might be using combat hacks (KillAura)
+(21:55:26) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:10 ping:82 tps:20.0 lp:23 component: ka.prot.6 ver: 1.16.x
+(21:55:26) Execute command: matrix npc Edwiener 100
+(21:55:27) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:15 ping:51 tps:20.0 lp:23 component: ka.prot.6 ver: 1.16.x
+(21:55:27) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:20 ping:51 tps:20.0 lp:23 component: ka.prot.6 ver: 1.16.x
+(21:55:27) Execute command: matrix notify Edwiener might be using combat hacks (KillAura)
+(21:55:27) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:25 ping:51 tps:20.0 lp:23 component: ka.prot.6 ver: 1.16.x
+(21:56:17) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:5 ping:47 tps:20.0 lp:19 component: ka.prot.6 ver: 1.16.x
+(21:56:18) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:10 ping:47 tps:20.0 lp:19 component: ka.prot.6 ver: 1.16.x
+(21:56:18) Execute command: matrix npc Edwiener 100
+(21:56:19) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:15 ping:47 tps:20.0 lp:19 component: ka.prot.6 ver: 1.16.x
+(21:56:19) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:20 ping:47 tps:20.0 lp:19 component: ka.prot.6 ver: 1.16.x
+(21:56:19) Execute command: matrix notify Edwiener might be using combat hacks (KillAura)
+(21:57:21) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:5 ping:70 tps:20.0 lp:18 component: ka.prot.6 ver: 1.16.x
+(21:57:22) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:10 ping:70 tps:20.0 lp:18 component: ka.prot.6 ver: 1.16.x
+(21:57:22) Execute command: matrix npc Edwiener 100
+(21:57:49) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:5 ping:44 tps:20.0 lp:18 component: ka.prot.6 ver: 1.16.x
+(21:58:39) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:5 ping:31 tps:20.0 lp:22 component: ka.prot.6 ver: 1.16.x
+(21:58:39) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:10 ping:31 tps:19.99 lp:20 component: ka.prot.6 ver: 1.16.x
+(21:58:39) Execute command: matrix npc Edwiener 100
+(21:58:40) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:15 ping:31 tps:19.99 lp:20 component: ka.prot.6 ver: 1.16.x
+(21:59:33) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:5 ping:50 tps:20.0 lp:11 component: ka.prot.6 ver: 1.16.x
+(21:59:33) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:10 ping:50 tps:19.99 lp:11 component: ka.prot.6 ver: 1.16.x
+(21:59:33) Execute command: matrix npc Edwiener 100
+(21:59:34) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:15 ping:50 tps:19.99 lp:11 component: ka.prot.6 ver: 1.16.x
+(22:00:24) Edwiener failed Chat check | chat too fast | delay: 2479 (+1) | vl:1 ping:47 tps:20.0 lp:26 component: chat.delay ver: 1.16.x
+(22:00:32) moezes failed Move check | unexpected vertical movement (motion: 0.28/-0.078, hor: 0.0, buffer: 1.075/false, ground: --, setback: -, vel: none, from: 242.42, past: 0.396, tags: collision,scaffold) (+5) | vl:5 ping:78 tps:19.99 lp:8 component: move.vert ver: 1.16.x
+(22:00:33) moezes failed Move check | unexpected vertical movement (motion: 0.28/-0.078, hor: 0.0, buffer: 1.625/false, ground: --, setback: -, vel: none, from: 242.42, past: 0.42, tags: collision,scaffold) (+5) | vl:10 ping:78 tps:19.99 lp:8 component: move.vert ver: 1.16.x
+(22:00:34) moezes failed Move check | unexpected vertical movement (motion: 0.28/-0.078, hor: 0.034, buffer: 1.501/false, ground: --, setback: -, vel: none, from: 242.42, past: 0.42, tags: collision,scaffold) (+5) | vl:15 ping:78 tps:20.0 lp:11 component: move.vert ver: 1.16.x
+(22:00:39) moezes failed Move check | unexpected vertical movement (motion: 0.5/-0.078, hor: 0.15, buffer: 0.289/false, ground: ++, setback: +, vel: none, from: 247.0, past: -0.011, tags: jump,step,scaffold,high_jump) (+5) | vl:20 ping:78 tps:20.0 lp:10 component: move.vert ver: 1.16.x
+(22:00:46) moezes failed Move check | unexpected vertical movement (motion: 0.5/-0.078, hor: 0.082, buffer: 0.289/false, ground: ++, setback: +, vel: , from: 247.0, past: 0.0, tags: jump,step,scaffold,high_jump) (+5) | vl:25 ping:84 tps:20.0 lp:16 component: move.vert ver: 1.16.x
+(22:00:50) moezes failed Move check | unexpected vertical movement (motion: 0.5/-0.078, hor: 0.152, buffer: 0.289/false, ground: ++, setback: +, vel: , from: 247.0, past: 0.0, tags: jump,step,scaffold,high_jump) (+5) | vl:5 ping:84 tps:20.0 lp:16 component: move.vert ver: 1.16.x
+(22:00:52) moezes failed Move check | unexpected vertical movement (motion: 0.5/-0.078, hor: 0.017, buffer: 0.289/false, ground: ++, setback: +, vel: , from: 247.0, past: 0.0, tags: jump,step,scaffold,high_jump) (+5) | vl:10 ping:84 tps:20.0 lp:21 component: move.vert ver: 1.16.x
+(22:00:55) moezes failed Move check | unexpected vertical movement (motion: 0.5/-0.078, hor: 0.098, buffer: 0.289/false, ground: ++, setback: +, vel: , from: 247.0, past: 0.0, tags: jump,step,scaffold,high_jump) (+4) | vl:14 ping:121 tps:20.0 lp:16 component: move.vert ver: 1.16.x
+(22:01:00) moezes failed Move check | unexpected vertical movement (motion: 0.5/-0.078, hor: 0.062, buffer: 0.289/false, ground: ++, setback: +, vel: , from: 247.0, past: -0.122, tags: jump,step,scaffold,high_jump) (+4) | vl:18 ping:121 tps:19.99 lp:15 component: move.vert ver: 1.16.x
+(22:01:09) moezes failed Move check | unexpected vertical movement (motion: 0.5/-0.078, hor: 0.098, buffer: 0.289/false, ground: ++, setback: +, vel: , from: 247.0, past: 0.0, tags: jump,step,scaffold,high_jump) (+5) | vl:23 ping:81 tps:19.99 lp:27 component: move.vert ver: 1.16.x
+(22:01:11) Edwiener failed Move check | unexpected vertical movement (motion: 0.5/-0.078, hor: 0.075, buffer: 0.289/false, ground: ++, setback: +, vel: , from: 247.0, past: -0.122, tags: jump,step,scaffold,high_jump) (+5) | vl:5 ping:44 tps:20.0 lp:11 component: move.vert ver: 1.16.x
+(22:01:11) moezes failed Move check | unexpected vertical movement (motion: 0.5/-0.078, hor: 0.062, buffer: 0.289/false, ground: ++, setback: +, vel: , from: 247.0, past: -0.122, tags: jump,step,scaffold,high_jump) (+5) | vl:28 ping:81 tps:20.0 lp:25 component: move.vert ver: 1.16.x
+(22:01:14) Edwiener failed Move check | unexpected vertical movement (motion: 0.5/-0.078, hor: 0.15, buffer: 0.289/false, ground: ++, setback: +, vel: , from: 247.0, past: 0.0, tags: jump,step,scaffold,high_jump) (+5) | vl:10 ping:44 tps:20.0 lp:18 component: move.vert ver: 1.16.x
+(22:01:16) Edwiener failed Move check | unexpected vertical movement (motion: 0.5/-0.078, hor: 0.034, buffer: 0.289/false, ground: ++, setback: +, vel: , from: 247.0, past: 0.0, tags: jump,step,scaffold,high_jump) (+5) | vl:15 ping:44 tps:20.0 lp:18 component: move.vert ver: 1.16.x
+(22:01:18) Edwiener failed Move check | unexpected vertical movement (motion: 0.5/-0.078, hor: 0.15, buffer: 0.289/false, ground: ++, setback: +, vel: , from: 247.0, past: 0.0, tags: jump,step,scaffold,high_jump) (+5) | vl:5 ping:65 tps:20.0 lp:23 component: move.vert ver: 1.16.x
+(22:01:24) Edwiener failed Move check | unexpected vertical movement (motion: 0.5/-0.078, hor: 0.15, buffer: 0.289/false, ground: ++, setback: +, vel: , from: 247.0, past: 0.0, tags: jump,step,scaffold,high_jump) (+5) | vl:10 ping:65 tps:20.0 lp:22 component: move.vert ver: 1.16.x
+(22:01:27) Edwiener failed Move check | unexpected vertical movement (motion: 0.5/-0.078, hor: 0.15, buffer: 0.289/false, ground: ++, setback: +, vel: , from: 247.0, past: 0.0, tags: jump,step,scaffold,high_jump) (+5) | vl:15 ping:65 tps:20.0 lp:13 component: move.vert ver: 1.16.x
+(22:04:57) Edwiener failed Move check | unexpected horizontal movement (motion: 0.445/0.265, buffer: 0.789/false, vet: 0.373, vec: 0.238, ground: --, add: 0.026, past: 0.373,0.436, fr: 0.6, setback: +, vel: , from: 242.373, rv: -0.078, ptags: jump, tags: hor_bst) (+5) | vl:5 ping:56 tps:19.99 lp:11 component: move.hor ver: 1.16.x
+(22:07:12) moezes failed Move check | unexpected vertical movement (motion: -0.078/-0.305, hor: 0.331, buffer: 0.113/true, ground: +-, setback: -, vel: 0.0, from: 42.0, past: -0.232, tags: empty) (+5) | vl:5 ping:85 tps:19.99 lp:4 component: move.vert ver: 1.16.x
+(22:07:14) moezes failed Move check | unexpected horizontal movement (motion: 0.741/0.435, buffer: 0.306/true, vet: 0.362, vec: 0.409, ground: --, add: 0.026, past: 0.391,0.749, fr: 0.6, setback: -, vel: , from: 41.391, rv: 0.0, ptags: jump, tags: empty) (+5) | vl:10 ping:85 tps:20.0 lp:5 component: move.hor ver: 1.16.x
+(22:09:33) vanism failed Scaffold check | scaffold-like placement | type A (+1) | vl:1 ping:30 tps:20.0 lp:15 component: sfd.place.a ver: 1.16.x
+(22:10:21) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:5 ping:44 tps:20.0 lp:25 component: ka.prot.6 ver: 1.16.x
+(22:10:21) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:10 ping:44 tps:20.0 lp:25 component: ka.prot.6 ver: 1.16.x
+(22:10:21) Execute command: matrix npc Edwiener 100
+(22:11:10) moezes failed Move check | unexpected horizontal movement (motion: 0.501/0.299, buffer: 1.029/false, vet: 0.388, vec: 0.273, ground: --, add: 0.026, past: 0.388,0.5, fr: 0.6, setback: +, vel: , from: 57.388, rv: 0.0, ptags: jump, tags: noslow,hor_bst) (+5) | vl:5 ping:81 tps:19.99 lp:10 component: move.hor ver: 1.16.x
+(22:11:29) Edwiener failed Move check | unexpected vertical movement (motion: 0.28/-0.078, hor: 0.068, buffer: 1.075/false, ground: --, setback: -, vel: , from: 242.42, past: 0.42, tags: collision,scaffold) (+5) | vl:5 ping:52 tps:20.0 lp:14 component: move.vert ver: 1.16.x
+(22:11:34) moezes failed Move check | unexpected horizontal movement (motion: 0.694/0.392, buffer: 1.21/false, vet: 0.39, vec: 0.365, ground: --, add: 0.026, past: 0.39,0.669, fr: 0.6, setback: +, vel: , from: 57.39, rv: 0.0, ptags: jump, tags: hor_bst) (+5) | vl:5 ping:83 tps:19.99 lp:6 component: move.hor ver: 1.16.x
+(22:11:34) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:5 ping:52 tps:19.99 lp:17 component: ka.prot.6 ver: 1.16.x
+(22:11:35) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:10 ping:100 tps:19.99 lp:17 component: ka.prot.6 ver: 1.16.x
+(22:11:35) Execute command: matrix npc Edwiener 100
+(22:11:35) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:15 ping:100 tps:19.99 lp:14 component: ka.prot.6 ver: 1.16.x
+(22:11:35) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:20 ping:100 tps:20.0 lp:14 component: ka.prot.6 ver: 1.16.x
+(22:11:35) Execute command: matrix notify Edwiener might be using combat hacks (KillAura)
+(22:12:12) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:10 ping:53 tps:19.99 lp:32 component: ka.prot.6 ver: 1.16.x
+(22:12:12) Execute command: matrix npc Edwiener 100
+(22:12:13) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:15 ping:53 tps:19.99 lp:35 component: ka.prot.6 ver: 1.16.x
+(22:12:13) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:20 ping:53 tps:19.99 lp:35 component: ka.prot.6 ver: 1.16.x
+(22:12:13) Execute command: matrix notify Edwiener might be using combat hacks (KillAura)
+(22:12:48) Edwiener failed Interact check | attack entity through stone_brick_slab block (d: 1.951) (+1) | vl:1 ping:45 tps:20.0 lp:8 component: interact.attack ver: 1.16.x
+(22:13:39) moezes failed Move check | unexpected vertical movement (motion: 0.0/0.412, hor: 0.188, buffer: 0.206/true, ground: ++, setback: -, vel: -0.159125, from: 60.0, past: 0.5, tags: empty) (+5) | vl:5 ping:82 tps:20.0 lp:9 component: move.vert ver: 1.16.x
+(22:13:59) vanism failed Move check | unexpected vertical movement (motion: -0.078/-0.305, hor: 0.305, buffer: 0.113/true, ground: +-, setback: -, vel: , from: 66.5, past: -0.232, tags: empty) (+5) | vl:5 ping:21 tps:20.0 lp:15 component: move.vert ver: 1.16.x
+(22:13:59) vanism failed Move check | unexpected vertical movement (motion: -0.078/-0.305, hor: 0.322, buffer: 0.113/true, ground: +-, setback: -, vel: , from: 65.5, past: -0.232, tags: empty) (+5) | vl:10 ping:21 tps:20.0 lp:12 component: move.vert ver: 1.16.x
+(22:14:15) moezes failed Move check | unexpected vertical movement (motion: -0.078/-0.305, hor: 0.317, buffer: 0.113/true, ground: +-, setback: -, vel: , from: 60.0, past: -0.232, tags: empty) (+5) | vl:5 ping:85 tps:20.0 lp:4 component: move.vert ver: 1.16.x
+(22:14:16) moezes failed Move check | unexpected vertical movement (motion: -0.078/-0.114, hor: 0.307, buffer: 0.018/true, ground: +-, setback: -, vel: , from: 57.5, past: -0.036, tags: empty) (+5) | vl:5 ping:85 tps:20.0 lp:4 component: move.vert ver: 1.16.x
+(22:14:17) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:5 ping:53 tps:20.0 lp:41 component: ka.prot.6 ver: 1.16.x
+(22:14:19) moezes failed Move check | unexpected vertical movement (motion: -0.078/-0.045, hor: 0.281, buffer: 0.017/true, ground: --, setback: -, vel: , from: 59.2, past: 0.034, tags: empty) (+5) | vl:10 ping:81 tps:19.99 lp:3 component: move.vert ver: 1.16.x
+(22:14:33) moezes failed Move check | unexpected horizontal movement (motion: 0.745/0.419, buffer: 1.302/false, vet: 0.389, vec: 0.393, ground: --, add: 0.026, past: 0.389,0.719, fr: 0.6, setback: +, vel: , from: 57.389, rv: -0.159, ptags: jump, tags: hor_bst) (+5) | vl:15 ping:95 tps:19.99 lp:3 component: move.hor ver: 1.16.x
+(22:14:40) moezes failed Move check | unexpected horizontal movement (motion: 0.744/0.419, buffer: 1.301/false, vet: 0.389, vec: 0.392, ground: --, add: 0.026, past: 0.389,0.719, fr: 0.6, setback: +, vel: , from: 57.389, rv: -0.159, ptags: jump, tags: hor_bst) (+2) | vl:17 ping:182 tps:20.0 lp:3 component: move.hor ver: 1.16.x
+(22:14:41) Edwiener failed KillAura check | critical hit without correct jumping // mini-jump (d:0.1176000022888104) (+5) | vl:10 ping:43 tps:20.0 lp:12 component: ka.critical.hop ver: 1.16.x
+(22:14:41) Execute command: matrix npc Edwiener 100
+(22:15:15) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:5 ping:46 tps:20.0 lp:16 component: ka.prot.6 ver: 1.16.x
+(22:15:16) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:10 ping:46 tps:20.0 lp:16 component: ka.prot.6 ver: 1.16.x
+(22:15:16) Execute command: matrix npc Edwiener 100
+(22:15:17) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:5 ping:46 tps:20.0 lp:16 component: ka.prot.6 ver: 1.16.x
+(22:15:19) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:10 ping:46 tps:19.99 lp:16 component: ka.prot.6 ver: 1.16.x
+(22:15:19) Execute command: matrix npc Edwiener 100
+(22:15:20) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:15 ping:46 tps:19.99 lp:16 component: ka.prot.6 ver: 1.16.x
+(22:15:21) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:20 ping:46 tps:19.99 lp:16 component: ka.prot.6 ver: 1.16.x
+(22:15:21) Execute command: matrix notify Edwiener might be using combat hacks (KillAura)
+(22:15:21) Edwiener failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:25 ping:46 tps:19.99 lp:16 component: ka.prot.6 ver: 1.16.x
+(22:16:54) Edwiener failed Move check | unexpected vertical movement (motion: 0.392/-0.155, hor: 0.18, buffer: 0.508/false, ground: --, setback: -, vel: , from: 223.392, past: 0.392, tags: scaffold,fix_114) (+4) | vl:4 ping:131 tps:19.99 lp:26 component: move.vert ver: 1.16.x
+(22:18:35) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.426, hor: 0.342, buffer: 0.174/true, ground: +-, setback: -, vel: , from: 47.0, past: -0.355, tags: empty) (+5) | vl:5 ping:68 tps:20.0 lp:16 component: move.vert ver: 1.16.x
+(22:18:35) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.426, hor: 0.341, buffer: 0.174/true, ground: +-, setback: -, vel: , from: 45.5, past: -0.355, tags: empty) (+5) | vl:10 ping:68 tps:20.0 lp:16 component: move.vert ver: 1.16.x
+(22:18:35) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.305, hor: 0.336, buffer: 0.113/true, ground: +-, setback: -, vel: , from: 44.5, past: -0.232, tags: empty) (+5) | vl:15 ping:68 tps:20.0 lp:16 component: move.vert ver: 1.16.x
+(22:18:36) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.426, hor: 0.339, buffer: 0.174/true, ground: +-, setback: -, vel: , from: 43.0, past: -0.355, tags: empty) (+5) | vl:20 ping:68 tps:20.0 lp:16 component: move.vert ver: 1.16.x
+(22:18:36) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.426, hor: 0.339, buffer: 0.174/true, ground: +-, setback: -, vel: , from: 41.5, past: -0.355, tags: empty) (+5) | vl:25 ping:68 tps:20.0 lp:20 component: move.vert ver: 1.16.x
+(22:18:36) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.045, hor: 0.305, buffer: 0.1/true, ground: --, setback: -, vel: , from: 42.2, past: 0.034, tags: empty) (+5) | vl:30 ping:68 tps:20.0 lp:20 component: move.vert ver: 1.16.x
+(22:18:42) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 95.1) (+5) | vl:5 ping:84 tps:20.0 lp:41 component: ka.prot.6 ver: 1.16.x
+(22:19:35) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 95.1) (+5) | vl:5 ping:81 tps:20.0 lp:31 component: ka.prot.6 ver: 1.16.x
+(22:20:39) Edwiener failed Phase check | moved into block (block: cobblestone, move: 0.009,0.016,-0.162, at: -7.103,1.0,289.173, dist: 0.163, loop: false) (+2) | vl:2 ping:44 tps:20.0 lp:6 component: phase.main ver: 1.16.x
+(22:20:43) Edwiener failed Phase check | moved into block (block: cobblestone, move: 0.065,0.016,-0.119, at: -7.255,1.0,289.281, dist: 0.135, loop: false) (+2) | vl:4 ping:44 tps:20.0 lp:5 component: phase.main ver: 1.16.x
+(22:22:40) Edwiener failed Move check | unexpected horizontal movement (motion: 0.774/0.435, buffer: 1.355/false, vet: 0.392, vec: 0.408, ground: --, add: 0.026, past: 0.392,0.748, fr: 0.6, setback: +, vel: , from: 57.392, rv: -0.078, ptags: jump, tags: hor_bst) (+5) | vl:5 ping:59 tps:20.0 lp:8 component: move.hor ver: 1.16.x
+(22:22:52) Edwiener failed Elytra check | (elytra) keep glide pose on ground: 3 (+4) | vl:4 ping:45 tps:20.0 lp:9 component: ely.grd ver: 1.16.x
+(22:23:20) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/0.196, hor: 0.225, buffer: 0.823/false, ground: --, setback: -, vel: , from: 65.263, past: 0.28, tags: empty) (+5) | vl:5 ping:68 tps:19.99 lp:12 component: move.vert ver: 1.16.x
+(22:23:25) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.114, hor: 0.314, buffer: 0.018/true, ground: +-, setback: -, vel: , from: 58.0, past: -0.036, tags: empty) (+5) | vl:10 ping:68 tps:20.0 lp:10 component: move.vert ver: 1.16.x
+(22:23:28) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.045, hor: 0.296, buffer: 0.1/true, ground: --, setback: -, vel: , from: 59.2, past: 0.034, tags: empty) (+5) | vl:15 ping:68 tps:20.0 lp:12 component: move.vert ver: 1.16.x
+(22:23:39) Edwiener failed Move check | unexpected horizontal movement (motion: 0.403/0.25, buffer: 0.673/false, vet: 0.383, vec: 0.216, ground: --, add: 0.026, past: 0.383,0.395, fr: 0.6, setback: +, vel: , from: 57.383, rv: 0.0, ptags: jump, tags: hor_bst) (+5) | vl:20 ping:62 tps:20.0 lp:8 component: move.hor ver: 1.16.x
+(22:27:05) Edwiener failed Block check | break block too fast (digs: 4/6, block: stone, j: false) (+4) | vl:4 ping:44 tps:19.99 lp:16 component: blk.fb.exp ver: 1.16.x
+(22:28:00) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 103.95) (+5) | vl:5 ping:80 tps:20.0 lp:15 component: ka.prot.6 ver: 1.16.x
+(22:28:01) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 103.95) (+5) | vl:10 ping:80 tps:20.0 lp:15 component: ka.prot.6 ver: 1.16.x
+(22:28:01) Execute command: matrix npc moezes 100
+(22:28:01) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 103.95) (+5) | vl:15 ping:80 tps:20.0 lp:15 component: ka.prot.6 ver: 1.16.x
+(22:28:03) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 103.95) (+5) | vl:20 ping:80 tps:19.99 lp:15 component: ka.prot.6 ver: 1.16.x
+(22:28:03) Execute command: matrix notify moezes might be using combat hacks (KillAura)
+(22:28:07) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 103.95) (+5) | vl:25 ping:80 tps:19.99 lp:15 component: ka.prot.6 ver: 1.16.x
+(22:28:08) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 103.95) (+5) | vl:30 ping:80 tps:20.0 lp:15 component: ka.prot.6 ver: 1.16.x
+(22:28:08) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 103.95) (+5) | vl:35 ping:80 tps:20.0 lp:15 component: ka.prot.6 ver: 1.16.x
+(22:28:08) Execute command: matrix notify moezes is using combat hacks (KillAura) #2
+(22:28:09) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 103.95) (+5) | vl:40 ping:80 tps:20.0 lp:15 component: ka.prot.6 ver: 1.16.x
+(22:29:36) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 94.05) (+5) | vl:5 ping:89 tps:20.0 lp:4 component: ka.prot.6 ver: 1.16.x
+(22:29:37) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 94.05) (+5) | vl:10 ping:89 tps:20.0 lp:4 component: ka.prot.6 ver: 1.16.x
+(22:29:37) Execute command: matrix npc moezes 100
+(22:29:37) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 94.05) (+5) | vl:15 ping:89 tps:20.0 lp:4 component: ka.prot.6 ver: 1.16.x
+(22:29:38) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 94.05) (+5) | vl:20 ping:89 tps:19.99 lp:4 component: ka.prot.6 ver: 1.16.x
+(22:29:38) Execute command: matrix notify moezes might be using combat hacks (KillAura)
+(22:30:44) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 95.85) (+5) | vl:5 ping:78 tps:20.0 lp:17 component: ka.prot.6 ver: 1.16.x
+(22:30:44) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 95.85) (+5) | vl:10 ping:78 tps:20.0 lp:17 component: ka.prot.6 ver: 1.16.x
+(22:30:44) Execute command: matrix npc moezes 100
+(22:30:45) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 95.85) (+5) | vl:15 ping:78 tps:20.0 lp:17 component: ka.prot.6 ver: 1.16.x
+(22:30:45) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 95.85) (+5) | vl:20 ping:78 tps:20.0 lp:17 component: ka.prot.6 ver: 1.16.x
+(22:30:45) Execute command: matrix notify moezes might be using combat hacks (KillAura)
+(22:30:48) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 95.85) (+5) | vl:10 ping:82 tps:20.0 lp:11 component: ka.prot.6 ver: 1.16.x
+(22:30:48) Execute command: matrix npc moezes 100
+(22:31:23) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 95.4) (+5) | vl:5 ping:91 tps:19.99 lp:12 component: ka.prot.6 ver: 1.16.x
+(22:31:26) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 95.4) (+5) | vl:10 ping:91 tps:19.99 lp:9 component: ka.prot.6 ver: 1.16.x
+(22:31:26) Execute command: matrix npc moezes 100
+(22:31:27) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 95.4) (+5) | vl:15 ping:91 tps:19.99 lp:8 component: ka.prot.6 ver: 1.16.x
+(22:31:51) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 95.4) (+5) | vl:5 ping:82 tps:20.0 lp:12 component: ka.prot.6 ver: 1.16.x
+(22:31:51) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 95.4) (+5) | vl:10 ping:82 tps:20.0 lp:12 component: ka.prot.6 ver: 1.16.x
+(22:31:51) Execute command: matrix npc moezes 100
+(22:31:53) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 95.4) (+5) | vl:15 ping:82 tps:20.0 lp:11 component: ka.prot.6 ver: 1.16.x
+(22:31:53) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 95.4) (+5) | vl:20 ping:82 tps:20.0 lp:10 component: ka.prot.6 ver: 1.16.x
+(22:31:53) Execute command: matrix notify moezes might be using combat hacks (KillAura)
+(22:31:55) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 95.4) (+5) | vl:25 ping:79 tps:20.0 lp:7 component: ka.prot.6 ver: 1.16.x
+(22:31:55) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 95.4) (+5) | vl:30 ping:79 tps:20.0 lp:7 component: ka.prot.6 ver: 1.16.x
+(22:31:57) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 95.4) (+5) | vl:35 ping:79 tps:20.0 lp:7 component: ka.prot.6 ver: 1.16.x
+(22:31:57) Execute command: matrix notify moezes is using combat hacks (KillAura) #2
+(22:31:57) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 95.4) (+5) | vl:40 ping:79 tps:20.0 lp:7 component: ka.prot.6 ver: 1.16.x
+(22:31:59) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 95.4) (+5) | vl:45 ping:79 tps:19.99 lp:7 component: ka.prot.6 ver: 1.16.x
+(22:31:59) Execute command: matrix delay 5 matrix kick moezes KillAura
+(22:32:00) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 95.4) (+5) | vl:50 ping:79 tps:20.0 lp:7 component: ka.prot.6 ver: 1.16.x
+(22:32:02) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 95.4) (+5) | vl:55 ping:79 tps:20.0 lp:7 component: ka.prot.6 ver: 1.16.x
+(22:32:24) moezes failed KillAura check | exhibiting an aiming pattern similar to aimbot // snap (+7) | vl:7 ping:0 tps:19.99 lp:0 component: ka.abt.snp ver: 1.16.x
+(22:32:29) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:12 ping:0 tps:20.0 lp:2 component: ka.prot.6 ver: 1.16.x
+(22:32:29) Execute command: matrix npc moezes 100
+(22:32:45) moezes failed Move check | unexpected vertical movement (motion: 0.5/-0.078, hor: 0.197, buffer: 0.289/false, ground: ++, setback: +, vel: none, from: 247.0, past: 0.0, tags: jump,step,scaffold,high_jump) (+5) | vl:5 ping:84 tps:20.0 lp:14 component: move.vert ver: 1.16.x
+(22:33:19) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 130.5) (+5) | vl:5 ping:85 tps:19.97 lp:20 component: ka.prot.6 ver: 1.16.x
+(22:33:19) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 130.5) (+5) | vl:10 ping:85 tps:19.97 lp:20 component: ka.prot.6 ver: 1.16.x
+(22:33:19) Execute command: matrix npc moezes 100
+(22:33:19) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 130.5) (+5) | vl:15 ping:85 tps:20.0 lp:20 component: ka.prot.6 ver: 1.16.x
+(22:36:14) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 92.7) (+5) | vl:5 ping:81 tps:20.0 lp:25 component: ka.prot.6 ver: 1.16.x
+(22:36:25) Edwiener failed Move check | ground spoof (expect: --, move: 0.0,0.0,0.0, at: 408.547,12.177,72.658, type: air, pkt: true) (+5) | vl:5 ping:55 tps:20.0 lp:10 component: move.gf ver: 1.16.x
+(22:36:46) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 92.7) (+5) | vl:5 ping:80 tps:20.0 lp:6 component: ka.prot.6 ver: 1.16.x
+(22:36:47) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 92.7) (+5) | vl:5 ping:80 tps:20.0 lp:6 component: ka.prot.6 ver: 1.16.x
+(22:36:47) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 92.7) (+5) | vl:10 ping:80 tps:20.0 lp:6 component: ka.prot.6 ver: 1.16.x
+(22:36:47) Execute command: matrix npc moezes 100
+(22:36:47) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 92.7) (+5) | vl:15 ping:80 tps:20.0 lp:6 component: ka.prot.6 ver: 1.16.x
+(22:37:14) Edwiener failed Move check | unexpected vertical movement (motion: -0.445/-0.121, hor: 0.085, buffer: 0.971/false, ground: --, setback: -, vel: , from: 24.121, past: -0.374, tags: collision) (+5) | vl:5 ping:50 tps:19.99 lp:5 component: move.vert ver: 1.16.x
+(22:38:08) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 92.7) (+5) | vl:5 ping:78 tps:19.46 lp:14 component: ka.prot.6 ver: 1.16.x
+(22:38:39) Edwiener failed Move check | unexpected horizontal movement (motion: 0.027/0.026, buffer: 0.151/false, vet: -0.072, vec: 0.0, ground: --, add: 0.026, past: 0.0,0.0, fr: 0.6, setback: +, vel: , from: 13.249, rv: -0.036, ptags: empty, tags: noslow,hor_bst) (+5) | vl:5 ping:42 tps:20.0 lp:5 component: move.hor ver: 1.16.x
+(22:38:41) Edwiener failed Move check | unexpected horizontal movement (motion: 0.06/0.052, buffer: 0.4/false, vet: -0.072, vec: 0.026, ground: --, add: 0.026, past: 0.083,0.028, fr: 0.6, setback: +, vel: 0.003, from: 12.249, rv: 0.003, ptags: empty, tags: noslow,hor_bst) (+5) | vl:10 ping:42 tps:20.0 lp:6 component: move.hor ver: 1.16.x
+(22:38:42) moezes failed Move check | unexpected vertical movement (motion: 0.5/-0.078, hor: 0.152, buffer: 0.289/false, ground: ++, setback: +, vel: none, from: 247.0, past: -0.036, tags: jump,step,scaffold,high_jump) (+5) | vl:5 ping:83 tps:20.0 lp:15 component: move.vert ver: 1.16.x
+(22:39:09) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 97.65) (+5) | vl:5 ping:85 tps:19.92 lp:8 component: ka.prot.6 ver: 1.16.x
+(22:40:03) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 95.1) (+5) | vl:5 ping:80 tps:19.93 lp:25 component: ka.prot.6 ver: 1.16.x
+(22:43:49) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 95.1) (+5) | vl:5 ping:80 tps:20.0 lp:27 component: ka.prot.6 ver: 1.16.x
+(22:45:45) Bod3k99 failed Move check | bad strafe movement in the air: 0.028 (+1) | vl:1 ping:43 tps:20.0 lp:4 component: move.strafe ver: 1.16.x
+(22:46:52) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.045, hor: 0.107, buffer: 0.1/true, ground: --, setback: -, vel: , from: 15.2, past: 0.034, tags: empty) (+5) | vl:5 ping:45 tps:20.0 lp:8 component: move.vert ver: 1.16.x
+(22:48:10) Edwiener failed Block check | break block too fast (digs: 30/40, block: cobweb, j: false) (+4) | vl:4 ping:58 tps:19.96 lp:21 component: blk.fb.exp ver: 1.16.x
+(22:51:18) Edwiener failed Interact check | interacting with a block without looking at it (block: redstone_ore, type: break, buf: -99.497) (+1) | vl:1 ping:120 tps:20.0 lp:10 component: interact.dir ver: 1.16.x
+(22:51:42) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.426, hor: 0.336, buffer: 0.174/true, ground: +-, setback: -, vel: , from: 49.0, past: -0.355, tags: empty) (+5) | vl:5 ping:78 tps:19.99 lp:14 component: move.vert ver: 1.16.x
+(22:51:43) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.426, hor: 0.309, buffer: 0.174/true, ground: +-, setback: -, vel: , from: 46.0, past: -0.355, tags: empty) (+5) | vl:10 ping:78 tps:19.99 lp:14 component: move.vert ver: 1.16.x
+(22:51:43) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.305, hor: 0.311, buffer: 0.113/true, ground: +-, setback: -, vel: , from: 45.0, past: -0.232, tags: empty) (+5) | vl:15 ping:78 tps:19.99 lp:14 component: move.vert ver: 1.16.x
+(22:51:43) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.426, hor: 0.327, buffer: 0.174/true, ground: +-, setback: -, vel: , from: 43.5, past: -0.355, tags: empty) (+5) | vl:20 ping:78 tps:20.0 lp:13 component: move.vert ver: 1.16.x
+(22:51:44) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.305, hor: 0.33, buffer: 0.113/true, ground: +-, setback: -, vel: , from: 42.5, past: -0.232, tags: empty) (+5) | vl:25 ping:78 tps:20.0 lp:13 component: move.vert ver: 1.16.x
+(22:52:25) Edwiener failed Move check | unexpected vertical movement (motion: 0.0/0.388, hor: 0.332, buffer: 0.444/true, ground: ++, setback: -, vel: , from: 58.5, past: 0.476, tags: empty) (+5) | vl:5 ping:75 tps:19.99 lp:13 component: move.vert ver: 1.16.x
+(23:00:14) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.045, hor: 0.128, buffer: 0.017/true, ground: --, setback: -, vel: , from: 17.2, past: 0.034, tags: empty) (+5) | vl:5 ping:53 tps:20.0 lp:7 component: move.vert ver: 1.16.x
+(23:00:16) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.045, hor: 0.325, buffer: 0.017/true, ground: --, setback: -, vel: , from: 19.2, past: 0.034, tags: empty) (+5) | vl:10 ping:53 tps:20.0 lp:7 component: move.vert ver: 1.16.x
+(23:00:16) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.045, hor: 0.279, buffer: 0.017/true, ground: --, setback: -, vel: , from: 20.2, past: 0.034, tags: empty) (+5) | vl:15 ping:53 tps:20.0 lp:7 component: move.vert ver: 1.16.x
+(23:00:17) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.045, hor: 0.067, buffer: 0.1/true, ground: --, setback: -, vel: , from: 22.2, past: 0.034, tags: empty) (+5) | vl:5 ping:53 tps:19.99 lp:8 component: move.vert ver: 1.16.x
+(23:00:19) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.045, hor: 0.15, buffer: 0.1/true, ground: --, setback: -, vel: , from: 24.2, past: 0.034, tags: empty) (+5) | vl:10 ping:53 tps:19.99 lp:6 component: move.vert ver: 1.16.x
+(23:01:46) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.045, hor: 0.156, buffer: 0.1/true, ground: --, setback: -, vel: , from: 12.2, past: 0.034, tags: empty) (+5) | vl:5 ping:57 tps:20.0 lp:8 component: move.vert ver: 1.16.x
+(23:01:47) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.045, hor: 0.269, buffer: 0.1/true, ground: --, setback: -, vel: , from: 12.2, past: 0.034, tags: empty) (+5) | vl:10 ping:57 tps:20.0 lp:8 component: move.vert ver: 1.16.x
+(23:01:48) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.045, hor: 0.276, buffer: 0.1/true, ground: --, setback: -, vel: , from: 12.2, past: 0.034, tags: empty) (+5) | vl:15 ping:57 tps:19.99 lp:8 component: move.vert ver: 1.16.x
+(23:01:48) Edwiener failed Move check | unexpected vertical movement (motion: 0.42/0.201, hor: 0.563, buffer: 0.109/true, ground: +-, setback: -, vel: , from: 11.0, past: -0.055, tags: jump,collision) (+5) | vl:20 ping:57 tps:19.99 lp:7 component: move.vert ver: 1.16.x
+(23:01:49) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.045, hor: 0.29, buffer: 0.017/true, ground: --, setback: -, vel: , from: 12.2, past: 0.034, tags: empty) (+5) | vl:25 ping:57 tps:19.99 lp:7 component: move.vert ver: 1.16.x
+(23:02:48) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:5 ping:79 tps:19.99 lp:7 component: ka.prot.6 ver: 1.16.x
+(23:03:41) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 0.0) (+5) | vl:5 ping:81 tps:20.0 lp:25 component: ka.prot.6 ver: 1.16.x
+(23:07:48) Edwiener failed Move check | unexpected vertical movement (motion: -0.05/-0.127, hor: 0.334, buffer: 0.607/false, ground: --, setback: -, vel: , from: 49.45, past: -0.05, tags: empty) (+5) | vl:5 ping:66 tps:20.0 lp:9 component: move.vert ver: 1.16.x
+(23:07:48) Edwiener failed Move check | unexpected horizontal movement (motion: 0.334/0.25, buffer: 1.008/false, vet: -0.05, vec: 0.178, ground: --, add: 0.026, past: -0.05,0.326, fr: 0.6, setback: +, vel: , from: 49.45, rv: 0.185, ptags: collision, tags: hor_bst) (+5) | vl:10 ping:66 tps:20.0 lp:9 component: move.hor ver: 1.16.x
+(23:07:53) Edwiener failed Move check | unexpected vertical movement (motion: -0.035/-0.5, hor: 0.177, buffer: 0.233/true, ground: +-, setback: -, vel: -0.489, from: 43.5, past: -0.461, tags: collision) (+5) | vl:15 ping:66 tps:20.0 lp:11 component: move.vert ver: 1.16.x
+(23:07:53) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.198, hor: 0.343, buffer: 0.06/true, ground: +-, setback: -, vel: -0.489, from: 42.0, past: -0.122, tags: empty) (+5) | vl:20 ping:66 tps:20.0 lp:13 component: move.vert ver: 1.16.x
+(23:07:54) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.045, hor: 0.288, buffer: 0.1/true, ground: --, setback: -, vel: -0.489, from: 42.2, past: 0.034, tags: empty) (+5) | vl:25 ping:66 tps:19.99 lp:11 component: move.vert ver: 1.16.x
+(23:07:54) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.045, hor: 0.326, buffer: 0.1/true, ground: --, setback: -, vel: , from: 42.2, past: 0.034, tags: empty) (+5) | vl:30 ping:47 tps:19.99 lp:11 component: move.vert ver: 1.16.x
+(23:07:55) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.045, hor: 0.335, buffer: 0.1/true, ground: --, setback: -, vel: , from: 42.2, past: 0.034, tags: empty) (+5) | vl:35 ping:47 tps:19.99 lp:8 component: move.vert ver: 1.16.x
+(23:07:59) Edwiener failed Move check | unexpected vertical movement (motion: 0.385/0.42, hor: 0.058, buffer: 0.018/true, ground: +-, setback: -, vel: , from: 41.0, past: -0.121, tags: jump) (+5) | vl:40 ping:47 tps:19.99 lp:13 component: move.vert ver: 1.16.x
+(23:08:01) Edwiener failed Move check | unexpected vertical movement (motion: -0.172/-0.302, hor: 0.243, buffer: 0.065/true, ground: -+, setback: -, vel: , from: 42.672, past: -0.228, tags: empty) (+5) | vl:45 ping:47 tps:19.99 lp:10 component: move.vert ver: 1.16.x
+(23:08:11) Edwiener failed Move check | unexpected vertical movement (motion: 0.0/-0.31, hor: 0.357, buffer: 0.155/true, ground: ++, setback: -, vel: , from: 42.5, past: -0.236, tags: empty) (+5) | vl:50 ping:65 tps:19.99 lp:9 component: move.vert ver: 1.16.x
+(23:08:11) Edwiener failed Move check | unexpected vertical movement (motion: 0.0/-0.078, hor: 0.127, buffer: 0.119/true, ground: --, setback: -, vel: , from: 42.5, past: 0.0, tags: hor_pre_tp) (+5) | vl:55 ping:65 tps:19.99 lp:9 component: move.vert ver: 1.16.x
+(23:08:11) Execute command: matrix notify Edwiener tried to move abnormally (Move) #1
+(23:08:12) Edwiener failed Move check | unexpected vertical movement (motion: -0.236/-0.304, hor: 0.281, buffer: 0.034/true, ground: -+, setback: -, vel: , from: 42.736, past: -0.231, tags: empty) (+5) | vl:60 ping:65 tps:20.0 lp:11 component: move.vert ver: 1.16.x
+(23:08:12) Edwiener failed Move check | unexpected vertical movement (motion: 0.386/-0.078, hor: 0.198, buffer: 0.232/true, ground: --, setback: +, vel: , from: 42.5, past: 0.0, tags: hor_pre_tp,fix_114,en_coll,air_bst) (+5) | vl:65 ping:65 tps:20.0 lp:11 component: move.vert ver: 1.16.x
+(23:08:18) Edwiener failed Move check | unexpected vertical movement (motion: 0.387/0.42, hor: 0.444, buffer: 0.016/true, ground: +-, setback: -, vel: , from: 42.0, past: -0.024, tags: jump) (+5) | vl:20 ping:61 tps:19.99 lp:11 component: move.vert ver: 1.16.x
+(23:08:18) Edwiener failed Move check | unexpected vertical movement (motion: 0.387/0.301, hor: 0.451, buffer: 0.275/true, ground: --, setback: -, vel: , from: 42.387, past: 0.387, tags: empty) (+5) | vl:25 ping:61 tps:19.99 lp:11 component: move.vert ver: 1.16.x
+(23:08:18) Edwiener failed Move check | unexpected horizontal movement (motion: 0.451/0.269, buffer: 1.002/true, vet: 0.387, vec: 0.242, ground: --, add: 0.026, past: 0.387,0.444, fr: 0.6, setback: +, vel: , from: 42.387, rv: -0.489, ptags: jump, tags: hor_bst) (+5) | vl:30 ping:61 tps:19.99 lp:11 component: move.hor ver: 1.16.x
+(23:11:12) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 125.55) (+5) | vl:5 ping:77 tps:19.99 lp:14 component: ka.prot.6 ver: 1.16.x
+(23:11:12) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 125.55) (+5) | vl:10 ping:77 tps:19.99 lp:14 component: ka.prot.6 ver: 1.16.x
+(23:11:12) Execute command: matrix npc moezes 100
+(23:11:13) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 125.55) (+5) | vl:15 ping:77 tps:19.99 lp:14 component: ka.prot.6 ver: 1.16.x
+(23:11:16) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 125.55) (+5) | vl:20 ping:77 tps:20.0 lp:14 component: ka.prot.6 ver: 1.16.x
+(23:11:16) Execute command: matrix notify moezes might be using combat hacks (KillAura)
+(23:11:24) vanism failed Move check | unexpected vertical movement (motion: -0.078/-0.305, hor: 0.22, buffer: 0.113/true, ground: +-, setback: -, vel: , from: 19.0, past: -0.232, tags: empty) (+5) | vl:5 ping:30 tps:20.0 lp:5 component: move.vert ver: 1.16.x
+(23:11:24) vanism failed Move check | unexpected vertical movement (motion: -0.078/-0.305, hor: 0.212, buffer: 0.113/true, ground: +-, setback: -, vel: , from: 18.0, past: -0.232, tags: empty) (+5) | vl:10 ping:30 tps:20.0 lp:5 component: move.vert ver: 1.16.x
+(23:11:45) Edwiener failed Move check | unexpected vertical movement (motion: 0.264/-0.236, hor: 0.026, buffer: 0.25/true, ground: -+, setback: -, vel: , from: 60.736, past: -0.231, tags: step_hack,collision) (+5) | vl:5 ping:114 tps:20.0 lp:14 component: move.vert ver: 1.16.x
+(23:11:45) Edwiener failed Move check | unexpected vertical movement (motion: 0.0/0.18, hor: 0.153, buffer: 0.34/true, ground: ++, setback: -, vel: , from: 61.0, past: 0.264, tags: empty) (+5) | vl:10 ping:114 tps:20.0 lp:14 component: move.vert ver: 1.16.x
+(23:11:47) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.305, hor: 0.3, buffer: 0.113/true, ground: +-, setback: -, vel: , from: 59.0, past: -0.232, tags: empty) (+5) | vl:5 ping:114 tps:19.99 lp:18 component: move.vert ver: 1.16.x
+(23:11:50) Edwiener failed Move check | unexpected horizontal movement (motion: 0.741/0.417, buffer: 1.295/true, vet: 0.391, vec: 0.391, ground: --, add: 0.026, past: 0.391,0.715, fr: 0.6, setback: +, vel: , from: 57.391, rv: 0.158, ptags: jump, tags: hor_bst) (+5) | vl:10 ping:114 tps:19.99 lp:10 component: move.hor ver: 1.16.x
+(23:11:54) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 125.55) (+5) | vl:5 ping:81 tps:19.63 lp:35 component: ka.prot.6 ver: 1.16.x
+(23:11:54) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 125.55) (+5) | vl:10 ping:81 tps:19.63 lp:35 component: ka.prot.6 ver: 1.16.x
+(23:11:54) Execute command: matrix npc moezes 100
+(23:11:55) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 125.55) (+5) | vl:15 ping:81 tps:19.63 lp:35 component: ka.prot.6 ver: 1.16.x
+(23:12:29) Edwiener failed Move check | unexpected vertical movement (motion: 0.0/0.384, hor: 0.153, buffer: 0.192/true, ground: ++, setback: -, vel: , from: 58.0, past: 0.472, tags: empty) (+5) | vl:5 ping:51 tps:20.0 lp:11 component: move.vert ver: 1.16.x
+(23:13:30) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 125.55) (+5) | vl:5 ping:81 tps:19.99 lp:29 component: ka.prot.6 ver: 1.16.x
+(23:15:03) Edwiener failed Elytra check | (elytra) reserve energy: 0.0 dif: 0.0 motion: 0.0 t: 30 (+2) | vl:2 ping:45 tps:20.0 lp:9 component: ely.re ver: 1.16.x
+(23:17:00) Edwiener failed Move check | unexpected horizontal movement (motion: 0.854/0.481, buffer: 1.491/false, vet: 0.391, vec: 0.455, ground: --, add: 0.026, past: 0.391,0.833, fr: 0.6, setback: +, vel: , from: 57.391, rv: -0.155, ptags: jump, tags: hor_bst) (+5) | vl:5 ping:48 tps:20.0 lp:17 component: move.hor ver: 1.16.x
+(23:17:12) Edwiener failed Move check | unexpected horizontal movement (motion: 1.01/0.564, buffer: 1.993/false, vet: 0.0, vec: 0.538, ground: --, add: 0.026, past: 0.002,0.985, fr: 0.6, setback: +, vel: , from: 41.002, rv: -0.155, ptags: jump, tags: collision,hor_bst) (+4) | vl:9 ping:152 tps:20.0 lp:17 component: move.hor ver: 1.16.x
+(23:17:18) Edwiener failed Move check | unexpected vertical movement (motion: -0.236/-0.304, hor: 0.302, buffer: 0.034/true, ground: -+, setback: -, vel: , from: 42.736, past: -0.231, tags: empty) (+5) | vl:5 ping:58 tps:20.0 lp:13 component: move.vert ver: 1.16.x
+(23:17:18) Edwiener failed Move check | unexpected vertical movement (motion: 0.0/-0.31, hor: 0.398, buffer: 0.189/true, ground: ++, setback: -, vel: , from: 42.5, past: -0.236, tags: empty) (+5) | vl:10 ping:58 tps:20.0 lp:13 component: move.vert ver: 1.16.x
+(23:17:19) Edwiener failed Move check | unexpected vertical movement (motion: -0.236/-0.304, hor: 0.275, buffer: 0.034/true, ground: -+, setback: -, vel: , from: 42.736, past: -0.231, tags: empty) (+5) | vl:15 ping:58 tps:20.0 lp:9 component: move.vert ver: 1.16.x
+(23:17:19) Edwiener failed Move check | unexpected vertical movement (motion: 0.0/-0.31, hor: 0.378, buffer: 0.189/true, ground: ++, setback: -, vel: , from: 42.5, past: -0.236, tags: empty) (+5) | vl:20 ping:58 tps:20.0 lp:9 component: move.vert ver: 1.16.x
+(23:17:27) Edwiener failed Move check | unexpected vertical movement (motion: 0.0/0.333, hor: 0.139, buffer: 0.167/true, ground: +-, setback: -, vel: , from: 41.5, past: 0.42, tags: empty) (+5) | vl:25 ping:99 tps:20.0 lp:15 component: move.vert ver: 1.16.x
+(23:25:49) Edwiener failed Move check | bad strafe movement in the air: 0.028 (+1) | vl:1 ping:62 tps:20.0 lp:12 component: move.strafe ver: 1.16.x
+(23:26:37) Edwiener failed Move check | unexpected vertical movement (motion: 0.0/0.412, hor: 0.305, buffer: 0.206/true, ground: -+, setback: -, vel: -0.078375, from: 45.5, past: 0.5, tags: empty) (+5) | vl:5 ping:105 tps:20.0 lp:13 component: move.vert ver: 1.16.x
+(23:26:37) Edwiener failed Move check | unexpected vertical movement (motion: 0.0/0.412, hor: 0.323, buffer: 0.206/true, ground: ++, setback: -, vel: -0.078375, from: 48.0, past: 0.5, tags: empty) (+5) | vl:10 ping:105 tps:20.0 lp:13 component: move.vert ver: 1.16.x
+(23:26:37) Edwiener failed Move check | unexpected vertical movement (motion: 0.0/0.412, hor: 0.346, buffer: 0.206/true, ground: ++, setback: -, vel: , from: 49.5, past: 0.5, tags: empty) (+5) | vl:15 ping:105 tps:20.0 lp:13 component: move.vert ver: 1.16.x
+(23:26:44) Edwiener failed Move check | unexpected vertical movement (motion: 0.5/0.0, hor: 0.08, buffer: 0.25/true, ground: -+, setback: -, vel: , from: 59.0, past: -0.053, tags: step_hack,collision) (+5) | vl:20 ping:105 tps:19.99 lp:15 component: move.vert ver: 1.16.x
+(23:26:45) Edwiener failed Move check | unexpected vertical movement (motion: 0.264/-0.236, hor: 0.046, buffer: 0.25/true, ground: -+, setback: -, vel: , from: 59.736, past: -0.231, tags: step_hack,collision) (+5) | vl:25 ping:105 tps:19.99 lp:15 component: move.vert ver: 1.16.x
+(23:28:31) Edwiener failed Move check | unexpected horizontal movement (motion: 0.429/0.41, buffer: 0.669/false, vet: 0.357, vec: 0.384, ground: --, add: 0.026, past: 0.357,0.422, fr: 0.6, setback: +, vel: , from: 64.745, rv: 4.0, ptags: empty, tags: hor_bst) (+5) | vl:5 ping:47 tps:20.0 lp:10 component: move.hor ver: 1.16.x
+(23:30:27) Edwiener failed Move check | unexpected horizontal movement (motion: 0.839/0.471, buffer: 1.474/false, vet: 0.387, vec: 0.444, ground: --, add: 0.026, past: 0.387,0.814, fr: 0.6, setback: +, vel: , from: 63.387, rv: -0.168, ptags: jump, tags: hor_bst) (+5) | vl:5 ping:52 tps:20.0 lp:12 component: move.hor ver: 1.16.x
+(23:32:21) Edwiener failed Move check | unexpected horizontal movement (motion: 0.883/0.495, buffer: 1.552/false, vet: 0.392, vec: 0.469, ground: --, add: 0.026, past: 0.392,0.859, fr: 0.6, setback: +, vel: , from: 72.392, rv: 4.0, ptags: jump, tags: hor_bst) (+5) | vl:5 ping:43 tps:20.0 lp:10 component: move.hor ver: 1.16.x
+(23:32:24) Edwiener failed Move check | unexpected horizontal movement (motion: 0.764/0.43, buffer: 2.064/false, vet: 0.386, vec: 0.403, ground: --, add: 0.026, past: 0.386,0.738, fr: 0.6, setback: +, vel: , from: 68.386, rv: 4.0, ptags: jump, tags: hor_bst) (+5) | vl:10 ping:43 tps:20.0 lp:7 component: move.hor ver: 1.16.x
+(23:34:12) moezes failed Move check | unexpected vertical movement (motion: 0.5/-0.078, hor: 0.062, buffer: 0.289/false, ground: ++, setback: +, vel: , from: 235.0, past: -0.122, tags: jump,step,scaffold,high_jump) (+5) | vl:5 ping:79 tps:19.96 lp:7 component: move.vert ver: 1.16.x
+(23:34:19) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 94.8) (+5) | vl:5 ping:83 tps:20.0 lp:4 component: ka.prot.6 ver: 1.16.x
+(23:34:19) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 94.8) (+5) | vl:10 ping:83 tps:20.0 lp:7 component: ka.prot.6 ver: 1.16.x
+(23:34:19) Execute command: matrix npc moezes 100
+(23:34:19) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 94.8) (+5) | vl:15 ping:83 tps:19.97 lp:7 component: ka.prot.6 ver: 1.16.x
+(23:34:20) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 94.8) (+5) | vl:20 ping:83 tps:19.97 lp:7 component: ka.prot.6 ver: 1.16.x
+(23:34:20) Execute command: matrix notify moezes might be using combat hacks (KillAura)
+(23:34:21) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 94.8) (+5) | vl:25 ping:83 tps:20.0 lp:7 component: ka.prot.6 ver: 1.16.x
+(23:34:37) moezes failed Move check | unexpected vertical movement (motion: 0.5/-0.078, hor: 0.039, buffer: 0.289/false, ground: ++, setback: +, vel: , from: 247.0, past: 0.0, tags: jump,step,scaffold,high_jump) (+5) | vl:5 ping:91 tps:19.99 lp:10 component: move.vert ver: 1.16.x
+(23:34:59) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 93.45) (+5) | vl:15 ping:84 tps:19.99 lp:23 component: ka.prot.6 ver: 1.16.x
+(23:35:07) Edwiener failed Move check | unexpected horizontal movement (motion: 1.275/0.712, buffer: 2.253/false, vet: 0.392, vec: 0.685, ground: --, add: 0.026, past: 0.392,1.255, fr: 0.6, setback: +, vel: , from: 74.392, rv: 4.0, ptags: jump, tags: hor_bst) (+5) | vl:5 ping:56 tps:20.0 lp:15 component: move.hor ver: 1.16.x
+(23:35:14) Edwiener failed Move check | unexpected horizontal movement (motion: 0.773/0.438, buffer: 1.943/false, vet: 0.395, vec: 0.412, ground: --, add: 0.026, past: 0.395,0.754, fr: 0.6, setback: +, vel: , from: 69.395, rv: 4.0, ptags: jump, tags: hor_bst) (+5) | vl:10 ping:46 tps:20.0 lp:9 component: move.hor ver: 1.16.x
+(23:35:32) Edwiener failed Move check | unexpected horizontal movement (motion: 0.465/0.276, buffer: 0.812/false, vet: 0.391, vec: 0.25, ground: --, add: 0.026, past: 0.391,0.457, fr: 0.6, setback: +, vel: , from: 65.391, rv: -0.152, ptags: jump, tags: hor_bst) (+5) | vl:5 ping:47 tps:19.99 lp:9 component: move.hor ver: 1.16.x
+(23:36:32) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 95.1) (+5) | vl:5 ping:77 tps:20.0 lp:17 component: ka.prot.6 ver: 1.16.x
+(23:37:14) Edwiener failed Elytra check | (elytra) reserve energy: 0.132 dif: 0.106 motion: 0.474 t: 5 (+2) | vl:2 ping:49 tps:20.0 lp:22 component: ely.re ver: 1.16.x
+(23:37:19) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 95.1) (+5) | vl:5 ping:78 tps:20.0 lp:6 component: ka.prot.6 ver: 1.16.x
+(23:37:21) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 95.1) (+5) | vl:10 ping:78 tps:20.0 lp:14 component: ka.prot.6 ver: 1.16.x
+(23:37:21) Execute command: matrix npc moezes 100
+(23:37:29) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 95.1) (+5) | vl:15 ping:82 tps:20.0 lp:16 component: ka.prot.6 ver: 1.16.x
+(23:37:29) Edwiener failed Elytra check | (elytra) more energy: 0.05 dif: 0.046 motion: -0.106 ratio: 0.433 (+1) | vl:1 ping:52 tps:20.0 lp:20 component: ely.me ver: 1.16.x
+(23:37:29) Edwiener failed Elytra check | (elytra) more energy: 0.051 dif: 0.039 motion: -0.176 ratio: 0.22 (+1) | vl:2 ping:52 tps:20.0 lp:20 component: ely.me ver: 1.16.x
+(23:37:37) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 95.1) (+5) | vl:20 ping:87 tps:20.0 lp:21 component: ka.prot.6 ver: 1.16.x
+(23:37:37) Execute command: matrix notify moezes might be using combat hacks (KillAura)
+(23:37:46) moezes failed Move check | unexpected vertical movement (motion: 0.5/-0.078, hor: 0.197, buffer: 0.289/false, ground: ++, setback: +, vel: , from: 247.0, past: 0.0, tags: jump,step,scaffold,high_jump) (+5) | vl:5 ping:81 tps:20.0 lp:13 component: move.vert ver: 1.16.x
+(23:38:01) Edwiener failed Move check | unexpected horizontal movement (motion: 0.506/0.306, buffer: 0.394/false, vet: 0.363, vec: 0.279, ground: --, add: 0.026, past: 0.391,0.511, fr: 0.6, setback: -, vel: , from: 57.391, rv: 4.0, ptags: jump, tags: empty) (+5) | vl:5 ping:51 tps:20.0 lp:7 component: move.hor ver: 1.16.x
+(23:38:01) Edwiener failed Move check | unexpected vertical movement (motion: 0.363/0.277, hor: 0.514, buffer: 0.651/false, ground: --, setback: -, vel: , from: 57.754, past: 0.363, tags: empty) (+5) | vl:10 ping:51 tps:20.0 lp:7 component: move.vert ver: 1.16.x
+(23:38:01) Edwiener failed Move check | unexpected horizontal movement (motion: 0.514/0.487, buffer: 0.881/false, vet: 0.363, vec: 0.46, ground: --, add: 0.026, past: 0.363,0.506, fr: 0.6, setback: +, vel: , from: 57.754, rv: 4.0, ptags: empty, tags: hor_bst) (+5) | vl:15 ping:51 tps:20.0 lp:7 component: move.hor ver: 1.16.x
+(23:38:02) Edwiener failed Move check | unexpected horizontal movement (motion: 0.297/0.285, buffer: 0.15/true, vet: -0.121, vec: 0.259, ground: -+, add: 0.026, past: -0.374,0.284, fr: 0.6, setback: -, vel: , from: 57.121, rv: 4.0, ptags: empty, tags: collision) (+5) | vl:20 ping:51 tps:19.99 lp:8 component: move.hor ver: 1.16.x
+(23:38:02) Edwiener failed Move check | unexpected vertical movement (motion: 0.391/0.42, hor: 0.49, buffer: 0.164/true, ground: +-, setback: -, vel: , from: 57.0, past: -0.121, tags: jump) (+5) | vl:25 ping:51 tps:19.99 lp:8 component: move.vert ver: 1.16.x
+(23:38:03) Edwiener failed Move check | unexpected vertical movement (motion: 0.391/0.305, hor: 0.498, buffer: 0.207/true, ground: --, setback: -, vel: , from: 57.391, past: 0.391, tags: empty) (+5) | vl:30 ping:51 tps:19.99 lp:8 component: move.vert ver: 1.16.x
+(23:38:03) Edwiener failed Move check | unexpected horizontal movement (motion: 0.498/0.294, buffer: 1.022/true, vet: 0.391, vec: 0.268, ground: --, add: 0.026, past: 0.391,0.49, fr: 0.6, setback: +, vel: , from: 57.391, rv: 4.0, ptags: jump, tags: hor_bst) (+5) | vl:35 ping:51 tps:19.99 lp:8 component: move.hor ver: 1.16.x
+(23:38:45) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 95.1) (+5) | vl:5 ping:80 tps:20.0 lp:28 component: ka.prot.6 ver: 1.16.x
+(23:38:51) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 95.1) (+5) | vl:5 ping:77 tps:20.0 lp:28 component: ka.prot.6 ver: 1.16.x
+(23:40:50) Edwiener failed Move check | bad strafe movement in the air: 0.094 (+1) | vl:1 ping:69 tps:20.0 lp:11 component: move.strafe ver: 1.16.x
+(23:41:27) Edwiener failed Move check | unexpected horizontal movement (motion: 0.452/0.269, buffer: 0.79/false, vet: 0.387, vec: 0.243, ground: --, add: 0.026, past: 0.387,0.444, fr: 0.6, setback: +, vel: , from: 57.387, rv: 4.0, ptags: jump, tags: hor_bst) (+5) | vl:5 ping:53 tps:20.0 lp:12 component: move.hor ver: 1.16.x
+(23:41:46) Edwiener failed Move check | unexpected horizontal movement (motion: 0.456/0.435, buffer: 0.687/false, vet: 0.345, vec: 0.408, ground: --, add: 0.026, past: 0.345,0.449, fr: 0.6, setback: +, vel: , from: 57.727, rv: 4.0, ptags: empty, tags: hor_bst) (+5) | vl:10 ping:65 tps:20.0 lp:11 component: move.hor ver: 1.16.x
+(23:41:53) Edwiener failed Move check | unexpected vertical movement (motion: 0.464/-0.036, hor: 0.033, buffer: 0.25/true, ground: -+, setback: -, vel: -0.078375, from: 50.536, past: -0.231, tags: step_hack,collision) (+5) | vl:5 ping:66 tps:20.0 lp:13 component: move.vert ver: 1.16.x
+(23:41:54) Edwiener failed Move check | unexpected vertical movement (motion: 0.0/0.376, hor: 0.143, buffer: 0.438/true, ground: ++, setback: -, vel: -0.078375, from: 51.0, past: 0.464, tags: empty) (+5) | vl:10 ping:66 tps:20.0 lp:13 component: move.vert ver: 1.16.x
+(23:41:54) Edwiener failed Move check | unexpected vertical movement (motion: 0.0/0.412, hor: 0.281, buffer: 0.206/true, ground: ++, setback: -, vel: -0.078375, from: 54.0, past: 0.5, tags: empty) (+5) | vl:15 ping:66 tps:20.0 lp:13 component: move.vert ver: 1.16.x
+(23:42:04) Edwiener failed Move check | unexpected horizontal movement (motion: 0.481/0.292, buffer: 0.382/false, vet: 0.362, vec: 0.265, ground: --, add: 0.026, past: 0.391,0.485, fr: 0.6, setback: -, vel: , from: 57.391, rv: -0.078, ptags: jump, tags: empty) (+5) | vl:20 ping:46 tps:20.0 lp:12 component: move.hor ver: 1.16.x
+(23:42:05) Edwiener failed Move check | unexpected vertical movement (motion: 0.362/0.276, hor: 0.488, buffer: 0.639/false, ground: --, setback: -, vel: , from: 57.753, past: 0.362, tags: empty) (+5) | vl:25 ping:46 tps:20.0 lp:12 component: move.vert ver: 1.16.x
+(23:42:05) Edwiener failed Move check | unexpected horizontal movement (motion: 0.488/0.464, buffer: 0.862/false, vet: 0.362, vec: 0.437, ground: --, add: 0.026, past: 0.362,0.481, fr: 0.6, setback: +, vel: , from: 57.753, rv: -0.078, ptags: empty, tags: hor_bst) (+5) | vl:30 ping:46 tps:20.0 lp:12 component: move.hor ver: 1.16.x
+(23:42:44) Edwiener failed Move check | unexpected vertical movement (motion: 0.28/-0.078, hor: 0.072, buffer: 1.075/false, ground: --, setback: -, vel: , from: 242.42, past: 0.42, tags: collision,scaffold) (+5) | vl:5 ping:45 tps:19.99 lp:7 component: move.vert ver: 1.16.x
+(23:43:05) Edwiener failed Move check | bad strafe movement in the air: 0.028 (+1) | vl:1 ping:47 tps:19.99 lp:27 component: move.strafe ver: 1.16.x
+(23:43:13) Edwiener failed Move check | unexpected vertical movement (motion: 0.386/-0.225, hor: 0.212, buffer: 0.537/false, ground: --, setback: -, vel: , from: 235.886, past: 0.386, tags: collision,scaffold,fix_114) (+5) | vl:6 ping:46 tps:20.0 lp:7 component: move.vert ver: 1.16.x
+(23:43:59) Edwiener failed Move check | unexpected vertical movement (motion: -0.844/-0.356, hor: 0.076, buffer: 1.465/false, ground: --, setback: -, vel: , from: 240.356, past: -0.781, tags: collision) (+5) | vl:5 ping:46 tps:20.0 lp:26 component: move.vert ver: 1.16.x
+(23:44:43) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 91.2) (+5) | vl:5 ping:85 tps:19.99 lp:36 component: ka.prot.6 ver: 1.16.x
+(23:44:51) Edwiener failed Move check | unexpected vertical movement (motion: 0.5/-0.078, hor: 0.063, buffer: 0.289/false, ground: ++, setback: +, vel: , from: 247.0, past: 0.0, tags: jump,step,scaffold,high_jump) (+5) | vl:5 ping:76 tps:20.0 lp:10 component: move.vert ver: 1.16.x
+(23:45:38) Edwiener failed Move check | unexpected vertical movement (motion: 0.348/-0.225, hor: 0.161, buffer: 0.731/false, ground: --, setback: -, vel: , from: 236.732, past: 0.348, tags: scaffold) (+5) | vl:5 ping:49 tps:19.92 lp:5 component: move.vert ver: 1.16.x
+(23:46:54) Edwiener failed Move check | unexpected vertical movement (motion: 0.407/-0.155, hor: 0.212, buffer: 0.524/false, ground: --, setback: -, vel: , from: 128.407, past: 0.407, tags: scaffold) (+5) | vl:5 ping:85 tps:20.0 lp:6 component: move.vert ver: 1.16.x
+(23:46:54) Edwiener failed Move check | unexpected vertical movement (motion: 0.32/-0.225, hor: 0.196, buffer: 0.797/false, ground: --, setback: -, vel: , from: 128.814, past: 0.407, tags: collision,scaffold) (+5) | vl:10 ping:85 tps:20.0 lp:6 component: move.vert ver: 1.16.x
+(23:46:54) Edwiener failed Move check | unexpected vertical movement (motion: 0.236/-0.155, hor: 0.183, buffer: 0.992/false, ground: --, setback: -, vel: , from: 129.135, past: 0.32, tags: collision,scaffold) (+5) | vl:15 ping:85 tps:20.0 lp:7 component: move.vert ver: 1.16.x
+(23:46:59) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.045, hor: 0.131, buffer: 0.017/true, ground: --, setback: -, vel: , from: 130.2, past: 0.034, tags: empty) (+5) | vl:20 ping:46 tps:20.0 lp:6 component: move.vert ver: 1.16.x
+(23:46:59) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.045, hor: 0.067, buffer: 0.017/true, ground: --, setback: -, vel: , from: 130.2, past: 0.034, tags: empty) (+5) | vl:25 ping:46 tps:19.99 lp:6 component: move.vert ver: 1.16.x
+(23:47:00) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.045, hor: 0.138, buffer: 0.017/true, ground: --, setback: -, vel: , from: 130.2, past: 0.034, tags: empty) (+5) | vl:30 ping:46 tps:19.99 lp:6 component: move.vert ver: 1.16.x
+(23:47:02) Edwiener failed Move check | unexpected vertical movement (motion: 0.392/0.42, hor: 0.0, buffer: 0.014/true, ground: +-, setback: -, vel: , from: 41.0, past: 0.0, tags: jump) (+5) | vl:35 ping:46 tps:20.0 lp:6 component: move.vert ver: 1.16.x
+(23:47:02) Edwiener failed Move check | unexpected vertical movement (motion: 0.365/0.306, hor: 0.0, buffer: 0.043/true, ground: --, setback: -, vel: , from: 41.392, past: 0.392, tags: empty) (+5) | vl:40 ping:46 tps:20.0 lp:6 component: move.vert ver: 1.16.x
+(23:47:02) Edwiener failed Move check | unexpected vertical movement (motion: 0.338/0.279, hor: 0.0, buffer: 0.073/true, ground: --, setback: -, vel: , from: 41.757, past: 0.365, tags: empty) (+5) | vl:45 ping:46 tps:20.0 lp:6 component: move.vert ver: 1.16.x
+(23:47:03) Edwiener failed Move check | unexpected vertical movement (motion: 0.392/0.42, hor: 0.486, buffer: 0.014/true, ground: +-, setback: -, vel: , from: 41.0, past: -0.121, tags: jump) (+5) | vl:50 ping:46 tps:20.0 lp:24 component: move.vert ver: 1.16.x
+(23:47:12) Edwiener failed Move check | unexpected vertical movement (motion: 0.492/-0.008, hor: 0.011, buffer: 0.25/true, ground: -+, setback: -, vel: , from: 43.508, past: -0.097, tags: step_hack,collision) (+5) | vl:55 ping:84 tps:19.99 lp:13 component: move.vert ver: 1.16.x
+(23:47:12) Execute command: matrix notify Edwiener tried to move abnormally (Move) #1
+(23:48:21) Edwiener failed Move check | unexpected horizontal movement (motion: 1.171/0.701, buffer: 0.94/false, vet: 0.0, vec: 0.57, ground: +-, add: 0.13, past: 0.0,1.043, fr: 0.6, setback: -, vel: , from: 41.0, rv: 4.0, ptags: collision, tags: collision,gf_speed) (+5) | vl:5 ping:52 tps:20.0 lp:14 component: move.hor ver: 1.16.x
+(23:48:31) Edwiener failed Move check | unexpected horizontal movement (motion: 0.695/0.392, buffer: 1.211/false, vet: 0.392, vec: 0.365, ground: --, add: 0.026, past: 0.392,0.669, fr: 0.6, setback: +, vel: , from: 57.392, rv: 4.0, ptags: jump, tags: hor_bst) (+5) | vl:10 ping:78 tps:20.0 lp:8 component: move.hor ver: 1.16.x
+(23:48:33) Edwiener failed Move check | unexpected vertical movement (motion: 0.0/0.331, hor: 0.152, buffer: 0.552/false, ground: +-, setback: -, vel: , from: 58.5, past: 0.418, tags: empty) (+5) | vl:15 ping:78 tps:20.0 lp:12 component: move.vert ver: 1.16.x
+(23:48:54) Edwiener failed Move check | unexpected horizontal movement (motion: 1.142/0.685, buffer: 0.914/false, vet: 0.0, vec: 0.554, ground: +-, add: 0.13, past: 0.0,1.014, fr: 0.6, setback: -, vel: , from: 41.0, rv: 4.0, ptags: collision, tags: collision,gf_speed) (+5) | vl:5 ping:95 tps:19.99 lp:14 component: move.hor ver: 1.16.x
+(23:49:00) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 96.15) (+5) | vl:5 ping:79 tps:20.0 lp:15 component: ka.prot.6 ver: 1.16.x
+(23:49:19) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 96.15) (+5) | vl:5 ping:92 tps:20.0 lp:25 component: ka.prot.6 ver: 1.16.x
+(23:49:19) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 96.15) (+5) | vl:10 ping:92 tps:20.0 lp:25 component: ka.prot.6 ver: 1.16.x
+(23:49:19) Execute command: matrix npc moezes 100
+(23:49:19) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 96.15) (+5) | vl:15 ping:92 tps:19.99 lp:18 component: ka.prot.6 ver: 1.16.x
+(23:49:20) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 96.15) (+5) | vl:20 ping:92 tps:19.99 lp:18 component: ka.prot.6 ver: 1.16.x
+(23:49:20) Execute command: matrix notify moezes might be using combat hacks (KillAura)
+(23:52:04) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 96.15) (+5) | vl:5 ping:83 tps:20.0 lp:9 component: ka.prot.6 ver: 1.16.x
+(23:52:11) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 96.15) (+5) | vl:10 ping:83 tps:19.98 lp:10 component: ka.prot.6 ver: 1.16.x
+(23:52:11) Execute command: matrix npc moezes 100
+(23:52:24) Edwiener failed Move check | unexpected horizontal movement (motion: 0.815/0.458, buffer: 1.431/false, vet: 0.39, vec: 0.431, ground: --, add: 0.026, past: 0.39,0.79, fr: 0.6, setback: +, vel: , from: 74.39, rv: 0.072, ptags: jump, tags: hor_bst) (+5) | vl:5 ping:79 tps:19.99 lp:11 component: move.hor ver: 1.16.x
+(23:52:47) Edwiener failed Move check | unexpected horizontal movement (motion: 0.979/0.564, buffer: 0.414/false, vet: -0.037, vec: 0.538, ground: --, add: 0.026, past: -0.019,0.985, fr: 0.6, setback: -, vel: , from: 63.981, rv: 0.072, ptags: empty, tags: empty) (+5) | vl:5 ping:65 tps:20.0 lp:10 component: move.hor ver: 1.16.x
+(23:52:48) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 92.55) (+5) | vl:5 ping:80 tps:19.99 lp:18 component: ka.prot.6 ver: 1.16.x
+(23:52:49) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 92.55) (+5) | vl:10 ping:80 tps:19.99 lp:15 component: ka.prot.6 ver: 1.16.x
+(23:52:49) Execute command: matrix npc moezes 100
+(23:52:49) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 92.55) (+5) | vl:15 ping:80 tps:19.99 lp:11 component: ka.prot.6 ver: 1.16.x
+(23:52:49) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 92.55) (+5) | vl:20 ping:80 tps:20.0 lp:11 component: ka.prot.6 ver: 1.16.x
+(23:52:49) Execute command: matrix notify moezes might be using combat hacks (KillAura)
+(23:52:59) Edwiener failed Move check | unexpected horizontal movement (motion: 0.736/0.418, buffer: 1.27/false, vet: 0.39, vec: 0.392, ground: --, add: 0.026, past: 0.39,0.717, fr: 0.6, setback: +, vel: , from: 66.39, rv: 0.072, ptags: jump, tags: hor_bst) (+5) | vl:10 ping:66 tps:20.0 lp:6 component: move.hor ver: 1.16.x
+(23:53:15) Edwiener failed Move check | unexpected horizontal movement (motion: 0.693/0.391, buffer: 1.208/false, vet: 0.392, vec: 0.365, ground: --, add: 0.026, past: 0.392,0.668, fr: 0.6, setback: +, vel: , from: 66.392, rv: 0.072, ptags: jump, tags: hor_bst) (+5) | vl:15 ping:53 tps:20.0 lp:11 component: move.hor ver: 1.16.x
+(23:53:48) Edwiener failed Move check | unexpected horizontal movement (motion: 0.506/0.299, buffer: 1.105/false, vet: 0.388, vec: 0.272, ground: --, add: 0.026, past: 0.388,0.499, fr: 0.6, setback: +, vel: , from: 66.388, rv: -0.234, ptags: jump, tags: hor_bst) (+5) | vl:5 ping:43 tps:20.0 lp:10 component: move.hor ver: 1.16.x
+(23:54:52) Edwiener failed Move check | unexpected horizontal movement (motion: 0.807/0.453, buffer: 1.415/false, vet: 0.395, vec: 0.427, ground: --, add: 0.026, past: 0.395,0.781, fr: 0.6, setback: +, vel: , from: 71.395, rv: -0.234, ptags: jump, tags: hor_bst) (+5) | vl:5 ping:94 tps:20.0 lp:9 component: move.hor ver: 1.16.x
+(23:55:55) Edwiener failed Move check | unexpected horizontal movement (motion: 0.279/0.25, buffer: 0.237/false, vet: -0.447, vec: 0.0, ground: --, add: 0.026, past: -0.377,0.0, fr: 0.6, setback: +, vel: 4.0, from: 60.055, rv: 4.0, ptags: empty, tags: hor_bst) (+5) | vl:5 ping:44 tps:20.0 lp:22 component: move.hor ver: 1.16.x
+(23:55:57) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 95.55) (+5) | vl:5 ping:77 tps:19.94 lp:14 component: ka.prot.6 ver: 1.16.x
+(23:55:58) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 95.55) (+5) | vl:10 ping:77 tps:19.94 lp:14 component: ka.prot.6 ver: 1.16.x
+(23:55:58) Execute command: matrix npc moezes 100
+(23:55:59) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 95.55) (+5) | vl:15 ping:77 tps:19.94 lp:14 component: ka.prot.6 ver: 1.16.x
+(23:55:59) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 95.55) (+5) | vl:20 ping:77 tps:19.94 lp:14 component: ka.prot.6 ver: 1.16.x
+(23:55:59) Execute command: matrix notify moezes might be using combat hacks (KillAura)
+(23:56:03) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.305, hor: 0.32, buffer: 0.113/true, ground: +-, setback: -, vel: , from: 56.0, past: -0.232, tags: empty) (+5) | vl:10 ping:92 tps:20.0 lp:10 component: move.vert ver: 1.16.x
+(23:56:03) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.426, hor: 0.333, buffer: 0.174/true, ground: +-, setback: -, vel: , from: 54.5, past: -0.355, tags: empty) (+5) | vl:15 ping:92 tps:20.0 lp:10 component: move.vert ver: 1.16.x
+(23:56:04) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.426, hor: 0.338, buffer: 0.174/true, ground: +-, setback: -, vel: , from: 53.0, past: -0.355, tags: empty) (+5) | vl:20 ping:92 tps:20.0 lp:10 component: move.vert ver: 1.16.x
+(23:56:04) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.426, hor: 0.331, buffer: 0.174/true, ground: +-, setback: -, vel: , from: 50.0, past: -0.355, tags: empty) (+5) | vl:25 ping:92 tps:20.0 lp:9 component: move.vert ver: 1.16.x
+(23:56:05) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.426, hor: 0.337, buffer: 0.174/true, ground: +-, setback: -, vel: , from: 48.5, past: -0.355, tags: empty) (+5) | vl:30 ping:92 tps:20.0 lp:9 component: move.vert ver: 1.16.x
+(23:56:05) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.426, hor: 0.339, buffer: 0.174/true, ground: +-, setback: -, vel: , from: 47.0, past: -0.355, tags: empty) (+5) | vl:35 ping:92 tps:20.0 lp:11 component: move.vert ver: 1.16.x
+(23:56:05) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.426, hor: 0.34, buffer: 0.174/true, ground: +-, setback: -, vel: , from: 45.5, past: -0.355, tags: empty) (+5) | vl:40 ping:92 tps:20.0 lp:11 component: move.vert ver: 1.16.x
+(23:56:06) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.305, hor: 0.302, buffer: 0.113/true, ground: +-, setback: -, vel: , from: 44.0, past: -0.232, tags: empty) (+5) | vl:45 ping:92 tps:20.0 lp:12 component: move.vert ver: 1.16.x
+(23:56:06) Edwiener failed Move check | unexpected vertical movement (motion: -0.078/-0.305, hor: 0.302, buffer: 0.113/true, ground: +-, setback: -, vel: , from: 42.5, past: -0.232, tags: empty) (+5) | vl:50 ping:92 tps:20.0 lp:12 component: move.vert ver: 1.16.x
+(23:56:14) Edwiener failed Move check | unexpected vertical movement (motion: 0.0/-0.31, hor: 0.319, buffer: 0.155/true, ground: ++, setback: -, vel: , from: 42.5, past: -0.236, tags: empty) (+5) | vl:55 ping:53 tps:20.0 lp:8 component: move.vert ver: 1.16.x
+(23:56:14) Execute command: matrix notify Edwiener tried to move abnormally (Move) #1
+(23:56:14) Edwiener failed Move check | unexpected vertical movement (motion: 0.0/-0.078, hor: 0.127, buffer: 0.119/true, ground: --, setback: -, vel: , from: 42.5, past: 0.0, tags: hor_pre_tp) (+5) | vl:60 ping:53 tps:20.0 lp:8 component: move.vert ver: 1.16.x
+(23:56:14) Edwiener failed Move check | unexpected vertical movement (motion: 0.0/-0.078, hor: 0.127, buffer: 0.083/true, ground: --, setback: -, vel: , from: 42.5, past: 0.0, tags: hor_pre_tp) (+5) | vl:65 ping:53 tps:20.0 lp:9 component: move.vert ver: 1.16.x
+(23:56:19) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 95.55) (+5) | vl:10 ping:80 tps:20.0 lp:14 component: ka.prot.6 ver: 1.16.x
+(23:56:19) Execute command: matrix npc moezes 100
+(23:56:19) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 95.55) (+5) | vl:15 ping:80 tps:19.99 lp:14 component: ka.prot.6 ver: 1.16.x
+(23:56:20) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 95.55) (+5) | vl:20 ping:80 tps:19.99 lp:14 component: ka.prot.6 ver: 1.16.x
+(23:56:20) Execute command: matrix notify moezes might be using combat hacks (KillAura)
+(23:56:22) Edwiener failed Move check | unexpected vertical movement (motion: 0.0/0.37, hor: 0.113, buffer: 0.435/true, ground: +-, setback: -, vel: , from: 42.0, past: 0.457, tags: empty) (+5) | vl:20 ping:58 tps:20.0 lp:13 component: move.vert ver: 1.16.x
+(23:56:23) Edwiener failed Elytra check | (elytra) reserve energy: 0.09 dif: 0.088 motion: 0.425 t: 5 (+2) | vl:2 ping:58 tps:20.0 lp:11 component: ely.re ver: 1.16.x
+(23:56:52) moezes failed KillAura check | combat not following the vanilla protocol: #06 (val: 95.55) (+5) | vl:10 ping:80 tps:20.0 lp:14 component: ka.prot.6 ver: 1.16.x
+(23:56:52) Execute command: matrix npc moezes 100

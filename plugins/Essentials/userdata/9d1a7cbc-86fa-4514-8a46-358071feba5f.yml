@@ -1,0 +1,44 @@
+lastAccountName: Edwiener
+timestamps:
+  login: 1612890791323
+  logout: 1612891174969
+  lastteleport: 1612882870406
+ipAddress: 193.34.87.218
+lastlocation:
+  world: world
+  x: 204.94359331905855
+  y: 10.5
+  z: 208.77934213618536
+  yaw: 173.43797
+  pitch: 12.000205
+logoutlocation:
+  world: world
+  x: 157.32646280863733
+  y: 64.0625
+  z: 134.21993141991746
+  yaw: -134.93407
+  pitch: 4.049983
+money: '32120.502759999999429259'
+homes:
+  home:
+    world: world
+    x: 157.58774394985153
+    y: 64.0
+    z: 130.4193629962666
+    yaw: -46.995186
+    pitch: 28.800001
+  xp:
+    world: world_the_end
+    x: -6.595257675490689
+    y: 1.0
+    z: 288.58958240240196
+    yaw: 283.5598
+    pitch: 90.0
+  nether:
+    world: world_nether
+    x: -838.1473662657088
+    y: 129.0
+    z: 655.4583581794441
+    yaw: -86.91536
+    pitch: 42.599934
+afk: false

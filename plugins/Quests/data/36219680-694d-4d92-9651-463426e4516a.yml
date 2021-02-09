@@ -1,5 +1,15 @@
-currentQuests: none
-currentStages: none
+currentQuests:
+- custom1
+currentStages:
+- 7
 quest-points: 0
+questData:
+  Explore the area around Spawn:
+    locations-to-reach:
+    - world -329.0 72.0 75.0
+    has-reached-location:
+    - false
+    radii-to-reach-within:
+    - 10
 completed-Quests: none
 lastKnownName: Zonelesi

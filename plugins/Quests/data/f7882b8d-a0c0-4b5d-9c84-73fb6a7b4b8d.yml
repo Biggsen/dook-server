@@ -1,0 +1,15 @@
+currentQuests:
+- custom1
+currentStages:
+- 8
+quest-points: 0
+questData:
+  Explore the area around Spawn:
+    locations-to-reach:
+    - world -523.0 77.0 51.0
+    has-reached-location:
+    - false
+    radii-to-reach-within:
+    - 10
+completed-Quests: none
+lastKnownName: Leet

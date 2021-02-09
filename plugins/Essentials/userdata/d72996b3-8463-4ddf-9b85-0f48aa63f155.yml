@@ -1,0 +1,21 @@
+lastAccountName: Bod3k99
+timestamps:
+  login: 1612647836928
+  lastteleport: 1611686432679
+  logout: 1612648083409
+ipAddress: 83.5.254.171
+lastlocation:
+  world: world
+  x: -257.13296830870536
+  y: 64.0
+  z: 175.76129627306267
+  yaw: 26.98117
+  pitch: 20.100107
+logoutlocation:
+  world: world
+  x: -206.21084382688096
+  y: 68.0
+  z: 110.01591707223027
+  yaw: -177.0483
+  pitch: 21.900091
+afk: false

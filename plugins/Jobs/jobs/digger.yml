@@ -1,0 +1,164 @@
+Digger:
+  fullname: Digger
+  shortname: D
+  description: Earns money for terraforming the world.
+  ChatColour: GOLD
+  chat-display: full
+  max-level: 200
+  leveling-progression-equation: 10*(joblevel)+(joblevel*joblevel*4)
+  income-progression-equation: baseincome+(baseincome*(joblevel-1)*0.01)-((baseincome+(baseincome*(joblevel-1)*0.01))
+    * ((numjobs-1)*0.05))
+  points-progression-equation: basepoints+(basepoints*(joblevel-1)*0.01)-((basepoints+(basepoints*(joblevel-1)*0.01))
+    * ((numjobs-1)*0.05))
+  experience-progression-equation: baseexperience-(baseexperience*((numjobs-1) *0.01))
+  rejoinCooldown: 10
+  maxDailyQuests: 2
+  Quests:
+    dirt_digger:
+      Name: Dirt Digger
+      Objectives:
+      - Break;dirt;600
+      RewardCommands:
+      - eco give [playerName] 1000
+      - msg [playerName] Completed quest!
+      RewardDesc:
+      - Break 600 dirt blocks and get $1000
+      Chance: 50
+      toLevel: 50
+      fromLevel: 1
+    grass_block_digger:
+      Name: Grass Block Digger
+      Objectives:
+      - Break;grass_block;400
+      RewardCommands:
+      - eco give [playerName] 1000
+      - msg [playerName] Completed quest!
+      RewardDesc:
+      - Break 400 grass blocks and get $1000
+      Chance: 50
+      toLevel: 50
+      fromLevel: 1
+    gravel_digger:
+      Name: Gravel Digger
+      Objectives:
+      - Break;gravel;400
+      RewardCommands:
+      - eco give [playerName] 1000
+      - msg [playerName] Completed quest!
+      RewardDesc:
+      - Break 400 gravel blocks and get $1000
+      Chance: 50
+      toLevel: 50
+      fromLevel: 1
+    sand_digger:
+      Name: Sand Digger
+      Objectives:
+      - Break;sand;600
+      RewardCommands:
+      - eco give [playerName] 1000
+      - msg [playerName] Completed quest!
+      RewardDesc:
+      - Break 600 sand blocks and get $1000
+      Chance: 50
+      toLevel: 50
+      fromLevel: 1
+    red_sand_digger:
+      Name: Red Sand Digger
+      Objectives:
+      - Break;red_sand;600
+      RewardCommands:
+      - eco give [playerName] 1000
+      - msg [playerName] Completed quest!
+      RewardDesc:
+      - Break 600 red sand blocks and get $1000
+      Chance: 50
+      toLevel: 50
+      fromLevel: 1
+    coarse_dirt_digger:
+      Name: Coarse Dirt Digger
+      Objectives:
+      - Break;coarse_dirt;600
+      RewardCommands:
+      - eco give [playerName] 1000
+      - msg [playerName] Completed quest!
+      RewardDesc:
+      - Break 600 coarse dirt blocks and get $1000
+      Chance: 50
+      toLevel: 50
+      fromLevel: 1
+    podzol_digger:
+      Name: Podzol Digger
+      Objectives:
+      - Break;podzol;600
+      RewardCommands:
+      - eco give [playerName] 1000
+      - msg [playerName] Completed quest!
+      RewardDesc:
+      - Break 600 podzol blocks and get $1000
+      Chance: 50
+      toLevel: 50
+      fromLevel: 1
+    ice_digger:
+      Name: Ice Digger
+      Objectives:
+      - Break;ice;600
+      RewardCommands:
+      - eco give [playerName] 1000
+      - msg [playerName] Completed quest!
+      RewardDesc:
+      - Break 600 ice blocks and get $1000
+      Chance: 50
+      toLevel: 50
+      fromLevel: 1
+    clay_digger:
+      Name: Clay Digger
+      Objectives:
+      - Break;clay;250
+      RewardCommands:
+      - eco give [playerName] 1000
+      - msg [playerName] Completed quest!
+      RewardDesc:
+      - Break 250 clay blocks and get $1000
+      Chance: 50
+      toLevel: 50
+      fromLevel: 1
+  Gui:
+    Id: 269
+    Data: 0
+  Break:
+    red_sand:
+      income: 1
+      points: 1
+      experience: 1
+    coarse_dirt:
+      income: 1
+      points: 1
+      experience: 1
+    podzol:
+      income: 1
+      points: 1
+      experience: 1
+    ice:
+      income: 1
+      points: 1
+      experience: 1
+    dirt:
+      income: 0.25
+      points: 0.25
+      experience: 0.25
+    grass_block:
+      income: 0.3
+      points: 0.3
+      experience: 0.3
+    gravel:
+      income: 1
+      points: 1
+      experience: 1.0
+    sand:
+      income: 0.4
+      points: 0.4
+      experience: 0.5
+    clay:
+      income: 1
+      points: 1
+      experience: 1.0

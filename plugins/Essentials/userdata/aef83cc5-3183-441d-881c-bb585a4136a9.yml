@@ -1,0 +1,29 @@
+lastAccountName: NeverEaten
+timestamps:
+  login: 1612883711657
+  lastteleport: 1612883967506
+  logout: 1612884105816
+ipAddress: 46.60.36.27
+lastlocation:
+  world: world_nether
+  x: 228.63089646113463
+  y: 62.0
+  z: 6.53453581680049
+  yaw: 105.16522
+  pitch: 13.499911
+money: '164.0'
+logoutlocation:
+  world: world
+  x: 848.5402617261577
+  y: 73.0
+  z: -196.9102966363566
+  yaw: -70.99364
+  pitch: 13.816995
+homes:
+  home:
+    world: world
+    x: 848.6256420883001
+    y: 73.0
+    z: -197.21215849189517
+    yaw: 251.88715
+    pitch: 17.700022

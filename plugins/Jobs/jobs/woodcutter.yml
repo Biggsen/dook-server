@@ -1,0 +1,140 @@
+Woodcutter:
+  fullname: Woodcutter
+  shortname: W
+  description: Earns money felling and planting trees
+  ChatColour: GREEN
+  chat-display: full
+  max-level: 200
+  leveling-progression-equation: 10*(joblevel)+(joblevel*joblevel*4)
+  income-progression-equation: baseincome+(baseincome*(joblevel-1)*0.01)-((baseincome+(baseincome*(joblevel-1)*0.01))
+    * ((numjobs-1)*0.05))
+  points-progression-equation: basepoints+(basepoints*(joblevel-1)*0.01)-((basepoints+(basepoints*(joblevel-1)*0.01))
+    * ((numjobs-1)*0.05))
+  experience-progression-equation: baseexperience-(baseexperience*((numjobs-1) *0.01))
+  rejoinCooldown: 10
+  maxDailyQuests: 2
+  Quests:
+    oak_breaker:
+      Name: Oak Breaker
+      Objectives:
+      - Break;oak_log;200
+      RewardCommands:
+      - eco give [playerName] 1000
+      - msg [playerName] Completed quest!
+      RewardDesc:
+      - Break 200 oak logs and get $1000
+      Chance: 50
+      toLevel: 50
+      fromLevel: 1
+    birch_breaker:
+      Name: Birch breaker
+      Objectives:
+      - Break;birch_log;200
+      RewardCommands:
+      - eco give [playerName] 1000
+      - msg [playerName] Completed quest!
+      RewardDesc:
+      - Break 200 birch logs and get $1000
+      Chance: 50
+      toLevel: 50
+      fromLevel: 1
+    dark_oak_breaker:
+      Name: Dark Oak Breaker
+      Objectives:
+      - Break;dark_oak_log;200
+      RewardCommands:
+      - eco give [playerName] 1000
+      - msg [playerName] Completed quest!
+      RewardDesc:
+      - Break 200 dark oak logs and get $1000
+      Chance: 50
+      toLevel: 50
+      fromLevel: 1
+    spruce_breaker:
+      Name: Spruce Breaker
+      Objectives:
+      - Break;spruce_log;200
+      RewardCommands:
+      - eco give [playerName] 1000
+      - msg [playerName] Completed quest!
+      RewardDesc:
+      - Break 200 spruce logs and get $1000
+      Chance: 50
+      toLevel: 50
+      fromLevel: 1
+    acacia_breaker:
+      Name: Acacia Breaker
+      Objectives:
+      - Break;acacia_log;200
+      RewardCommands:
+      - eco give [playerName] 1000
+      - msg [playerName] Completed quest!
+      RewardDesc:
+      - Break 200 acacia logs and get $1000
+      Chance: 50
+      toLevel: 50
+      fromLevel: 1
+    jungle_breaker:
+      Name: Jungle Breaker
+      Objectives:
+      - Break;jungle_log;200
+      RewardCommands:
+      - eco give [playerName] 1000
+      - msg [playerName] Completed quest!
+      RewardDesc:
+      - Break 200 jungle logs and get $1000
+      Chance: 50
+      toLevel: 50
+      fromLevel: 1
+  Gui:
+    Id: 17
+    Data: 2
+  Break:
+    oak_log:
+      income: 1.0
+      points: 1.0
+      experience: 1.0
+    spruce_log:
+      income: 1.0
+      points: 1.0
+      experience: 1.0
+    birch_log:
+      income: 1.0
+      points: 1.0
+      experience: 1.0
+    jungle_log:
+      income: 1.0
+      points: 1.0
+      experience: 1.0
+    acacia_log:
+      income: 1.0
+      points: 1.0
+      experience: 1.0
+    dark_oak_log:
+      income: 1.0
+      points: 1.0
+      experience: 1.0
+    stripped_oak_log:
+      income: 0.75
+      points: 0.75
+      experience: 0.25
+    stripped_spruce_log:
+      income: 0.75
+      points: 0.75
+      experience: 0.25
+    stripped_birch_log:
+      income: 0.75
+      points: 0.75
+      experience: 0.25
+    stripped_jungle_log:
+      income: 0.75
+      points: 0.75
+      experience: 0.25
+    stripped_acacia_log:
+      income: 0.75
+      points: 0.75
+      experience: 0.25
+    stripped_dark_oak_log:
+      income: 0.75
+      points: 0.75
+      experience: 0.25
