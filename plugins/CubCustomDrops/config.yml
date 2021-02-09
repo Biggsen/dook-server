@@ -1,4 +1,43 @@
 CubCustomDrops:
+  editedBlocks:
+    key:
+      '0': ANDESITE
+    get:
+      '0':
+        Block: ANDESITE
+        CustomDrops:
+          '0':
+            Drop:
+              ==: org.bukkit.inventory.ItemStack
+              v: 2586
+              type: GUNPOWDER
+              meta:
+                ==: ItemMeta
+                meta-type: UNSPECIFIC
+                display-name: '{"extra":[{"italic":false,"color":"white","text":"Troll
+                  Dust"}],"text":""}'
+                enchants:
+                  PROTECTION_FALL: 6
+                attribute-modifiers:
+                  GENERIC_MAX_HEALTH:
+                  - ==: org.bukkit.attribute.AttributeModifier
+                    amount: 0.0
+                    name: EI-ID:trolldust
+                    uuid: 8c432f6e-0cac-4c09-afeb-90955ee4c988
+                    operation: 0
+                ItemFlags:
+                - HIDE_ENCHANTS
+                - HIDE_ATTRIBUTES
+            SpawnerDrop: false
+            NaturalDrop: true
+            Effect: false
+            EffectColor:
+              ==: Color
+              RED: 0
+              BLUE: 0
+              GREEN: 255
+            DropChance: 10
+            WorldOverride: false
   globalSettings:
     LootingMultiplier: false
     LootingAll: false
