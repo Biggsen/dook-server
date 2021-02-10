@@ -89,6 +89,23 @@ farming:
       buyPrice: 96
       sellPrice: 29
       slot: 7
+    cactus:
+      type: item
+      item:
+        material: CACTUS
+        quantity: 8
+      buyPrice: 120
+      sellPrice: 36
+      slot: 8
+    bamboo:
+      type: item
+      item:
+        material: BAMBOO
+        quantity: 48
+        # $2.00 / $0.60 each
+      buyPrice: 96
+      sellPrice: 29
+      slot: 9
     # 4:
     #   type: item
     #   item:

@@ -99,6 +99,22 @@ food:
       buyPrice: 96
       sellPrice: 29
       slot: 8
+    cooked_chicken:
+      type: item
+      item:
+        material: COOKED_CHICKEN
+        quantity: 16
+      buyPrice: 192
+      sellPrice: 58
+      slot: 9
+    cooked_rabbit:
+      type: item
+      item:
+        material: COOKED_RABBIT
+        quantity: 16
+      buyPrice: 128
+      sellPrice: 38
+      slot: 10
     # 1:
     #   type: item
     #   item:
@@ -131,14 +147,6 @@ food:
     #   buyPrice: 20
     #   sellPrice: 4
     #   slot: 15
-    # 8:
-    #   type: item
-    #   item:
-    #     material: COOKED_CHICKEN
-    #     quantity: 1
-    #   buyPrice: 25
-    #   sellPrice: 5
-    #   slot: 19
     # 10:
     #   type: item
     #   item:
@@ -147,14 +155,6 @@ food:
     #   buyPrice: 20
     #   sellPrice: 4
     #   slot: 21
-    # 13:
-    #   type: item
-    #   item:
-    #     material: COOKED_RABBIT
-    #     quantity: 1
-    #   buyPrice: 20
-    #   sellPrice: 4
-    #   slot: 24
     # 14:
     #   type: item
     #   item:

@@ -104,6 +104,16 @@ permissions:
       buyPrice: 1000
       sellPrice: -1
       slot: 7
+    clay:
+      type: permission
+      permission: "shopguiplus.item.blocks.clay"
+      item:
+        material: CLAY
+        quantity: 1
+        name: "Buy and sell clay in the blocks shop"
+      buyPrice: 1000
+      sellPrice: -1
+      slot: 8
     sand:
       type: permission
       permission: "shopguiplus.item.blocks.sand"
@@ -134,6 +144,46 @@ permissions:
       buyPrice: 1000
       sellPrice: -1
       slot: 11
+    smooth_stone:
+      type: permission
+      permission: "shopguiplus.item.blocks.smooth_stone"
+      item:
+        material: SMOOTH_STONE
+        quantity: 1
+        name: "Buy and sell smooth stone in the blocks shop"
+      buyPrice: 1000
+      sellPrice: -1
+      slot: 12
+    polished_granite:
+      type: permission
+      permission: "shopguiplus.item.blocks.polished_granite"
+      item:
+        material: POLISHED_GRANITE
+        quantity: 1
+        name: "Buy and sell polished granite in the blocks shop"
+      buyPrice: 1000
+      sellPrice: -1
+      slot: 13
+    polished_diorite:
+      type: permission
+      permission: "shopguiplus.item.blocks.polished_diorite"
+      item:
+        material: POLISHED_DIORITE
+        quantity: 1
+        name: "Buy and sell polished diorite in the blocks shop"
+      buyPrice: 1000
+      sellPrice: -1
+      slot: 14
+    polished_andesite:
+      type: permission
+      permission: "shopguiplus.item.blocks.polished_andesite"
+      item:
+        material: POLISHED_ANDESITE
+        quantity: 1
+        name: "Buy and sell polished andesite in the blocks shop"
+      buyPrice: 1000
+      sellPrice: -1
+      slot: 15
     money1:
       type: special
       special: BALANCE
@@ -239,6 +289,28 @@ permissions:
       sellPrice: -1
       slot: 8
       page: 2
+    cooked_chicken:
+      type: permission
+      permission: "shopguiplus.item.food.cooked_chicken"
+      item:
+        material: COOKED_CHICKEN
+        quantity: 1
+        name: "Buy and sell cooked chicken in the food shop"
+      buyPrice: 1000
+      sellPrice: -1
+      slot: 9
+      page: 2
+    cooked_rabbit:
+      type: permission
+      permission: "shopguiplus.item.food.cooked_rabbit"
+      item:
+        material: COOKED_RABBIT
+        quantity: 1
+        name: "Buy and sell cooked rabbit in the food shop"
+      buyPrice: 1000
+      sellPrice: -1
+      slot: 10
+      page: 2
     money2:
       type: special
       special: BALANCE
@@ -333,6 +405,28 @@ permissions:
       buyPrice: 1000
       sellPrice: -1
       slot: 7
+      page: 3
+    cactus:
+      type: permission
+      permission: "shopguiplus.item.farming.cactus"
+      item:
+        material: CACTUS
+        quantity: 1
+        name: "Buy and sell cacti in the farming shop"
+      buyPrice: 1000
+      sellPrice: -1
+      slot: 8
+      page: 3
+    bamboo:
+      type: permission
+      permission: "shopguiplus.item.farming.bamboo"
+      item:
+        material: BAMBOO
+        quantity: 1
+        name: "Buy and sell bamboo in the farming shop"
+      buyPrice: 1000
+      sellPrice: -1
+      slot: 9
       page: 3
     money3:
       type: special
@@ -524,6 +618,39 @@ permissions:
       sellPrice: -1
       slot: 9
       page: 5
+    phantom_membrane:
+      type: permission
+      permission: "shopguiplus.item.drops.phantom_membrane"
+      item:
+        material: PHANTOM_MEMBRANE
+        quantity: 1
+        name: "Buy and sell phantom membranes in the mob drops shop"
+      buyPrice: 1000
+      sellPrice: -1
+      slot: 10
+      page: 5
+    blaze_rod:
+      type: permission
+      permission: "shopguiplus.item.drops.blaze_rod"
+      item:
+        material: BLAZE_ROD
+        quantity: 1
+        name: "Buy and sell blaze rods in the mob drops shop"
+      buyPrice: 1000
+      sellPrice: -1
+      slot: 11
+      page: 5
+    ender_pearl:
+      type: permission
+      permission: "shopguiplus.item.drops.ender_pearl"
+      item:
+        material: ENDER_PEARL
+        quantity: 1
+        name: "Buy and sell ender pearls in the mob drops shop"
+      buyPrice: 1000
+      sellPrice: -1
+      slot: 12
+      page: 5
     money4:
       type: special
       special: BALANCE
@@ -668,7 +795,7 @@ permissions:
       page: 6
 
     # armor
-    600:
+    leather_armor:
       type: permission
       permissions:
         - "shopguiplus.item.armor.leather_helmet"
@@ -683,7 +810,7 @@ permissions:
       sellPrice: -1
       slot: 0
       page: 7
-    6010:
+    iron_armor_buy:
       type: permission
       permissions:
         - "shopguiplus.item.armor.iron_helmet_buy"
@@ -698,7 +825,7 @@ permissions:
       sellPrice: -1
       slot: 1
       page: 7
-    6011:
+    iron_armor_sell:
       type: command
       item:
         material: IRON_CHESTPLATE
@@ -714,7 +841,7 @@ permissions:
       buyPrice: 1000
       slot: 10
       page: 7
-    6012:
+    golden_armor_buy:
       type: permission
       permissions:
         - "shopguiplus.item.armor.golden_helmet_buy"
@@ -729,7 +856,7 @@ permissions:
       sellPrice: -1
       slot: 2
       page: 7
-    6013:
+    golden_armor_sell:
       type: command
       item:
         material: GOLDEN_CHESTPLATE
@@ -744,6 +871,21 @@ permissions:
         - "lp user %PLAYER% permission settemp shopguiplus.item.armor.golden_boots_sell true 1d"
       buyPrice: 1000
       slot: 11
+      page: 7
+    diamond_armor_buy:
+      type: permission
+      permissions:
+        - "shopguiplus.item.armor.diamond_helmet_buy"
+        - "shopguiplus.item.armor.diamond_chestplate_buy"
+        - "shopguiplus.item.armor.diamond_leggings_buy"
+        - "shopguiplus.item.armor.diamond_boots_buy"
+      item:
+        material: DIAMOND_CHESTPLATE
+        quantity: 1
+        name: "Buy diamond armor in the armor shop"
+      buyPrice: 1000
+      sellPrice: -1
+      slot: 3
       page: 7
     money6:
       type: special
@@ -976,6 +1118,17 @@ permissions:
         material: SADDLE
         quantity: 1
         name: "Buy and sell saddles in the utilities shop"
+      buyPrice: 1000
+      sellPrice: -1
+      slot: 2
+      page: 9
+    bucket:
+      type: permission
+      permission: "shopguiplus.item.utilities.bucket"
+      item:
+        material: BUCKET
+        quantity: 1
+        name: "Buy and sell buckets in the utilities shop"
       buyPrice: 1000
       sellPrice: -1
       slot: 2

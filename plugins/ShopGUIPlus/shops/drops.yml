@@ -109,6 +109,30 @@ drops:
       buyPrice: 80
       sellPrice: 24
       slot: 9
+    phantom_membrane:
+      type: item
+      item:
+        material: PHANTOM_MEMBRANE
+        quantity: 4
+      buyPrice: 160
+      sellPrice: 48
+      slot: 10
+    blaze_rod:
+      type: item
+      item:
+        material: BLAZE_ROD
+        quantity: 1
+      buyPrice: 100
+      sellPrice: 30
+      slot: 11
+    ender_pearl:
+      type: item
+      item:
+        material: ENDER_PEARL
+        quantity: 1
+      buyPrice: 80
+      sellPrice: 24
+      slot: 12
     # 6:
     #   type: item
     #   item:

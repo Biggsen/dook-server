@@ -89,6 +89,14 @@ blocks:
       buyPrice: 96
       sellPrice: 29
       slot: 7
+    clay:
+      type: item
+      item:
+        material: CLAY
+        quantity: 4
+      buyPrice: 144
+      sellPrice: 43
+      slot: 8
     sand:
       type: item
       item:
@@ -119,6 +127,38 @@ blocks:
       buyPrice: 112
       sellPrice: 34
       slot: 11
+    smooth_stone:
+      type: item
+      item:
+        material: SMOOTH_STONE
+        quantity: 16
+      buyPrice: 192
+      sellPrice: 58
+      slot: 12
+    polished_granite:
+      type: item
+      item:
+        material: POLISHED_GRANITE
+        quantity: 16
+      buyPrice: 128
+      sellPrice: 38
+      slot: 13
+    polished_diorite:
+      type: item
+      item:
+        material: POLISHED_DIORITE
+        quantity: 16
+      buyPrice: 128
+      sellPrice: 38
+      slot: 14
+    polished_andesite:
+      type: item
+      item:
+        material: POLISHED_ANDESITE
+        quantity: 16
+      buyPrice: 128
+      sellPrice: 38
+      slot: 15
     # 5:
     #   type: item
     #   item:

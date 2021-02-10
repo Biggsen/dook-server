@@ -72,6 +72,46 @@ claimblocks:
         - "adjustbonusclaimblocks %PLAYER% 500"
       buyPrice: 32500
       slot: 5
+    7:
+      type: command
+      item:
+        material: GRASS_BLOCK
+        quantity: 1
+        name: "750 claimblocks"
+      commands:
+        - "adjustbonusclaimblocks %PLAYER% 750"
+      buyPrice: 45000
+      slot: 6
+    8:
+      type: command
+      item:
+        material: GRASS_BLOCK
+        quantity: 1
+        name: "1000 claimblocks"
+      commands:
+        - "adjustbonusclaimblocks %PLAYER% 1000"
+      buyPrice: 60000
+      slot: 7
+    9:
+      type: command
+      item:
+        material: GRASS_BLOCK
+        quantity: 1
+        name: "1500 claimblocks"
+      commands:
+        - "adjustbonusclaimblocks %PLAYER% 1500"
+      buyPrice: 82500
+      slot: 8
+    10:
+      type: command
+      item:
+        material: GRASS_BLOCK
+        quantity: 1
+        name: "2000 claimblocks"
+      commands:
+        - "adjustbonusclaimblocks %PLAYER% 2000"
+      buyPrice: 100000
+      slot: 9
     money:
       type: special
       special: BALANCE

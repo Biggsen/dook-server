@@ -33,6 +33,14 @@ utilities:
       buyPrice: 320
       sellPrice: 96
       slot: 2
+    bucket:
+      type: item
+      item:
+        material: BUCKET
+        quantity: 1
+      buyPrice: 300
+      sellPrice: 30
+      slot: 3
     money:
       type: special
       special: BALANCE
