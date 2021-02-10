@@ -1131,7 +1131,7 @@ permissions:
         name: "Buy and sell buckets in the utilities shop"
       buyPrice: 1000
       sellPrice: -1
-      slot: 2
+      slot: 3
       page: 9
     money8:
       type: special

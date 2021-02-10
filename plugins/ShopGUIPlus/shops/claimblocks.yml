@@ -1,5 +1,5 @@
 claimblocks:
-  name: "&9&lClaimblocks"
+  name: "&9&lClaim blocks"
   size: 45
   fillItem:
     material: BLACK_STAINED_GLASS_PANE
@@ -17,7 +17,7 @@ claimblocks:
       item:
         material: GRASS_BLOCK
         quantity: 1
-        name: "50 claimblocks"
+        name: "50 claim blocks"
       commands:
         - "adjustbonusclaimblocks %PLAYER% 50"
       buyPrice: 4000
@@ -27,7 +27,7 @@ claimblocks:
       item:
         material: GRASS_BLOCK
         quantity: 1
-        name: "100 claimblocks"
+        name: "100 claim blocks"
       commands:
         - "adjustbonusclaimblocks %PLAYER% 100"
       buyPrice: 8000
@@ -37,7 +37,7 @@ claimblocks:
       item:
         material: GRASS_BLOCK
         quantity: 1
-        name: "200 claimblocks"
+        name: "200 claim blocks"
       commands:
         - "adjustbonusclaimblocks %PLAYER% 200"
       buyPrice: 15000
@@ -47,7 +47,7 @@ claimblocks:
       item:
         material: GRASS_BLOCK
         quantity: 1
-        name: "300 claimblocks"
+        name: "300 claim blocks"
       commands:
         - "adjustbonusclaimblocks %PLAYER% 300"
       buyPrice: 22500
@@ -57,7 +57,7 @@ claimblocks:
       item:
         material: GRASS_BLOCK
         quantity: 1
-        name: "400 claimblocks"
+        name: "400 claim blocks"
       commands:
         - "adjustbonusclaimblocks %PLAYER% 400"
       buyPrice: 28000
@@ -67,7 +67,7 @@ claimblocks:
       item:
         material: GRASS_BLOCK
         quantity: 1
-        name: "500 claimblocks"
+        name: "500 claim blocks"
       commands:
         - "adjustbonusclaimblocks %PLAYER% 500"
       buyPrice: 32500
@@ -77,7 +77,7 @@ claimblocks:
       item:
         material: GRASS_BLOCK
         quantity: 1
-        name: "750 claimblocks"
+        name: "750 claim blocks"
       commands:
         - "adjustbonusclaimblocks %PLAYER% 750"
       buyPrice: 45000
@@ -87,7 +87,7 @@ claimblocks:
       item:
         material: GRASS_BLOCK
         quantity: 1
-        name: "1000 claimblocks"
+        name: "1000 claim blocks"
       commands:
         - "adjustbonusclaimblocks %PLAYER% 1000"
       buyPrice: 60000
@@ -97,7 +97,7 @@ claimblocks:
       item:
         material: GRASS_BLOCK
         quantity: 1
-        name: "1500 claimblocks"
+        name: "1500 claim blocks"
       commands:
         - "adjustbonusclaimblocks %PLAYER% 1500"
       buyPrice: 82500
@@ -107,7 +107,7 @@ claimblocks:
       item:
         material: GRASS_BLOCK
         quantity: 1
-        name: "2000 claimblocks"
+        name: "2000 claim blocks"
       commands:
         - "adjustbonusclaimblocks %PLAYER% 2000"
       buyPrice: 100000
