@@ -1,0 +1,148 @@
+# For non-English characters, this file MUST stay encoded in UTF-8
+quests:
+  custom1:
+    name: Name of quest
+    ask-message: What's the quest about?
+    finish-message: Congrats you completed the quest. 
+    # If NPC gives quest
+    npc-giver-id: 1
+    # If quest is offered via GUI
+    gui-display:
+      ==: org.bukkit.inventory.ItemStack
+      v: 2586
+      type: material for UI
+    # Quest requirements
+    requirements:
+      quest-points: 1
+      # Use a permission if you want only 1 player to do it at a time
+      permissions:
+      - quests.dook.quest_name.open
+      fail-requirement-message:
+      - You need 1 quest point to be able to take this quest. You can check how many
+        quest points you have by doing /quests stats. If you've got enough quest points,
+        then someone else might be doing this quest. Come back later!
+    stages:
+      ordered:
+        # ==== BLOCKS ====
+
+        # Place block(s) stage
+        'x':
+          place-block-names:
+          - MATERIAL
+          place-block-amounts:
+          - qty
+          place-block-durability:
+          - 0
+
+        # Break block(s) stage
+        'x':
+          break-block-names:
+          - MATERIAL
+          break-block-amounts:
+          - qty
+          break-block-durability:
+          - 0
+
+        # Damage block(s) stage (not sure how to use this)
+
+        # Use block(s) stage (haven't tried this one. Seems to be with right click on blocks)
+
+
+        # ==== ITEMS ====
+
+        #1. Craft items
+        #2. Smelt items
+        #3. Enchant items
+        #4. Brew potions
+        #5. Consume items
+
+
+        # ==== NPCs ====
+
+        # Talk to NPC stage
+        'x':
+          npc-ids-to-talk-to:
+          - 0
+
+        # Item(s) to deliver to NPC stage
+        'x':
+          items-to-deliver:
+          - ==: org.bukkit.inventory.ItemStack
+            v: 2586
+            type: MATERIAL
+            amount: qty
+          npc-delivery-ids:
+          - 2
+          delivery-messages:
+          - not sure what this does
+
+        # Kill NPC (never used this one)
+
+
+        # ==== MOBS ====
+
+        #1. Kill mobs
+        #2. Tame mobs
+        #3. Catch fish
+        #4. Milk cows
+        #5. Shear sheep
+
+
+        # ==== REACH LOCATIONS ====
+
+        # Location stage
+        'x':
+          locations-to-reach:
+          - world X.X Y.Y Z.Z
+          reach-location-radii:
+          - radius
+          reach-location-names:
+          - name
+
+
+        # ==== PASSWORD ====
+
+        # Password stage. This needs to be typed in the global chat.
+        # Not very useful.
+        'x':
+          password-displays:
+          - question
+          password-phrases:
+          - answer
+
+        # -- Options
+        # Messages
+          start-message: on start
+          complete-message: on completion
+
+
+        # ==== Actions ====
+          #1. Start action - This gets run when stage starts
+          start-event: action_name
+
+          #2. Finish action - This gets run when stage is completed
+          finish-event: action_name
+
+          #3. Fail action - This gets run when stage fails
+          #4. Death action - This gets run when player dies
+          #5. Disconnect action - This gets run when player disconnects
+          #6. Chat action - Activate if chat message sent during stage (??)
+          #7. Command action - This runs if a certain command is run during stage
+
+        # ==== Conditions ====
+          # A condition the stage must have
+          condition: condition_name
+    rewards:
+      money: 5000
+      quest-points: 1
+      exp: 100
+    planner:
+      override: false
+    options:
+      allow-commands: true
+      allow-quitting: true
+      ignore-silk-touch: true
+      use-dungeonsxl-plugin: false
+      use-parties-plugin: true
+      share-progress-level: 1
+      require-same-quest: true

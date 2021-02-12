@@ -1,0 +1,62 @@
+actions:
+    # == PLAYER ==
+
+    # Set Message
+    message: "<blue>You received potion effects!"
+
+    # Clear player inventory
+
+    # Give items
+    items:
+      - name-fishing_rod:amount-1
+
+    # Give potion effects
+    potion-effect-types:
+      - Speed
+      - Jump
+    potion-effect-durations:
+      - 100
+      - 25
+    potion-effect-amplifiers:
+      - 3
+      - 2
+
+    # Set player hunger level
+
+    # Set player saturation level
+
+    # Set player health level
+
+    # Set player teleport location
+    
+    # Set commands to execute
+    commands:
+    - help
+    - qa takepoints <player> 1
+    - lp group default permission unset quests.dook.quest_name.open
+    - lp user <player> permission set quests.dook.quest_name.open
+    - rg addmember -w world quest_area <player>
+    - rg removemember -w world quest_area <player>
+    - lp user <player> permission set quests.dook.quest_name.done
+    - lp user <player> permission unset quests.dook.quest_name.open
+    - eco give <player> 50000
+
+
+    # == TIMER ==
+    timer: 40
+    cancel-timer: true
+
+
+    # == EFFECT ==
+
+
+    # == WEATHER ==
+
+
+    # == SET MOB SPAWNS ==
+
+
+    # == FAIL THE QUEST ==
+    fail-quest: true
+
+

@@ -1,0 +1,29 @@
+conditions:
+  name_of_condition:
+
+  # == ENTITY ==
+
+  # Ride entity
+    ride-entity:
+    - Entity
+
+  # == PLAYER ==
+  # Own permission
+  # Hold in main hand
+
+
+  # == WORLD ==
+  # Stay within world
+  # Stay within biome
+  # Stay within region
+    stay-within-region:
+    - region_id
+
+
+  # == PLACEHOLDERAPI ==
+  # Set placeholder identifiers
+  # Set placeholder values
+
+
+  # == FAIL THE QUEST ==
+    fail-quest: true
