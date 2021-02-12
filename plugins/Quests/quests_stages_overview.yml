@@ -23,7 +23,9 @@ quests:
         then someone else might be doing this quest. Come back later!
     stages:
       ordered:
+        # ================
         # ==== BLOCKS ====
+        # ================
 
         # Place block(s) stage
         'x':
@@ -48,7 +50,9 @@ quests:
         # Use block(s) stage (haven't tried this one. Seems to be with right click on blocks)
 
 
+        # ===============
         # ==== ITEMS ====
+        # ===============
 
         #1. Craft items
         #2. Smelt items
@@ -57,7 +61,9 @@ quests:
         #5. Consume items
 
 
+        # ==============
         # ==== NPCs ====
+        # ==============
 
         # Talk to NPC stage
         'x':
@@ -79,7 +85,9 @@ quests:
         # Kill NPC (never used this one)
 
 
+        # ==============
         # ==== MOBS ====
+        # ==============
 
         #1. Kill mobs
         #2. Tame mobs
@@ -88,7 +96,9 @@ quests:
         #5. Shear sheep
 
 
+        # =========================
         # ==== REACH LOCATIONS ====
+        # =========================
 
         # Location stage
         'x':
@@ -100,7 +110,9 @@ quests:
           - name
 
 
+        # ==================
         # ==== PASSWORD ====
+        # ==================
 
         # Password stage. This needs to be typed in the global chat.
         # Not very useful.
@@ -110,13 +122,11 @@ quests:
           password-phrases:
           - answer
 
-        # -- Options
-        # Messages
-          start-message: on start
-          complete-message: on completion
 
+        # =================
+        # ==== ACTIONS ====
+        # =================
 
-        # ==== Actions ====
           #1. Start action - This gets run when stage starts
           start-event: action_name
 
@@ -129,9 +139,35 @@ quests:
           #6. Chat action - Activate if chat message sent during stage (??)
           #7. Command action - This runs if a certain command is run during stage
 
-        # ==== Conditions ====
+
+        # ====================
+        # ==== CONDITIONS ====
+        # ====================
+
           # A condition the stage must have
           condition: condition_name
+
+
+        # ===============
+        # ==== DELAY ====
+        # ===============
+
+
+        # =======================
+        # ==== DELAY MESSAGE ====
+        # =======================
+
+
+        # =======================
+        # ==== START MESSAGE ====
+        # =======================
+          start-message: on start
+
+
+        # ==========================
+        # ==== COMPLETE MESSAGE ====
+        # ==========================
+          complete-message: on completion
     rewards:
       money: 5000
       quest-points: 1
