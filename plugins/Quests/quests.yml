@@ -531,3 +531,830 @@ quests:
       use-parties-plugin: true
       share-progress-level: 1
       require-same-quest: true
+  talisman_creeper:
+    name: Creeper Talisman Recipe
+    ask-message: I will teach you my creeper talisman recipe for a troll dust. The talisman lets you deal 10% more damage to creepers.
+    finish-message: '"The recipe is 8 gunpowder and 1 eye of ender. Put the eye in the
+      middle."'
+    npc-giver-id: 6
+    gui-display:
+      ==: org.bukkit.inventory.ItemStack
+      v: 2586
+      type: BOOK
+    stages:
+      ordered:
+        '1':
+          items-to-deliver:
+          - ==: org.bukkit.inventory.ItemStack
+            v: 2586
+            type: GUNPOWDER
+            meta:
+              ==: ItemMeta
+              meta-type: UNSPECIFIC
+              display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"white","text":"Troll
+                Dust"}],"text":""}'
+              enchants:
+                PROTECTION_FALL: 6
+              attribute-modifiers:
+                GENERIC_MAX_HEALTH:
+                - ==: org.bukkit.attribute.AttributeModifier
+                  amount: 0.0
+                  name: EI-ID:trolldust
+                  uuid: 8c432f6e-0cac-4c09-afeb-90955ee4c988
+                  operation: 0
+              ItemFlags:
+              - HIDE_ENCHANTS
+              - HIDE_ATTRIBUTES
+          npc-delivery-ids:
+          - 6
+          delivery-messages:
+          - Thanks
+          start-message: '"Get me the troll dust within 5 minutes. No worries if you do not make it in time. You can always come another time."'
+          start-event: Timer5mins
+    rewards:
+      permissions:
+      - talismans.fromtable.creepertalisman
+      permission-worlds: []
+      details-override:
+      - <npc> taught you a recipe
+  talisman_skeleton:
+    name: Skeleton Talisman Recipe
+    ask-message: I will teach you my skeleton talisman recipe for a troll dust. The talisman lets you deal 10% more damage to skeletons.
+    finish-message: '"The recipe is 8 bones and 1 eye of ender. Put the eye in the
+      middle."'
+    npc-giver-id: 6
+    gui-display:
+      ==: org.bukkit.inventory.ItemStack
+      v: 2586
+      type: BOOK
+    stages:
+      ordered:
+        '1':
+          items-to-deliver:
+          - ==: org.bukkit.inventory.ItemStack
+            v: 2586
+            type: GUNPOWDER
+            meta:
+              ==: ItemMeta
+              meta-type: UNSPECIFIC
+              display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"white","text":"Troll
+                Dust"}],"text":""}'
+              enchants:
+                PROTECTION_FALL: 6
+              attribute-modifiers:
+                GENERIC_MAX_HEALTH:
+                - ==: org.bukkit.attribute.AttributeModifier
+                  amount: 0.0
+                  name: EI-ID:trolldust
+                  uuid: 8c432f6e-0cac-4c09-afeb-90955ee4c988
+                  operation: 0
+              ItemFlags:
+              - HIDE_ENCHANTS
+              - HIDE_ATTRIBUTES
+          npc-delivery-ids:
+          - 6
+          delivery-messages:
+          - Thanks
+          start-message: '"Get me the troll dust within 5 minutes. No worries if you do not make it in time. You can always come another time."'
+          start-event: Timer5mins
+    rewards:
+      permissions:
+      - talismans.fromtable.skeletontalisman
+      permission-worlds: []
+      details-override:
+      - Armina taught you a recipe
+    planner:
+      override: false
+    options:
+      allow-commands: true
+      allow-quitting: true
+      ignore-silk-touch: true
+      use-dungeonsxl-plugin: false
+      use-parties-plugin: true
+      share-progress-level: 1
+      require-same-quest: true
+  talisman_raid:
+    name: Raid Talisman Recipe
+    ask-message: I will teach you my raid talisman recipe for a troll dust. The talisman lets you deal 10% more damage to illagers.
+    finish-message: '"The recipe is 8 bells and 1 eye of ender. Put the eye in the
+      middle."'
+    npc-giver-id: 6
+    gui-display:
+      ==: org.bukkit.inventory.ItemStack
+      v: 2586
+      type: BOOK
+    stages:
+      ordered:
+        '1':
+          items-to-deliver:
+          - ==: org.bukkit.inventory.ItemStack
+            v: 2586
+            type: GUNPOWDER
+            meta:
+              ==: ItemMeta
+              meta-type: UNSPECIFIC
+              display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"white","text":"Troll
+                Dust"}],"text":""}'
+              enchants:
+                PROTECTION_FALL: 6
+              attribute-modifiers:
+                GENERIC_MAX_HEALTH:
+                - ==: org.bukkit.attribute.AttributeModifier
+                  amount: 0.0
+                  name: EI-ID:trolldust
+                  uuid: 8c432f6e-0cac-4c09-afeb-90955ee4c988
+                  operation: 0
+              ItemFlags:
+              - HIDE_ENCHANTS
+              - HIDE_ATTRIBUTES
+          npc-delivery-ids:
+          - 6
+          delivery-messages:
+          - Thanks
+          start-message: '"Get me the troll dust within 5 minutes. No worries if you do not make it in time. You can always come another time."'
+          start-event: Timer5mins
+    rewards:
+      permissions:
+      - talismans.fromtable.raidtalisman
+      permission-worlds: []
+      details-override:
+      - Armina taught you a recipe
+    planner:
+      override: false
+    options:
+      allow-commands: true
+      allow-quitting: true
+      ignore-silk-touch: true
+      use-dungeonsxl-plugin: false
+      use-parties-plugin: true
+      share-progress-level: 1
+      require-same-quest: true
+  talisman_end:
+    name: End Talisman Recipe
+    ask-message: I will teach you my end talisman recipe for a troll dust. The talisman lets you deal 10% more damage in the end.
+    finish-message: '"The recipe is 8 shulker shells and 1 eye of ender. Put the eye in the
+      middle."'
+    npc-giver-id: 10
+    gui-display:
+      ==: org.bukkit.inventory.ItemStack
+      v: 2586
+      type: BOOK
+    stages:
+      ordered:
+        '1':
+          items-to-deliver:
+          - ==: org.bukkit.inventory.ItemStack
+            v: 2586
+            type: GUNPOWDER
+            meta:
+              ==: ItemMeta
+              meta-type: UNSPECIFIC
+              display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"white","text":"Troll
+                Dust"}],"text":""}'
+              enchants:
+                PROTECTION_FALL: 6
+              attribute-modifiers:
+                GENERIC_MAX_HEALTH:
+                - ==: org.bukkit.attribute.AttributeModifier
+                  amount: 0.0
+                  name: EI-ID:trolldust
+                  uuid: 8c432f6e-0cac-4c09-afeb-90955ee4c988
+                  operation: 0
+              ItemFlags:
+              - HIDE_ENCHANTS
+              - HIDE_ATTRIBUTES
+          npc-delivery-ids:
+          - 6
+          delivery-messages:
+          - Thanks
+          start-message: '"Get me the troll dust within 5 minutes. No worries if you do not make it in time. You can always come another time."'
+          start-event: Timer5mins
+    rewards:
+      permissions:
+      - talismans.fromtable.endtalisman
+      permission-worlds: []
+      details-override:
+      - Silvaria taught you a recipe
+    planner:
+      override: false
+    options:
+      allow-commands: true
+      allow-quitting: true
+      ignore-silk-touch: true
+      use-dungeonsxl-plugin: false
+      use-parties-plugin: true
+      share-progress-level: 1
+      require-same-quest: true
+  talisman_immunity:
+    name: Immunity Talisman Recipe
+    ask-message: I will teach you my immunity talisman recipe for a troll dust. The talisman gives you immunity to poison damage.
+    finish-message: '"The recipe is 8 poisonous potatos and 1 eye of ender. Put the eye in the
+      middle."'
+    npc-giver-id: 10
+    gui-display:
+      ==: org.bukkit.inventory.ItemStack
+      v: 2586
+      type: BOOK
+    stages:
+      ordered:
+        '1':
+          items-to-deliver:
+          - ==: org.bukkit.inventory.ItemStack
+            v: 2586
+            type: GUNPOWDER
+            meta:
+              ==: ItemMeta
+              meta-type: UNSPECIFIC
+              display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"white","text":"Troll
+                Dust"}],"text":""}'
+              enchants:
+                PROTECTION_FALL: 6
+              attribute-modifiers:
+                GENERIC_MAX_HEALTH:
+                - ==: org.bukkit.attribute.AttributeModifier
+                  amount: 0.0
+                  name: EI-ID:trolldust
+                  uuid: 8c432f6e-0cac-4c09-afeb-90955ee4c988
+                  operation: 0
+              ItemFlags:
+              - HIDE_ENCHANTS
+              - HIDE_ATTRIBUTES
+          npc-delivery-ids:
+          - 6
+          delivery-messages:
+          - Thanks
+          start-message: '"Get me the troll dust within 5 minutes. No worries if you do not make it in time. You can always come another time."'
+          start-event: Timer5mins
+    rewards:
+      permissions:
+      - talismans.fromtable.immunitytalisman
+      permission-worlds: []
+      details-override:
+      - Silvaria taught you a recipe
+    planner:
+      override: false
+    options:
+      allow-commands: true
+      allow-quitting: true
+      ignore-silk-touch: true
+      use-dungeonsxl-plugin: false
+      use-parties-plugin: true
+      share-progress-level: 1
+      require-same-quest: true
+  talisman_healing:
+    name: Healing Talisman Recipe
+    ask-message: I will teach you my healing talisman recipe for a troll dust. The talisman lets you heal 10% faster.
+    finish-message: '"The recipe is 8 glistering melon slice and 1 eye of ender. Put the eye in the
+      middle."'
+    npc-giver-id: 10
+    gui-display:
+      ==: org.bukkit.inventory.ItemStack
+      v: 2586
+      type: BOOK
+    stages:
+      ordered:
+        '1':
+          items-to-deliver:
+          - ==: org.bukkit.inventory.ItemStack
+            v: 2586
+            type: GUNPOWDER
+            meta:
+              ==: ItemMeta
+              meta-type: UNSPECIFIC
+              display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"white","text":"Troll
+                Dust"}],"text":""}'
+              enchants:
+                PROTECTION_FALL: 6
+              attribute-modifiers:
+                GENERIC_MAX_HEALTH:
+                - ==: org.bukkit.attribute.AttributeModifier
+                  amount: 0.0
+                  name: EI-ID:trolldust
+                  uuid: 8c432f6e-0cac-4c09-afeb-90955ee4c988
+                  operation: 0
+              ItemFlags:
+              - HIDE_ENCHANTS
+              - HIDE_ATTRIBUTES
+          npc-delivery-ids:
+          - 6
+          delivery-messages:
+          - Thanks
+          start-message: '"Get me the troll dust within 5 minutes. No worries if you do not make it in time. You can always come another time."'
+          start-event: Timer5mins
+    rewards:
+      permissions:
+      - talismans.fromtable.healingtalisman
+      permission-worlds: []
+      details-override:
+      - Silvaria taught you a recipe
+    planner:
+      override: false
+    options:
+      allow-commands: true
+      allow-quitting: true
+      ignore-silk-touch: true
+      use-dungeonsxl-plugin: false
+      use-parties-plugin: true
+      share-progress-level: 1
+      require-same-quest: true
+  talisman_flame:
+    name: Flame Talisman Recipe
+    ask-message: I will teach you my flame talisman recipe for a troll dust. The talisman lets you take 10% less fire damage.
+    finish-message: '"The recipe is 8 blaze rods and 1 eye of ender. Put the eye in the
+      middle."'
+    npc-giver-id: 7
+    gui-display:
+      ==: org.bukkit.inventory.ItemStack
+      v: 2586
+      type: BOOK
+    stages:
+      ordered:
+        '1':
+          items-to-deliver:
+          - ==: org.bukkit.inventory.ItemStack
+            v: 2586
+            type: GUNPOWDER
+            meta:
+              ==: ItemMeta
+              meta-type: UNSPECIFIC
+              display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"white","text":"Troll
+                Dust"}],"text":""}'
+              enchants:
+                PROTECTION_FALL: 6
+              attribute-modifiers:
+                GENERIC_MAX_HEALTH:
+                - ==: org.bukkit.attribute.AttributeModifier
+                  amount: 0.0
+                  name: EI-ID:trolldust
+                  uuid: 8c432f6e-0cac-4c09-afeb-90955ee4c988
+                  operation: 0
+              ItemFlags:
+              - HIDE_ENCHANTS
+              - HIDE_ATTRIBUTES
+          npc-delivery-ids:
+          - 6
+          delivery-messages:
+          - Thanks
+          start-message: '"Get me the troll dust within 5 minutes. No worries if you do not make it in time. You can always come another time."'
+          start-event: Timer5mins
+    rewards:
+      permissions:
+      - talismans.fromtable.flametalisman
+      permission-worlds: []
+      details-override:
+      - Maura taught you a recipe
+    planner:
+      override: false
+    options:
+      allow-commands: true
+      allow-quitting: true
+      ignore-silk-touch: true
+      use-dungeonsxl-plugin: false
+      use-parties-plugin: true
+      share-progress-level: 1
+      require-same-quest: true
+  talisman_nether:
+    name: Nether Talisman Recipe
+    ask-message: I will teach you my nether talisman recipe for a troll dust. The talisman lets you deal 10% more damage in the nether.
+    finish-message: '"The recipe is 8 netherrack and 1 eye of ender. Put the eye in the
+      middle."'
+    npc-giver-id: 7
+    gui-display:
+      ==: org.bukkit.inventory.ItemStack
+      v: 2586
+      type: BOOK
+    stages:
+      ordered:
+        '1':
+          items-to-deliver:
+          - ==: org.bukkit.inventory.ItemStack
+            v: 2586
+            type: GUNPOWDER
+            meta:
+              ==: ItemMeta
+              meta-type: UNSPECIFIC
+              display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"white","text":"Troll
+                Dust"}],"text":""}'
+              enchants:
+                PROTECTION_FALL: 6
+              attribute-modifiers:
+                GENERIC_MAX_HEALTH:
+                - ==: org.bukkit.attribute.AttributeModifier
+                  amount: 0.0
+                  name: EI-ID:trolldust
+                  uuid: 8c432f6e-0cac-4c09-afeb-90955ee4c988
+                  operation: 0
+              ItemFlags:
+              - HIDE_ENCHANTS
+              - HIDE_ATTRIBUTES
+          npc-delivery-ids:
+          - 6
+          delivery-messages:
+          - Thanks
+          start-message: '"Get me the troll dust within 5 minutes. No worries if you do not make it in time. You can always come another time."'
+          start-event: Timer5mins
+    rewards:
+      permissions:
+      - talismans.fromtable.nethertalisman
+      permission-worlds: []
+      details-override:
+      - Maura taught you a recipe
+    planner:
+      override: false
+    options:
+      allow-commands: true
+      allow-quitting: true
+      ignore-silk-touch: true
+      use-dungeonsxl-plugin: false
+      use-parties-plugin: true
+      share-progress-level: 1
+      require-same-quest: true
+  talisman_spider_resistance:
+    name: Spider Resistance Talisman Recipe
+    ask-message: I will teach you my spider resistance talisman recipe for a troll dust. The talisman lets you take 20% less damage from spiders.
+    finish-message: '"The recipe is 4 string, 4 shields and an eye of ender. Arrange it like: string, shield, string; shield, eye of ender, shield; string, shield, string."'
+    npc-giver-id: 7
+    gui-display:
+      ==: org.bukkit.inventory.ItemStack
+      v: 2586
+      type: BOOK
+    stages:
+      ordered:
+        '1':
+          items-to-deliver:
+          - ==: org.bukkit.inventory.ItemStack
+            v: 2586
+            type: GUNPOWDER
+            meta:
+              ==: ItemMeta
+              meta-type: UNSPECIFIC
+              display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"white","text":"Troll
+                Dust"}],"text":""}'
+              enchants:
+                PROTECTION_FALL: 6
+              attribute-modifiers:
+                GENERIC_MAX_HEALTH:
+                - ==: org.bukkit.attribute.AttributeModifier
+                  amount: 0.0
+                  name: EI-ID:trolldust
+                  uuid: 8c432f6e-0cac-4c09-afeb-90955ee4c988
+                  operation: 0
+              ItemFlags:
+              - HIDE_ENCHANTS
+              - HIDE_ATTRIBUTES
+          npc-delivery-ids:
+          - 6
+          delivery-messages:
+          - Thanks
+          start-message: '"Get me the troll dust within 5 minutes. No worries if you do not make it in time. You can always come another time."'
+          start-event: Timer5mins
+    rewards:
+      permissions:
+      - talismans.fromtable.spiderresistancetalisman
+      permission-worlds: []
+      details-override:
+      - Maura taught you a recipe
+    planner:
+      override: false
+    options:
+      allow-commands: true
+      allow-quitting: true
+      ignore-silk-touch: true
+      use-dungeonsxl-plugin: false
+      use-parties-plugin: true
+      share-progress-level: 1
+      require-same-quest: true
+  talisman_sharpness:
+    name: Sharpness Talisman Recipe
+    ask-message: I will teach you my sharpness talisman recipe for a troll dust. The talisman lets you deal 10% more melee damage.
+    finish-message: '"The recipe is 8 diamond swords and 1 eye of ender. Put the eye in the
+      middle."'
+    npc-giver-id: 8
+    gui-display:
+      ==: org.bukkit.inventory.ItemStack
+      v: 2586
+      type: BOOK
+    stages:
+      ordered:
+        '1':
+          items-to-deliver:
+          - ==: org.bukkit.inventory.ItemStack
+            v: 2586
+            type: GUNPOWDER
+            meta:
+              ==: ItemMeta
+              meta-type: UNSPECIFIC
+              display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"white","text":"Troll
+                Dust"}],"text":""}'
+              enchants:
+                PROTECTION_FALL: 6
+              attribute-modifiers:
+                GENERIC_MAX_HEALTH:
+                - ==: org.bukkit.attribute.AttributeModifier
+                  amount: 0.0
+                  name: EI-ID:trolldust
+                  uuid: 8c432f6e-0cac-4c09-afeb-90955ee4c988
+                  operation: 0
+              ItemFlags:
+              - HIDE_ENCHANTS
+              - HIDE_ATTRIBUTES
+          npc-delivery-ids:
+          - 6
+          delivery-messages:
+          - Thanks
+          start-message: '"Get me the troll dust within 5 minutes. No worries if you do not make it in time. You can always come another time."'
+          start-event: Timer5mins
+    rewards:
+      permissions:
+      - talismans.fromtable.sharpnesstalisman
+      permission-worlds: []
+      details-override:
+      - Malise taught you a recipe
+    planner:
+      override: false
+    options:
+      allow-commands: true
+      allow-quitting: true
+      ignore-silk-touch: true
+      use-dungeonsxl-plugin: false
+      use-parties-plugin: true
+      share-progress-level: 1
+      require-same-quest: true
+  talisman_alchemy:
+    name: Alchemy Talisman Recipe
+    ask-message: I will teach you my alchemy talisman recipe for a troll dust. The talisman gives you 5% chance to double the strength of applied potion effects.
+    finish-message: '"The recipe is 8 nether wart and 1 eye of ender. Put the eye in the
+      middle."'
+    npc-giver-id: 8
+    gui-display:
+      ==: org.bukkit.inventory.ItemStack
+      v: 2586
+      type: BOOK
+    stages:
+      ordered:
+        '1':
+          items-to-deliver:
+          - ==: org.bukkit.inventory.ItemStack
+            v: 2586
+            type: GUNPOWDER
+            meta:
+              ==: ItemMeta
+              meta-type: UNSPECIFIC
+              display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"white","text":"Troll
+                Dust"}],"text":""}'
+              enchants:
+                PROTECTION_FALL: 6
+              attribute-modifiers:
+                GENERIC_MAX_HEALTH:
+                - ==: org.bukkit.attribute.AttributeModifier
+                  amount: 0.0
+                  name: EI-ID:trolldust
+                  uuid: 8c432f6e-0cac-4c09-afeb-90955ee4c988
+                  operation: 0
+              ItemFlags:
+              - HIDE_ENCHANTS
+              - HIDE_ATTRIBUTES
+          npc-delivery-ids:
+          - 6
+          delivery-messages:
+          - Thanks
+          start-message: '"Get me the troll dust within 5 minutes. No worries if you do not make it in time. You can always come another time."'
+          start-event: Timer5mins
+    rewards:
+      permissions:
+      - talismans.fromtable.alchemytalisman
+      permission-worlds: []
+      details-override:
+      - Malise taught you a recipe
+    planner:
+      override: false
+    options:
+      allow-commands: true
+      allow-quitting: true
+      ignore-silk-touch: true
+      use-dungeonsxl-plugin: false
+      use-parties-plugin: true
+      share-progress-level: 1
+      require-same-quest: true
+  talisman_speed:
+    name: Speed Talisman Recipe
+    ask-message: I will teach you my speed talisman recipe for a troll dust. The talisman lets you move 5% faster.
+    finish-message: '"The recipe is 8 sugar and 1 eye of ender. Put the eye in the
+      middle."'
+    npc-giver-id: 8
+    gui-display:
+      ==: org.bukkit.inventory.ItemStack
+      v: 2586
+      type: BOOK
+    stages:
+      ordered:
+        '1':
+          items-to-deliver:
+          - ==: org.bukkit.inventory.ItemStack
+            v: 2586
+            type: GUNPOWDER
+            meta:
+              ==: ItemMeta
+              meta-type: UNSPECIFIC
+              display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"white","text":"Troll
+                Dust"}],"text":""}'
+              enchants:
+                PROTECTION_FALL: 6
+              attribute-modifiers:
+                GENERIC_MAX_HEALTH:
+                - ==: org.bukkit.attribute.AttributeModifier
+                  amount: 0.0
+                  name: EI-ID:trolldust
+                  uuid: 8c432f6e-0cac-4c09-afeb-90955ee4c988
+                  operation: 0
+              ItemFlags:
+              - HIDE_ENCHANTS
+              - HIDE_ATTRIBUTES
+          npc-delivery-ids:
+          - 6
+          delivery-messages:
+          - Thanks
+          start-message: '"Get me the troll dust within 5 minutes. No worries if you do not make it in time. You can always come another time."'
+          start-event: Timer5mins
+    rewards:
+      permissions:
+      - talismans.fromtable.speedtalisman
+      permission-worlds: []
+      details-override:
+      - Malise taught you a recipe
+    planner:
+      override: false
+    options:
+      allow-commands: true
+      allow-quitting: true
+      ignore-silk-touch: true
+      use-dungeonsxl-plugin: false
+      use-parties-plugin: true
+      share-progress-level: 1
+      require-same-quest: true
+  talisman_zombie_resistance:
+    name: Zombie Resistance Talisman Recipe
+    ask-message: I will teach you my zombie resistance talisman recipe for a troll dust. The talisman lets you take 20% less damage from zombies.
+    finish-message: '"The recipe is 4 rotten flesh, 4 shields and an eye of ender. Arrange it like: rotten flesh, shield, rotten flesh; shield, eye of ender, shield; rotten flesh, shield, rotten flesh."'
+    npc-giver-id: 9
+    gui-display:
+      ==: org.bukkit.inventory.ItemStack
+      v: 2586
+      type: BOOK
+    stages:
+      ordered:
+        '1':
+          items-to-deliver:
+          - ==: org.bukkit.inventory.ItemStack
+            v: 2586
+            type: GUNPOWDER
+            meta:
+              ==: ItemMeta
+              meta-type: UNSPECIFIC
+              display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"white","text":"Troll
+                Dust"}],"text":""}'
+              enchants:
+                PROTECTION_FALL: 6
+              attribute-modifiers:
+                GENERIC_MAX_HEALTH:
+                - ==: org.bukkit.attribute.AttributeModifier
+                  amount: 0.0
+                  name: EI-ID:trolldust
+                  uuid: 8c432f6e-0cac-4c09-afeb-90955ee4c988
+                  operation: 0
+              ItemFlags:
+              - HIDE_ENCHANTS
+              - HIDE_ATTRIBUTES
+          npc-delivery-ids:
+          - 6
+          delivery-messages:
+          - Thanks
+          start-message: '"Get me the troll dust within 5 minutes. No worries if you do not make it in time. You can always come another time."'
+          start-event: Timer5mins
+    rewards:
+      permissions:
+      - talismans.fromtable.zombieresistancetalisman
+      permission-worlds: []
+      details-override:
+      - Haezel taught you a recipe
+    planner:
+      override: false
+    options:
+      allow-commands: true
+      allow-quitting: true
+      ignore-silk-touch: true
+      use-dungeonsxl-plugin: false
+      use-parties-plugin: true
+      share-progress-level: 1
+      require-same-quest: true
+  talisman_flux:
+    name: Flux Talisman Recipe
+    ask-message: I will teach you my flux talisman recipe for a troll dust. The talisman lets nearby players deal 5% more melee damage.
+    finish-message: '"The recipe is 8 redstone blocks and 1 eye of ender. Put the eye in the
+      middle."'
+    npc-giver-id: 9
+    gui-display:
+      ==: org.bukkit.inventory.ItemStack
+      v: 2586
+      type: BOOK
+    stages:
+      ordered:
+        '1':
+          items-to-deliver:
+          - ==: org.bukkit.inventory.ItemStack
+            v: 2586
+            type: GUNPOWDER
+            meta:
+              ==: ItemMeta
+              meta-type: UNSPECIFIC
+              display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"white","text":"Troll
+                Dust"}],"text":""}'
+              enchants:
+                PROTECTION_FALL: 6
+              attribute-modifiers:
+                GENERIC_MAX_HEALTH:
+                - ==: org.bukkit.attribute.AttributeModifier
+                  amount: 0.0
+                  name: EI-ID:trolldust
+                  uuid: 8c432f6e-0cac-4c09-afeb-90955ee4c988
+                  operation: 0
+              ItemFlags:
+              - HIDE_ENCHANTS
+              - HIDE_ATTRIBUTES
+          npc-delivery-ids:
+          - 6
+          delivery-messages:
+          - Thanks
+          start-message: '"Get me the troll dust within 5 minutes. No worries if you do not make it in time. You can always come another time."'
+          start-event: Timer5mins
+    rewards:
+      permissions:
+      - talismans.fromtable.fluxtalisman
+      permission-worlds: []
+      details-override:
+      - Haezel taught you a recipe
+    planner:
+      override: false
+    options:
+      allow-commands: true
+      allow-quitting: true
+      ignore-silk-touch: true
+      use-dungeonsxl-plugin: false
+      use-parties-plugin: true
+      share-progress-level: 1
+      require-same-quest: true
+  talisman_archery:
+    name: Archery Talisman Recipe
+    ask-message: I will teach you my archery talisman recipe for a troll dust. The talisman lets you deal 10% more damage with bows and crossbows.
+    finish-message: '"The recipe is 4 bows, 4 crossbows and an eye of ender. Arrange it like: bow, crossbow, bow; crossbow, eye of ender, crossbow; bow, crossbow, bow."'
+    npc-giver-id: 9
+    gui-display:
+      ==: org.bukkit.inventory.ItemStack
+      v: 2586
+      type: BOOK
+    stages:
+      ordered:
+        '1':
+          items-to-deliver:
+          - ==: org.bukkit.inventory.ItemStack
+            v: 2586
+            type: GUNPOWDER
+            meta:
+              ==: ItemMeta
+              meta-type: UNSPECIFIC
+              display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"white","text":"Troll
+                Dust"}],"text":""}'
+              enchants:
+                PROTECTION_FALL: 6
+              attribute-modifiers:
+                GENERIC_MAX_HEALTH:
+                - ==: org.bukkit.attribute.AttributeModifier
+                  amount: 0.0
+                  name: EI-ID:trolldust
+                  uuid: 8c432f6e-0cac-4c09-afeb-90955ee4c988
+                  operation: 0
+              ItemFlags:
+              - HIDE_ENCHANTS
+              - HIDE_ATTRIBUTES
+          npc-delivery-ids:
+          - 6
+          delivery-messages:
+          - Thanks
+          start-message: '"Get me the troll dust within 5 minutes. No worries if you do not make it in time. You can always come another time."'
+          start-event: Timer5mins
+    rewards:
+      permissions:
+      - talismans.fromtable.archerytalisman
+      permission-worlds: []
+      details-override:
+      - Haezel taught you a recipe
+    planner:
+      override: false
+    options:
+      allow-commands: true
+      allow-quitting: true
+      ignore-silk-touch: true
+      use-dungeonsxl-plugin: false
+      use-parties-plugin: true
+      share-progress-level: 1
+      require-same-quest: true

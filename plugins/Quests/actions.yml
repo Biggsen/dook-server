@@ -99,3 +99,5 @@ actions:
     commands:
     - eco give <player> 50000
     - lp user <player> permission set quests.dook.portal_project.done
+  Timer5mins:
+    timer: 300
