@@ -24,7 +24,7 @@ quests:
           reach-location-names:
           - Chilvern Wayfinding Tower
           start-message: You are now in Chilvern Fields, at Spawn. Just a little bit
-            north from here is a wayfinding tower. Go check it out.
+            north from here is a wayfinding tower. Take the North Road and check it out. Quick note - during this exploration, make sure you read ALL the information CAREFULLY and follow the instructions. Don't get lost :)
           complete-message: This is Chilvern Fields Wayfinding Tower. From here you
             can see what's around us.
         '2':
@@ -35,7 +35,7 @@ quests:
           reach-location-names:
           - Templeside Village
           start-message: When you're done looking around, let's go and visit the Templeside
-            Village to the north. It's up North road.
+            Village to the north. It's further up North Road.
           complete-message: Welcome to Templeside Village.
         '3':
           npc-ids-to-talk-to:
@@ -54,8 +54,7 @@ quests:
           - 40
           reach-location-names:
           - Noryn Desert
-          start-message: Head out east, past the temple, into the middle of Noryn
-            Desert.
+          start-message: The North Road goes further north, but off the main road is a little path into the desert. Take this path into the middle of Noryn Desert.
           complete-message: You're now in the middle of Noryn Desert. Not the biggest
             of deserts, Noryn. The story has it Noryn Desert was named after a little,
             fiery witch that lived here.
@@ -66,8 +65,7 @@ quests:
           - 50
           reach-location-names:
           - Soundless Swamp
-          start-message: Let's go south from here, to the southernmost tip of the
-            desert. Cross the small plain and you'll find the Soundless Swamp.
+          start-message: Follow the path south until you reach the Soundless Swamp.
           complete-message: Ah, the Soundless Swamp. Eerily quiet most of the time
             and has a somewhat fruity smell.
         '6':
@@ -77,9 +75,7 @@ quests:
           - 60
           reach-location-names:
           - Marasor Woods
-          start-message: Marasor Woods are further south of here. Cross the swamp,
-            go past the campsite, cross the East Road and go to the other side of the river. Head west from
-            there along the riverbank.
+          start-message: Go straight south across the swamp. There should be a couple torches on the other side. Follow the path until you find a campsite. Check out the chests for some supplies, courtesy of moezes. The road by the campsite is the East Road, spawn is to the west from here. Follow the path which intersects with the road and cross the river. There should be a torch on a tree on the other side. Then follow the path along the riverbank.
           complete-message: This is the north tip of Marasor woods. You should now
             see the Spawn to the north from here. These woods are fairly large, stretching
             quite far to the south-west of here. Rumour has it a well known magician
@@ -92,10 +88,10 @@ quests:
           - 8
           reach-location-names:
           - South Road
-          start-message: Carry on westward along the river bank, keeping Spawn to
+          start-message: Carry on following the path along the riverbank, keeping Spawn to
             your right, until you find the South road.
-          complete-message: South road. This road cuts through Marasor woods and takes
-            you to Tarrin Village.
+          complete-message: This is South road. This road cuts through Marasor woods and takes
+            you to Tarrin Village. But we'll go there another day.
         '8':
           locations-to-reach:
           - world -329.0 72.0 75.0
