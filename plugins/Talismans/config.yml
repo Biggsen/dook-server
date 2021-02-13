@@ -1,0 +1,22 @@
+#
+# Talismans
+# by Auxilor
+#
+
+description:
+  # How many characters to have on each line of description.
+  wrap: 20
+
+strengths:
+  talisman:
+    color: "&e"
+  ring:
+    color: "&c"
+  relic:
+    color: "&d"
+
+crafting:
+  discover: false # If players should automatically have recipes added to their crafting table.
+
+read-enderchest: false # If a player's ender chest should be checked for talismans
+read-shulkerboxes: false # If a player's shulker boxes should be checked for talismans
