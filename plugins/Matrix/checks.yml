@@ -61,7 +61,7 @@ killaura:
     # if the player is using KillAura, and don't worry, the player can only see his own NPC
     npc:
       enable: true
-      vl_weight: 5
+      vl_weight: 7
 
       # Should the position calculation of the NPC run asynchronously, as this may consume some resources
       async: true
