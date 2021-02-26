@@ -114,7 +114,7 @@ quests:
           start-message: Keep on going into the mountains to get to the center of
             The Shield.
           complete-message: The Shield is a mountain range with many rugged mountains
-            and deep valleys. Where the West road ends, a bridge is being planned.
+            and deep valleys. The West Road leads to Krin Village.
     rewards:
       money: 5000
       quest-points: 1
@@ -371,8 +371,8 @@ quests:
             for its interest in creating, preserving and discovering maps. Our resident
             cartographer has stumbled upon an old map showing not only the location
             of the forgotten iron mine of Mt. Clarenburn, but where the entrance was!
-            It is supposedly somewhere on the north-west side, apparently close to
-            where The Shield Bridge is going to be built. Can you try and find it?
+            It is supposedly somewhere on the north-west side, apparently somewhat close to
+            The Shield Bridge. Can you try and find it?
             Back in the day the mine caved in just as they found a decent vein, so
             if you get inside, please mine a few iron ores and bring back to me as
             proof."'
