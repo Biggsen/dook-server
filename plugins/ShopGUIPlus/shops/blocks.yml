@@ -139,25 +139,25 @@ blocks:
       type: item
       item:
         material: POLISHED_GRANITE
-        quantity: 16
-      buyPrice: 128
-      sellPrice: 38
+        quantity: 32
+      buyPrice: 132
+      sellPrice: 40
       slot: 13
     polished_diorite:
       type: item
       item:
         material: POLISHED_DIORITE
-        quantity: 16
-      buyPrice: 128
-      sellPrice: 38
+        quantity: 32
+      buyPrice: 132
+      sellPrice: 40
       slot: 14
     polished_andesite:
       type: item
       item:
         material: POLISHED_ANDESITE
-        quantity: 16
-      buyPrice: 128
-      sellPrice: 38
+        quantity: 32
+      buyPrice: 132
+      sellPrice: 40
       slot: 15
     # 5:
     #   type: item
@@ -167,54 +167,6 @@ blocks:
     #   buyPrice: 50
     #   sellPrice: 5
     #   slot: 14
-    # 10:
-    #   type: item
-    #   item:
-    #     material: OAK_Log
-    #     quantity: 32
-    #   buyPrice: 100
-    #   sellPrice: 10
-    #   slot: 21
-    # 11:
-    #   type: item
-    #   item:
-    #     material: SPRUCE_LOG
-    #     quantity: 32
-    #   buyPrice: 100
-    #   sellPrice: 10
-    #   slot: 22
-    # 12:
-    #   type: item
-    #   item:
-    #     material: BIRCH_LOG
-    #     quantity: 32
-    #   buyPrice: 100
-    #   sellPrice: 10
-    #   slot: 23
-    # 13:
-    #   type: item
-    #   item:
-    #     material: JUNGLE_LOG
-    #     quantity: 32
-    #   buyPrice: 100
-    #   sellPrice: 10
-    #   slot: 24
-    # 14:
-    #   type: item
-    #   item:
-    #     material: ACACIA_LOG
-    #     quantity: 32
-    #   buyPrice: 100
-    #   sellPrice: 10
-    #   slot: 25
-    # 15:
-    #   type: item
-    #   item:
-    #     material: DARK_OAK_LOG
-    #     quantity: 32
-    #   buyPrice: 100
-    #   sellPrice: 10
-    #   slot: 28
     # 16:
     #   type: item
     #   item:
