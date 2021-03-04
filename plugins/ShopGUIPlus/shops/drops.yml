@@ -130,17 +130,9 @@ drops:
       item:
         material: ENDER_PEARL
         quantity: 1
-      buyPrice: 80
-      sellPrice: 24
+      buyPrice: 20
+      sellPrice: 6
       slot: 12
-    # 6:
-    #   type: item
-    #   item:
-    #     material: ENDER_PEARL
-    #     quantity: 4
-    #   buyPrice: 50
-    #   sellPrice: 5
-    #   slot: 15
     # 8:
     #   type: item
     #   item:
