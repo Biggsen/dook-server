@@ -724,7 +724,7 @@ quests:
               - HIDE_ENCHANTS
               - HIDE_ATTRIBUTES
           npc-delivery-ids:
-          - 6
+          - 10
           delivery-messages:
           - Thanks
           start-message: '"Get me the troll dust within 5 minutes. No worries if you do not make it in time. You can always come another time."'
@@ -780,7 +780,7 @@ quests:
               - HIDE_ENCHANTS
               - HIDE_ATTRIBUTES
           npc-delivery-ids:
-          - 6
+          - 10
           delivery-messages:
           - Thanks
           start-message: '"Get me the troll dust within 5 minutes. No worries if you do not make it in time. You can always come another time."'
@@ -836,7 +836,7 @@ quests:
               - HIDE_ENCHANTS
               - HIDE_ATTRIBUTES
           npc-delivery-ids:
-          - 6
+          - 10
           delivery-messages:
           - Thanks
           start-message: '"Get me the troll dust within 5 minutes. No worries if you do not make it in time. You can always come another time."'
@@ -892,7 +892,7 @@ quests:
               - HIDE_ENCHANTS
               - HIDE_ATTRIBUTES
           npc-delivery-ids:
-          - 6
+          - 7
           delivery-messages:
           - Thanks
           start-message: '"Get me the troll dust within 5 minutes. No worries if you do not make it in time. You can always come another time."'
@@ -948,7 +948,7 @@ quests:
               - HIDE_ENCHANTS
               - HIDE_ATTRIBUTES
           npc-delivery-ids:
-          - 6
+          - 7
           delivery-messages:
           - Thanks
           start-message: '"Get me the troll dust within 5 minutes. No worries if you do not make it in time. You can always come another time."'
@@ -1003,7 +1003,7 @@ quests:
               - HIDE_ENCHANTS
               - HIDE_ATTRIBUTES
           npc-delivery-ids:
-          - 6
+          - 7
           delivery-messages:
           - Thanks
           start-message: '"Get me the troll dust within 5 minutes. No worries if you do not make it in time. You can always come another time."'
@@ -1059,7 +1059,7 @@ quests:
               - HIDE_ENCHANTS
               - HIDE_ATTRIBUTES
           npc-delivery-ids:
-          - 6
+          - 8
           delivery-messages:
           - Thanks
           start-message: '"Get me the troll dust within 5 minutes. No worries if you do not make it in time. You can always come another time."'
@@ -1115,7 +1115,7 @@ quests:
               - HIDE_ENCHANTS
               - HIDE_ATTRIBUTES
           npc-delivery-ids:
-          - 6
+          - 8
           delivery-messages:
           - Thanks
           start-message: '"Get me the troll dust within 5 minutes. No worries if you do not make it in time. You can always come another time."'
@@ -1171,7 +1171,7 @@ quests:
               - HIDE_ENCHANTS
               - HIDE_ATTRIBUTES
           npc-delivery-ids:
-          - 6
+          - 8
           delivery-messages:
           - Thanks
           start-message: '"Get me the troll dust within 5 minutes. No worries if you do not make it in time. You can always come another time."'
@@ -1226,7 +1226,7 @@ quests:
               - HIDE_ENCHANTS
               - HIDE_ATTRIBUTES
           npc-delivery-ids:
-          - 6
+          - 9
           delivery-messages:
           - Thanks
           start-message: '"Get me the troll dust within 5 minutes. No worries if you do not make it in time. You can always come another time."'
@@ -1282,7 +1282,7 @@ quests:
               - HIDE_ENCHANTS
               - HIDE_ATTRIBUTES
           npc-delivery-ids:
-          - 6
+          - 9
           delivery-messages:
           - Thanks
           start-message: '"Get me the troll dust within 5 minutes. No worries if you do not make it in time. You can always come another time."'
@@ -1337,7 +1337,7 @@ quests:
               - HIDE_ENCHANTS
               - HIDE_ATTRIBUTES
           npc-delivery-ids:
-          - 6
+          - 9
           delivery-messages:
           - Thanks
           start-message: '"Get me the troll dust within 5 minutes. No worries if you do not make it in time. You can always come another time."'
